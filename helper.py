@@ -44,10 +44,20 @@ def get_proposed_rule_text_link(proposed_rule_id_, api_key_):
 
 def generate_comment(proposed_rule_id_,  gemini_client, regulation_api_key_, gemini_prompt='NA', sleep_seconds=0, print_prompt=False):
     proposed_rule_id = proposed_rule_id_
+    print('proposed_rule_id: ', proposed_rule_id)
     proposed_rule_url = 'https://api.regulations.gov/v4/documents/{}?api_key={}'.format(proposed_rule_id,regulation_api_key_)
-    proposed_rule_file_url = requests.get(proposed_rule_url).json()['data']['attributes']['fileFormats'][1]['fileUrl']
+    #proposed_rule_file_url = requests.get(proposed_rule_url).json()['data']['attributes']['fileFormats'][1]['fileUrl']
+    proposed_rule_files_list = requests.get(proposed_rule_url).json()['data']['attributes']['fileFormats']
+    print('proposed_rule_files_list: ',proposed_rule_files_list)
+    for rule_file in proposed_rule_files_list:
+        #print(rule_file['format'])
+        if 'htm' in rule_file['format']:
+            proposed_rule_file_url = rule_file['fileUrl']
+            proposed_rule_file_format = rule_file['format']
+            break
+    print('proposed_rule_file_url: ', proposed_rule_file_url)
     proposed_rule_file_title = requests.get(proposed_rule_url).json()['data']['attributes']['title']
-    proposed_rule_file_name = proposed_rule_file_title+'.htm'
+    proposed_rule_file_name = proposed_rule_file_title + '.' + proposed_rule_file_format 
     print(proposed_rule_file_name)
     #proposed_rule_text = BeautifulSoup(requests.get(proposed_rule_file_url).content, "html.parser").get_text()
     with open(proposed_rule_file_name, "wb") as f:
