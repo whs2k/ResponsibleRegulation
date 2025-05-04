@@ -1,0 +1,94 @@
+
+<!DOCTYPE html>
+<html lang="en" data-mdb-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataFrame Viewer</title>
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.3.2/mdb.min.css"
+      rel="stylesheet"
+    />
+    <style>
+        body {
+            padding: 20px; /* Add some padding around the content */
+        }
+        .table-container {
+            max-width: 100%;
+            overflow-x: auto; /* Add horizontal scroll for wide tables */
+        }
+        th, td {
+             white-space: normal !important; /* Ensure text wraps within cells */
+             word-wrap: break-word; /* Break long words */
+             vertical-align: top; /* Align content to the top for consistency */
+        }
+        th {
+            background-color: #343a40; /* Slightly darker header for contrast */
+            position: sticky; /* Make table header sticky */
+            top: 0; /* Stick to the top */
+            z-index: 10; /* Ensure header stays above scrolling content */
+        }
+        /* Optional: Style for the index column header */
+        thead th:first-child {
+             background-color: #454d55; /* Different background for index header */
+        }
+         /* Optional: Style for the index column cells */
+        tbody th {
+             background-color: #3e444a;
+             position: sticky; /* Make index column sticky */
+             left: 0; /* Stick to the left */
+             z-index: 5; /* Ensure index stays above row content */
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <h1 class="mb-4">Open Proposed Rules and our Generated Comment</h1>
+        <div class="table-container shadow-4 rounded-5">
+             <table class="dataframe table table-dark table-striped table-bordered table-hover align-middle" id="df_table">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>id</th>
+      <th>comment</th>
+      <th>links.self</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>EPA-R03-OAR-2025-0174-0001</td>
+      <td>Comment on Proposed Rule EPA-R03-OAR-2025-0174<br><br><br><br>(1) Introduction and Primary Argument<br><br>This comment challenges the EPA’s proposed approval of West Virginia’s regional haze State Implementation Plan (SIP) revision for the second implementation period, as presented in the Federal Register, Volume 90, Issue 74 (Friday, April 18, 2025), pages 16478-16490.  Specifically, this comment challenges the EPA’s new policy, announced on page 16483, stating, “where visibility conditions for a Class I area impacted by a State are below the URP and the State has considered the four statutory factors, the State will have presumptively demonstrated reasonable progress for the second planning period for that area.” This policy represents a significant shift from the EPA’s established interpretation of the Regional Haze Rule (RHR) and should not be the basis for approving West Virginia&#x27;s SIP revision.  While the EPA claims this policy change aligns with the statutory goal of “reasonable progress,” the proposed policy effectively eliminates the URP as a backstop against insufficient progress and undermines the long-term goal of achieving natural visibility conditions by 2064. The EPA should revert to its previous interpretation of the RHR and evaluate state SIPs based on a comprehensive assessment of reasonable progress, including consideration of the URP as a benchmark rather than a safe harbor. The EPA should replace the language on page 16483 with the following: &quot;While the EPA acknowledges that current visibility conditions being below the URP is a factor in evaluating reasonable progress, it is not solely determinative. The EPA must evaluate each SIP revision considering all provisions of the RHR, including the four statutory factors and whether existing measures will continue to provide reasonable progress throughout the implementation period.&quot;<br><br>(2) Rationale for Challenging Policy Change<br><br>The EPA’s previous interpretation of the URP, as articulated in the 2017 RHR revisions (82 FR 3078), explicitly rejected the concept of the URP as a safe harbor.  The EPA argued, persuasively, that treating the URP as a safe harbor would be “inconsistent with the statutory requirement that states assess the potential to make further reasonable progress towards [the] natural visibility goal in every implementation period” (82 FR 3099).  This interpretation aligns with the intent of the Clean Air Act to steadily improve visibility in Class I areas.  The EPA’s proposed policy reversal lacks a compelling justification and contradicts the established legal framework of the regional haze program.  By prioritizing current visibility conditions over the long-term trajectory towards natural conditions, the EPA risks perpetuating visibility impairment and hindering the achievement of the national visibility goal.  Moreover, this policy shift could disincentivize states from implementing more stringent controls, even when such controls are technologically and economically feasible.  The EPA’s own guidance documents, such as the &quot;Guidance for Setting Reasonable Progress Goals under the Regional Haze Rule&quot; (EPA-454/B-19-001, January 2019), emphasize the importance of considering future emissions growth and technological advancements when evaluating reasonable progress.  Allowing states to rely solely on current visibility conditions being below the URP ignores these crucial considerations. The arbitrary abandonment of the URP as a meaningful benchmark for progress weakens the regional haze program and jeopardizes the long-term goal of restoring natural visibility in our nation’s most cherished natural areas.  <br>&lt;a href=&quot;https://www.epa.gov/sites/default/files/2019-01/documents/guidance_for_setting_reasonable_progress_goals_under_the_regional_haze_rule.pdf&quot;&gt;https://www.epa.gov/sites/default/files/2019-01/documents/guidance_for_setting_reasonable_progress_goals_under_the_regional_haze_rule.pdf&lt;/a&gt;<br><br><br></td>
+      <td>https://api.regulations.gov/v4/documents/EPA-R03-OAR-2025-0174-0001</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>EPA-R06-OAR-2013-0465-0019</td>
+      <td>(1) Introduction and Primary Argument:<br><br>This comment addresses the proposed rule, &quot;Air Plan Approval; Louisiana; Interstate Transport Requirements for the 2010 SO2 NAAQS&quot; (FR Doc No: 2025-05927), specifically the assertion on page 15215, paragraph starting &quot;Both CAIR and CSAPR...&quot;, that CAIR and CSAPR&#x27;s focus on PM2.5 reduction renders them insufficient for demonstrating compliance with the good neighbor provision for SO2. This argument is challengeable because it overlooks the significant SO2 emission reductions achieved under these programs, which, while intended for PM2.5 abatement, also directly impact SO2 concentrations. The proposed rule should acknowledge this co-benefit and include an analysis quantifying the SO2 reductions achieved under CAIR and CSAPR.  The language should be revised to reflect that while CAIR and CSAPR primarily targeted PM2.5, the resulting SO2 reductions *should be considered* in the good neighbor analysis for the 2010 SO2 NAAQS, rather than dismissing their relevance entirely. Suggested replacement language: &quot;Both CAIR and CSAPR focused on achieving widespread reductions in PM2.5 precursor pollutants, which include SO2. While the primary goal of these programs was PM2.5 reduction, they also led to substantial decreases in SO2 emissions from power plants.  A quantitative analysis of these SO2 reductions is necessary to determine their contribution towards meeting the good neighbor provision for the 2010 SO2 NAAQS.  While these programs, due to their trading mechanisms, did not control emissions at specific plants and did not address all SO2 sources, the overall emission reductions warrant consideration within the good neighbor framework.&quot;<br><br><br><br>(2) Rationale:<br><br>Numerous studies demonstrate a strong correlation between SO2 emission reductions mandated by cap-and-trade programs like CAIR and CSAPR and improvements in ambient SO2 concentrations.  For instance, a study by Xing et al. (2013) analyzing the impact of CAIR on air quality in the eastern U.S. found significant reductions in SO2 concentrations attributable to the program. [https://www.atmos-chem-phys.net/13/10885/2013/](https://www.atmos-chem-phys.net/13/10885/2013/) Similarly, a report by the EPA (2015) documented substantial SO2 emission reductions achieved under CSAPR&#x27;s first implementation phase.  [https://www.epa.gov/sites/default/files/2015-10/documents/csapr_update_2015.pdf](https://www.epa.gov/sites/default/files/2015-10/documents/csapr_update_2015.pdf)  These findings highlight that while PM2.5 was the primary target, the resulting SO2 reductions are substantial and should not be ignored in the good neighbor analysis.  Failing to account for these reductions could lead to an incomplete and potentially inaccurate assessment of Louisiana&#x27;s compliance with the interstate transport requirements for SO2.  A thorough analysis of these reductions will provide a more robust basis for determining the effectiveness of existing controls and identifying any remaining gaps in meeting the good neighbor obligations.<br></td>
+      <td>https://api.regulations.gov/v4/documents/EPA-R06-OAR-2013-0465-0019</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>EPA-HQ-OPP-2024-0323-0006</td>
+      <td>Comment Regarding Proposed Rule: EPA-HQ-OPP-2025-0028; FRL-12474-01-OCSPP, Receipt of Pesticide Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities--January 2025<br><br><br>(1) Introduction and Primary Argument<br><br>This comment addresses the petition PP 4F9136 (EPA-HQ-OPP-2024-0323) submitted by BASF Corporation regarding the herbicide saflufenacil.  The proposed amendment to change the commodity definition from  &quot;Grain, cereal, forage, hay, stover, and straw group 16-22, forage, except corn, field, forage&quot; to &quot;Grain, cereal, forage, hay, stover, and straw group 16, forage, except corn, field, pop and sweet, forage&quot; and similar changes for hay, stover, and straw, along with the change from &quot;Vegetable, foliage of legume, group 7 (except pea, hay)&quot; to &quot;Vegetable, foliage of legume, group 7 (except pea, hay, soybean, forage, and soybean, hay)&quot; should be clarified. The petition states these changes are “unchanged at 0.1 parts per million (ppm)” and “unchanged at 0.10 ppm” respectively.  While the tolerances themselves may remain numerically unchanged, altering the commodity definitions *does* constitute a change to the rule, impacting which specific commodities are covered. The petition summary must be revised to reflect the potential implications of these seemingly minor definitional modifications and include a clear justification for why these specific crops are being added or removed from the groupings.  The petition must also include a robust residue analysis to demonstrate that the existing tolerance levels remain safe and appropriate for all commodities included under the new definitions. Without a detailed assessment of the potential impact on different crops and livestock, approving this petition based on the &quot;unchanged&quot; assertion is insufficient and potentially risks unintended consequences.<br><br><br>(2) Rationale for Change<br><br><br>Altering commodity definitions, even while maintaining numerical tolerance values, requires a thorough risk assessment.  Different crops within the broader groups (e.g., Group 16) may exhibit varying uptake and metabolism of saflufenacil, potentially leading to different residue levels.  Similarly, the exclusion of specific legume forages (soybean) warrants a detailed explanation and data to demonstrate that the existing tolerance adequately protects consumers. This is critical given the potential for bioaccumulation and the diverse consumption patterns of various legume-based products. Failing to provide this crucial analysis renders the “unchanged” argument unsubstantiated.  The EPA&#x27;s own guidance emphasizes the importance of commodity-specific data in risk assessments (https://www.epa.gov/pesticide-tolerances/food-and-feed-commodity-vocabulary).  Moreover, studies have demonstrated variations in pesticide residue levels across different crop varieties and growing conditions (EFSA Journal 2011;9(3):2087 [&lt;a href=&quot;https://efsa.onlinelibrary.wiley.com/doi/epdf/10.2903/j.efsa.2011.2087&quot;&gt;https://efsa.onlinelibrary.wiley.com/doi/epdf/10.2903/j.efsa.2011.2087&lt;/a&gt;]). This reinforces the need for detailed data supporting the proposed changes to commodity definitions, even in the absence of numerical tolerance modifications.  Without such data, the EPA cannot adequately ensure consumer safety, which is the fundamental purpose of these regulations.<br><br><br>Comment Regarding Proposed Rule: EPA-HQ-OPP-2025-0028; FRL-12474-01-OCSPP, Receipt of Pesticide Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities--January 2025 (cont.)<br><br>This comment addresses the petition PP 4F9142 (EPA-HQ-OPP-2025-0047) submitted by Syngenta Seeds regarding the PIP Bacillus thuringiensis eCry1Gb.1Ig protein in MZIR260 Corn. The petitioner&#x27;s claim that “no analytical method is needed” because it is an exemption from tolerance requires further scrutiny. While tolerances may not be numerically established for PIPs, the potential for unintended effects from the introduced genetic material and expressed proteins still necessitates monitoring and assessment.  The petition should outline a robust post-market monitoring plan to track potential environmental and health impacts, even in the absence of a numerical tolerance.<br><br>(2) Rationale for Change<br><br>The assertion that no analytical method is required for a PIP exemption overlooks the potential for long-term ecological and health consequences.  While acute toxicity might be low, the introduction of novel proteins into the food chain can have unpredictable effects on non-target organisms or trigger allergic reactions in susceptible individuals (Hilbeck et al., 2011, Environmental Sciences Europe, 23:24 [&lt;a href=&quot;https://enveurope.springeropen.com/articles/10.1186/2190-4715-23-24&quot;&gt;https://enveurope.springeropen.com/articles/10.1186/2190-4715-23-24&lt;/a&gt;]).  The lack of a defined analytical method hinders the ability to monitor the long-term persistence of the Cry1Gb.1Ig protein and its potential accumulation in various environmental compartments.  This lack of transparency raises concerns about the EPA&#x27;s ability to fulfill its mandate to protect human health and the environment.  A comprehensive monitoring plan, incorporating validated analytical methods, is essential to assess potential risks and ensure the safe deployment of PIP technologies. This aligns with the precautionary principle advocated by various international organizations (FAO/WHO, 2009, Food and Agriculture Organization of the United Nations and World Health Organization [&lt;a href=&quot;http://www.fao.org/3/a-i1130e.pdf&quot;&gt;http://www.fao.org/3/a-i1130e.pdf&lt;/a&gt;]) regarding the introduction of genetically modified organisms.<br></td>
+      <td>https://api.regulations.gov/v4/documents/EPA-HQ-OPP-2024-0323-0006</td>
+    </tr>
+  </tbody>
+</table>
+        </div>
+    </div>
+
+    <script
+      type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.3.2/mdb.umd.min.js"
+    ></script>
+</body>
+</html>

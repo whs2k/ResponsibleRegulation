@@ -1,0 +1,41 @@
+name: pullOpenProposedRules_andGenerateComment
+
+on:
+  schedule:
+    - cron: "0 0 1 1 *" #"0 13,23 * * *" #"0 0 1 1 *"
+  workflow_dispatch:
+
+env:
+  ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+
+jobs:
+  scrape-latest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3 #actions/setup-python@v2.0.0
+        with:
+          python-version: '3.9'
+      #- name: Install Linux requirements
+      #  run: |
+      #    sudo apt update
+      #    sudo apt install tesseract-ocr
+      #    sudo apt install libtesseract-dev
+      - name: Install Python requirements
+        run: pip install requests pandas google-genai #-U redgifs #-r requirements.txt
+      - name: Run Feed
+        run: python main.py --regulation_api_key ${{secrets.REGULATION_API_KEY}} --gemini_api_key ${{secrets.GEMINI_API_KEY}}
+      #- name: Set env vars
+      #  run: |
+      #    echo "DATE=$(python -c 'import datetime as dt; print(dt.datetime.now().date())')" >> $GITHUB_ENV
+      - name: Push to repository
+        run: |
+          git config --global user.name "whs2k"
+          git config --global user.email ${{secrets.GIT_USER_EMAIL}}
+          now=$(date)
+          git add -A
+          git commit -m "Auto Push on $now"
+          git push
