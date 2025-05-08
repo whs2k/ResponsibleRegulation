@@ -30,7 +30,7 @@ def main():
 	#print(df_mini)
 	df_mini['AI Generated Comment'] = df_mini['id'].apply(lambda x: helper.generate_comment(
 	    proposed_rule_id_=x, gemini_client=authenticated_gemini_client, 
-	    regulation_api_key_=regulation_api_key, sleep_seconds=30))
+	    regulation_api_key_=regulation_api_key, sleep_seconds=15, gemini_model='gemini-2.0-pro-exp'))
 
 	df_xport = df_mini[['Agency','Proposed Rule Title',
 	                    'Proposed Rule Link','Proposed Rule Posted Date',
