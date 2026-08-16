@@ -7,14 +7,21 @@ import os
 from pydantic import BaseModel, Field
 from typing import List
 
+class ReferenceItem(BaseModel):
+    title: str = Field(description="Title or descriptive citation of the supporting research paper, law review, or report.")
+    url: str = Field(description="Direct web URL link to the reference source.")
+
 class Sponsor(BaseModel):
-    organization_name: str = Field(description="Name of the company or lobbying firm.")
-    email_contacts: List[str] = Field(description="List of possible email contacts for this firm.")
-    reason_for_contact: str = Field(description="Reason why this firm would be interested in the proposed comment.")
+    organization_name: str = Field(description="Name of the company, lobbying firm, or public interest non-profit.")
+    email_contacts: List[str] = Field(description="List of possible email contacts for outreach.")
+    reason_for_contact: str = Field(description="Strategic reason why this organization should sponsor or support this comment.")
 
 class CommentResponse(BaseModel):
-    proposed_comment: str = Field(description="The full proposed comment text.")
-    sponsors: List[Sponsor] = Field(description="List of relevant companies or firms to sponsor the change.")
+    summary_of_main_idea: str = Field(description="Concise 2-3 sentence overview of what the proposed regulation aims to accomplish.")
+    challenges: str = Field(description="Primary legal, scientific, or economic challenges and defects in the proposed rule.")
+    references: List[ReferenceItem] = Field(description="List of peer-reviewed articles, case law, or empirical datasets challenging the rule.")
+    proposed_comment: str = Field(description="The complete drafted public comment text formatted for submission.")
+    sponsors: List[Sponsor] = Field(description="List of 3-5 relevant organizations, firms, or advocacy groups to contact.")
 
 
 def create_dataframe_from_list_of_dicts(data_list):
@@ -77,20 +84,18 @@ def generate_comment(proposed_rule_id_,  gemini_client, regulation_api_key_,
 
     epa_proposed_rule_htm = gemini_client.files.upload(file=proposed_rule_file_name)
     if gemini_prompt == 'NA':
-        prompt_text = '''Hi Gemini! You are a lawyer and politician working to make the country a better place.
-In order to achieve this, you work to make sure that governement regulations are protecting citizens, without undulying penalizing businessese.
-Whenever a regulatory agency wants to create a new rule, by law they have to allow the public to comment on the rule, and address the important points.
-They then review the significant comments and modify or address them in the final rule. If they don't the courts may strike down the rule when challenged in court.
-Comments that are able to provide research and data which challenge the fundamental reasons for that the rule have a better shot at necessitating a change in the rule or reply in th final rule. 
+        prompt_text = '''Hi Gemini! You are an expert administrative lawyer and public policy analyst. 
+Your goal is to empower civic advocates, researchers, and organizations to engage effectively in the federal rulemaking process.
 
-Can you please generate a comment for the proposed rule with the following structure: 
-    (1) Introduction and Primary Argument: First cite the specific pages of paragraphs of the rule and the exact text which is challengeable. If it can be replaced with different language then propose what it should be changed to. If the argument invalidates the rule and should block it even from publication then explain so.
-    (2) In the next paragraph provide rationale for why the specific sentaces or pargraphs should be changed or removed. Include url links and citations to the peer reviewed papers as a reference. Check that each url link goes to the paper or reference and that it isn't dead.
+Please analyze the attached regulatory document and provide a structured JSON response containing:
+1. summary_of_main_idea: A clear, objective 2-3 sentence summary of what this proposed regulation aims to do.
+2. challenges: The primary legal flaws (e.g. APA procedural defects), scientific/technical weaknesses, or economic issues with the rule's main idea.
+3. references: 2-4 peer-reviewed articles, law review publications, or authoritative datasets challenging the rule's main idea, including descriptive titles and direct web URLs.
+4. proposed_comment: A formal public comment formatted with specific page/section citations, detailed rationale, and proposed alternative wording.
+5. sponsors: 3-5 relevant companies, advocacy groups, or non-profits that would benefit from this comment, including contact emails and strategic outreach reasons.
 
-Additionally, please provide a list of 3-5 relevant companies, lobbying firms, or non-profits that would benefit from this comment, along with suggested contact methods (emails) and a reason for contacting them.
-
-        Here is the document: 
-        '''
+Here is the document:
+'''
         gemini_prompt_final = [
             {"type": "text", "text": prompt_text},
             {"type": "document", "uri": epa_proposed_rule_htm.uri, "mime_type": epa_proposed_rule_htm.mime_type}

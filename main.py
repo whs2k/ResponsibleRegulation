@@ -43,6 +43,7 @@ def main():
 	df_output['Proposed Rule Link'] = 'https://www.regulations.gov/document/' + df_output.id
 	df_output['Proposed Rule Title'] = df_output['attributes.title']
 	df_output['Proposed Rule Posted Date'] = pd.to_datetime(df_output['attributes.postedDate'])
+	df_output['Comment End Date'] = df_output['attributes.commentEndDate'] if 'attributes.commentEndDate' in df_output.columns else None
 
 	# Filter by rules posted in the last 3 days (to account for weekends)
 	three_days_ago = datetime.now() - timedelta(days=3)
@@ -89,7 +90,16 @@ def main():
 		try:
 			ai_data = json.loads(ai_comment_str)
 		except Exception:
-			ai_data = {"proposed_comment": ai_comment_str, "sponsors": []}
+			ai_data = {
+				"summary_of_main_idea": "Summary unavailable.",
+				"challenges": "Challenges unavailable.",
+				"references": [],
+				"proposed_comment": ai_comment_str,
+				"sponsors": []
+			}
+
+		comment_end_val = row.get('Comment End Date')
+		comment_end_str = str(comment_end_val) if pd.notna(comment_end_val) and comment_end_val else "Open"
 
 		record = {
 			"id": row['id'],
@@ -97,6 +107,7 @@ def main():
 			"title": row['Proposed Rule Title'],
 			"link": row['Proposed Rule Link'],
 			"posted_date": row['Proposed Rule Posted Date'],
+			"comment_end_date": comment_end_str,
 			"processed_at": datetime.now().isoformat(),
 			"ai_data": ai_data
 		}

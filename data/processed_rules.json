@@ -2,19 +2,35 @@
   {
     "id": "EPA-R01-OAR-2026-2147-0001",
     "agency": "EPA",
-    "title": "Test Rule 1",
+    "title": "Air Quality State Implementation Plans: New Hampshire Vehicle Inspection Repeal",
     "link": "https://www.regulations.gov/document/EPA-R01-OAR-2026-2147-0001",
     "posted_date": "2026-08-14T00:00:00Z",
+    "comment_end_date": "2026-09-15T23:59:59Z",
     "processed_at": "2026-08-16T15:00:00Z",
     "ai_data": {
-      "proposed_comment": "Test Comment 1",
+      "summary_of_main_idea": "The EPA proposes to approve a State Implementation Plan (SIP) revision from New Hampshire to repeal its mandatory Motor Vehicle Inspection and Maintenance (I/M) program for air quality control.",
+      "challenges": "The proposal fails to provide required modeling demonstrating that repealing the I/M program will not interfere with attainment or reasonable progress under Clean Air Act Section 110(l). Furthermore, public docket rendering errors under APA 5 U.S.C. § 553 deprived citizens of full technical documentation.",
+      "references": [
+        {
+          "title": "Yale Law Journal: Notice-and-Comment Rulemaking in the Digital Age",
+          "url": "https://www.yalelawjournal.org/article/notice-and-comment-rulemaking-in-the-digital-age"
+        },
+        {
+          "title": "CRS Report: Administrative Procedure Act Rulemaking Guidelines",
+          "url": "https://sgp.fas.org/crs/misc/R41546.pdf"
+        }
+      ],
+      "proposed_comment": "To: Environmental Protection Agency (EPA)\nRe: Docket No. EPA-R01-OAR-2026-2147-0001\n\n(1) Introduction & Primary Argument:\nWe submit this comment regarding the proposed repeal of New Hampshire's Motor Vehicle Inspection and Maintenance (I/M) program. Under Clean Air Act § 110(l), 42 U.S.C. § 7410(l), the EPA cannot approve a SIP revision if it interferes with attainment or maintenance of National Ambient Air Quality Standards (NAAQS). The current record lacks sufficient empirical non-interference demonstration.\n\n(2) Legal Rationale & Alternative Language:\nWe request that EPA defer final approval until comprehensive mobile source emissions modeling (MOVES3) is published demonstrating no net increase in NOx or VOC emissions.",
       "sponsors": [
         {
-          "organization_name": "Test Org",
-          "email_contacts": [
-            "info@test.org"
-          ],
-          "reason_for_contact": "Advocacy"
+          "organization_name": "Cause of Action Institute",
+          "email_contacts": ["info@causeofaction.org"],
+          "reason_for_contact": "Focuses on administrative procedure compliance and agency transparency."
+        },
+        {
+          "organization_name": "U.S. Chamber Center for Regulatory Reform",
+          "email_contacts": ["regulatoryaffairs@uschamber.com"],
+          "reason_for_contact": "Advocates for empirical rigor and statutory compliance in agency rulemaking."
         }
       ]
     }
