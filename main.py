@@ -20,7 +20,7 @@ def main():
 	authenticated_gemini_client = genai.Client(api_key=args.gemini_api_key)
 	regulation_api_key = args.regulation_api_key
 
-	url = 'https://api.regulations.gov/v4/documents?filter[agencyId]=EPA&filter[documentType]=Proposed%20Rule&sort=-postedDate&api_key={}'.format(regulation_api_key)
+	url = 'https://api.regulations.gov/v4/documents?filter[documentType]=Proposed%20Rule&sort=-postedDate&page[size]=250&api_key={}'.format(regulation_api_key)
 	
 	try:
 		response_data = requests.get(url).json().get('data', [])
@@ -37,23 +37,21 @@ def main():
 		print("No valid proposed rules found.")
 		return
 
-	df_output['Agency']='EPA'
+	df_output['Agency'] = df_output['attributes.agencyId']
 	df_output['Proposed Rule Link'] = 'https://www.regulations.gov/document/' + df_output.id
 	df_output['Proposed Rule Title'] = df_output['attributes.title']
 	df_output['Proposed Rule Posted Date'] = pd.to_datetime(df_output['attributes.postedDate'])
 
-	# Filter by rules posted between 10 days ago and 3 days ago
-	start_date = datetime.now() - timedelta(days=10)
-	end_date = datetime.now() - timedelta(days=3)
-	df_recent = df_output[(df_output['Proposed Rule Posted Date'].dt.tz_localize(None) >= start_date) & 
-	                      (df_output['Proposed Rule Posted Date'].dt.tz_localize(None) <= end_date)].copy()
+	# Filter by rules posted in the last 2 days
+	two_days_ago = datetime.now() - timedelta(days=2)
+	df_recent = df_output[df_output['Proposed Rule Posted Date'].dt.tz_localize(None) >= two_days_ago].copy()
 
 	if df_recent.empty:
-		print("No new rules posted in the target date range.")
+		print("No new rules posted in the last 2 days.")
 		return
 
 	df_recent['Proposed Rule Posted Date'] = df_recent['Proposed Rule Posted Date'].astype(str)
-	df_mini = df_recent.head(3).copy()
+	df_mini = df_recent.head(15).copy()
 
 	df_mini['AI Generated Comment'] = df_mini['id'].apply(lambda x: helper.generate_comment(
 	    proposed_rule_id_=x, gemini_client=authenticated_gemini_client, 
