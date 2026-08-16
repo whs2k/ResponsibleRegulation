@@ -76,7 +76,7 @@ def generate_comment(proposed_rule_id_,  gemini_client, regulation_api_key_,
 
     epa_proposed_rule_htm = gemini_client.files.upload(file=proposed_rule_file_name)
     if gemini_prompt == 'NA':
-        gemini_prompt_final = ['''Hi Gemini! You are a lawyer and politician working to make the country a better place.
+        prompt_text = '''Hi Gemini! You are a lawyer and politician working to make the country a better place.
 In order to achieve this, you work to make sure that governement regulations are protecting citizens, without undulying penalizing businessese.
 Whenever a regulatory agency wants to create a new rule, by law they have to allow the public to comment on the rule, and address the important points.
 They then review the significant comments and modify or address them in the final rule. If they don't the courts may strike down the rule when challenged in court.
@@ -89,9 +89,16 @@ Can you please generate a comment for the proposed rule with the following struc
 Additionally, please provide a list of 3-5 relevant companies, lobbying firms, or non-profits that would benefit from this comment, along with suggested contact methods (emails) and a reason for contacting them.
 
         Here is the document: 
-        ''', epa_proposed_rule_htm]
+        '''
+        gemini_prompt_final = [
+            {"type": "text", "text": prompt_text},
+            {"type": "document", "uri": epa_proposed_rule_htm.uri, "mime_type": epa_proposed_rule_htm.mime_type}
+        ]
     else:
-        gemini_prompt_final = [gemini_prompt, epa_proposed_rule_htm]
+        gemini_prompt_final = [
+            {"type": "text", "text": gemini_prompt},
+            {"type": "document", "uri": epa_proposed_rule_htm.uri, "mime_type": epa_proposed_rule_htm.mime_type}
+        ]
     
     response = gemini_client.interactions.create(
         model=gemini_model,

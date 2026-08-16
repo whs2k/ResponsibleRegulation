@@ -42,12 +42,14 @@ def main():
 	df_output['Proposed Rule Title'] = df_output['attributes.title']
 	df_output['Proposed Rule Posted Date'] = pd.to_datetime(df_output['attributes.postedDate'])
 
-	# Filter by rules posted in the last 2 days
-	two_days_ago = datetime.now() - timedelta(days=2)
-	df_recent = df_output[df_output['Proposed Rule Posted Date'].dt.tz_localize(None) >= two_days_ago].copy()
+	# Filter by rules posted between 10 days ago and 3 days ago
+	start_date = datetime.now() - timedelta(days=10)
+	end_date = datetime.now() - timedelta(days=3)
+	df_recent = df_output[(df_output['Proposed Rule Posted Date'].dt.tz_localize(None) >= start_date) & 
+	                      (df_output['Proposed Rule Posted Date'].dt.tz_localize(None) <= end_date)].copy()
 
 	if df_recent.empty:
-		print("No new rules posted in the last 2 days.")
+		print("No new rules posted in the target date range.")
 		return
 
 	df_recent['Proposed Rule Posted Date'] = df_recent['Proposed Rule Posted Date'].astype(str)
