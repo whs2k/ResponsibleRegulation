@@ -68,8 +68,9 @@ def generate_comment(proposed_rule_id_,  gemini_client, regulation_api_key_,
     proposed_rule_file_title = requests.get(proposed_rule_url).json()['data']['attributes']['title']
     proposed_rule_file_name = proposed_rule_file_title + '.' + proposed_rule_file_format 
     print(proposed_rule_file_name)
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
     with open(proposed_rule_file_name, "wb") as f:
-                f.write(requests.get(proposed_rule_file_url).content)
+                f.write(requests.get(proposed_rule_file_url, headers=headers).content)
     
     print(proposed_rule_file_name)
     print('https://www.regulations.gov/document/{}'.format(proposed_rule_id))
