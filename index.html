@@ -1,108 +1,295 @@
-
 <!DOCTYPE html>
 <html lang="en" data-mdb-theme="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DataFrame Viewer</title>
-    <link
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
-      rel="stylesheet"
-    />
-    <link
-      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
-      rel="stylesheet"
-    />
-    <link
-      href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.3.2/mdb.min.css"
-      rel="stylesheet"
-    />
+    <title>Responsible Regulation Monitor</title>
+    <meta name="description" content="Empowering citizens and organizations to monitor and respond to federal proposed regulations with AI-generated comments and sponsor matching.">
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+    <!-- MDB UI Kit -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.3.2/mdb.min.css" rel="stylesheet" />
+    
     <style>
+        :root {
+            --bg-color: #0b0f19;
+            --card-bg: #151c2c;
+            --accent-primary: #3b82f6;
+            --accent-hover: #2563eb;
+            --border-color: #1e293b;
+            --text-muted: #94a3b8;
+        }
+
         body {
-            padding: 20px; /* Add some padding around the content */
+            background-color: var(--bg-color);
+            color: #f8fafc;
+            font-family: 'Inter', sans-serif;
+            padding-bottom: 50px;
         }
-        .table-container {
-            max-width: 100%;
-            overflow-x: auto; /* Add horizontal scroll for wide tables */
+
+        .hero-banner {
+            background: linear-gradient(135deg, rgba(30, 41, 59, 0.8) 0%, rgba(15, 23, 42, 0.9) 100%),
+                        radial-gradient(circle at top right, rgba(59, 130, 246, 0.15), transparent 40%);
+            border-bottom: 1px solid var(--border-color);
+            padding: 3rem 1.5rem;
+            margin-bottom: 2.5rem;
+            border-radius: 0 0 1rem 1rem;
         }
-        th, td {
-             white-space: normal !important; /* Ensure text wraps within cells */
-             word-wrap: break-word; /* Break long words */
-             vertical-align: top; /* Align content to the top for consistency */
+
+        .hero-title {
+            font-weight: 700;
+            letter-spacing: -0.025em;
+            background: linear-gradient(to right, #60a5fa, #a78bfa);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
         }
-        th {
-            background-color: #343a40; /* Slightly darker header for contrast */
-            position: sticky; /* Make table header sticky */
-            top: 0; /* Stick to the top */
-            z-index: 10; /* Ensure header stays above scrolling content */
+
+        .card-custom {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
         }
-        /* Optional: Style for the index column header */
-        thead th:first-child {
-             background-color: #454d55; /* Different background for index header */
+
+        .card-custom:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 15px 30px -5px rgba(0, 0, 0, 0.4);
         }
-         /* Optional: Style for the index column cells */
-        tbody th {
-             background-color: #3e444a;
-             position: sticky; /* Make index column sticky */
-             left: 0; /* Stick to the left */
-             z-index: 5; /* Ensure index stays above row content */
+
+        .badge-agency {
+            background: rgba(59, 130, 246, 0.15);
+            color: #60a5fa;
+            border: 1px solid rgba(59, 130, 246, 0.3);
+            font-weight: 600;
+            padding: 6px 12px;
+            border-radius: 20px;
+        }
+
+        .rule-title-link {
+            color: #f8fafc;
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.2s ease;
+        }
+
+        .rule-title-link:hover {
+            color: var(--accent-primary);
+        }
+
+        .comment-box {
+            background-color: rgba(15, 23, 42, 0.6);
+            border-left: 4px solid var(--accent-primary);
+            border-radius: 0 8px 8px 0;
+            padding: 1rem;
+            margin-top: 1rem;
+            font-size: 0.95rem;
+            white-space: pre-wrap;
+            color: #cbd5e1;
+        }
+
+        .sponsor-card {
+            background-color: rgba(30, 41, 59, 0.5);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 8px;
+            padding: 0.75rem 1rem;
+            margin-top: 0.5rem;
+        }
+
+        .search-input {
+            background-color: var(--card-bg) !important;
+            border: 1px solid var(--border-color) !important;
+            color: #fff !important;
+        }
+
+        .search-input:focus {
+            border-color: var(--accent-primary) !important;
+            box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2) !important;
+        }
+
+        .stat-badge {
+            font-size: 0.85rem;
+            color: var(--text-muted);
         }
     </style>
 </head>
 <body>
-    <div class="container-fluid">
-        <h1>Responsible Regulation </h1>
 
-        <br>
-
-        <p> This experience empowers citizens and organizations to participate in the Regulation process so that they influence the rules of their community. By law all federal regulation modifications must accept and respond to comments from citizens and organizations–failure to do so has invalidation by courts. Responsible Regulation pulls proposed rules from the regulations.gov API, summarizes the primary arguments, and generates a comment based on peer reviewed articles. </p>
-
-        <br><br>
-        <div class="table-container shadow-4 rounded-5">
-             <table class="dataframe table table-dark table-striped table-bordered table-hover align-middle" id="df_table">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Agency</th>
-      <th>Proposed Rule Title</th>
-      <th>Proposed Rule Link</th>
-      <th>Proposed Rule Posted Date</th>
-      <th>AI Generated Comment</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>EPA</td>
-      <td>Air Quality State Implementation Plans; Approvals and Promulgations: Missouri; Removal of Obsolete Rules on Control of NOx Emissions</td>
-      <td>https://www.regulations.gov/document/EPA-R07-OAR-2025-0138-0001</td>
-      <td>2025-04-29T00:00:00Z</td>
-      <td>Okay, I will generate a public comment addressing the proposed rule &quot;Air Plan Approval; Missouri; Removal of Obsolete Rules on Control of NOX Emissions&quot; (FR Doc No: 2025-07259), keeping in mind my role as a lawyer and politician dedicated to balancing citizen protection with fair business regulation.<br><br>***<br><br>**To:** The Environmental Protection Agency (EPA)<br>**From:** [Your Name/Organization Name - e.g., &quot;Concerned Citizen and Legal Professional&quot;]<br>**Date:** [Current Date]<br>**Subject:** Comment on Proposed Rule - Air Plan Approval; Missouri; Removal of Obsolete Rules on Control of NOX Emissions (Docket ID No. EPA-R07-OAR-2025-0138)<br><br>**(1) Introduction and Primary Argument**<br><br>This comment is submitted in response to the Environmental Protection Agency&#x27;s (EPA) proposed rule (FR Doc No: 2025-07259) published in the Federal Register, Volume 90, Number 81, on Tuesday, April 29, 2025 (Pages 17751-17755), concerning the &quot;Air Plan Approval; Missouri; Removal of Obsolete Rules on Control of NOX Emissions.&quot; Specifically, this comment addresses the EPA&#x27;s own statements regarding a critical existing gap in Missouri&#x27;s State Implementation Plan (SIP) that, while not directly caused by the removal of the sunsetted rules (10 CSR 10-6.360 and 10 CSR 10-6.350), must be addressed to ensure the overall integrity of the SIP and the protection of public health.<br><br>We challenge the unqualified approval of this SIP revision at this time. The EPA notes on **Page 17754, Section II.A, last paragraph**:<br>*&quot;However, since the EPA stopped carrying out its functions administering the CAIR OS trading program, there has been no provision of the state&#x27;s SIP establishing enforceable seasonal NOX mass emissions limits for the state&#x27;s NOX SIP Call-affected large non-EGUs. As such, while we consider this matter to be beyond the scope of the present proposal, at this point in time, Missouri does not have adequate SIP provisions meeting the requirements of 40 CFR 51.121(f)(2) and (r)(2) with respect to its large non-EGUs in the eastern one-third of the state.&quot;*<br><br>Furthermore, on **Page 17754, Section II.C, second paragraph**, the EPA states:<br>*&quot;Since that time [after the 2014 ozone season], the Missouri SIP has not included provisions establishing enforceable seasonal NOX mass emissions limits for existing and new large non-EGUs in the eastern one-third of the state as required by the state&#x27;s ongoing obligations under the NOX SIP Call. However, the sunset after the 2008 ozone season of the Missouri NBTP Rule and Missouri EGU Emission Rate Rule did not create this gap, and the removal of the already-sunsetted rules from the state&#x27;s SIP would not exacerbate the gap. The EPA remains ready to assist Missouri in remedying the gap.&quot;*<br><br>While the removal of the two specified obsolete rules (10 CSR 10-6.360 and 10 CSR 10-6.350) is administratively logical as they are indeed sunsetted, the EPA should not approve this &quot;housekeeping&quot; SIP revision without concurrently ensuring that Missouri remedies the identified significant deficiency regarding enforceable seasonal NOX mass emissions limits for large non-EGUs. Approving this rule without a concomitant, binding commitment and timeline from Missouri to close this regulatory gap, or an EPA commitment to issue a Federal Implementation Plan (FIP) to address it, would represent a missed opportunity to uphold the Clean Air Act&#x27;s requirements and protect citizen health. Therefore, we propose that the EPA *defer approval* of this specific SIP revision until Missouri submits, and EPA approves, a SIP revision that adequately addresses the identified deficiency concerning NOX mass emission limits for large non-EGUs in the eastern one-third of the state, as required by 40 CFR 51.121(f)(2) and (r)(2). Alternatively, the EPA should condition approval on a strict, enforceable timeline for Missouri to submit such a corrective SIP revision.<br><br>**(2) Rationale for Conditional Approval or Deferral**<br><br>The EPA&#x27;s acknowledgement of the existing deficiency in Missouri’s SIP—namely, the lack of enforceable seasonal NOX mass emissions limits for large non-EGUs in eastern Missouri since 2014—is a serious matter that undermines the fundamental goals of the Clean Air Act (CAA) and the NOX SIP Call. Nitrogen Oxides (NOX) are significant contributors to the formation of ground-level ozone and fine particulate matter (PM2.5), both of which are associated with severe adverse public health and environmental effects. The NOX SIP Call was specifically designed to reduce interstate transport of ozone by requiring states to implement controls on NOX emissions from significant sources, including large non-EGUs.<br><br>The continued absence of these enforceable limits for large non-EGUs means that a category of significant pollution sources has been operating without the federally mandated emission constraints for over a decade. This is inconsistent with the CAA&#x27;s requirements for SIPs to contain enforceable emission limitations and other control measures necessary to meet National Ambient Air Quality Standards (NAAQS) and protect public health (42 U.S.C. § 7410(a)(2)(A)).<br>*   **Health Impacts of NOX, Ozone, and PM2.5:** NOX emissions contribute to respiratory problems such as asthma, bronchitis, and increased susceptibility to respiratory infections. Ground-level ozone can exacerbate lung diseases, trigger asthma attacks, and cause permanent lung damage. PM2.5 exposure is linked to cardiovascular diseases, respiratory illnesses, and premature mortality.<br>    *   Reference: U.S. Environmental Protection Agency. &quot;Basic Information about NO2.&quot; Available at: `https://www.epa.gov/no2-pollution/basic-information-about-no2` (Accessed [Current Date]).<br>    *   Reference: U.S. Environmental Protection Agency. &quot;Health Effects of Ozone Pollution.&quot; Available at: `https://www.epa.gov/ground-level-ozone-pollution/health-effects-ozone-pollution` (Accessed [Current Date]).<br>    *   Reference: U.S. Environmental Protection Agency. &quot;Health and Environmental Effects of Particulate Matter (PM).&quot; Available at: `https://www.epa.gov/pm-pollution/health-and-environmental-effects-particulate-matter-pm` (Accessed [Current Date]).<br>*   **Regulatory Obligation:** The EPA itself states that Missouri&#x27;s SIP does not meet the requirements of 40 CFR 51.121(f)(2) (requiring SIPs to contain enforceable limitations) and (r)(2) (requiring states to maintain compliance with NOX SIP Call obligations). Allowing Missouri to proceed with SIP &quot;cleanup&quot; actions while such a fundamental compliance gap persists is contrary to the EPA&#x27;s duty to ensure SIP adequacy. While the current proposed action does not *create* or *exacerbate* the gap, the EPA&#x27;s review of any SIP revision provides an opportunity and, arguably, an obligation to address known, significant deficiencies that impact air quality and public health. Ignoring this deficiency now would effectively condone Missouri&#x27;s non-compliance with ongoing NOX SIP Call requirements for large non-EGUs.<br><br>Therefore, to ensure the Missouri SIP genuinely protects its citizens and meets all CAA requirements, the EPA should use its authority in this instance to compel Missouri to rectify the identified deficiency. Approving the removal of obsolete rules without addressing this substantive failure would be a disservice to the residents of Missouri and undermine the integrity of the SIP approval process. We urge the EPA to defer approval of this rule until Missouri has submitted, and EPA has approved, a SIP revision that establishes enforceable seasonal NOX mass emissions limits for its NOX SIP Call-affected large non-EGUs in the eastern one-third of the state, or to issue a finding of deficiency and commence a FIP process.<br><br>Sincerely,<br><br>[Your Name/Organization Name]<br>[Your Title, if applicable]<br>[Your Contact Information]</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>EPA</td>
-      <td>Proposed Revision to Minnesota Taconite FIP for U.S. Steel Keetac</td>
-      <td>https://www.regulations.gov/document/EPA-R05-OAR-2024-0216-0001</td>
-      <td>2025-04-24T04:00:00Z</td>
-      <td>Okay, this is an important role, and crafting effective comments is crucial for sound regulatory policy. I will draft a comment based on the provided Federal Register document.<br><br>---<br><br>**To:** Environmental Protection Agency (EPA)<br>**From:** [Your Name/Lawyer-Politician Persona Name], Concerned Lawyer and Politician<br>**Date:** [Current Date - e.g., May 15, 2025]<br>**Subject:** Comments on Proposed Rule: Air Plan Approval; Minnesota; Revision to Taconite Federal Implementation Plan (Docket ID No. EPA-R05-OAR-2024-0216)<br><br>**(1) Introduction and Primary Argument:**<br><br>This comment addresses the Environmental Protection Agency&#x27;s (EPA) proposed rule [EPA-R05-OAR-2024-0216; FRL-12599-01-R5], specifically the proposed modifications to Nitrogen Oxide (NOx) emission limits for the indurating furnace at United States Steel&#x27;s (U.S. Steel&#x27;s) Keetac taconite facility. We challenge the proposed NOx Best Available Retrofit Technology (BART) emission limits found on **page 17236, column 3, and page 17237, column 1**, and codified in the proposed amendment to **Sec. 52.1235(b)(1)(i)(A)(1) and (A)(2) on page 17238-17239**. Specifically, the text:<br>*   &quot;Modeling of the Keetac indurating furnace with a low-NO&lt;INF&gt;X&lt;/INF&gt; main burner in conjunction with low-NO&lt;INF&gt;X&lt;/INF&gt; preheat burners indicated that a limit of **3.4 lbs NO&lt;INF&gt;X&lt;/INF&gt;/MMBtu represents BART** for Keetac when firing exclusively natural gas.&quot; (Page 17236)<br>*   &quot;Modeling of a low-NO&lt;INF&gt;X&lt;/INF&gt; main burner also indicated that a limit of **2.0 lbs NO&lt;INF&gt;X&lt;/INF&gt;/MMBtu represents BART** during production cycles when cofiring with coal.&quot; (Page 17236-17237)<br>*   And the provision on **page 17237, column 1**, allowing for adjustment up to **2.5 lbs NO&lt;INF&gt;X&lt;/INF&gt;/MMBtu** for cofiring: &quot;If revised, the NO&lt;INF&gt;X&lt;/INF&gt; BART emission limit when burning any fuel or combination of fuels other than exclusively natural gas may be no greater than 2.5 lbs NO&lt;INF&gt;X&lt;/INF&gt;/MMBtu, based on a 720-hour rolling average.&quot;<br><br>These proposed limits are significantly weaker than the limits established in the Original 2013 FIP Rule (1.2 lbs NOx/MMBtu for natural gas and 1.5 lbs NOx/MMBtu for other fuels). While the EPA provides justification based on Keetac-specific modeling and studies provided by U.S. Steel, the proposed limits may not represent the &quot;best&quot; available retrofit technology as mandated by the Clean Air Act (CAA). We propose that the EPA re-evaluate the feasibility of more stringent NOx controls, potentially closer to the levels demonstrated as achievable with Low-NOx Burner (LNB) technology in other similar industrial applications, or provide a more robust, independent analysis justifying why such significant upward revisions from the 2013 FIP are necessary and still constitute BART. The proposed adjustment mechanism for the cofiring limit, particularly allowing an increase up to 2.5 lbs NO&lt;INF&gt;X&lt;/INF&gt;/MMBtu, should be removed, or at a minimum, the threshold for such an adjustment should be more rigorously defined and justified as still meeting BART requirements, rather than being based primarily on initial operational data post-installation of a technology that itself is leading to a weaker standard.<br><br>**(2) Rationale for Change or Removal:**<br><br>The proposed NOx emission limits of 3.4 lbs/MMBtu (natural gas) and 2.0 lbs/MMBtu (cofiring, potentially adjustable to 2.5 lbs/MMBtu) represent a substantial relaxation from the original 2013 FIP limits. The justification for this change relies heavily on modeling and engineering studies, many of which appear to be commissioned or provided by the operator, U.S. Steel (as referenced on page 17236, footnotes 9-17). While facility-specific factors are important in BART determinations, the CAA requires the &quot;best&quot; available retrofit technology, considering cost, energy, and non-air quality environmental impacts (40 CFR §51.301; Appendix Y to Part 51—Guidelines for BART Determinations). The current proposal suggests an anticipated NOx reduction of only 40-45% (page 17237, column 1, and footnote 23), significantly less than the 70% reduction anticipated in the 2013 FIP (page 17237, column 1). This raises concerns about whether the full spectrum of LNB designs and operational optimizations, or combinations with other technologies, has been exhaustively and independently evaluated by the EPA to ensure the proposed limits truly reflect &quot;best&quot; available performance. Modern LNB technology, when properly designed and optimized, can often achieve NOx reductions significantly greater than 40-45% in various industrial applications. For instance, advancements in burner design and staging techniques continue to push achievable NOx emission levels lower (Garg, A. (2019). Chapter 6: Low-NOx Combustion. In C.E. Baukal Jr. (Ed.), *The John Zink Hamworthy Combustion Handbook: Volume 1 - Fundamentals* (2nd ed.). CRC Press. Available: `https://www.taylorfrancis.com/books/edit/10.1201/9780429283104/john-zink-hamworthy-combustion-handbook-charles-baukal-jr`). Furthermore, the EPA’s own BART guidelines emphasize a thorough five-factor analysis and consideration of available control options (`https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-51/appendix-Appendix%20Y%20to%20Part%2051`). The agency should provide a more detailed public record of its independent assessment of why alternative LNB configurations or other synergistic control strategies (even if SNCR was deemed unsuitable, a detailed re-evaluation of its potential optimized application or other post-combustion controls in conjunction with LNBs) cannot achieve lower emission rates at Keetac without imposing unreasonable costs or operational detriments that would disqualify them under the BART analysis. The provision to allow an upward adjustment of the cofiring limit to 2.5 lbs/MMBtu based on initial operational data appears to preemptively concede that even the relaxed 2.0 lbs/MMBtu limit may not be met, which undermines the stringency expected from a BART determination. Instead, the BART limit should be set based on a robust a priori assessment of what is achievable, with compliance expected.<br><br>---<br><br>I have aimed to make the citations and URLs functional and relevant. The John Zink Hamworthy Combustion Handbook is a widely respected reference in the field. The eCFR link provides direct access to the BART guidelines. The core of the argument is to push the EPA for more rigorous, independent justification for the relaxed standards.</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>EPA</td>
-      <td>Proposed approval of Indiana NOx Emissions Monitoring</td>
-      <td>https://www.regulations.gov/document/EPA-R05-OAR-2021-0761-0001</td>
-      <td>2025-04-21T04:00:00Z</td>
-      <td>Okay, this is an important proposed rule with significant implications. As a lawyer and politician committed to effective governance, my aim is to ensure that any flexibility granted in monitoring does not compromise the integrity of emissions data, which is crucial for protecting public health and ensuring compliance with the Clean Air Act.<br><br>Here is a comment on the proposed rule:<br><br>---<br><br>**To:** Environmental Protection Agency (EPA)<br>**From:** [Your Name/Organization Name - e.g., &quot;Office of [Your Name], Concerned Citizen and Advocate for Balanced Regulation&quot;]<br>**Date:** May [Current Day], 2025<br>**Subject:** Comments on Proposed Rule: Air Plan Approval; Indiana; Indiana NOX Emissions Monitoring (Docket ID No. EPA-R05-OAR-2021-0761; FRL-12258-01-R5)<br><br>**(1) Introduction and Primary Argument:**<br><br>This comment addresses the Environmental Protection Agency&#x27;s (EPA) proposed rule, &quot;Air Plan Approval; Indiana; Indiana NOX Emissions Monitoring,&quot; published in the Federal Register, Volume 90, Number 75, on Monday, April 21, 2025, specifically pages 16658-16663. We challenge the approval of Indiana rule 326 IAC 10-2-8.5, as described on page 16660 of the Federal Register, which introduces alternative NOX monitoring, record keeping, and reporting requirements for large non-Electric Generating Units (non-EGUs).<br><br>Specifically, we are concerned with the provisions under **326 IAC 10-2-8.5(c)(1)(D)**, as described on page 16660: &quot;monitoring of heat input and fuel use combined with an approved emission factors for NOX emissions rates to compute NOX mass emissions...&quot; While we appreciate the EPA&#x27;s and Indiana&#x27;s intent to provide flexibility consistent with the March 8, 2019 (84 FR 8422) amendments to the NOX SIP Call regulations, the reliance on &quot;approved emission factors&quot; for calculating NOX mass emissions for these large non-EGUs presents a significant risk of underestimating actual emissions, thereby potentially undermining the integrity of the NOX SIP Call objectives and the protection of public health.<br><br>We propose that **326 IAC 10-2-8.5(c)(1)(D)** be modified to require that any use of emission factors be restricted to very small sources or for very limited periods during CEMS malfunction, and that for large non-EGUs, the primary alternative methods should prioritize direct measurement or more robust parametric monitoring correlated with frequent testing. Alternatively, if emission factors are permitted for large non-EGUs, their application must be accompanied by a requirement for more frequent (e.g., annual or biennial) source-specific stack testing to validate and update these factors, rather than the proposed &quot;at least every five years&quot; as stated in 326 IAC 10-2-8.5(e). The current language, even with a five-year stack test requirement, does not sufficiently ensure the accuracy needed for compliance with a collective emissions cap, especially if the &quot;substantial compliance margin&quot; cited by EPA (page 16661) diminishes over time or for individual units operating closer to their potential emissions.<br><br>**(2) Rationale for Change or Removal:**<br><br>The rationale for our concern and proposed modifications to 326 IAC 10-2-8.5(c)(1)(D) and the associated paragraph (e) stems from the inherent uncertainties and potential for inaccuracies associated with using generic or infrequently updated emission factors for large non-EGUs. The NOX SIP Call aims to reduce transported NOX emissions, a precursor to ozone, which has significant public health impacts. Accurate emissions accounting is paramount to the success of this program.<br><br>1.  **Limitations of Emission Factors:** Standard emission factors, such as those from EPA&#x27;s AP-42, are generally averages of data from various sources and may not accurately represent the specific operational characteristics, fuel variability, or control equipment performance of an individual unit. The EPA itself notes that emission factors have varying degrees of reliability, often rated from A (excellent) to E (poor). Relying on such factors, especially for large emitters, can lead to significant discrepancies between reported and actual emissions.<br>    *   **Reference:** U.S. Environmental Protection Agency. &quot;Basic Information about Air Emissions Factors and Quantification.&quot; This page discusses how emission factors are developed, their intended use, and their inherent limitations and quality ratings.<br>        *   **URL:** `https://www.epa.gov/air-emissions-factors-and-quantification/basic-information-air-emissions-factors-and-quantification` (Checked: Link is live and directs to relevant EPA guidance.)<br><br>2.  **Superiority of Direct Measurement:** Continuous Emissions Monitoring Systems (CEMS) as required by 40 CFR Part 75, or even well-calibrated Part 60 CEMS, provide a much more accurate and continuous record of emissions. While the proposed rule allows for alternatives to Part 75, the alternative involving emission factors (326 IAC 10-2-8.5(c)(1)(D)) represents the lowest tier of accuracy among the options. The EPA’s own framework for emissions trading programs and compliance has historically prioritized CEMS due to their accuracy and ability to capture real-time operational variability.<br>    *   **Reference:** U.S. Environmental Protection Agency. &quot;Part 75 Emissions Monitoring, Reporting and Recordkeeping.&quot; This page details the stringent requirements of Part 75, emphasizing quality assurance and accuracy for programs like the Acid Rain Program and CSAPR, which rely on high-quality data. While the rule allows deviation, the principles of Part 75 underscore the importance of robust monitoring.<br>        *   **URL:** `https://www.epa.gov/airmarkets/part-75-emissions-monitoring-reporting-and-recordkeeping` (Checked: Link is live and directs to EPA information on Part 75.)<br><br>3.  **Impact of Infrequent Stack Testing:** While 326 IAC 10-2-8.5(e) requires stack tests at least every five years for units using emission factors, this frequency is insufficient to ensure ongoing accuracy for large non-EGUs. Combustion conditions, fuel quality, and control device efficiency can change significantly over a five-year period, leading to emission factors that no longer reflect actual operations. This can result in a cumulative underestimation (or, less likely, overestimation) of emissions over several ozone seasons. A study by the Northeast States for Coordinated Air Use Management (NESCAUM) has highlighted that even for smaller sources, actual emissions can deviate significantly from factor-based estimates if not regularly verified.<br>    *   **Reference:** While a specific peer-reviewed paper directly on NOX SIP call non-EGU five-year testing for emission factors is niche, the principle of degradation of factor accuracy over time is well-established. For instance, reports evaluating emissions inventories often discuss the uncertainties introduced by reliance on less frequently updated factors. For example, a general principle from a relevant organization: NESCAUM. &quot;Assessment of Control Technology Options for Industrial, Commercial, and Institutional (ICI) Boilers and Process Heaters.&quot; (While specific reports vary, NESCAUM frequently publishes on emissions control and inventory accuracy).<br>        *   **Illustrative URL for similar type of work/principle (actual targeted paper may vary):** Many technical reports from organizations like NESCAUM (`http://www.nescaum.org/documents`) or regional air quality consortia discuss the hierarchy of emission estimation methods and the importance of recent, source-specific data for larger sources. A general search for &quot;accuracy of emission factors vs CEMS industrial boilers&quot; would yield literature supporting the higher uncertainty of factors. *For purposes of this comment, we acknowledge finding a single, open-access peer-reviewed paper perfectly fitting this specific scenario within limited time is challenging, but the underlying scientific principle is widely accepted and documented in broader EPA guidance and air pollution literature.* The EPA&#x27;s own &quot;Emissions Inventory Improvement Program (EIIP)&quot; documents also frequently discuss preferred methodologies, prioritizing direct measurement. (e.g., `https://www.epa.gov/air-emissions-inventories/emissions-inventory-improvement-program-eiip` - this resource contains many documents on best practices).<br><br>The EPA&#x27;s reliance on Indiana&#x27;s &quot;substantial compliance margin&quot; (page 16661) as a justification for approving these less rigorous alternative methods is a gamble. This margin can erode due to economic growth, changes in fuel use, or aging equipment. Allowing less accurate monitoring methods, particularly the use of emission factors with infrequent validation, could mask increases in actual emissions, potentially leading to exceedances of the collective cap without timely detection or correction. This not only undermines the NOX SIP Call but also fails to provide the robust data necessary for future air quality planning and public health protection.<br><br>Therefore, we urge the EPA to require modifications to Indiana&#x27;s proposed 326 IAC 10-2-8.5 to ensure that any alternative monitoring methods, especially those relying on emission factors for large non-EGUs, incorporate more stringent validation and accuracy requirements to uphold the environmental and public health objectives of the Clean Air Act.<br><br>---</td>
-    </tr>
-  </tbody>
-</table>
+    <!-- Hero Header -->
+    <header class="hero-banner text-center shadow-3-soft">
+        <div class="container">
+            <h1 class="display-4 hero-title mb-3">Responsible Regulation</h1>
+            <p class="lead text-slate-300 max-w-2xl mx-auto" style="max-width: 750px; color: #cbd5e1;">
+                Empowering citizens, businesses, and public advocates to analyze federal rulemaking. 
+                Automatically tracking proposed rules, generating evidence-based public comments, and matching key sponsors.
+            </p>
+            <div class="d-flex justify-content-center gap-3 mt-4">
+                <a href="https://github.com/whs2k/ResponsibleRegulation" target="_blank" class="btn btn-outline-light btn-rounded">
+                    <i class="fab font-lg fa-github me-2"></i>GitHub Repo
+                </a>
+                <a href="https://www.regulations.gov" target="_blank" class="btn btn-primary btn-rounded">
+                    <i class="fas fa-external-link-alt me-2"></i>Regulations.gov
+                </a>
+            </div>
         </div>
-    </div>
+    </header>
 
-    <script
-      type="text/javascript"
-      src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.3.2/mdb.umd.min.js"
-    ></script>
+    <!-- Main Content -->
+    <main class="container">
+        <!-- Controls & Stats -->
+        <div class="row align-items-center mb-4">
+            <div class="col-md-6 mb-3 mb-md-0">
+                <div class="input-group">
+                    <span class="input-group-text bg-dark border-secondary text-secondary"><i class="fas fa-search"></i></span>
+                    <input type="text" id="searchInput" class="form-control search-input" placeholder="Search regulations, agencies, or keywords...">
+                </div>
+            </div>
+            <div class="col-md-6 text-md-end">
+                <span class="stat-badge me-3" id="ruleCount"><i class="fas fa-file-contract me-1"></i> 0 Regulations</span>
+                <span class="stat-badge" id="lastUpdated"><i class="fas fa-clock me-1"></i> Updated: Loading...</span>
+            </div>
+        </div>
+
+        <!-- Regulation Cards Container -->
+        <div id="regulationsContainer" class="row">
+            <div class="col-12 text-center py-5">
+                <div class="spinner-border text-primary" role="status">
+                    <span class="visually-hidden">Loading...</span>
+                </div>
+                <p class="mt-3 text-muted">Loading processed regulations...</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- MDB UI Kit JS -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.3.2/mdb.umd.min.js"></script>
+
+    <!-- Dynamic Loader Script -->
+    <script>
+        let allRegulations = [];
+
+        async function loadRegulations() {
+            const container = document.getElementById('regulationsContainer');
+            try {
+                const response = await fetch('data/processed_rules.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                allRegulations = await response.json();
+
+                document.getElementById('ruleCount').innerHTML = `<i class="fas fa-file-contract me-1"></i> ${allRegulations.length} Regulation(s)`;
+                
+                if (allRegulations.length > 0 && allRegulations[0].processed_at) {
+                    const lastDate = new Date(allRegulations[0].processed_at).toLocaleDateString();
+                    document.getElementById('lastUpdated').innerHTML = `<i class="fas fa-clock me-1"></i> Updated: ${lastDate}`;
+                } else {
+                    document.getElementById('lastUpdated').innerHTML = `<i class="fas fa-clock me-1"></i> Updated: N/A`;
+                }
+
+                renderRegulations(allRegulations);
+            } catch (error) {
+                console.error('Error loading regulations:', error);
+                container.innerHTML = `
+                    <div class="col-12 text-center py-5">
+                        <i class="fas fa-folder-open fa-3x text-muted mb-3"></i>
+                        <h4 class="text-white">No Processed Regulations Found Yet</h4>
+                        <p class="text-muted">New regulations will appear here after the daily batch monitor executes.</p>
+                    </div>
+                `;
+            }
+        }
+
+        function renderRegulations(rules) {
+            const container = document.getElementById('regulationsContainer');
+            if (!rules || rules.length === 0) {
+                container.innerHTML = `
+                    <div class="col-12 text-center py-4">
+                        <p class="text-muted">No matching regulations found.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            container.innerHTML = rules.map((rule, idx) => {
+                const aiData = rule.ai_data || {};
+                const commentText = aiData.proposed_comment || 'No comment text generated.';
+                const sponsors = aiData.sponsors || [];
+                const postedDate = rule.posted_date ? rule.posted_date.split('T')[0] : 'N/A';
+
+                const sponsorsHtml = sponsors.length > 0 ? `
+                    <div class="mt-3">
+                        <h6 class="text-uppercase text-secondary fs-7 fw-bold mb-2"><i class="fas fa-users me-2"></i>Suggested Sponsors & Allies:</h6>
+                        <div class="row g-2">
+                            ${sponsors.map(s => `
+                                <div class="col-md-6">
+                                    <div class="sponsor-card">
+                                        <div class="d-flex justify-content-between align-items-start mb-1">
+                                            <strong class="text-info">${escapeHtml(s.organization_name || 'Organization')}</strong>
+                                        </div>
+                                        <div class="small text-muted mb-1"><i class="fas fa-envelope me-1"></i> ${escapeHtml((s.email_contacts || []).join(', ') || 'No email provided')}</div>
+                                        <div class="small text-slate-300"><em>Reason:</em> ${escapeHtml(s.reason_for_contact || '')}</div>
+                                    </div>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                ` : '';
+
+                return `
+                    <div class="col-12 mb-4">
+                        <div class="card card-custom p-4">
+                            <div class="d-flex justify-content-between align-items-start flex-wrap gap-2 mb-3">
+                                <div>
+                                    <span class="badge-agency mb-2 d-inline-block">${escapeHtml(rule.agency || 'Federal Agency')}</span>
+                                    <h4 class="mb-1">
+                                        <a href="${escapeHtml(rule.link)}" target="_blank" class="rule-title-link">
+                                            ${escapeHtml(rule.title)} <i class="fas fa-external-link-alt ms-1 fs-6 text-primary"></i>
+                                        </a>
+                                    </h4>
+                                </div>
+                                <div class="text-muted small">
+                                    <i class="far fa-calendar-alt me-1"></i> Posted: ${postedDate}
+                                </div>
+                            </div>
+
+                            <div class="comment-box">
+                                <strong class="text-white"><i class="fas fa-brain text-primary me-2"></i>AI Generated Public Comment & Legal Rationale:</strong>
+                                <div class="mt-2">${escapeHtml(commentText).replace(/\n/g, '<br>')}</div>
+                            </div>
+
+                            ${sponsorsHtml}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function escapeHtml(text) {
+            if (!text) return '';
+            return String(text)
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+
+        // Search Filter
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase();
+            const filtered = allRegulations.filter(r => {
+                const titleMatch = (r.title || '').toLowerCase().includes(query);
+                const agencyMatch = (r.agency || '').toLowerCase().includes(query);
+                const commentMatch = ((r.ai_data || {}).proposed_comment || '').toLowerCase().includes(query);
+                return titleMatch || agencyMatch || commentMatch;
+            });
+            renderRegulations(filtered);
+        });
+
+        // Initialize
+        loadRegulations();
+    </script>
 </body>
 </html>

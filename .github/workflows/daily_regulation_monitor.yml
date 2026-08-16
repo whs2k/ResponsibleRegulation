@@ -8,6 +8,8 @@ on:
 jobs:
   run-monitor:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -28,3 +30,10 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
         run: |
           python main.py --regulation_api_key ${{ secrets.REGULATION_API_KEY }} --gemini_api_key ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commit and push updated data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/processed_rules.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update processed regulations history [skip ci]" && git push)

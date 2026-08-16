@@ -1,0 +1,22 @@
+[
+  {
+    "id": "EPA-R01-OAR-2026-2147-0001",
+    "agency": "EPA",
+    "title": "Test Rule 1",
+    "link": "https://www.regulations.gov/document/EPA-R01-OAR-2026-2147-0001",
+    "posted_date": "2026-08-14T00:00:00Z",
+    "processed_at": "2026-08-16T15:00:00Z",
+    "ai_data": {
+      "proposed_comment": "Test Comment 1",
+      "sponsors": [
+        {
+          "organization_name": "Test Org",
+          "email_contacts": [
+            "info@test.org"
+          ],
+          "reason_for_contact": "Advocacy"
+        }
+      ]
+    }
+  }
+]
