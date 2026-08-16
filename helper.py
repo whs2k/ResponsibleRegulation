@@ -3,8 +3,18 @@ import requests
 import pandas as pd
 import time
 from datetime import datetime
-import requests
 import os
+from pydantic import BaseModel, Field
+from typing import List
+
+class Sponsor(BaseModel):
+    organization_name: str = Field(description="Name of the company or lobbying firm.")
+    email_contacts: List[str] = Field(description="List of possible email contacts for this firm.")
+    reason_for_contact: str = Field(description="Reason why this firm would be interested in the proposed comment.")
+
+class CommentResponse(BaseModel):
+    proposed_comment: str = Field(description="The full proposed comment text.")
+    sponsors: List[Sponsor] = Field(description="List of relevant companies or firms to sponsor the change.")
 
 
 def create_dataframe_from_list_of_dicts(data_list):
@@ -43,15 +53,13 @@ def get_proposed_rule_text_link(proposed_rule_id_, api_key_):
     return proposed_rule_file_url
 
 def generate_comment(proposed_rule_id_,  gemini_client, regulation_api_key_, 
-    gemini_prompt='NA', sleep_seconds=0, print_prompt=False, gemini_model='gemini-2.0-flash'):
+    gemini_prompt='NA', sleep_seconds=0, print_prompt=False, gemini_model='gemini-3.6-flash'):
     proposed_rule_id = proposed_rule_id_
     print('proposed_rule_id: ', proposed_rule_id)
     proposed_rule_url = 'https://api.regulations.gov/v4/documents/{}?api_key={}'.format(proposed_rule_id,regulation_api_key_)
-    #proposed_rule_file_url = requests.get(proposed_rule_url).json()['data']['attributes']['fileFormats'][1]['fileUrl']
     proposed_rule_files_list = requests.get(proposed_rule_url).json()['data']['attributes']['fileFormats']
     print('proposed_rule_files_list: ',proposed_rule_files_list)
     for rule_file in proposed_rule_files_list:
-        #print(rule_file['format'])
         if 'htm' in rule_file['format']:
             proposed_rule_file_url = rule_file['fileUrl']
             proposed_rule_file_format = rule_file['format']
@@ -60,25 +68,14 @@ def generate_comment(proposed_rule_id_,  gemini_client, regulation_api_key_,
     proposed_rule_file_title = requests.get(proposed_rule_url).json()['data']['attributes']['title']
     proposed_rule_file_name = proposed_rule_file_title + '.' + proposed_rule_file_format 
     print(proposed_rule_file_name)
-    #proposed_rule_text = BeautifulSoup(requests.get(proposed_rule_file_url).content, "html.parser").get_text()
     with open(proposed_rule_file_name, "wb") as f:
-                # Write the content of the response to the file
                 f.write(requests.get(proposed_rule_file_url).content)
     
-    #print(proposed_rule_file_url)
     print(proposed_rule_file_name)
     print('https://www.regulations.gov/document/{}'.format(proposed_rule_id))
 
     epa_proposed_rule_htm = gemini_client.files.upload(file=proposed_rule_file_name)
     if gemini_prompt == 'NA':
-        
-        
-        gemini_prompt_final = ['''Hi Gemini! I'm an an environmental researcher trying to understand the affect of the following proposed EPA regulation.
-        Can you review it and: (1) summarize the proposed rule, (2) identify the fundamental reasons and data provided in justification of the propsed rule and (3) provide research and data that might challenge each of the fundamental reasons? 
-        For each one of the challenges please include a url link and citation to the peer reviewed paper as a reference?
-        
-        Here is the document: 
-        ''', epa_proposed_rule_htm]
         gemini_prompt_final = ['''Hi Gemini! You are a lawyer and politician working to make the country a better place.
 In order to achieve this, you work to make sure that governement regulations are protecting citizens, without undulying penalizing businessese.
 Whenever a regulatory agency wants to create a new rule, by law they have to allow the public to comment on the rule, and address the important points.
@@ -89,24 +86,28 @@ Can you please generate a comment for the proposed rule with the following struc
     (1) Introduction and Primary Argument: First cite the specific pages of paragraphs of the rule and the exact text which is challengeable. If it can be replaced with different language then propose what it should be changed to. If the argument invalidates the rule and should block it even from publication then explain so.
     (2) In the next paragraph provide rationale for why the specific sentaces or pargraphs should be changed or removed. Include url links and citations to the peer reviewed papers as a reference. Check that each url link goes to the paper or reference and that it isn't dead.
 
+Additionally, please provide a list of 3-5 relevant companies, lobbying firms, or non-profits that would benefit from this comment, along with suggested contact methods (emails) and a reason for contacting them.
+
         Here is the document: 
         ''', epa_proposed_rule_htm]
     else:
         gemini_prompt_final = [gemini_prompt, epa_proposed_rule_htm]
     
-    response = gemini_client.models.generate_content(
-        model=gemini_model,#'gemini-2.5-flash-preview-04-17',#"gemini-1.5-pro",#"gemini-2.0-flash",
-        #generation_config={
-        #"temperature": 0.8,
-        #"max_output_tokens": 2048},
-        contents=gemini_prompt_final
+    response = gemini_client.interactions.create(
+        model=gemini_model,
+        input=gemini_prompt_final,
+        response_format={
+            "type": "text",
+            "mime_type": "application/json",
+            "schema": CommentResponse.model_json_schema()
+        }
     )
     if print_prompt==True:
-        print(response.text)
+        print(response.output_text)
     gemini_client.files.delete(name=epa_proposed_rule_htm.name)
     os.remove(proposed_rule_file_name)
     time.sleep(sleep_seconds)
-    return response.text
+    return response.output_text
 
 def comment_from_ruleid(proposed_rule_id_, regulation_api_key_, gemini_client):
     #get_proposed_rule_text_link = 
