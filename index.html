@@ -1,97 +1,141 @@
 <!DOCTYPE html>
-<html lang="en" data-mdb-theme="dark">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Responsible Regulation | Civic Policy Intelligence & Action</title>
-    <meta name="description" content="Empowering educated advocates, researchers, and public interest organizations to shape federal rulemaking through evidence-based participation.">
-    <!-- Font Awesome -->
+    <title>Responsible Regulation | Civic Tech & Policy Action</title>
+    <meta name="description" content="A friendly, evidence-based civic platform for citizens, researchers, and organizations to shape federal rulemaking.">
+    <!-- Google Fonts: Noto Sans & Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome Icons -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet" />
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
-    <!-- MDB UI Kit -->
+    <!-- MDB UI Kit (Light Theme Base) -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.3.2/mdb.min.css" rel="stylesheet" />
-    
+
     <style>
         :root {
-            --bg-color: #0b0f19;
-            --card-bg: #151c2c;
-            --table-header-bg: #1e293b;
-            --accent-primary: #3b82f6;
-            --accent-hover: #2563eb;
-            --border-color: #1e293b;
-            --text-muted: #94a3b8;
-            --accent-emerald: #10b981;
-            --accent-amber: #f59e0b;
+            --bg-main: #f8fafc;
+            --card-bg: #ffffff;
+            --text-dark: #0f172a;
+            --text-body: #334155;
+            --text-muted: #64748b;
+            --border-subtle: #e2e8f0;
+            --primary-accent: #2563eb;
+            --primary-hover: #1d4ed8;
+            --badge-agency-bg: #e0f2fe;
+            --badge-agency-text: #0369a1;
+            --badge-time-bg: #fef3c7;
+            --badge-time-text: #b45309;
+            --chip-green-bg: #d1fae5;
+            --chip-green-text: #047857;
         }
 
         body {
-            background-color: var(--bg-color);
-            color: #f8fafc;
-            font-family: 'Inter', sans-serif;
-            padding-bottom: 60px;
+            background-color: var(--bg-main);
+            color: var(--text-body);
+            font-family: 'Noto Sans', 'Inter', sans-serif;
+            padding-bottom: 70px;
         }
 
+        /* Chill Top Navigation Header */
+        .site-nav {
+            background-color: #ffffff;
+            border-bottom: 1px solid var(--border-subtle);
+            padding: 1rem 0;
+        }
+
+        .site-logo {
+            font-weight: 700;
+            font-size: 1.25rem;
+            color: var(--text-dark);
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        /* NYC PIT Crew Inspired Chill Banner */
         .hero-banner {
-            background: linear-gradient(135deg, rgba(30, 41, 59, 0.9) 0%, rgba(15, 23, 42, 0.95) 100%),
-                        radial-gradient(circle at top right, rgba(59, 130, 246, 0.2), transparent 50%);
-            border-bottom: 1px solid var(--border-color);
-            padding: 3.5rem 1.5rem 2.5rem;
-            margin-bottom: 2rem;
-            border-radius: 0 0 1.5rem 1.5rem;
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+            color: #ffffff;
+            border-radius: 20px;
+            padding: 3.5rem 2rem;
+            margin: 1.5rem 0 2.5rem;
+            box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+            position: relative;
+            overflow: hidden;
         }
 
-        .hero-title {
-            font-weight: 800;
-            letter-spacing: -0.03em;
-            background: linear-gradient(to right, #60a5fa, #a78bfa, #34d399);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
+        .hero-banner::after {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -10%;
+            width: 400px;
+            height: 400px;
+            background: radial-gradient(circle, rgba(59, 130, 246, 0.25) 0%, transparent 70%);
+            pointer-events: none;
         }
 
-        .trust-badge {
-            background: rgba(16, 185, 129, 0.1);
-            color: #34d399;
-            border: 1px solid rgba(16, 185, 129, 0.25);
+        .chill-pill {
+            background: rgba(255, 255, 255, 0.12);
+            color: #93c5fd;
+            border: 1px solid rgba(255, 255, 255, 0.2);
             font-size: 0.85rem;
             font-weight: 600;
-            padding: 0.4rem 1rem;
-            border-radius: 20px;
+            padding: 0.35rem 1rem;
+            border-radius: 50px;
             display: inline-flex;
             align-items: center;
         }
 
-        .table-responsive-custom {
+        .hero-title {
+            font-weight: 800;
+            font-size: 2.5rem;
+            letter-spacing: -0.02em;
+            color: #ffffff;
+        }
+
+        .hero-subtitle {
+            font-size: 1.15rem;
+            color: #cbd5e1;
+            max-width: 720px;
+            line-height: 1.6;
+        }
+
+        /* Clean Card & Table Container */
+        .content-card {
             background-color: var(--card-bg);
-            border: 1px solid var(--border-color);
-            border-radius: 14px;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+            border: 1px solid var(--border-subtle);
+            border-radius: 16px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
             overflow: hidden;
         }
 
         .table-custom {
             margin-bottom: 0;
-            color: #e2e8f0;
             vertical-align: top;
         }
 
         .table-custom th {
-            background-color: var(--table-header-bg);
-            color: #f1f5f9;
-            font-weight: 600;
-            font-size: 0.85rem;
+            background-color: #f1f5f9;
+            color: #475569;
+            font-weight: 700;
+            font-size: 0.8rem;
             text-transform: uppercase;
             letter-spacing: 0.05em;
-            padding: 1rem 1.25rem;
-            border-bottom: 1px solid var(--border-color);
+            padding: 1.1rem 1.25rem;
+            border-bottom: 1px solid var(--border-subtle);
             white-space: nowrap;
         }
 
         .table-custom td {
             padding: 1.25rem;
-            border-bottom: 1px solid var(--border-color);
-            font-size: 0.92rem;
-            line-height: 1.5;
+            border-bottom: 1px solid var(--border-subtle);
+            font-size: 0.93rem;
+            color: var(--text-body);
         }
 
         .table-custom tr:last-child td {
@@ -99,201 +143,234 @@
         }
 
         .table-custom tr:hover td {
-            background-color: rgba(30, 41, 59, 0.5);
+            background-color: #f8fafc;
         }
 
-        .badge-agency {
-            background: rgba(59, 130, 246, 0.15);
-            color: #60a5fa;
-            border: 1px solid rgba(59, 130, 246, 0.3);
+        /* Badges & Links */
+        .agency-pill {
+            background-color: var(--badge-agency-bg);
+            color: var(--badge-agency-text);
+            font-weight: 700;
+            font-size: 0.75rem;
+            padding: 0.3rem 0.75rem;
+            border-radius: 50px;
+            display: inline-block;
+        }
+
+        .time-pill {
+            background-color: var(--badge-time-bg);
+            color: var(--badge-time-text);
             font-weight: 600;
-            padding: 4px 10px;
-            border-radius: 6px;
             font-size: 0.78rem;
-        }
-
-        .badge-deadline {
-            background: rgba(245, 158, 11, 0.15);
-            color: #fbbf24;
-            border: 1px solid rgba(245, 158, 11, 0.3);
-            font-weight: 500;
-            padding: 4px 8px;
-            border-radius: 6px;
-            font-size: 0.8rem;
+            padding: 0.35rem 0.75rem;
+            border-radius: 8px;
             display: inline-block;
         }
 
-        .rule-link {
-            color: #f8fafc;
+        .reg-link {
+            color: var(--text-dark);
+            font-weight: 700;
             text-decoration: none;
-            font-weight: 600;
-            transition: color 0.2s ease;
-        }
-
-        .rule-link:hover {
-            color: var(--accent-primary);
-        }
-
-        .ref-link {
-            display: inline-block;
-            color: #60a5fa;
-            text-decoration: none;
-            font-size: 0.85rem;
-            margin-bottom: 6px;
             transition: color 0.15s ease;
         }
 
+        .reg-link:hover {
+            color: var(--primary-accent);
+        }
+
+        .ext-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+            font-size: 0.78rem;
+            color: var(--primary-accent);
+            background: #eff6ff;
+            border: 1px solid #bfdbfe;
+            padding: 0.25rem 0.6rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            margin-top: 0.4rem;
+            transition: all 0.15s ease;
+        }
+
+        .ext-btn:hover {
+            background: var(--primary-accent);
+            color: #ffffff;
+        }
+
+        .ref-item {
+            margin-bottom: 0.4rem;
+        }
+
+        .ref-link {
+            color: var(--primary-accent);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.85rem;
+        }
+
         .ref-link:hover {
-            color: #93c5fd;
             text-decoration: underline;
         }
 
-        .btn-action {
-            background-color: var(--accent-primary);
-            color: #fff;
+        /* Chill Action Button */
+        .btn-chill-action {
+            background-color: var(--primary-accent);
+            color: #ffffff;
             font-weight: 600;
-            border-radius: 8px;
-            padding: 0.5rem 1rem;
+            border-radius: 10px;
+            padding: 0.5rem 1.1rem;
+            box-shadow: 0 2px 8px rgba(37, 99, 235, 0.2);
             transition: all 0.2s ease;
         }
 
-        .btn-action:hover {
-            background-color: var(--accent-hover);
-            box-shadow: 0 4px 12px rgba(59, 130, 246, 0.4);
-            color: #fff;
+        .btn-chill-action:hover {
+            background-color: var(--primary-hover);
+            color: #ffffff;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
         }
 
-        .modal-content-custom {
-            background-color: var(--card-bg);
-            border: 1px solid var(--border-color);
-            color: #f8fafc;
-            border-radius: 16px;
+        /* Modal Styles */
+        .modal-chill-content {
+            border-radius: 20px;
+            border: none;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
         }
 
-        .comment-display {
-            background-color: rgba(15, 23, 42, 0.8);
-            border: 1px solid var(--border-color);
-            border-radius: 10px;
+        .comment-box-preview {
+            background-color: #f1f5f9;
+            border: 1px solid #cbd5e1;
+            border-radius: 12px;
             padding: 1.25rem;
-            font-size: 0.95rem;
+            font-size: 0.93rem;
             white-space: pre-wrap;
-            color: #cbd5e1;
-            max-height: 400px;
+            color: #1e293b;
+            max-height: 380px;
             overflow-y: auto;
         }
 
-        .sponsor-box {
-            background-color: rgba(30, 41, 59, 0.4);
-            border: 1px solid var(--border-color);
-            border-radius: 10px;
+        .sponsor-card-chill {
+            background: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 12px;
             padding: 1rem;
             margin-bottom: 0.75rem;
         }
 
-        .search-box {
-            background-color: var(--card-bg) !important;
-            border: 1px solid var(--border-color) !important;
-            color: #fff !important;
-            border-radius: 10px;
+        .search-chill {
+            border-radius: 12px !important;
+            border: 1px solid #cbd5e1 !important;
+            padding: 0.75rem 1rem !important;
         }
 
-        .search-box:focus {
-            border-color: var(--accent-primary) !important;
-            box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.25) !important;
+        .search-chill:focus {
+            border-color: var(--primary-accent) !important;
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15) !important;
         }
     </style>
 </head>
 <body>
 
-    <!-- Hero Header -->
-    <header class="hero-banner shadow-3-soft">
-        <div class="container text-center">
-            <div class="mb-3">
-                <span class="trust-badge">
-                    <i class="fas fa-shield-alt me-2"></i>Evidence-Based Civic Action & Policy Intelligence
-                </span>
-            </div>
-            <h1 class="display-4 hero-title mb-3">Responsible Regulation</h1>
-            <p class="lead text-slate-300 mx-auto" style="max-width: 800px; color: #cbd5e1;">
-                Designed for educated advocates, researchers, and public interest organizations. 
-                We monitor federal agency rulemaking, analyze key legal and scientific challenges, cite peer-reviewed evidence, and provide direct means for constructive civic action.
-            </p>
-            <div class="d-flex justify-content-center gap-3 mt-4 flex-wrap">
-                <a href="#rulesSection" class="btn btn-primary btn-rounded px-4">
-                    <i class="fas fa-table me-2"></i>Browse Active Rules
-                </a>
-                <a href="https://github.com/whs2k/ResponsibleRegulation" target="_blank" class="btn btn-outline-light btn-rounded px-4">
-                    <i class="fab fa-github me-2"></i>GitHub Project
+    <!-- Simple Top Navigation -->
+    <nav class="site-nav">
+        <div class="container-fluid px-md-5 d-flex justify-content-between align-items-center">
+            <a href="#" class="site-logo">
+                <i class="fas fa-landmark text-primary"></i> Responsible Regulation
+            </a>
+            <div>
+                <a href="https://github.com/whs2k/ResponsibleRegulation" target="_blank" class="btn btn-sm btn-outline-dark btn-rounded">
+                    <i class="fab fa-github me-1"></i> GitHub Repo
                 </a>
             </div>
         </div>
-    </header>
+    </nav>
 
-    <!-- Main Content Container -->
-    <main class="container-fluid px-md-5" id="rulesSection">
-        <!-- Controls Header -->
-        <div class="row align-items-center mb-4">
+    <!-- Main Container -->
+    <div class="container-fluid px-md-5">
+
+        <!-- NYC PIT Crew Inspired Hero Banner -->
+        <div class="hero-banner">
+            <div class="chill-pill mb-3">
+                <i class="fas fa-sparkles me-2"></i>Civic Tech & Policy Intelligence
+            </div>
+            <h1 class="hero-title mb-3">Hey there! 👋 Welcome to Responsible Regulation.</h1>
+            <p class="hero-subtitle mb-4">
+                We track proposed federal rules across government agencies, break down the core ideas, highlight scientific and legal challenges, and provide evidence-backed tools so you can make a real impact.
+            </p>
+            <div class="d-flex gap-3 flex-wrap">
+                <a href="#tableSection" class="btn btn-light btn-rounded px-4 fw-bold">
+                    <i class="fas fa-arrow-down me-2"></i>Explore Recent Rules
+                </a>
+            </div>
+        </div>
+
+        <!-- Controls Row -->
+        <div class="row align-items-center mb-4" id="tableSection">
             <div class="col-md-6 mb-3 mb-md-0">
                 <div class="input-group">
-                    <span class="input-group-text bg-dark border-secondary text-secondary"><i class="fas fa-search"></i></span>
-                    <input type="text" id="searchInput" class="form-control search-box" placeholder="Search by agency, regulation title, or challenge keyword...">
+                    <span class="input-group-text bg-white border-end-0 text-muted"><i class="fas fa-search"></i></span>
+                    <input type="text" id="searchInput" class="form-control search-chill border-start-0" placeholder="Search by agency, keyword, or challenge...">
                 </div>
             </div>
             <div class="col-md-6 text-md-end">
-                <span class="badge bg-dark border border-secondary text-slate-300 p-2 me-2" id="ruleCount">
-                    <i class="fas fa-file-signature text-primary me-1"></i> 0 Active Regulations
+                <span class="badge bg-white text-dark border p-2 me-2 shadow-2-soft" id="ruleCount">
+                    <i class="fas fa-layer-group text-primary me-1"></i> 0 Rules Tracked
                 </span>
-                <span class="badge bg-dark border border-secondary text-slate-300 p-2" id="lastUpdated">
-                    <i class="fas fa-clock text-success me-1"></i> Updated: Loading...
+                <span class="badge bg-white text-dark border p-2 shadow-2-soft" id="lastUpdated">
+                    <i class="fas fa-sync text-success me-1"></i> Updated: Loading...
                 </span>
             </div>
         </div>
 
-        <!-- Table Container -->
-        <div class="table-responsive-custom">
-            <table class="table table-custom align-middle">
-                <thead>
-                    <tr>
-                        <th style="width: 18%;">Agency & Regulation</th>
-                        <th style="width: 22%;">Summary of Main Idea</th>
-                        <th style="width: 10%;">Date Posted</th>
-                        <th style="width: 12%;">Time Open</th>
-                        <th style="width: 22%;">Challenges to Main Idea</th>
-                        <th style="width: 16%;">References & Sources</th>
-                        <th style="width: 10%; text-align: center;">Action</th>
-                    </tr>
-                </thead>
-                <tbody id="rulesTableBody">
-                    <tr>
-                        <td colspan="7" class="text-center py-5">
-                            <div class="spinner-border text-primary me-2" role="status"></div>
-                            <span class="text-muted">Loading policy intelligence database...</span>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
+        <!-- Table Card -->
+        <div class="content-card mb-5">
+            <div class="table-responsive">
+                <table class="table table-custom align-middle">
+                    <thead>
+                        <tr>
+                            <th style="width: 20%;">Agency & Proposed Regulation</th>
+                            <th style="width: 22%;">Main Idea</th>
+                            <th style="width: 10%;">Date Posted</th>
+                            <th style="width: 12%;">Time Open</th>
+                            <th style="width: 20%;">Key Challenges</th>
+                            <th style="width: 16%;">References & Sources</th>
+                            <th style="width: 10%; text-align: center;">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody id="rulesTableBody">
+                        <tr>
+                            <td colspan="7" class="text-center py-5 text-muted">
+                                <div class="spinner-border text-primary me-2" role="status"></div>
+                                Loading regulations data...
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
         </div>
-    </main>
+    </div>
 
     <!-- Action Modal -->
     <div class="modal fade" id="actionModal" tabindex="-1" aria-hidden="true">
         <div class="modal-dialog modal-lg modal-dialog-centered">
-            <div class="modal-content modal-content-custom">
-                <div class="modal-header border-secondary">
-                    <h5 class="modal-title font-weight-bold text-white" id="modalRuleTitle">Civic Action Dashboard</h5>
-                    <button type="button" class="btn-close btn-close-white" data-mdb-dismiss="modal" aria-label="Close"></button>
+            <div class="modal-content modal-chill-content p-2">
+                <div class="modal-header border-bottom-0 pb-0">
+                    <h5 class="modal-title fw-bold text-dark" id="modalRuleTitle">Take Civic Action</h5>
+                    <button type="button" class="btn-close" data-mdb-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
                     <!-- Nav Tabs -->
-                    <ul class="nav nav-tabs nav-justified mb-3" id="actionTabs" role="tablist">
+                    <ul class="nav nav-pills nav-justified mb-3" id="actionTabs" role="tablist">
                         <li class="nav-item" role="presentation">
-                            <a class="nav-link active text-white fw-semibold" id="tab-comment" data-mdb-toggle="tab" href="#content-comment" role="tab">
-                                <i class="fas fa-file-alt me-2 text-primary"></i>Drafted Comment
+                            <a class="nav-link active fw-bold" id="tab-comment" data-mdb-toggle="tab" href="#content-comment" role="tab">
+                                <i class="fas fa-file-signature me-2"></i>Drafted Public Comment
                             </a>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <a class="nav-link text-white fw-semibold" id="tab-sponsors" data-mdb-toggle="tab" href="#content-sponsors" role="tab">
-                                <i class="fas fa-users me-2 text-success"></i>Sponsors & Coalition Contacts
+                            <a class="nav-link fw-bold" id="tab-sponsors" data-mdb-toggle="tab" href="#content-sponsors" role="tab">
+                                <i class="fas fa-handshake me-2"></i>Partner & Coalition Outreach
                             </a>
                         </li>
                     </ul>
@@ -303,14 +380,14 @@
                         <!-- Comment Tab -->
                         <div class="tab-pane fade show active" id="content-comment" role="tabpanel">
                             <div class="d-flex justify-content-between align-items-center mb-2">
-                                <span class="small text-muted"><i class="fas fa-info-circle me-1"></i> Formatted for direct submission to the official docket:</span>
-                                <button class="btn btn-sm btn-outline-primary" id="btnCopyComment" onclick="copyComment()">
+                                <small class="text-muted"><i class="fas fa-info-circle me-1"></i> Formatted for direct submission to the official docket:</small>
+                                <button class="btn btn-sm btn-outline-primary fw-bold" id="btnCopyComment" onclick="copyComment()">
                                     <i class="far fa-copy me-1"></i> Copy Comment
                                 </button>
                             </div>
-                            <div class="comment-display" id="modalCommentText">Loading comment text...</div>
+                            <div class="comment-box-preview" id="modalCommentText">Loading comment text...</div>
                             <div class="mt-3 text-end">
-                                <a id="modalDocketLink" href="#" target="_blank" class="btn btn-primary btn-sm">
+                                <a id="modalDocketLink" href="#" target="_blank" class="btn btn-primary btn-rounded fw-bold">
                                     <i class="fas fa-external-link-alt me-1"></i> Submit on Regulations.gov
                                 </a>
                             </div>
@@ -319,9 +396,9 @@
                         <!-- Sponsors Tab -->
                         <div class="tab-pane fade" id="content-sponsors" role="tabpanel">
                             <p class="small text-muted mb-3">
-                                Build trusted partnerships by sharing this analysis with relevant organizations and lobbying groups:
+                                Share this evidence-based analysis with relevant advocacy groups and organizations to build trusted coalitions:
                             </p>
-                            <div id="modalSponsorsList">Loading sponsor contacts...</div>
+                            <div id="modalSponsorsList">Loading contacts...</div>
                         </div>
                     </div>
                 </div>
@@ -332,21 +409,20 @@
     <!-- MDB UI Kit JS -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.3.2/mdb.umd.min.js"></script>
 
-    <!-- Logic Script -->
+    <!-- App Logic Script -->
     <script>
         let allRules = [];
-        let activeRuleIndex = null;
 
         async function init() {
             try {
                 const response = await fetch('data/processed_rules.json');
-                if (!response.ok) throw new Error('Network error loading data');
+                if (!response.ok) throw new Error('Could not load regulations data');
                 allRules = await response.json();
 
-                document.getElementById('ruleCount').innerHTML = `<i class="fas fa-file-signature text-primary me-1"></i> ${allRules.length} Active Regulation(s)`;
+                document.getElementById('ruleCount').innerHTML = `<i class="fas fa-layer-group text-primary me-1"></i> ${allRules.length} Rule(s) Tracked`;
                 if (allRules.length > 0 && allRules[0].processed_at) {
                     const d = new Date(allRules[0].processed_at);
-                    document.getElementById('lastUpdated').innerHTML = `<i class="fas fa-clock text-success me-1"></i> Updated: ${d.toLocaleDateString()}`;
+                    document.getElementById('lastUpdated').innerHTML = `<i class="fas fa-sync text-success me-1"></i> Updated: ${d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}`;
                 }
 
                 renderTable(allRules);
@@ -355,8 +431,8 @@
                 document.getElementById('rulesTableBody').innerHTML = `
                     <tr>
                         <td colspan="7" class="text-center py-5 text-muted">
-                            <i class="fas fa-info-circle fa-2x mb-3 d-block"></i>
-                            No processed regulations found yet. Run the daily batch monitor to populate rules.
+                            <i class="fas fa-folder-open fa-2x mb-2 d-block text-slate-300"></i>
+                            No processed regulations found yet. Run the daily monitor to populate.
                         </td>
                     </tr>
                 `;
@@ -379,26 +455,26 @@
                 const summary = ai.summary_of_main_idea || 'Summary unavailable.';
                 const challenges = ai.challenges || 'Challenges unavailable.';
                 const references = ai.references || [];
-                const postedDate = rule.posted_date ? rule.posted_date.split('T')[0] : 'N/A';
+                const postedDate = rule.posted_date ? formatDate(rule.posted_date) : 'N/A';
                 
-                // Format Time Open
-                let timeOpenBadge = `<span class="badge-deadline"><i class="far fa-hourglass me-1"></i> Open for Comment</span>`;
+                // Time Open Badge
+                let timeBadge = `<span class="time-pill"><i class="far fa-clock me-1"></i> Open for Comment</span>`;
                 if (rule.comment_end_date && rule.comment_end_date !== 'N/A' && rule.comment_end_date !== 'Open') {
                     const endDate = new Date(rule.comment_end_date);
                     const now = new Date();
                     const diffDays = Math.ceil((endDate - now) / (1000 * 60 * 60 * 24));
                     if (diffDays > 0) {
-                        timeOpenBadge = `<span class="badge-deadline"><i class="fas fa-clock me-1"></i> ${diffDays} Day(s) Left</span><br/><small class="text-muted" style="font-size:0.75rem;">Closes ${endDate.toLocaleDateString()}</small>`;
+                        timeBadge = `<span class="time-pill"><i class="far fa-hourglass me-1"></i> ${diffDays} Day(s) Left</span>`;
                     } else {
-                        timeOpenBadge = `<span class="badge bg-secondary"><i class="fas fa-lock me-1"></i> Closed</span>`;
+                        timeBadge = `<span class="badge bg-light text-muted"><i class="fas fa-lock me-1"></i> Closed</span>`;
                     }
                 }
 
-                // References HTML
+                // Reference Links
                 const refsHtml = references.length > 0 ? references.map(ref => `
-                    <div>
+                    <div class="ref-item">
                         <a href="${escapeHtml(ref.url)}" target="_blank" class="ref-link">
-                            <i class="fas fa-external-link-alt me-1 fs-7"></i>${escapeHtml(ref.title || 'Citation')}
+                            <i class="fas fa-arrow-up-right-from-square me-1 fs-7"></i>${escapeHtml(ref.title || 'Source Citation')}
                         </a>
                     </div>
                 `).join('') : '<span class="text-muted small">None cited</span>';
@@ -406,21 +482,24 @@
                 return `
                     <tr>
                         <td>
-                            <span class="badge-agency mb-2 d-inline-block">${escapeHtml(rule.agency || 'Agency')}</span>
+                            <span class="agency-pill mb-2">${escapeHtml(rule.agency || 'Agency')}</span>
                             <div>
-                                <a href="${escapeHtml(rule.link)}" target="_blank" class="rule-link">
+                                <a href="${escapeHtml(rule.link)}" target="_blank" class="reg-link">
                                     ${escapeHtml(rule.title)}
                                 </a>
                             </div>
+                            <a href="${escapeHtml(rule.link)}" target="_blank" class="ext-btn">
+                                <i class="fas fa-external-link-alt"></i> Official Docket
+                            </a>
                         </td>
                         <td>${escapeHtml(summary)}</td>
                         <td class="text-nowrap"><i class="far fa-calendar-alt text-muted me-1"></i> ${postedDate}</td>
-                        <td>${timeOpenBadge}</td>
-                        <td class="text-slate-300">${escapeHtml(challenges)}</td>
+                        <td>${timeBadge}</td>
+                        <td>${escapeHtml(challenges)}</td>
                         <td>${refsHtml}</td>
                         <td class="text-center align-middle">
-                            <button class="btn btn-action btn-sm" onclick="openActionModal(${idx})">
-                                <i class="fas fa-bullhorn me-1"></i> Take Action
+                            <button class="btn btn-chill-action btn-sm" onclick="openActionModal(${idx})">
+                                Take Action
                             </button>
                         </td>
                     </tr>
@@ -429,7 +508,6 @@
         }
 
         function openActionModal(idx) {
-            activeRuleIndex = idx;
             const rule = allRules[idx];
             if (!rule) return;
 
@@ -446,15 +524,15 @@
             } else {
                 sponsorsContainer.innerHTML = sponsors.map(s => {
                     const emails = (s.email_contacts || []).join(', ');
-                    const mailto = emails ? `mailto:${emails}?subject=${encodeURIComponent('Sponsorship & Collaboration on Proposed Regulation: ' + rule.title)}` : '#';
+                    const mailto = emails ? `mailto:${emails}?subject=${encodeURIComponent('Collaboration on Proposed Regulation: ' + rule.title)}` : '#';
                     return `
-                        <div class="sponsor-box">
+                        <div class="sponsor-card-chill">
                             <div class="d-flex justify-content-between align-items-center mb-1">
-                                <h6 class="text-info font-weight-bold mb-0">${escapeHtml(s.organization_name)}</h6>
-                                ${emails ? `<a href="${mailto}" class="btn btn-outline-success btn-sm py-1 px-2"><i class="fas fa-paper-plane me-1"></i> Email Firm</a>` : ''}
+                                <strong class="text-dark fs-6">${escapeHtml(s.organization_name)}</strong>
+                                ${emails ? `<a href="${mailto}" class="btn btn-sm btn-outline-primary btn-rounded py-1 px-3"><i class="fas fa-paper-plane me-1"></i> Email Contact</a>` : ''}
                             </div>
-                            <div class="small text-muted mb-2"><i class="fas fa-envelope me-1"></i> Contacts: ${escapeHtml(emails || 'N/A')}</div>
-                            <div class="small text-slate-300"><strong>Outreach Rationale:</strong> ${escapeHtml(s.reason_for_contact)}</div>
+                            <div class="small text-muted mb-2"><i class="fas fa-envelope me-1"></i> ${escapeHtml(emails || 'N/A')}</div>
+                            <div class="small text-slate-700"><strong>Outreach Rationale:</strong> ${escapeHtml(s.reason_for_contact)}</div>
                         </div>
                     `;
                 }).join('');
@@ -473,6 +551,12 @@
                     btn.innerHTML = `<i class="far fa-copy me-1"></i> Copy Comment`;
                 }, 2000);
             });
+        }
+
+        function formatDate(dateStr) {
+            if (!dateStr) return 'N/A';
+            const d = new Date(dateStr);
+            return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
         }
 
         function escapeHtml(text) {
