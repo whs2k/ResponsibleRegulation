@@ -64,21 +64,73 @@ def generate_comment(proposed_rule_id_,  gemini_client, regulation_api_key_,
     proposed_rule_id = proposed_rule_id_
     print('proposed_rule_id: ', proposed_rule_id)
     proposed_rule_url = 'https://api.regulations.gov/v4/documents/{}?api_key={}'.format(proposed_rule_id,regulation_api_key_)
-    proposed_rule_files_list = requests.get(proposed_rule_url).json()['data']['attributes']['fileFormats']
-    print('proposed_rule_files_list: ',proposed_rule_files_list)
+    try:
+        res_json = requests.get(proposed_rule_url).json()
+    except Exception as e:
+        print(f"Error making API request for {proposed_rule_id}:", e)
+        return json.dumps({
+            "summary_of_main_idea": "Unable to fetch document details from Regulations.gov.",
+            "challenges": "Document details could not be retrieved.",
+            "references": [],
+            "proposed_comment": "Public comment unavailable due to network error.",
+            "sponsors": []
+        })
+
+    data_obj = res_json.get('data')
+    if not data_obj:
+        print(f"Warning: Could not fetch data for document {proposed_rule_id}. API Response: {res_json}")
+        return json.dumps({
+            "summary_of_main_idea": "Document metadata unavailable from Regulations.gov API.",
+            "challenges": "Document details could not be retrieved.",
+            "references": [],
+            "proposed_comment": "Public comment unavailable due to API error.",
+            "sponsors": []
+        })
+
+    attributes = data_obj.get('attributes', {})
+    proposed_rule_files_list = attributes.get('fileFormats', [])
+    if not proposed_rule_files_list:
+        print(f"Warning: No file formats available for document {proposed_rule_id}.")
+        return json.dumps({
+            "summary_of_main_idea": "No downloadable file formats available for this document.",
+            "challenges": "Document file content unavailable.",
+            "references": [],
+            "proposed_comment": "Public comment unavailable.",
+            "sponsors": []
+        })
+
+    proposed_rule_file_url = None
+    proposed_rule_file_format = 'htm'
     for rule_file in proposed_rule_files_list:
-        if 'htm' in rule_file['format']:
-            proposed_rule_file_url = rule_file['fileUrl']
-            proposed_rule_file_format = rule_file['format']
+        if 'htm' in rule_file.get('format', ''):
+            proposed_rule_file_url = rule_file.get('fileUrl')
+            proposed_rule_file_format = rule_file.get('format', 'htm')
             break
-    print('proposed_rule_file_url: ', proposed_rule_file_url)
-    proposed_rule_file_title = requests.get(proposed_rule_url).json()['data']['attributes']['title']
-    proposed_rule_file_name = proposed_rule_file_title + '.' + proposed_rule_file_format 
-    print(proposed_rule_file_name)
+
+    if not proposed_rule_file_url:
+        proposed_rule_file_url = proposed_rule_files_list[0].get('fileUrl')
+        proposed_rule_file_format = proposed_rule_files_list[0].get('format', 'htm')
+
+    proposed_rule_file_title = attributes.get('title', proposed_rule_id)
+    safe_title = "".join(c for c in proposed_rule_file_title if c.isalnum() or c in (' ', '_', '-')).strip()
+    proposed_rule_file_name = f"{safe_title}.{proposed_rule_file_format}"
+    print('Downloading:', proposed_rule_file_name)
+
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
-    with open(proposed_rule_file_name, "wb") as f:
-                f.write(requests.get(proposed_rule_file_url, headers=headers).content)
-    
+    try:
+        file_content = requests.get(proposed_rule_file_url, headers=headers).content
+        with open(proposed_rule_file_name, "wb") as f:
+            f.write(file_content)
+    except Exception as e:
+        print(f"Error downloading file for {proposed_rule_id}:", e)
+        return json.dumps({
+            "summary_of_main_idea": "File download failed.",
+            "challenges": "Could not download document file.",
+            "references": [],
+            "proposed_comment": "Public comment unavailable.",
+            "sponsors": []
+        })
+
     print(proposed_rule_file_name)
     print('https://www.regulations.gov/document/{}'.format(proposed_rule_id))
 
