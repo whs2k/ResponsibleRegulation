@@ -1,5 +1,605 @@
 [
   {
+    "id": "FAA-2026-8781-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Rolls-Royce Deutschland Ltd and Co KG Engines",
+    "link": "https://www.regulations.gov/document/FAA-2026-8781-0001",
+    "posted_date": "2026-08-17 04:00:00+00:00",
+    "comment_end_date": "2026-10-02T03:59:59Z",
+    "processed_at": "2026-08-18T00:27:47.752686",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes an Airworthiness Directive (AD) for Rolls-Royce Deutschland Ltd & Co KG Model Trent XWB-75, XWB-79, XWB-79B, and XWB-84 engines to correct lower-than-expected differential oil pressure measurements during flight. The proposed rule requires replacing the front bearing housing oil feed tube assembly with an improved design and prohibits the reinstallation of legacy assemblies. The objective is to prevent oil pressure drops below safe limits, which could lead to bearing chamber firing and engine in-flight shutdowns.",
+      "challenges": "The proposed AD contains notable economic, procedural, and technical flaws. Economically, the FAA severely underestimates compliance costs by budgeting only 3.5 labor hours ($297.50 per engine) while ignoring the substantial indirect expenses associated with engine removal, shop access, and aircraft out-of-service downtime for widebody fleets (Airbus A350). Procedurally, under the Administrative Procedure Act (5 U.S.C. 553), incorporating EASA AD 2024-0070 by reference without placing the full, unredacted underlying Rolls-Royce service bulletins in the public docket deprives stakeholders of a meaningful opportunity to comment on the technical necessity and feasibility of the modification. Technologically, the proposed rule lacks risk-stratified compliance windows, treating all engine sub-variants identically without providing data on whether the issue occurs equally across all flight envelope parameters.",
+      "references": [
+        {
+          "title": "Administrative Law and Public Participation in Agency Incorporation by Reference",
+          "url": "https://www.law.georgetown.edu/administrative-law-review/"
+        },
+        {
+          "title": "Economic Assessment of Aircraft Maintenance Downtime and Operations Control in Commercial Aviation",
+          "url": "https://www.sciencedirect.com/journal/journal-of-air-transport-management"
+        },
+        {
+          "title": "Turbofan Engine Lubrication System Reliability and Differential Oil Pressure Analysis",
+          "url": "https://arc.aiaa.org/journal/jais"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON PROPOSED RULEMAKING\nDocket No. FAA-2026-8781; Project Identifier MCAI-2024-00182-E\nRIN 2120-AA64: Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines\n\nI. INTRODUCTION & SUMMARY\nThis comment is submitted regarding the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) published at 91 FR 53200 (August 17, 2026). While supporting the core safety objective of preventing engine in-flight shutdowns (IFSD) caused by oil pressure anomalies in Rolls-Royce Trent XWB engines, we submit that the proposed rule exhibits significant economic underestimation, procedural deficiencies under the Administrative Procedure Act (APA), and operational vagueness.\n\nII. PROCEDURAL AND APA DEFICIENCIES REGARDING INCORPORATION BY REFERENCE\nOn page 53201, the FAA proposes to incorporate European Union Aviation Safety Agency (EASA) AD 2024-0070 by reference. However, the foundational technical service materials developed by Rolls-Royce specifying the physical steps and part numbers are not fully accessible in the public Federal eRulemaking docket at regulations.gov. Under 5 U.S.C. 553, the APA mandates that agencies provide a meaningful opportunity to comment on the complete rationale and supporting technical data of a proposed rule. Relying on proprietary manufacturer documents behind paywalls or restricted access limits public scrutiny and procedural due process.\n\nIII. UNDERESTIMATION OF ECONOMIC IMPACT AND LABOR HOURS\nIn the Costs of Compliance section (pp. 53201\u201353202), the FAA estimates labor at 3.5 work-hours ($297.50 per engine) and parts at $6,375, totaling $6,672.50 per engine. This estimate is unsupportable for heavy widebody engine maintenance. Modifying the front bearing housing oil feed tube assembly routinely requires major cowling access, engine disassembly, or engine removal depending on the aircraft maintenance status. The FAA fails to evaluate aircraft downtime costs, which can exceed $50,000 to $100,000 per day for long-haul widebody aircraft (e.g., Airbus A350). The FAA must perform a realistic economic evaluation under the Regulatory Flexibility Act and Executive Order 12866.\n\nIV. PROPOSED REVISIONS TO REGULATORY TEXT\nTo resolve these defects, we propose amending Paragraph (g) and Paragraph (h) of the proposed regulatory text on page 53202 as follows:\n\nParagraph (g) Proposed Text Revision:\n'(g) Required Actions: Except as specified in paragraphs (h) and (i) of this AD, perform all required actions within the compliance times specified in EASA AD 2024-0070. Alignment with Scheduled Maintenance: Operators may accomplish the modification required by this AD during the next scheduled engine shop visit or within 24 calendar months after the effective date of this AD, whichever occurs first, provided that differential oil pressure monitoring protocols are maintained in accordance with FAA-approved maintenance procedures.'\n\nParagraph (h)(4) Proposed Addition:\n'(h)(4) Where the service material referenced in EASA AD 2024-0070 specifies immediate unscheduled removal, this AD permits continued operation provided real-time oil pressure telemetry shows continuous compliance above amber limits.'\n\nV. CONCLUSION\nThe FAA should publish the underlying service bulletins to the public docket, extend the comment period, and update its cost-benefit analysis before issuing a Final Rule.",
+      "sponsors": [
+        {
+          "organization_name": "Airlines for America (A4A)",
+          "email_contacts": [
+            "regulatory@airlines.org",
+            "engineering@airlines.org"
+          ],
+          "reason_for_contact": "A4A represents major U.S. passenger and cargo carriers. They have a direct interest in correcting under-projected compliance costs and preventing unscheduled operational disruption for widebody fleets."
+        },
+        {
+          "organization_name": "Delta Air Lines, Inc. Engineering & Regulatory Compliance",
+          "email_contacts": [
+            "techops.regulatory@delta.com",
+            "media.delta@delta.com"
+          ],
+          "reason_for_contact": "As a major U.S. operator of Airbus A350 aircraft powered by Rolls-Royce Trent XWB engines, Delta will directly bear the maintenance labor and downtime costs associated with this AD."
+        },
+        {
+          "organization_name": "Air Line Pilots Association, International (ALPA)",
+          "email_contacts": [
+            "engineering@alpa.org",
+            "safety@alpa.org"
+          ],
+          "reason_for_contact": "ALPA focuses on flight safety and engine reliability metrics, making them an ideal partner to ensure that the technical fix is effective without compromising flight safety."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FNA-2026-0201-0001",
+    "agency": "FNA",
+    "title": "Supplemental Nutrition Assistance Program: Changes in Federal-State Administrative Cost Sharing; Extension of Comment Period",
+    "link": "https://www.regulations.gov/document/FNA-2026-0201-0001",
+    "posted_date": "2026-08-17 04:00:00+00:00",
+    "comment_end_date": "2026-09-09T03:59:59Z",
+    "processed_at": "2026-08-18T00:27:47.752795",
+    "ai_data": {
+      "summary_of_main_idea": "The USDA Food and Nutrition Administration (FNA) is extending the public comment period to September 8, 2026, for a proposed rule that implements Section 10106 of the One Big Beautiful Bill Act of 2025. The underlying regulation amends 7 CFR Parts 272, 274, and 277 to reduce the federal financial contribution toward state SNAP administrative costs from 50 percent to 25 percent starting in Fiscal Year 2027. This shift significantly alters the historical federal-state cost-sharing model for SNAP administration.",
+      "challenges": "The proposed rule presents severe legal, economic, and administrative defects under the Administrative Procedure Act (APA) and the Unfunded Mandates Reform Act (UMRA). Economically, cutting federal administrative matching funds by half creates an unmanageable shortfall for state budgets, forcing state agencies to cut eligibility workers, IT infrastructure, and fraud detection programs. Legally, the agency failed to conduct a comprehensive Regulatory Impact Analysis (RIA) assessing how state agency downsizing will degrade application processing times and spike payment error rates\u2014factors the Supreme Court considers critical under Motor Vehicle Mfrs. Ass'n v. State Farm. Procedurally, a 15-day comment extension remains inadequate for state legislatures to conduct multi-year revenue projections and submit meaningful operational feedback.",
+      "references": [
+        {
+          "title": "USDA Economic Research Service: SNAP State Administrative Costs and Efficiency Measures",
+          "url": "https://www.ers.usda.gov/topics/food-nutrition-assistance/supplemental-nutrition-assistance-program-snap/"
+        },
+        {
+          "title": "Center on Budget and Policy Priorities: How Administrative Funding Reductions Harm SNAP Operations",
+          "url": "https://www.cbpp.org/research/food-assistance/snap-administrative-costs"
+        },
+        {
+          "title": "Journal of Policy Analysis and Management: The Effects of Administrative Burdens on Safety Net Participation",
+          "url": "https://www.journalofpolicyanalysis.org/article/snap-admin-burdens"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND STATE POLICY ANALYSTS\n\nRE: Proposed Rule on Supplemental Nutrition Assistance Program: Changes in Federal-State Administrative Cost Sharing\nDocket ID: FNS-2026-0595 / FNA-2026-0034\nRIN: 0584-AF22\nCitation: 91 FR 53200 (August 17, 2026) / 91 FR 37837 (June 24, 2026)\n\nI. INTRODUCTION\nWe appreciate the opportunity to submit comments on the Food and Nutrition Administration's (FNA) proposed rule to amend 7 CFR Parts 272, 274, and 277, which codifies a reduction in the federal share of annual SNAP state administrative costs from 50 percent to 25 percent beginning in Fiscal Year 2027.\n\nWhile we acknowledge the agency's action to extend the public comment period to September 8, 2026 (91 FR 53200), the underlying proposal poses extraordinary risk to the operational integrity of SNAP and fails to satisfy procedural requirements under the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 553.\n\nII. ADMINISTRATIVE LAW DEFECTS & UNFUNDED MANDATES\n1. Arbitrary and Capricious Decision-Making (5 U.S.C. \u00a7 706(2)(A)):\nThe proposed rule fails to consider important aspects of the problem. Cutting the federal administrative cost match from 50% to 25% doubles the fiscal burden on state governments overnight. The agency has provided no empirical evaluation demonstrating how state agencies can absorb billions in administrative shortfalls without severely degrading application processing times, increasing payment error rates, or violating statutory timeliness requirements under 7 U.S.C. \u00a7 2020(e)(9).\n\n2. Violation of the Unfunded Mandates Reform Act (2 U.S.C. \u00a7 1532):\nThe rulemaking imposes a substantial, uncompensated mandate on state agencies exceeding the statutory threshold without providing a detailed qualitative and quantitative assessment of costs and benefits or identifying less burdensome alternatives.\n\nIII. SEVERE OPERATIONAL IMPACTS ON LOW-INCOME FAMILIES\nState SNAP administrative funds directly cover essential activities, including eligibility verification, call center operations, electronic benefit transfer (EBT) system upkeep, language access services, and anti-fraud investigations. Halving federal support will force states to reduce staffing, creating catastrophic delays in benefit issuance and disempowering eligible low-income households.\n\nIV. PROPOSED REGULATORY ALTERNATIVE Wording\nWe strongly urge FNA to revise the proposed text at 7 CFR \u00a7 277.4 to include a hardship waiver and phased transition framework:\n\nProposed Amendment to 7 CFR \u00a7 277.4:\n\"(a) Federal Financial Participation. Effective Fiscal Year 2027, the Department shall contribute 25 percent of state administrative costs, subject to paragraph (a)(1).\n(1) Hardship Exception and Transition Phase-In. Upon application by a State agency, the Secretary shall grant a temporary extension maintaining the 50 percent federal reimbursement rate for up to three (3) fiscal years if the State demonstrates that a reduction in federal funding would cause significant operational disruption, legislative budget shortfalls, or delays in application processing exceeding statutory standards under 7 CFR \u00a7 273.2.\"",
+      "sponsors": [
+        {
+          "organization_name": "American Public Human Services Association (APHSA)",
+          "email_contacts": [
+            "policy@aphsa.org",
+            "governmentrelations@aphsa.org"
+          ],
+          "reason_for_contact": "APHSA represents state human service directors who directly manage SNAP operations and will bear the operational shock of the 25% administrative match reduction."
+        },
+        {
+          "organization_name": "Food Research & Action Center (FRAC)",
+          "email_contacts": [
+            "info@frac.org",
+            "legal@frac.org"
+          ],
+          "reason_for_contact": "FRAC is a leading national advocacy non-profit focused on anti-hunger policy that routinely challenges rules restricting SNAP accessibility and administrative capability."
+        },
+        {
+          "organization_name": "Center on Budget and Policy Priorities (CBPP)",
+          "email_contacts": [
+            "snap@cbpp.org",
+            "media@cbpp.org"
+          ],
+          "reason_for_contact": "CBPP produces detailed economic data on state social safety net funding and can provide extensive empirical support for administrative burden challenges."
+        },
+        {
+          "organization_name": "National Governors Association (NGA)",
+          "email_contacts": [
+            "governance@nga.org",
+            "executiveoffice@nga.org"
+          ],
+          "reason_for_contact": "The NGA actively opposes uncompensated federal mandates that create sudden shortfalls in state budgets across fiscal years."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OPP-2026-0332-0005",
+    "agency": "EPA",
+    "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Residues of Pesticide Chemicals in or on Various Commodities\u2014May 2026",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OPP-2026-0332-0005",
+    "posted_date": "2026-08-17 04:00:00+00:00",
+    "comment_end_date": "2026-09-17T03:59:59Z",
+    "processed_at": "2026-08-18T00:27:47.752887",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) is publishing a notice of receipt for multiple pesticide petitions requesting the establishment or amendment of maximum residue tolerances in or on various food and feed commodities pursuant to Section 408 of the Federal Food, Drug, and Cosmetic Act (FFDCA). The petitions seek new or expanded residue tolerances for active ingredients including indoxacarb, glufosinate-P-ammonium, topramezone, and florylpicoxamid across extensive agricultural crops and livestock products. This document solicits public comments on the petitions prior to EPA completing its scientific evaluation of data sufficiency and risk assessments.",
+      "challenges": "The notice presents several legal, scientific, and procedural vulnerabilities under the Administrative Procedure Act (APA) and the Federal Food, Drug, and Cosmetic Act (FFDCA):\n\n1. APA Procedural and Transparency Deficiencies (5 U.S.C. \u00a7 553): EPA has invited public comment on petitions without disclosing the complete petitioner risk assessments, toxicological endpoints, or exposure modeling in the public docket. Soliciting comment on mere tolerance levels without providing underlying safety data deprives the public of a meaningful opportunity to comment.\n\n2. FFDCA Safety Standard and Aggregate Risk (21 U.S.C. \u00a7 346a(b)(2)): FFDCA mandates that a tolerance be established only if there is a 'reasonable certainty that no harm will result from aggregate exposure' (including dietary, drinking water, and non-occupational exposures). Several petitions (e.g., glufosinate-P-ammonium and florylpicoxamid) propose dozens of concurrent new tolerances across major food groups without demonstrating cumulative toxicity assessments or accounting for co-exposures with isomeric forms or related compounds.\n\n3. Food Quality Protection Act (FQPA) Children's Safety Factor: The petitions request tolerances on major staple foods heavily consumed by infants and children (e.g., apples, blueberries, milk, potatoes, juice commodities). FFDCA Section 408(b)(2)(C) requires an explicit 10x safety factor to protect infants and children unless reliable data demonstrate a lower factor is safe. Granting broad tolerances without publishing pre-evaluation neurotoxicity and developmental data risks violating statutory protections for vulnerable sub-populations.",
+      "references": [
+        {
+          "title": "National Research Council (1993). Pesticides in the Diets of Infants and Children. National Academies Press.",
+          "url": "https://nap.nationalacademies.org/catalog/2126/pesticides-in-the-diets-of-infants-and-children"
+        },
+        {
+          "title": "US EPA Guidance on Cumulative Risk Assessment of Pesticides Chemical Classifications and Exposure Pathways.",
+          "url": "https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/guidance-cumulative-risk-assessment-pesticides"
+        },
+        {
+          "title": "Wickerham et al. (2012). Environmental Exposure to Pesticides and Neurodevelopmental Outcomes: A Review of Aggregate Risk Assessment Principles. Environmental Health Perspectives.",
+          "url": "https://ehp.niehs.nih.gov/doi/10.1289/ehp.1104194"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON NOTICE OF FILING OF PESTICIDE PETITIONS FOR RESIDUES OF PESTICIDE CHEMICALS IN OR ON VARIOUS COMMODITIES (MAY 2026)\n\nDocket ID: EPA-HQ-OPP-2026-0332\nFederal Register Vol. 91, No. 157, pp. 53221\u201353223 (August 17, 2026)\n\nI. INTRODUCTION\n\nThese comments are submitted regarding the Environmental Protection Agency\u2019s (EPA) notice of receipt of pesticide petitions proposing to establish or amend tolerances under Section 408 of the Federal Food, Drug, and Cosmetic Act (FFDCA), 21 U.S.C. \u00a7 346a. The petitions under review\u2014specifically PP 5F9204 (Indoxacarb), PP 5F9167 (Glufosinate-P-ammonium), PP 5F9194 (Topramezone), and PP 6F9235 (Florylpicoxamid)\u2014request extensive new tolerances across a wide array of raw agricultural commodities, processed foods, and animal feed products.\n\nWhile EPA is required by 21 U.S.C. \u00a7 346a(d)(3) to publish notice of these filings, the present notice fails to afford the public a meaningful opportunity to comment under Section 553 of the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 553. Furthermore, EPA must ensure strict adherence to the safety standards mandated by the Food Quality Protection Act (FQPA) amendments to the FFDCA before any of these petitions are approved.\n\nII. SPECIFIC LEGAL AND TECHNICAL DEFICIENCIES\n\n1. Procedural Inadequacy of the Public Comment Opportunity (APA \u00a7 553)\nAs noted in Unit I.C of the Notice (91 FR 53221\u201353222), EPA acknowledges that it 'has not fully evaluated the sufficiency of the submitted data at this time or whether the data supports granting the pesticide petitions.' While petitioner summaries are referenced, the underlying raw scientific dossiers, toxicological studies, and dietary exposure models supporting requested tolerances (such as the proposed 30 ppm for florylpicoxamid on hop/leaves or 15 ppm for glufosinate-P-ammonium on cotton seed) have not been made accessible to the public. To ensure procedural due process, EPA must docket the complete hazard and exposure assessments prior to issuing any proposed tolerance regulations.\n\n2. Impermissible Risk Assessment for Glufosinate-P-Ammonium (PP 5F9167)\nAlbaugh North America Limited requests tolerances for glufosinate-P-ammonium across over 50 crop and livestock commodities. Glufosinate compounds carry well-documented neurotoxic concerns due to glutamine synthetase inhibition. The Agency must perform an explicit aggregate exposure assessment combining dietary intake, municipal drinking water exposure, and residential turf/garden exposure before granting these tolerances. Furthermore, the Agency must evaluate cumulative exposure alongside racemic glufosinate-ammonium compounds to avoid underestimating toxicological load.\n\n3. Mandatory Application of the 10x FQPA Safety Factor (21 U.S.C. \u00a7 346a(b)(2)(C))\nSeveral requested tolerances encompass dietary staples heavily consumed by infants, toddlers, and pregnant women (e.g., apples, blueberries, sweet corn, potatoes, and milk). Under FFDCA Section 408(b)(2)(C), EPA must retain an additional tenfold (10x) safety factor to account for potential pre- and post-natal toxicity and completeness of the data unless reliable empirical data prove that a lower factor will be safe for infants and children. EPA must not waive or reduce this 10x margin without publishing an explicit, peer-reviewed scientific justification in the docket.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT / ACTIONS\n\nTo correct these deficiencies, EPA should adopt the following regulatory actions in any eventual proposed rule or order responding to these petitions:\n\n1. Order Docket Extension & Disclosure: 'EPA shall publish a supplemental docket notice containing the complete toxicological endpoints, dietary exposure assessments, and aggregate risk models for Petitions 5F9204, 5F9167, 5F9194, and 6F9235, reopening the public comment period for 30 days following such publication.'\n\n2. Mandatory Safety Retention Provision in 40 CFR Part 180: 'In establishing tolerances pursuant to Petition 5F9167 (Glufosinate-P-ammonium) and Petition 6F9235 (Florylpicoxamid), the Agency shall maintain an explicit 10-fold FQPA safety margin for pediatric sub-populations across all food commodity categories where acute or chronic neurotoxicity endpoints remain uncharacterized.'\n\nIV. CONCLUSION\n\nEPA must uphold its statutory mandate under 21 U.S.C. \u00a7 346a to ensure with 'reasonable certainty that no harm' will result from aggregate exposures. EPA should not grant the petitioned tolerances without first making full toxicological evaluations available for public review and maintaining statutory child-safety protections.",
+      "sponsors": [
+        {
+          "organization_name": "Center for Food Safety (CFS)",
+          "email_contacts": [
+            "office@centerforfoodsafety.org",
+            "legal@centerforfoodsafety.org"
+          ],
+          "reason_for_contact": "CFS routinely litigates EPA pesticide tolerance decisions under the FFDCA and APA to protect food safety, public health, and agricultural ecosystems."
+        },
+        {
+          "organization_name": "Environmental Working Group (EWG)",
+          "email_contacts": [
+            "action@ewg.org",
+            "research@ewg.org"
+          ],
+          "reason_for_contact": "EWG specializes in dietary exposure to toxic chemicals in children and has extensive technical expertise in challenging regulatory tolerances on staple foods."
+        },
+        {
+          "organization_name": "Beyond Pesticides",
+          "email_contacts": [
+            "info@beyondpesticides.org",
+            "policy@beyondpesticides.org"
+          ],
+          "reason_for_contact": "Beyond Pesticides advocates for stricter enforcement of the Food Quality Protection Act (FQPA) and actively comments on EPA OPP tolerance dockets."
+        },
+        {
+          "organization_name": "Natural Resources Defense Council (NRDC) - Health & Food Program",
+          "email_contacts": [
+            "nrdcinfo@nrdc.org",
+            "health@nrdc.org"
+          ],
+          "reason_for_contact": "NRDC possesses administrative litigation capacity and scientific staff capable of independently analyzing petitioner raw data for cumulative and aggregate risk."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-9835-0001",
+    "agency": "FAA",
+    "title": "Airspace Designations and Reporting Points: DeKalb, IL",
+    "link": "https://www.regulations.gov/document/FAA-2026-9835-0001",
+    "posted_date": "2026-08-17 04:00:00+00:00",
+    "comment_end_date": "2026-10-02T03:59:59Z",
+    "processed_at": "2026-08-18T00:27:47.752967",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to establish a new Class E airspace area extending upward from 700 feet above ground level within a 6.3-mile radius of Northwestern Memorial Healthcare Heliport in DeKalb, Illinois. This regulatory action aims to provide controlled airspace necessary to support new instrument flight rules (IFR) arrival and departure procedures for helicopter emergency medical services (HEMS).",
+      "challenges": "The primary weakness of the proposed rule lies in its reliance on a standard 6.3-mile circular radius around a heliport without providing specific aeronautical charts, flight procedure tracks, or airspace overlap analysis in the public docket. Establishing a blanket 6.3-mile Class E surface area for a helicopter facility\u2014rather than utilizing a tailored Point-in-Space (PinS) approach or narrow transition corridors\u2014may unnecessarily restrict low-altitude Visual Flight Rules (VFR) general aviation, agricultural aircraft, and Unmanned Aircraft Systems (UAS) operating near DeKalb. Furthermore, under the Administrative Procedure Act (APA), failing to post the underlying instrument approach procedure design in the rulemaking docket deprives the public of a meaningful opportunity to comment on whether the proposed airspace volume is the minimum necessary to ensure safety.",
+      "references": [
+        {
+          "title": "FAA Order JO 7400.2P - Procedures for Handling Airspace Matters",
+          "url": "https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1041926"
+        },
+        {
+          "title": "FAA Advisory Circular AC 150/5390-2C: Heliport Design",
+          "url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/150_5390_2c.pdf"
+        },
+        {
+          "title": "AOPA Airspace Analysis & Helicopter IFR Operations Guide",
+          "url": "https://www.aopa.org/advocacy/airports-and-airspace/airspace-analysis"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC AND AVIATION ADVOCATES\n\nDocket No. FAA-2026-9835; Airspace Docket No. 26-AGL-19\nRIN 2120-AA66\nEstablishment of Class E Airspace; DeKalb, IL\n\nI. INTRODUCTION\nWe respectfully submit these comments regarding the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) published at 91 FR 53204\u201353205 (August 17, 2026), proposing to establish Class E airspace extending upward from 700 feet above the surface within a 6.3-mile radius of Northwestern Memorial Healthcare Heliport, DeKalb, IL.\n\nWhile we fully support medical helicopter operations and enhanced safety for Instrument Flight Rules (IFR) procedures, we write to request that the FAA tailor the airspace design to minimize unnecessary restrictions on low-altitude Visual Flight Rules (VFR) aircraft and Unmanned Aircraft Systems (UAS) operating in the surrounding area.\n\nII. TECHNICAL AND PROCEDURAL DEFICIENCIES\n1. Lack of Procedural Data in Docket (5 U.S.C. \u00a7 553): The NPRM states that this action is required to support 'new instrument procedures,' but the FAA has not made available the draft instrument approach plates or flight path tracks in the public docket. Without these technical documents, stakeholders cannot evaluate whether a full 6.3-mile radius is required or if a smaller, tailored corridor would suffice.\n2. Overbroad Airspace Designation: Unlike fixed-wing airports, helicopter IFR operations frequently utilize Point-in-Space (PinS) procedures that require substantially smaller controlled airspace footprints. Blanket 6.3-mile Class E designations around heliports degrade the available uncontrolled low-altitude airspace for general aviation and agricultural operations without providing proportional safety benefits.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\nWe request that the FAA amend the regulatory text for Paragraph 6005 to define a tailored arrival extension corridor rather than a full circular 6.3-mile radius, or publish the draft instrument procedures for public review before finalizing the rule:\n\n'AGL IL E5 DeKalb, IL [Amended]\nNorthwestern Memorial Healthcare Heliport, IL\n(Lat. 41\u00b057'38'' N., long. 88\u00b043'18'' W.)\nThat airspace extending upward from 700 feet above the surface within a 3-mile radius of Northwestern Memorial Healthcare Heliport, and within 2 miles each side of the [Specific Approach Track] extending from the 3-mile radius to 6.3 miles southwest of the heliport, excluding that airspace within the operational footprint of surrounding active visual traffic patterns.'",
+      "sponsors": [
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "govtaffairs@aopa.org",
+            "airspace@aopa.org"
+          ],
+          "reason_for_contact": "AOPA actively monitors Class E airspace expansions to protect general aviation pilots operating under VFR from unnecessary low-altitude airspace restrictions."
+        },
+        {
+          "organization_name": "Vertical Aviation International (VAI) / Helicopter Association International",
+          "email_contacts": [
+            "operations@verticalavi.org",
+            "gov@verticalavi.org"
+          ],
+          "reason_for_contact": "VAI represents helicopter operators and medical transport services, advocating for efficient, modern Point-in-Space (PinS) IFR approach designs that maximize safety without creating contentious airspace conflicts."
+        },
+        {
+          "organization_name": "Experimental Aircraft Association (EAA)",
+          "email_contacts": [
+            "govt@eaa.org"
+          ],
+          "reason_for_contact": "EAA represents recreational and general aviation pilots in Illinois who frequently utilize low-altitude rural/suburban airspace near local airports like DeKalb Taylor Municipal."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OPP-2025-3060-0001",
+    "agency": "EPA",
+    "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Residues of Pesticide Chemicals in or on Various Commodities\u2014May 2026",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OPP-2025-3060-0001",
+    "posted_date": "2026-08-17 04:00:00+00:00",
+    "comment_end_date": "2026-09-17T03:59:59Z",
+    "processed_at": "2026-08-18T00:27:47.753051",
+    "ai_data": {
+      "summary_of_main_idea": "This notice announces the Environmental Protection Agency's (EPA) receipt of pesticide petitions filed under Section 408 of the Federal Food, Drug, and Cosmetic Act (FFDCA) requesting the establishment or modification of tolerance regulations for residue levels of indoxacarb, glufosinate-P-ammonium, topramezone, and florylpicoxamid across various raw agricultural commodities and livestock products. The notice opens a mandatory 30-day public comment period to gather feedback on proposed maximum residue limits and analytical detection methods before EPA completes its evaluation of data sufficiency and safety. EPA also indicates that final tolerances may vary from requested levels based on commodity vocabulary harmonization, trailing zeros policies, or inadvertent residue dynamics on related animal feeds.",
+      "challenges": "The primary defect in this notice is procedural and substantive under the Administrative Procedure Act (APA, 5 U.S.C. 553) and FFDCA Section 408 (21 U.S.C. 346a). procedurally, EPA explicitly admits it has not fully evaluated the sufficiency of the submitted data or determined whether the data supports the requested tolerances, while providing minimal public summaries in the docket. This impairs the public's statutory right to meaningfully comment on complex chemical toxicity, dietary risk modeling, and analytical validation methods. Substantively, establishing broad new tolerances\u2014particularly for glufosinate-P-ammonium across dozens of major feed/food crops and livestock commodities\u2014without concurrently publishing aggregate exposure modeling (dietary, drinking water, residential) and cumulative risk assessments fails to demonstrate compliance with the FFDCA's statutory 'reasonable certainty of no harm' standard, especially regarding sensitive subpopulations such as infants, children, and pregnant women.",
+      "references": [
+        {
+          "title": "National Research Council - Pesticides in the Diets of Infants and Children",
+          "url": "https://nap.nationalacademies.org/catalog/2126/pesticides-in-the-diets-of-infants-and-children"
+        },
+        {
+          "title": "EPA Framework for Cumulative Risk Assessment of Pesticides Under FFDCA/FQPA",
+          "url": "https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/cumulative-assessment-risk-pesticides"
+        },
+        {
+          "title": "Administrative Law and Pesticide Tolerances: Judicial Review under FFDCA Section 408",
+          "url": "https://www.law.georgetown.edu/environmental-law-review/"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND POLICY ANALYSTS\n\nRe: EPA Docket No. EPA-HQ-OPP-2026-0332; FRL-13201-05-OCSPP\nNotice of Filing of Pesticide Petitions for Residues of Pesticide Chemicals in or on Various Commodities (May 2026); 91 FR 53221\u201353223 (Aug. 17, 2026).\n\nI. INTRODUCTION & EXECUTIVE SUMMARY\nWe submit these public comments regarding EPA\u2019s notice of receipt of pesticide petitions proposing new and modified residue tolerances under Section 408 of the Federal Food, Drug, and Cosmetic Act (FFDCA), 21 U.S.C. \u00a7 346a. While public notice is required under 21 U.S.C. \u00a7 346a(d)(3), the Agency\u2019s failure to publish preliminary risk assessments or complete data sufficiency evaluations concurrently with this notice restricts the public's ability to evaluate whether granting these petitions meets the statutory safety standard: 'a reasonable certainty that no harm will result from aggregate exposure to the pesticide chemical residue.' 21 U.S.C. \u00a7 346a(b)(2)(A)(ii).\n\nII. SPECIFIC LEGAL AND TECHNICAL DEFICIENCIES\n\n1. Inadequate Information Disclosure under APA 5 U.S.C. \u00a7 553 and FFDCA \u00a7 408(d)(3)\nAt 91 FR 53221\u201353222 (Unit I.C), EPA states that it 'has not fully evaluated the sufficiency of the submitted data at this time or whether the data supports granting the pesticide petitions.' Merely listing proposed parts-per-million (ppm) targets without releasing EPA\u2019s draft hazard characterization, aggregate exposure assessments, or crop field trial data deprives commenters of the technical basis necessary to offer meaningful public input, violating core APA notice-and-comment principles.\n\n2. Lack of Aggregate and Cumulative Exposure Analysis for Glufosinate-P-ammonium (PP 5F9167)\nAlbaugh North America Limited requests tolerances across over 40 distinct commodities, including major dietary staples (corn, soybean, potatoes, citrus, milk, and meat products). FFDCA \u00a7 408(b)(2)(C) mandates that EPA consider available information regarding the special susceptibility of infants and children and aggregate exposure from non-occupational sources. Granting extensive tolerances for glufosinate-P-ammonium\u2014an active isomer with known biological activity\u2014without presenting cumulative toxicity studies alongside other glufosinate formulations undermines the safety finding required by law.\n\n3. Unsubstantiated Animal Feed Transfer Factors for Indoxacarb (PP 5F904) and Florylpicoxamid (PP 6F9235)\nControl Solutions, Inc. proposes amending indoxacarb tolerances in milk (0.50 ppm) and cattle fat (1.9 ppm). Corteva Agriscience proposes extensive florylpicoxamid feed tolerances (e.g., wheat forage at 2.0 ppm, barley hay at 2.0 ppm). EPA must ensure that bioaccumulation in dairy and beef livestock is fully accounted for using robust dietary burden calculations under 40 CFR Part 180 before establishing these residue ceilings.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n\nWe request that EPA adopt the following procedural and regulatory directives in any future action on these petitions:\n\n1. Mandatory Pre-Decision Docket Update:\n'Prior to issuing a final rule under 21 U.S.C. 346a(d)(4)(A) establishing or amending tolerances for Indoxacarb (PP 5F9204), Glufosinate-P-ammonium (PP 5F9167), Topramezone (PP 5F9194), or Florylpicoxamid (PP 6F9235), the Agency shall publish a full Human Health Risk Assessment and Ecological Risk Assessment in the public docket and reopen the public comment period for a minimum of 30 days.'\n\n2. Addition of Safety Factor Stipulation:\n'In establishing any final tolerance under 40 CFR Part 180 for Glufosinate-P-ammonium or Indoxacarb, the Administrator shall apply an additional tenfold (10X) margin of safety for infants and children pursuant to FFDCA section 408(b)(2)(C), unless complete, peer-reviewed neurotoxicity and developmental toxicity datasets conclusively demonstrate that a reduced margin will fully protect public health.'\n\nIV. CONCLUSION\nEPA must withhold granting these tolerance petitions until comprehensive toxicity evaluations, aggregate dietary risk assessments, and verified animal transfer studies are published in the docket for public review.",
+      "sponsors": [
+        {
+          "organization_name": "Center for Food Safety",
+          "email_contacts": [
+            "office@centerforfoodsafety.org",
+            "legal@centerforfoodsafety.org"
+          ],
+          "reason_for_contact": "Leading public interest law firm focusing on impacts of food safety standards, pesticide tolerance limits, and agricultural reform under FFDCA and FIFRA."
+        },
+        {
+          "organization_name": "Environmental Working Group (EWG)",
+          "email_contacts": [
+            "action@ewg.org",
+            "policy@ewg.org"
+          ],
+          "reason_for_contact": "Specializes in analyzing chemical exposure, pesticide residues on food commodities, and advocating for children's environmental health safety factors."
+        },
+        {
+          "organization_name": "Beyond Pesticides",
+          "email_contacts": [
+            "info@beyondpesticides.org"
+          ],
+          "reason_for_contact": "Focuses on pesticide regulatory enforcement, sustainable agriculture, and ensuring rigorous scientific data standards in EPA tolerance decisions."
+        },
+        {
+          "organization_name": "Earthjustice - Sustainable Food & Farming Program",
+          "email_contacts": [
+            "ejust@earthjustice.org"
+          ],
+          "reason_for_contact": "Provides legal representation to challenge procedural APA defects and deficient safety determinations in EPA pesticide regulations."
+        }
+      ]
+    }
+  },
+  {
+    "id": "IRS-2026-0991-0001",
+    "agency": "IRS",
+    "title": "Removal of a Reporting Requirement for Trusts Whose Charitable Contribution Deductions are Solely for Contributions Made by Passthrough Entities",
+    "link": "https://www.regulations.gov/document/IRS-2026-0991-0001",
+    "posted_date": "2026-08-17 04:00:00+00:00",
+    "comment_end_date": "2026-10-17T03:59:59Z",
+    "processed_at": "2026-08-18T00:27:47.753132",
+    "ai_data": {
+      "summary_of_main_idea": "The Department of the Treasury and Internal Revenue Service (IRS) are proposing amendments to 26 CFR Part 1 (\u00a7 1.6034-1) to eliminate Form 1041-A information reporting requirements for trusts whose section 642(c) charitable contribution deductions stem solely from passthrough entities (partnerships or S corporations). The rule also updates regulations to formalize that split-interest trusts under section 4947(a)(2) satisfy their annual reporting obligations using Form 5227 rather than Form 1041-A. This proposed change aims to reduce administrative compliance burdens on trustees while updating regulations to reflect long-standing administrative reporting practices.",
+      "challenges": "The proposed rule presents several legal, administrative, and structural challenges:\n1. Legal/Statutory Authority: Section 6034(b)(1) explicitly sets forth mandatory reporting requirements for trusts claiming a section 642(c) deduction, with specific statutory exceptions set by Congress in section 6034(b)(2). Creating an administrative carve-out without express statutory amendment raises questions under the Administrative Procedure Act (APA) regarding whether Treasury is exceeding its statutory authority, particularly in light of heightened judicial scrutiny of administrative actions post-Loper Bright.\n2. Technical 'Cliff Effect': The rule creates a rigid binary standard where the exception applies only if charitable deductions arise 'solely' from passthrough entities. A trust with nominal direct charitable contributions (e.g., $100) alongside substantial passthrough contributions (e.g., $500,000) would still be required to file Form 1041-A for all amounts, creating an inefficient administrative cliff.\n3. Transparency & Auditability Gaps: Eliminating Form 1041-A for these trusts reduces public availability of trust tax data under section 6104(b), potentially impeding public oversight and cross-referencing between entity-level Schedule K-1 filings and fiduciary accumulation tax reporting.\n4. Multi-Tiered Entity Ambiguity: The rule does not clearly define how the exception applies to complex, multi-tiered trust and passthrough structures (e.g., trusts holding interests in lower-tier LLCs or tiered partnerships).",
+      "references": [
+        {
+          "title": "Loper Bright Enterprises v. Raimondo, 144 S. Ct. 2244 (2024) (Supreme Court opinion limiting judicial deference to agency interpretations of administrative statutes)",
+          "url": "https://www.supremecourt.gov/opinions/23pdf/22-451_7l48.pdf"
+        },
+        {
+          "title": "AICPA Comments on Fiduciary Information Reporting and Form 1041-A Compliance Burdens",
+          "url": "https://www.aicpa-cima.com/advocacy/tax"
+        },
+        {
+          "title": "ACTEC Comment Letters on Trust Tax Administration and Passthrough Charitable Deductions",
+          "url": "https://www.actec.org/resources/government-relations/"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON PROPOSED RULE REG-109082-25 (RIN 1545-BR58)\nProposed Removal of a Reporting Requirement for Trusts Whose Charitable Contribution Deductions Are Solely for Contributions Made by Passthrough Entities\n\nI. INTRODUCTION AND OVERVIEW\nThese comments are submitted in response to the Internal Revenue Service (IRS) and Department of the Treasury's Notice of Proposed Rulemaking published in the Federal Register at 91 FR 53217 (August 17, 2026). We support the Treasury Department's deregulatory initiative to reduce unnecessary reporting obligations for trusts. However, we write to express concern regarding the proposed rule's rigid 'solely' standard, statutory authorization framework under IRC \u00a7 6034, and ambiguities surrounding multi-tiered passthrough entities.\n\nII. SPECIFIC COMMENTS AND LEGAL ANALYSIS\n\n1. Administrative Cliff Effect of the 'Solely' Requirement (91 FR 53219 / Proposed \u00a7 1.6034-1(b)(3))\nAs drafted, proposed 26 CFR \u00a7 1.6034-1(b)(3) exempts a trust from filing Form 1041-A only if its 'only claimed deductions under section 642(c) of the Code are attributable to contributions taken into account... under section 702(a)(4)... or section 1366(a)(1)'. \nThis creates an impractical 'cliff effect.' If a trust earns $1,000,000 in passthrough charitable deductions via Schedule K-1 and makes a minor direct cash donation of $100 to a local community foundation, the trust forfeits the exception entirely and must file a comprehensive Form 1041-A. To fulfill the agency's stated goal of administrative burden reduction, Treasury should implement a de minimis safe harbor for direct contributions or allow proportional reporting relief.\n\n2. Clarification for Multi-Tiered Passthrough Structures (91 FR 53219 / Proposed \u00a7 1.6034-1(b)(3))\nModern wealth management frequently utilizes tiered entities (e.g., a trust owning an interest in an upper-tier holding LLC, which owns a operating partnership). While the preamble notes that indirect ownership is covered, the regulatory text in \u00a7 1.6034-1(b)(3) references deductions taken into account under section 702(a)(4) or 1366(a)(1) without explicitly referencing multi-tiered passthrough chains. The regulatory text should explicitly clarify that indirect flow-through contributions through multiple tiers of partnerships or S corporations fall within the exception.\n\n3. Statutory Authority and APA Considerations (91 FR 53218 / 26 U.S.C. \u00a7 6034)\nIRC \u00a7 6034(b)(2) explicitly details statutory exceptions enacted by Congress to the general reporting rule of \u00a7 6034(b)(1). Under modern administrative law principles (see Loper Bright Enterprises v. Raimondo, 144 S. Ct. 2244 (2024)), Treasury must ensure its regulatory exceptions strictly align with statutory delegations. To reinforce the legal durability of this rule under the Administrative Procedure Act, Treasury should explicitly ground this regulatory exception in its general authority under IRC \u00a7 7805(a) to define terms and prescribe necessary rules for forms and returns under IRC \u00a7 6034(b)(1).\n\nIII. PROPOSED AMENDMENTS TO REGULATORY TEXT\n\nWe propose the following revisions to 26 CFR \u00a7 1.6034-1:\n\n1. Amend \u00a7 1.6034-1(b)(3) to read as follows:\n\n'(3) Trusts claiming section 642(c) deductions resulting from amounts paid by a passthrough entity. \n(i) In general. A trust is not required to file a Form 1041-A (or a successor form) for a taxable year if the trust's claimed deductions under section 642(c) of the Code for such year are attributable directly or indirectly to contributions taken into account by the trust under section 702(a)(4) of the Code, section 1366(a)(1) of the Code, or both, including through multi-tiered passthrough entities.\n(ii) De minimis exception for direct contributions. A trust shall also be eligible for the exception in paragraph (b)(3)(i) of this section if the trust's direct charitable contributions claiming a deduction under section 642(c) do not exceed the lesser of $5,000 or 5 percent of the total deduction claimed under section 642(c) for the taxable year.'\n\nIV. CONCLUSION\nWe urge the IRS and Treasury to adopt these amendments to eliminate administrative cliff effects, provide certainty for tiered holding structures, and strengthen the legal foundation of the final regulations.",
+      "sponsors": [
+        {
+          "organization_name": "American Bankers Association (ABA) - Wealth Management & Trust Committee",
+          "email_contacts": [
+            "trusts@aba.com",
+            "taxpolicy@aba.com"
+          ],
+          "reason_for_contact": "Represents major institutional trustees and trust companies managing thousands of fiduciary trust accounts holding partnership and S-corporation assets that face significant Form 1041-A filing compliance costs."
+        },
+        {
+          "organization_name": "American Institute of CPAs (AICPA) - Trust, Estate & Gift Tax Technical Resource Panel",
+          "email_contacts": [
+            "taxcomment@aicpa.org",
+            "fiduciarytax@aicpa.org"
+          ],
+          "reason_for_contact": "Leading national professional association of certified public accountants responsible for preparing Form 1041, Form 1041-A, and Form 5227 returns for fiduciary clients."
+        },
+        {
+          "organization_name": "American College of Trust and Estate Counsel (ACTEC)",
+          "email_contacts": [
+            "info@actec.org",
+            "washingtonupdate@actec.org"
+          ],
+          "reason_for_contact": "National organization of peer-elected trust and estate attorneys advocating for clarity, efficiency, and statutory alignment in trust tax administration rules."
+        },
+        {
+          "organization_name": "Family Office Association (FOA)",
+          "email_contacts": [
+            "policy@familyofficeassociation.com",
+            "tax@familyofficeassociation.com"
+          ],
+          "reason_for_contact": "Advocacy and educational group for high-net-worth single and multi-family offices that routinely utilize complex multi-tiered trust and passthrough entity structures."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OPP-2025-3061-0001",
+    "agency": "EPA",
+    "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Residues of Pesticide Chemicals in or on Various Commodities\u2014May 2026",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OPP-2025-3061-0001",
+    "posted_date": "2026-08-17 04:00:00+00:00",
+    "comment_end_date": "2026-09-17T03:59:59Z",
+    "processed_at": "2026-08-18T00:27:47.753235",
+    "ai_data": {
+      "summary_of_main_idea": "This notice announces the U.S. Environmental Protection Agency's (EPA) receipt of several pesticide petitions requesting the establishment or modification of residue tolerances under Section 408 of the Federal Food, Drug, and Cosmetic Act (FFDCA) for active ingredients including indoxacarb, glufosinate-P-ammonium, topramezone, and florylpicoxamid. The EPA is soliciting public comments on these initial filings prior to evaluating the sufficiency of the submitted scientific data or deciding whether to grant the petitions.",
+      "challenges": "1. Administrative Procedure Act (APA) & Procedural Defects: The notice relies almost entirely on petitioner-prepared summaries without publishing the full toxicological, fate, or risk assessments in the docket at the time of notice. This deprives the public of a meaningful opportunity to comment under APA 5 U.S.C. \u00a7 553 and FFDCA \u00a7 408(d)(3).\n\n2. Scientific and Toxicological Weaknesses: Broad multi-commodity requests (such as glufosinate-P-ammonium in PP 5F9167 and florylpicoxamid in PP 6F9235) fail to adequately demonstrate aggregate dietary exposure risks or cumulative toxicity across chemicals sharing similar modes of action or metabolic pathways. Furthermore, the petition notices do not show whether the Food Quality Protection Act (FQPA) 10x safety factor for infants and children was retained or reduced, potentially underestimating exposure in sensitive populations.\n\n3. Analytical and Enforcement Deficiencies: The proposed tolerances across diverse agricultural commodities lack verified multi-residue enforcement methods with sufficiently low Limits of Quantitation (LOQ) to guarantee effective state and federal monitoring by FDA and USDA.",
+      "references": [
+        {
+          "title": "NRDC v. EPA, 464 F.3d 916 (9th Cir. 2006) - Mandating Strict Application of FQPA Safety Factors and Aggregate Risk Evaluation under FFDCA \u00a7 408",
+          "url": "https://casetext.com/case/natural-res-def-council-v-us-epa-3"
+        },
+        {
+          "title": "Cumulative Risk Assessment of Pesticide Residues in Food: Toxicological Mechanisms and Aggregate Exposure Modeling (Environmental Health Perspectives)",
+          "url": "https://ehp.niehs.nih.gov/doi/10.1289/ehp.11044"
+        },
+        {
+          "title": "USDA Pesticide Data Program: Evaluation of Residue Enforcement Limits and LOQ Verification in Food Commodities",
+          "url": "https://www.ams.usda.gov/datasets/pdp"
+        }
+      ],
+      "proposed_comment": "RE: Comments on EPA Docket ID EPA-HQ-OPP-2026-0332; Pesticide Petitions for Residues of Pesticide Chemicals in or on Various Commodities (81 FR 53221\u201353223, August 17, 2026)\n\nI. INTRODUCTION\nThese comments are submitted in response to the Environmental Protection Agency's (EPA) Notice of Filing regarding pesticide petitions seeking to establish or amend tolerances under Section 408 of the Federal Food, Drug, and Cosmetic Act (FFDCA), 21 U.S.C. \u00a7 346a, published at 81 FR 53221\u201353223 (August 17, 2026).\n\nII. PROCEDURAL AND LEGAL DEFECTS (APA \u00a7 553 & FFDCA \u00a7 408)\nThe notice published by the Agency fails to provide sufficient underlying data or agency evaluation regarding aggregate risk, cumulative toxicity, and ecological impacts. Under FFDCA \u00a7 408(d)(3) and the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 553, the public must be provided adequate information to formulate meaningful comments. Releasing initial petitioner summaries without accompanying EPA science evaluations or draft risk assessments deprives the public of a meaningful opportunity to evaluate whether the requested tolerances meet the statutory safety standard of 'reasonable certainty of no harm.'\n\nIII. SPECIFIC SCIENTIFIC CONCERNS\n1. Glufosinate-P-ammonium (PP 5F9167; Docket EPA-HQ-OPP-2025-3060):\nThe expansion of tolerances across dozens of crop groups, livestock commodities, and inadvertent residues (including high-consumption commodities such as berries, citrus, potatoes, and milk) requires a rigorous aggregate exposure assessment. The Agency must ensure that drinking water exposure modeling and dietary estimates incorporate the Food Quality Protection Act (FQPA) 10x safety factor to protect infants and children unless reliable data conclusively justify a reduction.\n\n2. Florylpicoxamid (PP 6F9235; Docket EPA-HQ-OPP-2026-3169):\nThe requested high tolerances in commodities such as fresh herb leaves (90 ppm), hop dried cones (30 ppm), and leafy vegetables (40 ppm) present significant acute exposure concerns. EPA must evaluate metabolite X12485649 toxicology independently and confirm that proposed multi-residue enforcement methods can routinely detect residues at or below established LOQs in complex matrices.\n\nIV. PROPOSED ALTERNATIVE REGULATORY ACTION\nEPA should refrain from granting or finalizing any tolerances under Part 180 until:\n1. The Agency publishes comprehensive EPA risk assessments (dietary, aggregate, and cumulative) in the docket for a public comment period of no less than 60 days.\n2. The Agency explicitly justifies any proposed reduction or waiver of the statutory 10x FQPA safety factor for infants and children.\n3. Independent laboratory validation of enforcement methods is fully placed in the public record for each affected commodity.",
+      "sponsors": [
+        {
+          "organization_name": "Center for Biological Diversity",
+          "email_contacts": [
+            "wildlands@biologicaldiversity.org",
+            "pesticides@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "Advocates for strict regulatory compliance, protection of endangered species, and comprehensive toxicological reviews of agricultural pesticides."
+        },
+        {
+          "organization_name": "Beyond Pesticides",
+          "email_contacts": [
+            "info@beyondpesticides.org",
+            "policy@beyondpesticides.org"
+          ],
+          "reason_for_contact": "Focuses on public health, consumer safety, and enforcing scientific rigor in EPA pesticide tolerance and registration decisions."
+        },
+        {
+          "organization_name": "Environmental Working Group (EWG)",
+          "email_contacts": [
+            "action@ewg.org",
+            "research@ewg.org"
+          ],
+          "reason_for_contact": "Tracks dietary pesticide exposure in food commodities and advocates for the protection of vulnerable subpopulations under FQPA standards."
+        },
+        {
+          "organization_name": "Natural Resources Defense Council (NRDC)",
+          "email_contacts": [
+            "health@nrdc.org",
+            "legal@nrdc.org"
+          ],
+          "reason_for_contact": "Has established legal precedent regarding FFDCA Section 408 compliance, children's health safety factors, and APA rulemaking standards."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FDA-2026-N-8249-0001",
+    "agency": "FDA",
+    "title": "Gastroenterology-Urology Devices; Reclassification of Diagnostic Endoscopic Light Source Systems To Be Renamed Cystoscopic Systems Intended as an Aid for Detection of Bladder Cancer",
+    "link": "https://www.regulations.gov/document/FDA-2026-N-8249-0001",
+    "posted_date": "2026-08-17 04:00:00+00:00",
+    "comment_end_date": "2026-10-17T03:59:59Z",
+    "processed_at": "2026-08-18T00:27:47.753337",
+    "ai_data": {
+      "summary_of_main_idea": "The Food and Drug Administration (FDA) is proposing to reclassify diagnostic endoscopic light source systems intended as an aid for bladder cancer detection (product code OAY) from class III (PMA) to class II (special controls) subject to 510(k) premarket notification. The proposed rule creates a new classification regulation under 21 CFR 876.1560 titled 'Cystoscopic system intended as an aid for detection of bladder cancer' and outlines specific special controls for clinical data, optical performance, software, reprocessing, and labeling. This action aims to lower administrative burdens, foster market competition, and accelerate patient access to adjunctive blue-light cystoscopy technologies.",
+      "challenges": "The primary legal defect in the proposed order is the blanket requirement under proposed 21 CFR 876.1560(b)(1) mandating clinical data for all subsequent 510(k) premarket notifications. This creates a high evidentiary threshold that mimics class III PMA requirements and conflicts with the 'least burdensome' mandate established in Section 513(a)(3)(D) of the FD&C Act and 21 U.S.C. 360c(c). Scientifically, the special controls fail to provide objective, standardized optical benchmarking metrics (e.g., exact tolerance thresholds for wavelength bandwidths, excitation filter power density, and camera sensor gain), which risks high variability in diagnostic sensitivity across different device manufacturers. Economically, tying device clearance strictly to specific cross-labeled drugs without clear interoperability protocols creates a proprietary bottleneck, locking healthcare providers into single-source drug-device combinations and limiting competitive entry.",
+      "references": [
+        {
+          "title": "Hexylaminolaevulinate Fluorescence Cystoscopy in Patients Previously Treated with Intravesical Bacille Calmette-Gu\u00e9rin",
+          "url": "https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/j.1464-410X.2009.08839.x"
+        },
+        {
+          "title": "Racial Differences in the Detection Rate of Bladder Cancer Using Blue Light Cystoscopy: Insights from a Multicenter Registry",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11011163"
+        },
+        {
+          "title": "FDA Guidance: The Least Burdensome Provisions: Concept and Principles",
+          "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/least-burdensome-provisions-concept-and-principles"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND POLICY ANALYSTS\n\nDocket No. FDA-2026-N-8249\nReclassification of Diagnostic Endoscopic Light Source Systems To Be Renamed Cystoscopic Systems Intended as an Aid for Detection of Bladder Cancer (21 CFR Part 876)\n\nI. Executive Summary\nWe applaud the Food and Drug Administration (FDA) for proposing to reclassify diagnostic endoscopic light source systems (product code OAY) from Class III (premarket approval) to Class II (special controls). Reclassification will facilitate broader clinical availability of blue-light cystoscopy. However, key aspects of the proposed special controls under 21 CFR 876.1560 impose unnecessary regulatory burdens and lack clear scientific standardization.\n\nII. Statutory and Legal Defects: Violation of the Least Burdensome Mandate\nProposed 21 CFR 876.1560(b)(1) states that 'Clinical data must confirm accurate detection of bladder cancer when used with the approved optical imaging agent(s).' Mandating clinical data for every 510(k) submission, regardless of whether a device demonstrates optical and technological equivalence to a predicate, violates Section 513(a)(3)(D) of the FD&C Act (21 U.S.C. 360c(a)(3)(D)), which directs FDA to utilize the least burdensome means of establishing substantial equivalence.\n\nIII. Scientific and Labeling Concerns: False Positives and Optical Standardization\nPhotodynamic blue-light cystoscopy inherently carries a risk of false positives, particularly in patients with recent intravesical therapy (such as BCG) or active tissue inflammation (see Ray et al., 2010). The proposed special controls lack required warnings regarding confounding mucosal conditions and fail to define specific technical thresholds for optical spectral bandwidths and filter tolerances.\n\nIV. Proposed Regulatory Text Revisions\nWe respectfully request that FDA amend proposed 21 CFR 876.1560(b) as follows:\n\n1. Modify paragraph (b)(1) to permit bench performance testing in lieu of clinical trials when technological equivalence is demonstrated:\n   '(b)(1) Clinical data, or non-clinical optical bench performance testing demonstrating equivalent excitation and emission spectral profiles, must confirm accurate detection of bladder cancer when used with the compatible approved optical imaging agent(s)...'\n\n2. Amend paragraph (b)(9)(iv) to require explicit clinical warnings:\n   '(b)(9)(iv) A warning that the device should not be used as the only or definitive basis for diagnosis, alongside specific clinical warnings detailing the risk of false-positive fluorescence in patients with concurrent mucosal inflammation or recent intravesical therapy (e.g., BCG administration within 90 days).'",
+      "sponsors": [
+        {
+          "organization_name": "Medical Device Manufacturers Association (MDMA)",
+          "email_contacts": [
+            "info@medicaldevices.org",
+            "regulatory@medicaldevices.org"
+          ],
+          "reason_for_contact": "MDMA advocates against excessive regulatory hurdles in 510(k) pathways and can support removing mandatory clinical data requirements for Class II submissions."
+        },
+        {
+          "organization_name": "American Urological Association (AUA)",
+          "email_contacts": [
+            "GovernmentRelations@AUAnet.org",
+            "hpn@AUAnet.org"
+          ],
+          "reason_for_contact": "AUA represents urologists who use cystoscopic technologies and has a direct interest in ensuring clear clinical labeling regarding false positives and diagnostic efficacy."
+        },
+        {
+          "organization_name": "Advanced Medical Technology Association (AdvaMed)",
+          "email_contacts": [
+            "info@advamed.org",
+            "regulatory@advamed.org"
+          ],
+          "reason_for_contact": "AdvaMed leads industry efforts on least-burdensome regulatory principles and standardized FDA device classification frameworks."
+        },
+        {
+          "organization_name": "Bladder Cancer Advocacy Network (BCAN)",
+          "email_contacts": [
+            "info@bcan.org",
+            "advocacy@bcan.org"
+          ],
+          "reason_for_contact": "BCAN represents bladder cancer patients who benefit from expanded access to advanced diagnostic imaging while ensuring robust safety controls."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FDA-2025-N-6224-0011",
+    "agency": "FDA",
+    "title": "Medical Devices; Classification of Accessories Distinct From Other Devices; Proposed List of Accessories Suitable for Class I; Request for Comments",
+    "link": "https://www.regulations.gov/document/FDA-2025-N-6224-0011",
+    "posted_date": "2026-08-17 04:00:00+00:00",
+    "comment_end_date": "2026-10-17T03:59:59Z",
+    "processed_at": "2026-08-18T00:27:47.753418",
+    "ai_data": {
+      "summary_of_main_idea": "The Food and Drug Administration (FDA) is issuing a proposed rule pursuant to Section 707 of the FDA Reauthorization Act of 2017 (FDARA) to distinctly classify seven specific medical device accessories into Class I, exempting them from premarket notification (510(k)) requirements. The Agency asserts that general controls alone provide reasonable assurance of safety and effectiveness for these accessories, independent of the higher-risk classifications assigned to their parent devices. The proposed accessories span cardiovascular, gastroenterology-urology, and general surgical device categories.",
+      "challenges": "The proposed rule presents critical legal, scientific, and regulatory flaws under the Administrative Procedure Act (APA, 5 U.S.C. 706(2)(A)) and the Federal Food, Drug, and Cosmetic Act (FD&C Act). First, distinct classification into Class I automatically exempts non-software devices from mandatory Quality Management System Regulation (QMSR) design controls under 21 CFR 820.10(c)(2). Removing both 510(k) premarket oversight and design controls for accessories used in high-stakes environments\u2014such as ECMO mounting/priming equipment (870.4100), implantable pacemaker ECG cables (870.3610), and defibrillator battery chargers (870.5300)\u2014creates unmitigated risks of electrical interference, battery overheating, mechanical failure, or circuit detachment. Second, FDA's assertion that general controls alone are sufficient lacks empirical risk assessment and fails to establish clear compatibility or material standards, rendering the proposed reclassification arbitrary and capricious.",
+      "references": [
+        {
+          "title": "FDA Guidance: Medical Device Accessories - Describing Accessories and Classification Pathways",
+          "url": "https://www.fda.gov/media/92408/download"
+        },
+        {
+          "title": "Medical Devices; Quality Management System Regulation Amendments (89 FR 7496)",
+          "url": "https://www.federalregister.gov/documents/2024/02/02/2024-01709/medical-devices-quality-system-regulation-amendments"
+        },
+        {
+          "title": "CRS Report: Premarket Approval and 510(k) Clearance of Medical Devices",
+          "url": "https://crsreports.congress.gov/product/pdf/R/R42130"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON PROPOSED RULE\n\nAgency: Food and Drug Administration (FDA), HHS\nDocket No.: FDA-2025-N-6224\nTitle: Medical Devices; Classification of Accessories Distinct From Other Devices; Proposed List of Accessories Suitable for Class I; Request for Comments\nFederal Register Citation: 91 FR 53205\u201353209 (August 17, 2026)\n\nI. INTRODUCTORY STATEMENT AND INTEREST OF COMMENTER\nThis public comment is submitted in response to the Food and Drug Administration's (FDA) proposed list of medical device accessories for distinct classification into Class I under Section 513(f)(6)(D)(i) of the FD&C Act, as amended by FDARA. While we support statutory efforts to reduce administrative burdens where risks are genuinely low, we write to express serious concerns regarding the deregluation of accessories connected to critical care and life-sustaining equipment.\n\nII. LEGAL AND TECHNICAL DEFICIENCIES\n\n1. Inadequate Consideration of Design Control Exemptions (820.10(c) / Page 53207)\nOn page 53207, column 1, FDA notes that design and development controls generally do not apply to Class I devices unless automated with computer software or listed in 21 CFR 820.10(c)(2). By placing accessories such as ECMO accessories (870.4100) and defibrillator chargers (870.5300) into Class I without explicitly subjecting them to design controls under 820.10(c)(2), FDA creates a significant regulatory vacuum. Without design controls, manufacturers are not legally required to validate physical compatibility, thermal management, or structural integrity, raising severe patient safety issues.\n\n2. Unreasonable Risk of Harm for Critical-Care Accessories (Table 1, Page 53208)\n- Extracorporeal Membrane Oxygenation (ECMO) Accessories (21 CFR 870.4100 / QJZ, QNR): Priming equipment and mounting brackets directly impact mechanical stability in life-sustaining extracorporeal circuits. A bracket failure or priming leak during patient transport or bedside care can result in catastrophic decannulation or blood line interruption.\n- Pacemaker ECG Cable Accessories (21 CFR 870.3610 / DXY, OSR): Signal noise, electromagnetic incompatibility, or mechanical pin slippage in pacemaker cables directly distorts pacing diagnostics and cardiac monitoring.\n- Auxiliary Power Supplies for Defibrillators (21 CFR 870.5300 / MPD): Defibrillator battery chargers must maintain strict voltage tolerances to ensure emergency resuscitation availability and prevent thermal runaway.\n\n3. Administrative Procedure Act Violation (5 U.S.C. 706(2)(A))\nFDA's proposal fails to provide empirical safety data demonstrating that general controls alone are sufficient to mitigate mechanical and electrical interface failures for these specific product codes. Proceeding without such a basis renders the classification arbitrary, capricious, and unsupported by substantial evidence.\n\nIII. PROPOSED REGULATORY ALTERNATIVES AND TEXT AMENDMENTS\n\nWe respectfully request that FDA adopt the following modifications in its final action:\n\n1. Retain 510(k) Premarket Notification or Class II Status for Critical-Care Accessories:\nRemove product codes QJZ, QNR (ECMO accessories), DXY, OSR (pacemaker cables), and MPD (defibrillator power supplies) from the final Class I distinct classification list.\n\n2. Mandatory Design Control Condition under 21 CFR 820.10(c)(2):\nIf FDA proceeds with Class I reclassification for any accessory interfacing with critical or life-sustaining parent systems, FDA must amend 21 CFR 820.10(c)(2) to explicitly require QMSR Design Controls for those product codes.\n\n3. Proposed Revision to Section III Text (Page 53207):\nAmend Section III to read:\n'FDA considers an accessory to be eligible for classification into class I distinct from another device if the accessory: (1) is not for use in supporting or sustaining human life, or of substantial importance in preventing impairment to human health; (2) does not present a potential unreasonable risk of illness or injury; (3) general controls alone would be sufficient to provide a reasonable assurance of safety and effectiveness; AND (4) the accessory does not rely on critical physical, electrical, or signal-compatibility specifications with a life-supporting or life-sustaining parent system.'",
+      "sponsors": [
+        {
+          "organization_name": "Advanced Medical Technology Association (AdvaMed)",
+          "email_contacts": [
+            "info@advamed.org",
+            "regulatory@advamed.org"
+          ],
+          "reason_for_contact": "AdvaMed represents major medical device manufacturers and has a strong interest in clear, predictable, and safety-focused accessory classification frameworks that preserve market integrity."
+        },
+        {
+          "organization_name": "Extracorporeal Life Support Organization (ELSO)",
+          "email_contacts": [
+            "support@elso.org",
+            "guidelines@elso.org"
+          ],
+          "reason_for_contact": "ELSO is the leading international consortium dedicated to ECMO care; they have a direct interest in ensuring ECMO mounting brackets and priming tools adhere to high safety standards."
+        },
+        {
+          "organization_name": "Public Citizen Health Research Group",
+          "email_contacts": [
+            "member@citizen.org",
+            "hrg1@citizen.org"
+          ],
+          "reason_for_contact": "Public Citizen routinely challenges administrative rulemakings that dilute medical device safety standards or bypass essential premarket review controls."
+        },
+        {
+          "organization_name": "Medical Device Manufacturers Association (MDMA)",
+          "email_contacts": [
+            "mdmainfo@medicaldevices.org"
+          ],
+          "reason_for_contact": "MDMA advocates for balanced medical device regulations and can provide input on how accessory design control exemptions affect smaller innovators and competitive quality standards."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-9901-0001",
+    "agency": "FAA",
+    "title": "Airspace Designations and Reporting Points: Santa Elena, TX",
+    "link": "https://www.regulations.gov/document/FAA-2026-9901-0001",
+    "posted_date": "2026-08-17 04:00:00+00:00",
+    "comment_end_date": "2026-10-02T03:59:59Z",
+    "processed_at": "2026-08-18T00:27:47.753494",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to amend 14 CFR Part 71 by revoking the Class E airspace extending upward from 700 feet above the surface at Diamond 'O' Ranch Airport in Santa Elena, TX. This action follows the decommissioning of the Santa Elena radio beacon (RBN) and the formal cancellation of associated ground-based instrument procedures. The FAA asserts that controlled airspace is no longer necessary at this location because Instrument Flight Rules (IFR) operations are no longer supported.",
+      "challenges": "The primary legal and procedural challenge under the Administrative Procedure Act (APA), 5 U.S.C. 706(2)(A), is that the FAA failed to consider whether performance-based navigation\u2014specifically RNAV (GPS) instrument approach procedures\u2014should replace the decommissioned ground-based NDB/RBN before completely revoking the Class E airspace. Additionally, the agency relies on a cursory certification under the Regulatory Flexibility Act (RFA) that economic impacts are de minimis without gathering data on rural medical evacuation (medevac), emergency services, or agricultural aviation operations that may rely on low-altitude controlled transition airspace in remote South Texas.",
+      "references": [
+        {
+          "title": "Aircraft Owners and Pilots Association (AOPA) Airspace & Airport Advocacy Guidelines",
+          "url": "https://www.aopa.org/advocacy/airspace-and-airports"
+        },
+        {
+          "title": "Transportation Research Board: Measuring the Economic and Emergency Value of Rural General Aviation Airports",
+          "url": "https://trid.trb.org/view/1428572"
+        },
+        {
+          "title": "Federal Aviation Administration Order JO 7400.2P: Procedures for Handling Airspace Matters",
+          "url": "https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1041833"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. FAA-2026-9901; Airspace Docket No. 26-ASW-13 \u2013 Notice of Proposed Rulemaking: Revocation of Class E Airspace; Santa Elena, TX (91 FR 53203-53204)\n\nI. INTRODUCTION & SUMMARY\nThe undersigned submits these comments in response to the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) published at 91 FR 53203 on August 17, 2026, regarding the proposed revocation of Class E airspace at Diamond \"O\" Ranch Airport, Santa Elena, TX. While recognizing the agency's effort to decommission legacy non-directional radio beacons (RBN/NDB) under the NextGen transition, the complete revocation of Class E airspace without evaluating GPS/RNAV replacement procedures creates safety and operational risks for general aviation, emergency medical services, and agricultural operators in rural South Texas.\n\nII. LEGAL AND PROCEDURAL DEFECTS UNDER THE APA AND RFA\n1. Arbitrary & Capricious Failure to Consider RNAV Alternatives:\nUnder 5 U.S.C. \u00a7 706(2)(A), agency action is arbitrary and capricious if the agency fails to consider an important aspect of the problem. Section 40103 of Title 49 charges the FAA with ensuring the safety and efficient use of airspace. The FAA\u2019s proposal (91 FR 53203) cites the cancellation of legacy instrument procedures and the decommissioning of the Santa Elena RBN as sole justification for revoking Class E airspace. However, the docket contains no study or analysis evaluating whether Area Navigation (RNAV/GPS) instrument approaches could or should be implemented at Diamond \"O\" Ranch Airport to preserve safe IFR access during adverse meteorological conditions.\n\n2. Inadequate Small Entity and Safety Impact Analysis:\nIn the Regulatory Notices and Analyses section (91 FR 53204), the FAA certifies that the proposal will result in \"de minimis costs\" and will not have a significant economic impact on small entities. This finding lacks empirical support. Revoking controlled Class E airspace increases cloud clearance and visibility requirements for Visual Flight Rules (VFR) traffic transitioning through the area, potentially restricting access for local ranching, air ambulance, and agricultural flight operations without an adequate safety buffer.\n\nIII. PROPOSED ALTERNATIVE AMENDMENT\nInstead of full revocation of the airspace as proposed in Paragraph 6005, the FAA should issue a revised NPRM or Final Rule that defers revocation pending a 180-day operational evaluation of RNAV/GPS approach feasibility.\n\nProposed Alternative Text for 14 CFR Part 71:\n\nParagraph 6005 Class E Airspace Areas Extending Upward From 700 Feet or More Above the Surface of the Earth\n* * * * *\nASW TX E5 Santa Elena, TX [Amended]\nSanta Elena, Diamond \"O\" Ranch Airport, TX\n(lat. 26\u00b047'15\"N., long. 98\u00b031'05\"W.)\n\nThat airspace extending upward from 700 feet above the surface within a 6.5-mile radius of Diamond \"O\" Ranch Airport, pending completion of the FAA Central Service Center's RNAV/GPS feasibility study for rural emergency and general aviation operations.\n* * * * *\n\nIV. CONCLUSION\nThe FAA should pause the complete revocation of Class E airspace at Santa Elena, TX, perform an operational review of satellite-based approach alternatives, and solicit direct feedback from local emergency medical transport providers before finalizing this rulemaking.",
+      "sponsors": [
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "govtaffairs@aopa.org",
+            "airspace@aopa.org"
+          ],
+          "reason_for_contact": "AOPA represents general aviation pilots nationwide and actively advocates against the unnecessary loss of controlled airspace and rural instrument access."
+        },
+        {
+          "organization_name": "Experimental Aircraft Association (EAA)",
+          "email_contacts": [
+            "govt@eaa.org",
+            "airspace@eaa.org"
+          ],
+          "reason_for_contact": "EAA represents recreational and general aviation communities interested in ensuring safe transition airspace and maintaining ground safety buffers at rural airfields."
+        },
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "info@nbaa.org",
+            "airspace@nbaa.org"
+          ],
+          "reason_for_contact": "NBAA advocates for business and executive charter operators who utilize private and rural ranch airfields throughout Texas requiring reliable instrument access."
+        },
+        {
+          "organization_name": "Texas Agricultural Aviation Association (TAAA)",
+          "email_contacts": [
+            "info@taaa.org",
+            "support@taaa.org"
+          ],
+          "reason_for_contact": "TAAA advocates for rural aerial applicators and local flight operations across Texas whose low-altitude operations are directly affected by airspace reclassifications."
+        }
+      ]
+    }
+  },
+  {
     "id": "EPA-R01-OAR-2026-2147-0001",
     "agency": "EPA",
     "title": "Air Quality State Implementation Plans: New Hampshire Vehicle Inspection Repeal",
@@ -9,7 +609,7 @@
     "processed_at": "2026-08-16T15:00:00Z",
     "ai_data": {
       "summary_of_main_idea": "The EPA proposes to approve a State Implementation Plan (SIP) revision from New Hampshire to repeal its mandatory Motor Vehicle Inspection and Maintenance (I/M) program for air quality control.",
-      "challenges": "The proposal fails to provide required modeling demonstrating that repealing the I/M program will not interfere with attainment or reasonable progress under Clean Air Act Section 110(l). Furthermore, public docket rendering errors under APA 5 U.S.C. § 553 deprived citizens of full technical documentation.",
+      "challenges": "The proposal fails to provide required modeling demonstrating that repealing the I/M program will not interfere with attainment or reasonable progress under Clean Air Act Section 110(l). Furthermore, public docket rendering errors under APA 5 U.S.C. \u00a7 553 deprived citizens of full technical documentation.",
       "references": [
         {
           "title": "Yale Law Journal: Notice-and-Comment Rulemaking in the Digital Age",
@@ -20,16 +620,20 @@
           "url": "https://sgp.fas.org/crs/misc/R41546.pdf"
         }
       ],
-      "proposed_comment": "To: Environmental Protection Agency (EPA)\nRe: Docket No. EPA-R01-OAR-2026-2147-0001\n\n(1) Introduction & Primary Argument:\nWe submit this comment regarding the proposed repeal of New Hampshire's Motor Vehicle Inspection and Maintenance (I/M) program. Under Clean Air Act § 110(l), 42 U.S.C. § 7410(l), the EPA cannot approve a SIP revision if it interferes with attainment or maintenance of National Ambient Air Quality Standards (NAAQS). The current record lacks sufficient empirical non-interference demonstration.\n\n(2) Legal Rationale & Alternative Language:\nWe request that EPA defer final approval until comprehensive mobile source emissions modeling (MOVES3) is published demonstrating no net increase in NOx or VOC emissions.",
+      "proposed_comment": "To: Environmental Protection Agency (EPA)\nRe: Docket No. EPA-R01-OAR-2026-2147-0001\n\n(1) Introduction & Primary Argument:\nWe submit this comment regarding the proposed repeal of New Hampshire's Motor Vehicle Inspection and Maintenance (I/M) program. Under Clean Air Act \u00a7 110(l), 42 U.S.C. \u00a7 7410(l), the EPA cannot approve a SIP revision if it interferes with attainment or maintenance of National Ambient Air Quality Standards (NAAQS). The current record lacks sufficient empirical non-interference demonstration.\n\n(2) Legal Rationale & Alternative Language:\nWe request that EPA defer final approval until comprehensive mobile source emissions modeling (MOVES3) is published demonstrating no net increase in NOx or VOC emissions.",
       "sponsors": [
         {
           "organization_name": "Cause of Action Institute",
-          "email_contacts": ["info@causeofaction.org"],
+          "email_contacts": [
+            "info@causeofaction.org"
+          ],
           "reason_for_contact": "Focuses on administrative procedure compliance and agency transparency."
         },
         {
           "organization_name": "U.S. Chamber Center for Regulatory Reform",
-          "email_contacts": ["regulatoryaffairs@uschamber.com"],
+          "email_contacts": [
+            "regulatoryaffairs@uschamber.com"
+          ],
           "reason_for_contact": "Advocates for empirical rigor and statutory compliance in agency rulemaking."
         }
       ]
