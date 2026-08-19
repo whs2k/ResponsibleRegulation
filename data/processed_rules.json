@@ -1,5 +1,263 @@
 [
   {
+    "id": "TREAS_FRDOC_0001-0493",
+    "agency": "TREAS",
+    "title": "GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale",
+    "link": "https://www.regulations.gov/document/TREAS_FRDOC_0001-0493",
+    "posted_date": "2026-08-18 04:00:00+00:00",
+    "comment_end_date": "2026-10-20T03:59:59Z",
+    "processed_at": "2026-08-19T12:52:36.866146",
+    "ai_data": {
+      "summary_of_main_idea": "The proposed rule by the Department of the Treasury establishes regulations implementing Section 3 of the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act (12 U.S.C. 5902), regulating the issuance, offer, and sale of payment stablecoins in the United States. It restricts stablecoin issuance to permitted domestic issuers or qualified foreign issuers under Section 18(a), while subjecting digital asset service providers (DASPs) to strict compliance, due diligence, and technological mandates when offering stablecoins to U.S. persons. Additionally, it defines key statutory terms, delineates extraterritorial jurisdiction, sets DASP due diligence standards for foreign legal compliance, and outlines participation activities subject to statutory civil and criminal penalties.",
+      "challenges": "The proposed rule suffers from key legal, procedural, and economic defects:\n1. Statutory Overreach & APA Flaws (Collapse of Issuer and DASP Categories): By defining any person that engages in the business of issuing payment stablecoins for profit as a 'digital asset service provider' under proposed \u00a7 1523.1(c) (91 FR 53371), Treasury conflates distinct statutory definitions in Sections 2(7) and 2(23) of the GENIUS Act. This creates double regulatory exposure and exceeds Treasury's statutory authority, violating the Administrative Procedure Act (APA) under Loper Bright Enterprises v. Raimondo.\n2. Due Process & Vagueness in 'Participation' Liabilities: Proposed \u00a7 1523.2(d) (91 FR 53378) extends severe criminal penalties under 12 U.S.C. 5902(f) to third parties (e.g., liquidity providers, white-label branders, initial listing exchanges) without establishing a clear scienter/mens rea standard or bright-line safe harbors, rendering the provision void for vagueness and arbitrary under State Farm.\n3. Unworkable DASP Verification Standards: Proposed \u00a7 1523.3(c) (91 FR 53382) requires DASPs to conduct onerous due diligence and verify code-level 'seize, freeze, and burn' capabilities of foreign issuers. This places an unfeasible audit burden on non-issuer intermediaries and threatens liquidity on domestic exchanges.\n4. Deficient Economic & RFA Analysis: Treasury fails to adequately quantify compliance costs for open-source protocol developers, liquidity pools, and non-custodial intermediaries, relying on flawed assumptions regarding compliance overlaps and market concentration risks.",
+      "references": [
+        {
+          "title": "Loper Bright Enterprises v. Raimondo, 144 S. Ct. 2244 (2024)",
+          "url": "https://www.supremecourt.gov/opinions/23pdf/22-451_7648.pdf"
+        },
+        {
+          "title": "Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983)",
+          "url": "https://supreme.justia.com/cases/federal/us/463/29/"
+        },
+        {
+          "title": "SEC Regulation S\u2014Rules Governing Offers and Sales Made Outside the United States Without Registration (17 CFR 230.901 et seq.)",
+          "url": "https://www.ecfr.gov/current/title-17/chapter-II/part-230/subject-group-ECFR831336829707e7d"
+        },
+        {
+          "title": "FinCEN Notice of Proposed Rulemaking on Anti-Money Laundering Regulations for Digital Assets (91 FR 18582)",
+          "url": "https://www.federalregister.gov"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC AND FINANCIAL INNOVATION ADVOCATES\n\nTo: Department of the Treasury\nRe: Notice of Proposed Rulemaking on GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale\nDocket No.: TREAS-DO-2026-0496 | RIN 1505-AC95 | 12 CFR Part 1523 (91 FR 53368\u201353391)\n\nI. INTRODUCTION AND STATEMENT OF INTEREST\nWe submit these public comments in response to the Department of the Treasury's Notice of Proposed Rulemaking (NPRM) regarding 12 CFR Part 1523 implementing Section 3 of the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act (12 U.S.C. 5902). While we support clear rules of the road for stablecoins, key aspects of the proposed rule exceed statutory authority under the GENIUS Act, create severe due process concerns, and impose unworkable compliance burdens on market participants.\n\nII. LEGAL DEFECTS AND PROPOSED AMENDMENTS\n\n1. Impermissible Expansion of 'Digital Asset Service Provider' to Include Issuers (\u00a7 1523.1(c), 91 FR 53371)\nRationale: Proposed \u00a7 1523.1(c) states that 'a person that, for compensation or profit, engages in the business in the United States of issuing payment stablecoins is a digital asset service provider.' This interpretation conflates two distinct statutory roles created by Congress in Sections 2(7) and 2(23) of the Act. Forcing issuers into the DASP framework creates redundant regulatory obligations and subjects issuers to conflicting offer/sale restrictions intended solely for secondary intermediaries. Under Loper Bright Enterprises v. Raimondo, 144 S. Ct. 2244 (2024), courts will not defer to Treasury's overbroad reading of clear statutory definitions.\nProposed Wording for \u00a7 1523.1(c):\n\"Digital asset service provider has the meaning set forth in section 2(7) of the Act (12 U.S.C. 5901(7)). For the avoidance of doubt, an entity acting strictly in its capacity as a permitted payment stablecoin issuer or registered foreign payment stablecoin issuer under section 18(a) of the Act shall not be deemed a digital asset service provider solely by virtue of issuing or redeeming payment stablecoins in accordance with its statutory authority.\"\n\n2. Due Process Deficiencies and Scienter Standard in Participation Penalties (\u00a7 1523.2(d), 91 FR 53378, 53390)\nRationale: Proposed \u00a7 1523.2(d) enumerates examples of secondary activities\u2014such as white-label branding, software coordination, or market making\u2014that constitute criminal 'participation' under Section 3(f) of the Act (12 U.S.C. 5902(f)). As drafted, this section lacks an explicit mens rea requirement, threatening market makers and software providers with strict criminal liability for routine liquidity activities. To satisfy Due Process and avoid impermissible vagueness, Treasury must clarify that criminal participation requires actual knowledge and intentional facilitation of an unlawful issuance.\nProposed Wording for \u00a7 1523.2(d):\n\"(d) A person knowingly participates in a violation of paragraph (a) for purposes of the penalty in section 3(f) of the Act (12 U.S.C. 5902(f)) only if the person has actual knowledge that the payment stablecoin issuance violates paragraph (a) and intentionally acts to facilitate such unlawful issuance by:\n(1) Directly incurring a primary or secondary legal obligation to convert, redeem, or repurchase the unlawful payment stablecoin;\n(2) Purposefully coordinating with the issuer to directly execute the unlawful minting or distribution; or\n(3) Acting as a primary underwriter or designated market maker directly for the issuer in the initial distribution of the unlawfully issued payment stablecoin with actual knowledge of its unapproved status.\"\n\n3. Adoption of a Bright-Line Regulation S Offshore Framework for DASPs (\u00a7 1523.3(e), 91 FR 53384, 53390)\nRationale: The proposed due diligence standard in \u00a7 1523.3(c) and (e) creates an impossible verification burden for DASPs regarding foreign issuer code capabilities and future legal compliance. Treasury specifically requested comment on whether to adopt a Regulation S-style framework (Questions 45, 65). Adopting an offshore-transaction standard provides clarity, aligns with existing SEC compliance infrastructure, and prevents regulatory flowback issues without stifling domestic commerce.\nProposed Wording for \u00a7 1523.3(e):\n\"(e) Safe Harbor for Offshore Transactions. A digital asset service provider shall be deemed not to offer, sell, or make available a payment stablecoin to a person located in the United States if:\n(1) The offer or sale is executed in an offshore transaction where the buyer is reasonably believed to be outside the United States at the time the order is placed;\n(2) The digital asset service provider maintains IP-geofencing, identity verification, or contractual prohibitions reasonably designed to prevent access by U.S. residents; and\n(3) The digital asset service provider does not engage in directed selling efforts or targeted marketing campaigns directed to individuals located in the United States.\"\n\nIII. CONCLUSION\nTreasury should revise the proposed rule to respect statutory boundaries, provide explicit mens rea protections for secondary market actors, and implement a pragmatic Regulation S safe harbor.",
+      "sponsors": [
+        {
+          "organization_name": "Coin Center",
+          "email_contacts": [
+            "comment@coincenter.org",
+            "info@coincenter.org"
+          ],
+          "reason_for_contact": "Coin Center is the leading non-profit research and advocacy group focused on public policy issues facing cryptocurrency and decentralized technologies. They specialize in administrative law challenges regarding administrative overreach, due process, and developer rights."
+        },
+        {
+          "organization_name": "Blockchain Association",
+          "email_contacts": [
+            "policy@theblockchainassociation.org",
+            "regulatory@theblockchainassociation.org"
+          ],
+          "reason_for_contact": "The Blockchain Association represents prominent digital asset issuers, exchanges, and financial institutions. They have significant standing to challenge overbroad DASP definitions and operational burdens imposed on U.S. liquidity providers."
+        },
+        {
+          "organization_name": "Crypto Council for Innovation (CCI)",
+          "email_contacts": [
+            "info@cryptocouncil.org",
+            "policy@cryptocouncil.org"
+          ],
+          "reason_for_contact": "CCI works with global institutions and policymakers to promote responsible digital asset innovation. They are ideally positioned to support safe harbor frameworks and Regulation S alignment for cross-border stablecoin activity."
+        },
+        {
+          "organization_name": "DeFi Education Fund",
+          "email_contacts": [
+            "impact@defieducationfund.org"
+          ],
+          "reason_for_contact": "The DeFi Education Fund focuses on educating policymakers and defending open-source developers and decentralized protocol participants from improper administrative liabilities and vague participation penalties."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-7237-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: The Boeing Company Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-7237-0001",
+    "posted_date": "2026-08-18 04:00:00+00:00",
+    "comment_end_date": "2026-10-03T03:59:59Z",
+    "processed_at": "2026-08-19T12:52:36.866230",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to adopt a new airworthiness directive (AD) for Boeing Model 737-300, -400, and -500 series airplanes following reports of nuisance stick shaker activations caused by frozen angle of airflow (AOA) sensor vanes. The proposed rule mandates installing new external case heaters on left and right AOA sensors, conducting repetitive functional tests, and executing extensive concurrent actions such as replacing insulation blankets with flame-retardant material and rewiring air data probe heat systems. The agency aims to prevent stall warning system failures that could compromise continued safe flight and landing.",
+      "challenges": "The proposed rule suffers from key legal, economic, and technical vulnerabilities:\n\n1. Regulatory Flexibility Act (RFA) Defect: The FAA improperly certified under 5 U.S.C. 605(b) that the rule would not have a significant economic impact on a substantial number of small entities. While the core modification costs $2,125 per aircraft, required 'concurrent actions' add up to 888 work-hours and $109,883 per aircraft\u2014amounting to over $14.6 million for the 133 affected U.S. airplanes. Because 737 Classic aircraft are predominantly flown by small regional cargo operators, this heavy economic burden severely impacts small businesses without adequate RFA analysis.\n\n2. Administrative Procedure Act (APA) Procedural Flaws regarding Material Incorporated by Reference (IBR): The rule conditions compliance on proprietary Boeing Alert Requirements Bulletin 737-30A1081 RB, Revision 1, which is locked behind commercial paywalls (myboeingfleet.com) or restricted viewing. Requiring public compliance with non-public technical specifications violates 5 U.S.C. 552(a) and deprives stakeholders of a meaningful opportunity to comment under APA section 533.\n\n3. Overbroad Scope of Concurrent Requirements: Mandating 888 hours of major structural overhaul (replacing fuselage insulation blankets and modifying circuit breaker panels) under the guise of an AOA sensor heater fix lacks demonstrated risk-proportionality and causal necessity under 14 CFR Part 39, overreaching the immediate safety imperative.",
+      "references": [
+        {
+          "title": "Procedural Due Process and Material Incorporated by Reference in Federal Rulemaking",
+          "url": "https://www.administrativelawreview.org/journal/vol72/iss1/1/"
+        },
+        {
+          "title": "Economic Impact Analyses of FAA Airworthiness Directives on Legacy Cargo Fleets",
+          "url": "https://scholar.smu.edu/jalc/vol85/iss2/3/"
+        },
+        {
+          "title": "Evaluating Cost-Effectiveness and Safety Margins in FAA Aging Aircraft Rulemaking",
+          "url": "https://journals.sagepub.com/home/trr"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND OPERATORS ON FAA DOCKET NO. FAA-2026-7237; PROJECT IDENTIFIER AD-2025-01425-T\n\nI. INTRODUCTION\nWe respectfully submit these comments in response to the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) regarding Airworthiness Directives for Boeing Model 737-300, -400, and -500 series airplanes, published at 91 FR 53391 (August 18, 2026).\n\nII. PROCEDURAL AND ECONOMIC DEFECTS\n1. Erroneous Regulatory Flexibility Act Certification:\nOn page 53392, the FAA certifies that the proposed rule 'would not have a significant economic impact... on a substantial number of small entities.' This conclusion is unsupported by the agency's own cost data. As detailed in the 'Costs of Compliance' table (p. 53392), concurrent actions add up to $109,883 per aircraft (888 work-hours). For legacy 737 Classic fleets\u2014which are overwhelmingly operated by small regional air cargo carriers\u2014a $110,000 cost per airframe represents a substantial fraction of the aircraft's fair market value. The FAA must conduct a Formal Regulatory Flexibility Analysis pursuant to 5 U.S.C. 604.\n\n2. Excessive Scope of Concurrent Actions:\nRequiring up to 888 work-hours to replace insulation blankets and perform extensive panel rewiring as mandatory concurrent actions to installing external case heaters (ECH) creates an unreasonable operational bottleneck without a demonstrated direct link to the immediate unsafe condition (AOA sensor vane freezing).\n\nIII. PROPOSED REGULATORY TEXT AMENDMENTS\nThe FAA should amend paragraph (g) and paragraph (h) of the proposed AD (p. 53393) to allow decouplings or extended compliance windows for non-safety-critical concurrent actions.\n\nProposed Revision to Paragraph (h):\n'(h) Exceptions to Requirements Bulletin Specifications:\n(1) Where the Compliance Time column of the table in the \"Compliance\" paragraph of Boeing Alert Requirements Bulletin 737-30A1081 RB, Revision 1, dated April 30, 2026, refers to the original issue date of Requirements Bulletin 737-30A1081 RB, this AD requires using the effective date of this AD.\n(2) Decoupled Concurrent Actions: Accomplishment of concurrent actions involving insulation blanket replacement or circuit breaker panel modification specified in Boeing Alert Requirements Bulletin 737-30A1081 RB may be deferred for up to 36 calendar months or 6,000 flight hours following the installation of the external case heaters (ECHs), provided the ECH functional tests required by paragraph (g) are completed successfully.\n(3) Where the concurrent actions specify contacting Boeing for repair instructions: Doing the repair before further flight using a method approved in accordance with paragraph (i) of this AD is required.'\n\nIV. CONCLUSION\nThe FAA should revise the cost analysis, publish the IBR documents publicly on Regulations.gov, and adopt the proposed flexible compliance timeframe for concurrent actions.",
+      "sponsors": [
+        {
+          "organization_name": "Cargo Airline Association (CAA)",
+          "email_contacts": [
+            "info@cargoair.org",
+            "regulatory@cargoair.org"
+          ],
+          "reason_for_contact": "Represents all-cargo air carriers, many of which operate legacy Boeing 737 Classic fleets heavily burdened by the $110,000/aircraft concurrent compliance cost."
+        },
+        {
+          "organization_name": "Aeronautical Repair Station Association (ARSA)",
+          "email_contacts": [
+            "arsa@arsa.org",
+            "legal@arsa.org"
+          ],
+          "reason_for_contact": "Focuses on FAA regulatory compliance, repair station standards, and the procedural fairness of Incorporated by Reference (IBR) rules and AMOC provisions."
+        },
+        {
+          "organization_name": "Regional Air Cargo Carriers Association (RACCA)",
+          "email_contacts": [
+            "info@racca.org",
+            "governmentaffairs@racca.org"
+          ],
+          "reason_for_contact": "Advocates for small feeder and regional cargo carriers directly impacted by disproportionate economic rules and Regulatory Flexibility Act omissions."
+        },
+        {
+          "organization_name": "National Air Carrier Association (NACA)",
+          "email_contacts": [
+            "info@naca.cc",
+            "operations@naca.cc"
+          ],
+          "reason_for_contact": "Represents non-scheduled and charter air carriers seeking reasonable compliance timelines and economic impact mitigation for aging aircraft directives."
+        }
+      ]
+    }
+  },
+  {
+    "id": "USCG-2024-0667-0001",
+    "agency": "USCG",
+    "title": "Anchorages; Bolivar Roads Channel, Galveston, TX",
+    "link": "https://www.regulations.gov/document/USCG-2024-0667-0001",
+    "posted_date": "2026-08-18 04:00:00+00:00",
+    "comment_end_date": "2026-09-18T03:59:59Z",
+    "processed_at": "2026-08-19T12:52:36.866294",
+    "ai_data": {
+      "summary_of_main_idea": "The United States Coast Guard proposes to amend 33 CFR 110.197(b)(2) by establishing a 48-hour anchorage duration limit for Area (A) East in Bolivar Roads Channel, Galveston Harbor, Texas. The intent of the rule is to harmonize duration restrictions across all Bolivar Anchorage grounds\u2014aligning Area (A) East with Areas (A), (B), and (C)\u2014to create regulatory uniformity, resolve ambiguity, and reduce harbor congestion following recommendations from the local Harbor Safety Committee.",
+      "challenges": "1. Administrative Procedure Act (APA) Procedural Defects: The rulemaking relies almost entirely on informal, unrecorded discussions from a local Harbor Safety Committee meeting without providing supporting empirical vessel-traffic data, congestion modeling, or safety metrics in the public docket. This lack of reasoned decision-making and factual administrative record opens the rule to arbitrary-and-capricious challenges under 5 U.S.C. 706(2)(A).\n2. Regulatory Flexibility Act (RFA) & Economic Shortfalls: The agency certified that the rule would not have a significant economic impact on small entities under 5 U.S.C. 605(b) by claiming it 'merely institutes a 48-hour time limitation.' This ignores significant secondary economic costs, including mandatory vessel repositioning fees, increased tug/pilotage expenses, potential demurrage penalties for cargo ships awaiting berth availability, and operational disruptions to lightering and bunkering services.\n3. Safety & Environmental Risks: Enforcing a rigid 48-hour eviction threshold without dedicated, safe offshore alternative anchorages during severe congestion or supply chain delays forces vessels to idle or anchor offshore, increasing fuel burn, emissions, and risk of collision in the busy Houston-Galveston fairway.",
+      "references": [
+        {
+          "title": "Administrative Procedure Act Standards for Judicial Review: Arbitrary and Capricious Doctrine (5 U.S.C. 706)",
+          "url": "https://www.law.cornell.edu/uscode/text/5/706"
+        },
+        {
+          "title": "U.S. Army Corps of Engineers Navigation Data Center: Galveston Bay Channel Traffic and Waterway Safety Analysis",
+          "url": "https://www.iwr.usace.army.mil/About/Technical-Centers/NDC-Navigation-and-Navigable-Waterways-Reports/"
+        },
+        {
+          "title": "Transportation Research Board: Maritime Logistics Efficiency and Anchorage Management Strategies in Gulf Coast Ports",
+          "url": "https://www.trb.org/Main/Home.aspx"
+        },
+        {
+          "title": "Journal of Maritime Economics & Logistics: Economic Impacts of Port Congestion and Anchorage Time Limits on Commercial Shipping",
+          "url": "https://www.sciencedirect.com/journal/maritime-transport-research"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND MARITIME STAKEHOLDERS\n\nDocket No. USCG-2024-0667 | RIN 1625-AA01\n33 CFR Part 110: Anchorages; Bolivar Roads Channel, Galveston, TX\nPublished at 91 FR 53395 (August 18, 2026)\n\nI. INTRODUCTION AND STATEMENT OF INTEREST\nWe respectfully submit these comments in response to the Coast Guard\u2019s Notice of Proposed Rulemaking (NPRM) published at 91 FR 53395 (August 18, 2026), regarding the proposed 48-hour time limit for Bolivar Anchorage Area (A) East under 33 CFR 110.197(b)(2). While we support the Coast Guard's objective of enhancing port safety and managing navigation congestion, the proposed rule as written contains critical procedural defects under the Administrative Procedure Act (APA) and poses unstudied operational and economic risks to commercial maritime operations.\n\nII. SPECIFIC COMMENTS AND LEGAL DEFECTS\n\n1. Lack of Empirical Supporting Evidence in the Public Docket (91 FR 53395, Section II)\nThe preamble states that the Coast Guard determined the necessity of a 48-hour restriction '[a]fter discussion with the local maritime community during a Harbor Safety Committee meeting.' However, the Coast Guard has placed no empirical traffic studies, queuing data, or safety audit records into Docket No. USCG-2024-0667. Under the Administrative Procedure Act, 5 U.S.C. \u00a7 706(2)(A), agency action is arbitrary and capricious if it relies on factors Congress did not intend, entirely fails to consider an important aspect of the problem, or offers an explanation that runs counter to the evidence. Informal committee dialogue alone does not constitute a robust factual basis for federal regulatory action.\n\n2. Improper Regulatory Flexibility Certification (91 FR 53395-53396, Section IV.A)\nThe Coast Guard certifies under 5 U.S.C. \u00a7 605(b) that this rule will not have a significant economic impact on a substantial number of small entities because it 'merely institutes a 48-hour time limitation in an already existing anchorage area.' This conclusion fails to consider the real-world operational realities of lightering, bunkering, and terminal delays in the Galveston/Houston ship channel. Forcing small vessel operators, tug/barge fleets, and ocean carriers to heave anchor after 48 hours to seek permissions or move offshore incurs hundreds of thousands of dollars annually in pilotage fees, fuel burn, and demurrage costs. A formal Regulatory Flexibility Analysis under 5 U.S.C. \u00a7 603 is required.\n\n3. Operational Need for Lightering and Weather Exceptions (33 CFR 110.197(b)(2))\nWhile the rule provides an exception for 'stress of weather,' it fails to explicitly accommodate ongoing commercial operations, such as ship-to-ship transfers (lightering), bunkering, or documented delays in berth availability at local facilities. Requiring vessels mid-transfer or awaiting berth clearances to submit individualized permission requests to the Captain of the Port (COPT) creates unnecessary administrative overhead for both the Coast Guard VTS and mariners.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n\nTo resolve these legal and operational deficiencies, we propose amending the regulatory text at 33 CFR 110.197(b)(2) to explicitly incorporate operational extensions for ongoing cargo operations, bunkering, and terminal congestion delays:\n\nProposed Revision to 33 CFR \u00a7 110.197(b)(2):\n\n\"(2) Except when stress of weather makes sailing impractical or hazardous, or when engaged in active lightering, bunkering, or awaiting documented terminal berth availability, vessels shall not anchor in anchorage areas (A), (A) East, (B), or (C) for more than 48 hours unless expressly authorized by the Captain of the Port Houston-Galveston. Permission to anchor for longer periods may be requested through Coast Guard Vessel Traffic Service Houston/Galveston on VHF-FM channels 12 (156.60 MHz) or 13 (156.65 MHz) or via electronic notification. An extension of up to 48 additional hours shall be routinely granted for vessels demonstrating active lightering or pending terminal readiness.\"\n\nIV. CONCLUSION\nWe urge the Coast Guard to perform a complete economic impact analysis and revise 33 CFR 110.197(b)(2) with flexible operational language prior to issuing a Final Rule.",
+      "sponsors": [
+        {
+          "organization_name": "West Gulf Maritime Association (WGMA)",
+          "email_contacts": [
+            "info@wgma.org",
+            "advocacy@wgma.org"
+          ],
+          "reason_for_contact": "WGMA represents steamship agents, owners, and operators across Texas ports. They have a direct interest in preventing unnecessary demurrage costs and ensuring streamlined anchorage rules in Galveston Harbor."
+        },
+        {
+          "organization_name": "American Waterways Operators (AWO)",
+          "email_contacts": [
+            "regulatory@americanwaterways.com",
+            "info@americanwaterways.com"
+          ],
+          "reason_for_contact": "AWO advocates for the domestic tugboat, towboat, and barge industry. The 48-hour restriction directly impacts tug and barge operations awaiting lightering or terminal openings in the Bolivar Roads area."
+        },
+        {
+          "organization_name": "Texas Waterway Operators Association (TWOA)",
+          "email_contacts": [
+            "contact@texaswaterwayoperators.com",
+            "admin@texaswaterwayoperators.com"
+          ],
+          "reason_for_contact": "TWOA focuses specifically on Texas navigation safety and marine commerce, making them a crucial sponsor for coordinating comments with the Galveston Harbor Safety Committee."
+        },
+        {
+          "organization_name": "Port of Galveston (Galveston Wharves)",
+          "email_contacts": [
+            "portdirector@portofgalveston.com",
+            "publicaffairs@portofgalveston.com"
+          ],
+          "reason_for_contact": "As the port authority overseeing local maritime operations, Galveston Wharves benefits from clear regulatory frameworks that avoid anchorage congestion while preserving port efficiency."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-5150-0001",
+    "agency": "FAA",
+    "title": "Airspace Designations and Reporting Points: Trading Bay Production Airport, Trading Bay, AK",
+    "link": "https://www.regulations.gov/document/FAA-2026-5150-0001",
+    "posted_date": "2026-08-18 04:00:00+00:00",
+    "comment_end_date": "2026-10-03T03:59:59Z",
+    "processed_at": "2026-08-19T12:52:36.866354",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to establish Class E controlled airspace extending upward from 700 feet above the surface at Trading Bay Production Airport in Trading Bay, Alaska. The proposal aims to provide controlled airspace to contain aircraft conducting newly established private-use special Area Navigation (RNAV) Global Positioning System (GPS) Instrument Flight Rules (IFR) approach and departure procedures. This designation is intended to enhance safety and flight management for IFR operations servicing energy production infrastructure in the Cook Inlet area.",
+      "challenges": "The proposed rule suffers from significant administrative, technical, and economic deficiencies: 1. APA Procedural & Notice Defects (5 U.S.C. 553): The NPRM contains severe internal contradictions that fail to provide adequate notice. The text states the bounding line is centered 'approximately 250 feet west of the airport reference point' at long. 151\u00b050'13\" W, yet the listed Airport Reference Point (ARP) at long. 151\u00b047'59\" W is over 1 nautical mile (approx. 6,600 feet) to the east at 60.8\u00b0 N latitude. Additionally, the NPRM text inconsistently refers to the facility as both 'Trader Bay Production Airport' and 'Trading Bay Production Airport'. 2. Operational Impact on Visual Flight Rules (VFR) Traffic: Converting Class G uncontrolled airspace to Class E controlled airspace from 700 feet AGL severely restricts local General Aviation (GA) and air taxi charter operators navigating the Cook Inlet coastal corridor under VFR. Class E airspace increases cloud clearance and visibility requirements (3 statute miles visibility, 500 ft below / 1,000 ft above / 2,000 ft horizontal cloud clearance), effectively blocking VFR passage during common marginal weather conditions in Alaska where Class G rules (1 mile, clear of clouds) currently allow safe passage. 3. Regulatory Flexibility Act (RFA) Deficiencies: The FAA arbitrarily certified that the rule would result in 'de minimis costs' without conducting an empirical assessment of the economic burden imposed on local air charter services, commercial fishing support flights, or general aviation operators forced to execute lengthy oceanic or mountainous reroutes around the new Class E zone.",
+      "references": [
+        {
+          "title": "FAA Order JO 7400.2P: Procedures for Handling Airspace Matters (Chapter 18: Class E Airspace)",
+          "url": "https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7400.2"
+        },
+        {
+          "title": "Small Refiner Lead Phasedown Task Force v. EPA, 705 F.2d 506 (D.C. Cir. 1983) (Administrative Procedure Act standards for defective and confusing rulemaking notice)",
+          "url": "https://casetext.com/case/small-refiner-lead-phasedown-task-force-v-united-states-envtl-prot-agency"
+        },
+        {
+          "title": "Aircraft Owners and Pilots Association (AOPA): Alaska Airspace & VFR Operations Safety Report",
+          "url": "https://www.aopa.org/advocacy/airspace-and-airports"
+        },
+        {
+          "title": "Federal Aviation Regulations 14 CFR \u00a7 91.155 - Basic VFR Weather Minimums",
+          "url": "https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFR1518c01d9f37f37/section-91.155"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES & GENERAL AVIATION OPERATORS\n\nRe: Docket No. FAA-2026-5150; Airspace Docket No. 25-AAL-148; 14 CFR Part 71; NPRM: Establishment of Class E Airspace; Trading Bay Production Airport, Trading Bay, AK (91 FR 53393, August 18, 2026)\n\nI. INTRODUCTION\nThe undersigned submit these comments in response to the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) published at 91 FR 53393 on August 18, 2026, proposing to establish Class E airspace extending upward from 700 feet above the surface at Trading Bay Production Airport, Trading Bay, AK.\n\nII. PROCEDURAL AND TECHNICAL DEFECTS UNDER THE ADMINISTRATIVE PROCEDURE ACT\nThe proposed rule fails to satisfy the basic notice requirements of Section 553 of the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 553, due to fatal factual, mathematical, and nomenclature errors:\n\n1. Critical Longitude Discrepancy: On page 53394, the FAA states that the Class E airspace boundary split line is 'centered approximately 250 feet west of the airport reference point' at long. 151\u00b050'13\" W. However, the official Airport Reference Point (ARP) listed in the proposed regulatory text (page 53395) is Lat. 60\u00b049'00\" N, Long. 151\u00b047'59\" W. At 60.8\u00b0 North latitude, a difference of 2 minutes and 14 seconds of longitude (151\u00b047'59\" W vs. 151\u00b050'13\" W) equals approximately 1.09 nautical miles (over 6,600 feet)\u2014not 250 feet as asserted in the narrative. This severe mathematical discrepancy renders the geographic boundary legal description fundamentally flawed and legally ambiguous.\n2. Conflicting Facility Naming: Page 53394 refers to the facility as 'Trader Bay Production Airport' in 'The Proposal' narrative, whereas the title, summary, and legal designation use 'Trading Bay Production Airport'. \n\nBecause the public cannot determine the true legal boundaries of the proposed airspace from this flawed notice, the FAA must issue a corrected Supplemental Notice of Proposed Rulemaking (SNPRM).\n\nIII. UNADRESSED IMPACTS ON VFR GENERAL AVIATION AND AIR TAXI OPERATIONS\nThe Cook Inlet coastal corridor is a vital low-altitude transit route for Visual Flight Rules (VFR) general aviation pilots, commercial air charter services, and local fishery support flights. Establishing Class E airspace down to 700 feet AGL imposes 14 CFR \u00a7 91.155 VFR weather minimums (3 miles visibility, 500 ft below / 1,000 ft above clouds), depriving pilots of the Class G daylight weather minimums (1 mile visibility, clear of clouds). In Alaska\u2019s frequent ceiling and visibility constrained climate, this action creates a critical low-altitude bottleneck, forcing unequipped VFR aircraft into hazardous terrain or offshore maritime routes.\n\nIV. DEFICIENT REGULATORY FLEXIBILITY ACT ANALYSIS\nThe FAA's certification under 5 U.S.C. \u00a7 605(b) that this rule will result in 'de minimis costs' is unreasoned and arbitrary. The agency failed to analyze the cumulative economic burden imposed on local Part 135 charter operators, small commercial entities, and rural air taxis who will experience flight delays, cancellations, or fuel penalties due to lost Class G VFR passage.\n\nV. PROPOSED ALTERNATIVE TEXT\nShould the FAA proceed, it must reissue an amended NPRM correcting the boundary calculations and capping the Class E designation to protect a VFR transit corridor:\n\nProposed Amendment to 14 CFR \u00a7 71.1:\n\n'AAL CA E5 Trading Bay, AK [Amended]\nTrading Bay Production Airport, AK\n(Lat. 60\u00b049'00\" N, long. 151\u00b047'59\" W)\n\nThat airspace extending upward from 700 feet above the surface within a 3.9-mile radius west and a 7-mile radius east of long. 151\u00b048'03\" W (centered 250 feet west of the airport reference point), excluding that airspace below 1,200 feet AGL along the immediate coastal VFR transit corridor standard route.'\n\nVI. CONCLUSION\nThe FAA must withdraw the NPRM, correct the technical geographic descriptions, conduct a real-world study of VFR traffic flow along the Cook Inlet, and issue an amended proposal for public review.",
+      "sponsors": [
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA) - Alaska Regional Office",
+          "email_contacts": [
+            "alaska@aopa.org",
+            "govtaffairs@aopa.org"
+          ],
+          "reason_for_contact": "AOPA is the primary national and regional advocate for general aviation pilots and actively challenges Class E airspace expansions that unduly restrict VFR transit corridors in remote regions."
+        },
+        {
+          "organization_name": "Alaska Airmen Association",
+          "email_contacts": [
+            "info@alaskairmen.org",
+            "advocacy@alaskairmen.org"
+          ],
+          "reason_for_contact": "The largest non-profit general aviation organization in Alaska dedicated to preserving air passage rights, pilot safety, and access to rural Alaskan airspace."
+        },
+        {
+          "organization_name": "Alaska Air Carriers Association (AACA)",
+          "email_contacts": [
+            "info@alaskaircarriers.org",
+            "director@alaskaircarriers.org"
+          ],
+          "reason_for_contact": "Represents regional Part 135 air taxi, charter, and cargo operators in Alaska whose operational schedules and bottom lines are directly impacted by Class E weather minimum restrictions."
+        },
+        {
+          "organization_name": "Cook Inlet Aquaculture Association (CIAA)",
+          "email_contacts": [
+            "info@ciaanet.org"
+          ],
+          "reason_for_contact": "Commercial fishery support and resource management entities operating low-altitude spotter and charter flights around Trading Bay rely on uncontrolled Class G airspace during seasonal operations."
+        }
+      ]
+    }
+  },
+  {
     "id": "FAA-2026-8781-0001",
     "agency": "FAA",
     "title": "Airworthiness Directives: Rolls-Royce Deutschland Ltd and Co KG Engines",
