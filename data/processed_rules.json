@@ -1,5 +1,918 @@
 [
   {
+    "id": "CFTC-2026-1849-0001",
+    "agency": "CFTC",
+    "title": "Commodity Pool Operators and Commodity Trading Advisors: Reduction of Duplicative Regulation Through Intermediary Registration Exemptions; Expansion of the Exemption for Small Commodity Pools - NPRM",
+    "link": "https://www.regulations.gov/document/CFTC-2026-1849-0001",
+    "posted_date": "2026-08-21 04:00:00+00:00",
+    "comment_end_date": "2026-10-06T03:59:59Z",
+    "processed_at": "2026-08-22T12:52:36.961525",
+    "ai_data": {
+      "summary_of_main_idea": "The Commodity Futures Trading Commission (CFTC) proposes to reinstate an exemption from Commodity Pool Operator (CPO) registration under 17 CFR 4.13(a)(4) for SEC-registered investment advisers (RIAs) operating private commodity pools restricted to certain sophisticated investors. It also creates a conforming Commodity Trading Advisor (CTA) exemption under 17 CFR 4.14(a)(8) and increases the total gross capital contribution threshold for the Small Pool Exemption under 17 CFR 4.13(a)(2) from $400,000 to $800,000 to account for inflation. The proposal aims to eliminate duplicative SEC-CFTC regulatory oversight and codify prior temporary staff no-action positions into durable regulatory standards.",
+      "challenges": "The proposed rule exhibits several legal, procedural, and policy defects under the Administrative Procedure Act (APA), 5 U.S.C. 553 and 706. First, the CFTC creates an unreasoned procedural mismatch under 17 CFR 4.13(e)(2) by reinstating mandatory redemption requirements for CPOs transitioning from registered to exempt status, directly conflicting with the reliance interests established under CFTC Staff Letters 25-50 and 26-06 without grandfathering protections. Second, restricting natural person participation under Proposed 4.13(a)(4)(iii)(A) exclusively to non-Portfolio Requirement QEPs under 4.7(a)(6)(i)\u2014while permitting non-natural accredited investors\u2014creates an arbitrary and capricious distinction between investor types unsupported by empirical risk data. Third, conditioning the exemption on Form PF filing creates regulatory uncertainty given concurrent proposals to raise Form PF thresholds, potentially establishing an unmonitored oversight gap between Form PF and Form CPO-PQR reporting.",
+      "references": [
+        {
+          "title": "Administrative Procedure Act, 5 U.S.C. Section 706 (Scope of Review - Arbitrary and Capricious Standard)",
+          "url": "https://www.law.cornell.edu/uscode/text/5/706"
+        },
+        {
+          "title": "CFTC Final Rule: Updating the Qualified Eligible Person Definition (89 FR 78793)",
+          "url": "https://www.federalregister.gov/documents/2024/09/26/2024-21919/commodity-pool-operators-commodity-trading-advisors-and-commodity-pools-operated-updating-the"
+        },
+        {
+          "title": "CFTC Staff Letter No. 25-50: Registration No-Action Position for Registered Investment Advisers Operating Certain Commodity Pools",
+          "url": "https://www.cftc.gov/csl/25-50/download"
+        },
+        {
+          "title": "CFTC & SEC Joint Notice of Proposed Rulemaking: Form PF; Reporting Requirements for All Filers (91 FR 22232)",
+          "url": "https://www.federalregister.gov/documents/2026/04/24/2026-08112/form-pf-reporting-requirements-for-all-filers"
+        }
+      ],
+      "proposed_comment": "VIA ELECTRONIC SUBMISSION (Regulations.gov)\n\nOctober 5, 2026\n\nChristopher Kirkpatrick, Secretary of the Commission\nCommodity Futures Trading Commission\nThree Lafayette Centre\n1155 21st Street NW\nWashington, DC 20581\n\nRe: Public Comment on Proposed Rule: Commodity Pool Operators and Commodity Trading Advisors: Reduction of Duplicative Regulation Through Intermediary Registration Exemptions; Expansion of the Exemption for Small Commodity Pools (RIN 3038-AF78; 91 FR 54264)\n\nDear Mr. Kirkpatrick:\n\nWe submit this comment in response to the Commodity Futures Trading Commission\u2019s (\"Commission\" or \"CFTC\") Notice of Proposed Rulemaking published on August 21, 2026 (91 FR 54264). While we strongly support the Commission's objective to eliminate duplicative regulatory burdens on SEC-Registered Investment Advisers (RIAs) and modernize financial thresholds, specific aspects of the proposed text create arbitrary restrictions and compliance traps under the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706.\n\n1. Harmonization of Transition Relief and Mandatory Redemptions (91 FR 54270\u201354271; 17 CFR 4.13(e)(2))\nUnder Proposed 17 CFR 4.13(e)(2)(iii), a CPO transitioning a pool from registered to exempt status under paragraph (a)(4) must provide existing participants a right to redeem their pool interests. However, as noted in the preamble (91 FR 54270), market participants currently operating under CFTC Staff Letter 25-50 were explicitly exempted from complying with Rule 4.13(e)(2). Subjecting entities that deregistered under Letter 25-50 to retroactive redemption requirements upon rule finalization creates an unreasoned administrative burden that undermines legitimate reliance interests. The Commission must adopt explicit legacy relief for pools relying on Letter 25-50/26-06 prior to the effective date.\n\n2. Arbitrary Limitation on Natural Person Qualified Eligible Persons (91 FR 54269\u201354270; 17 CFR 4.13(a)(4)(iii)(A))\nProposed Regulation 4.13(a)(4)(iii)(A) restricts natural person participants strictly to QEPs defined under 17 CFR 4.7(a)(6)(i) (those not required to meet the Portfolio Requirement). Conversely, non-natural entity participants may qualify either as QEPs or accredited investors under Rule 501(a). Restricting high-net-worth natural persons who satisfy the Portfolio Requirement under 17 CFR 4.7(a)(5) from investing in Proposed 4.13(a)(4) pools lacks empirical justification and runs counter to the Commission\u2019s recent 2024 updates to the QEP standard (89 FR 78793). Natural persons meeting the Portfolio Requirement possess sufficient acumen and resources to participate without prescriptive CPO regulation.\n\n3. Proposed Alternative Regulatory Text:\nTo remedy these defects, we propose amending the regulatory text of 17 CFR 4.13 (91 FR 54280) as follows (deletions in strikethrough, additions in bold):\n\nSection 4.13 Exemption from registration as a commodity pool operator.\n(a) * * *\n(4) * * *\n(iii) The person reasonably believes, at the time of investment (or, in the case of an existing pool, at the time of conversion to a pool meeting the criteria of paragraph (a)(4) of this section), that:\n(A) Each natural person participant (including such person's self-directed employee benefit plan, if any) is a natural person listed in paragraph (i) of the definition of \"qualified eligible person\" in \u00a7 4.7(a)(6) of this part, **or meets the Portfolio Requirement set forth in \u00a7 4.7(a)(5) of this part;** and\n(B) Each non-natural person participant is a \"qualified eligible person,\" as that term is defined in \u00a7 4.7(a)(6) of this part, or an \"accredited investor,\" as that term is defined in \u00a7\u00a7 230.501(a)(1)-(3), (a)(7), or (a)(8), of this title;\n* * * * *\n(e) * * *\n(2) If a person operates one or more commodity pools described in paragraph (a)(3) or (a)(4) of this section... Provided, that the person:\n* * * * *\n(iii) Provides each existing participant in a pool that the person elects to operate as described in paragraphs (a)(3) or (a)(4) of this section a right to redeem the participant's interest in the pool... **Provided further, that paragraph (e)(2)(iii) shall not apply to any pool operated by a CPO that claimed relief under CFTC Staff Letter 25-50 or CFTC Staff Letter 26-06 prior to [INSERT EFFECTIVE DATE OF FINAL RULE].**\n\nRespectfully submitted,\n[Civic Advocate / Public Policy Coalition]",
+      "sponsors": [
+        {
+          "organization_name": "Managed Funds Association (MFA)",
+          "email_contacts": [
+            "policy@managedfunds.org",
+            "regulatory@managedfunds.org"
+          ],
+          "reason_for_contact": "MFA submitted the original request resulting in CFTC Letter 25-50 and represents alternative asset managers who will directly benefit from fixing the transition redemption traps and expanding natural person QEP eligibility."
+        },
+        {
+          "organization_name": "Alternative Investment Management Association (AIMA)",
+          "email_contacts": [
+            "info@aima.org",
+            "uspolicy@aima.org"
+          ],
+          "reason_for_contact": "AIMA advocates for global hedge fund and private fund managers and has a strong interest in SEC-CFTC regulatory harmonization and avoiding duplicative reporting regimes."
+        },
+        {
+          "organization_name": "Investment Adviser Association (IAA)",
+          "email_contacts": [
+            "iaaservices@investmentadviser.org",
+            "legal@investmentadviser.org"
+          ],
+          "reason_for_contact": "IAA represents SEC-registered investment advisers and can strategically align on ensuring RIAs claiming CPO exemptions face clear rules around Form PF filing interactions."
+        },
+        {
+          "organization_name": "Securities Industry and Financial Markets Association (SIFMA Asset Management Group)",
+          "email_contacts": [
+            "inquiry@sifma.org",
+            "regulatoryaffairs@sifma.org"
+          ],
+          "reason_for_contact": "SIFMA AMG represents institutional asset managers whose clients include QEPs and small commodity pools, benefiting directly from the expanded $800,000 Small Pool threshold and CTA exemption cross-references."
+        }
+      ]
+    }
+  },
+  {
+    "id": "SEC-2026-5190-0001",
+    "agency": "SEC",
+    "title": "Regulation Crypto Assets",
+    "link": "https://www.regulations.gov/document/SEC-2026-5190-0001",
+    "posted_date": "2026-08-21 04:00:00+00:00",
+    "comment_end_date": "2026-10-21T03:59:59Z",
+    "processed_at": "2026-08-22T12:52:36.961643",
+    "ai_data": {
+      "summary_of_main_idea": "The Securities and Exchange Commission (SEC) is proposing 'Regulation Crypto Assets' (17 CFR Part 228) to establish a tailored registration exemption and offering framework for covered investment contracts involving crypto assets. The rule creates a $5 million 'Startup Exemption' (with a 4-year duration limit) and a two-tiered 'Fundraising Exemption' permitting offerings up to $20 million (Tier 1) or $75 million (Tier 2) per 12-month period, backed by principles-based disclosure requirements. Additionally, the proposal establishes a conditional safe harbor (Rule 400) under which a crypto asset ceases to be subject to an investment contract upon completion or cessation of essential managerial efforts, alongside federal preemption of state blue sky laws for covered offerings and secondary market resales.",
+      "challenges": "The proposed rule suffers from several key procedural, economic, and legal defects under the Administrative Procedure Act (APA):\n\n1. Arbitrary Cap & Time Horizon on Startup Exemption (Rule 200, 91 FR 54532): The $5 million 4-year aggregate cap fails to reflect the realistic capital expenditure and timeline required to build secure, production-grade distributed ledger infrastructure. Forcing early-stage projects into full financial statement audits or abrupt sunsetting after four years creates an artificial cliff that harms network growth and capital formation.\n\n2. GAAP Accounting Impossibility for Tier 2 Offerings (Rule 300 / Form 1-CRYPTO Part F/S, 91 FR 54546): Mandating standard U.S. GAAP audits without finalized FASB accounting standards governing token allocations, staking rewards, treasury distributions, and wrapped assets creates compliance impossibility and subjects startup issuers to prohibitive audit costs ($450,000+).\n\n3. Arbitrary Retail Investment Limits in Tier 1 Offerings (Rule 300(c)(2)(i)(C), 91 FR 54541): Imposing a 10% income/net worth limitation on non-accredited investors across Tier 1 offerings directly conflicts with the technical necessity of cultivating widespread 'network effects' and programmatic token usage, depressing token velocity and user adoption.\n\n4. Vague Safe Harbor Trigger Standards (Rule 400, 91 FR 54554): The standard for completing 'essential managerial efforts' remains overly subjective. The rule lacks bright-line guidance clarifying that routine post-launch software maintenance, protocol grant funding, and bug bounties do not constitute ongoing managerial efforts.",
+      "references": [
+        {
+          "title": "SEC v. W.J. Howey Co., 328 U.S. 293 (1946)",
+          "url": "https://supreme.justia.com/cases/federal/us/328/293/"
+        },
+        {
+          "title": "Cong, L. W., Li, Y., & Wang, N. (2021). Tokenomics: Dynamic Adoption and Valuation. The Review of Financial Studies, 34(3), 1105\u20131155.",
+          "url": "https://doi.org/10.1093/rfs/hhaa089"
+        },
+        {
+          "title": "Howell, S. T., Niessner, M., & Yermack, D. (2020). Initial Coin Offerings: Financing Growth with Cryptocurrency Token Sales. The Review of Financial Studies, 33(9), 3925\u20133974.",
+          "url": "https://doi.org/10.1093/rfs/hhaa004"
+        },
+        {
+          "title": "Loper Bright Enterprises v. Raimondo, 144 S. Ct. 2244 (2024)",
+          "url": "https://www.supremecourt.gov/opinions/23pdf/22-451_7648.pdf"
+        }
+      ],
+      "proposed_comment": "VIA ELECTRONIC SUBMISSION\n\nOctober 15, 2026\n\nVanessa A. Countryman, Secretary\nSecurities and Exchange Commission\n100 F Street NE\nWashington, DC 20549-1090\n\nRe: Comments on Proposed Rule: Regulation Crypto Assets (Release Nos. 33-11434; 34-106150; File No. S7-2026-27; RIN 3235-AN38)\n\nDear Ms. Countryman:\n\nWe submit this public comment in response to the Securities and Exchange Commission's ('Commission') proposed rulemaking, 'Regulation Crypto Assets,' 91 FR 54510 (August 21, 2026). While we commend the Commission for moving away from 'regulation by enforcement' toward a tailored offering regime, key provisions of the proposed framework contain severe economic and regulatory defects that will frustrate capital formation and impede software innovation.\n\nI. The $5 Million Aggregate Cap and 4-Year Sunset under Rule 200(b) Are Arbitrary and Unworkable (91 FR 54532).\n\nProposed Rule 200(b)(4) caps covered transactions under the Startup Exemption at $5,000,000 across a 4-year period. In modern distributed software engineering, $5 million is entirely insufficient to cover protocol security audits, formal verification, incentive allocations, and legal compliance. Furthermore, setting a hard 4-year sunset (Rule 200(b)(1)) ignores the realities of open-source development, where progressive decentralization often requires 5 to 7 years. Capping capital raising at $5 million forces early-stage developers into premature Tier 2 filings or offshore jurisdictions.\n\nProposed Revision to Rule 200(b)(1) & (4):\n- Amend Rule 200(b)(1)(i) to read: '(i) Five years after the date of such filing, subject to a one-time two-year extension upon filing an updated Form NOR;'\n- Amend Rule 200(b)(4) to read: 'The sum of the aggregate offering price in the covered transaction plus the gross proceeds from all covered transactions before the start of and during the current covered transaction must not exceed $10,000,000.'\n\nII. The Application of Retail Investment Limits in Tier 1 Offerings Restricts Network Effects (91 FR 54541).\n\nProposed Rule 300(c)(2)(i)(C) limits non-accredited investor purchases in Tier 1 offerings to 10% of annual income or net worth. Unlike traditional equity securities, crypto assets derive security and utility from widespread distribution ('network effects'). Restricting individual retail user participation in low-cap Tier 1 offerings ($20 million or less) creates artificial friction for platform utility users without offering commensurate investor protection benefits.\n\nProposed Revision to Rule 300(c)(2)(i)(C):\n- Amend Rule 300(c)(2)(i)(C) to add: 'Provided, however, that the investment limitations set forth in this paragraph (c)(2)(i)(C) shall not apply to Tier 1 offerings where the subject crypto asset is immediately usable for utility or governance functions within an operational or testnet associated crypto network or application.'\n\nIII. Clarification of Non-Managerial Post-Launch Activities under Rule 400 (91 FR 54554).\n\nProposed Rule 400(a) conditions the Investment Contract Safe Harbor on the complete cessation of 'essential managerial efforts.' To eliminate chilling uncertainty, the text of Rule 400 must explicitly clarify that open-source grant funding, protocol bug bounties, routine maintenance, and non-binding governance participation do not constitute essential managerial efforts.\n\nProposed Addition to Rule 400(a):\n- Insert Instruction 1 to Rule 400(a): 'Instruction 1: For purposes of paragraph (a), an issuer's ongoing provision of open-source software updates, bug bounties, technical maintenance, ecosystem grant distributions, or non-binding governance recommendations shall not, standing alone, be deemed to constitute essential managerial efforts.'\n\nConclusion\n\nBy adjusting offering caps, exempting utility-focused Tier 1 transactions from retail caps, and clarifying post-launch maintenance under the safe harbor, the Commission can establish a truly fit-for-purpose regulatory framework that balances robust investor protection with American technological leadership.\n\nRespectfully submitted,\n\n/s/ Civic Advocates & Administrative Law Coalition",
+      "sponsors": [
+        {
+          "organization_name": "Coin Center",
+          "email_contacts": [
+            "info@coincenter.org",
+            "press@coincenter.org"
+          ],
+          "reason_for_contact": "As the primary non-profit research and advocacy organization focused on cryptocurrency policy, Coin Center is uniquely positioned to sponsor administrative challenges focusing on non-security token status and user privacy protections."
+        },
+        {
+          "organization_name": "Blockchain Association",
+          "email_contacts": [
+            "info@theblockchainassociation.org",
+            "policy@theblockchainassociation.org"
+          ],
+          "reason_for_contact": "Represents leading Web3 developers, infrastructure providers, and investors who require workable exemptions for early-stage capital formation and state blue sky preemption."
+        },
+        {
+          "organization_name": "Crypto Council for Innovation (CCI)",
+          "email_contacts": [
+            "info@cryptocouncil.org",
+            "media@cryptocouncil.org"
+          ],
+          "reason_for_contact": "Global industry alliance advocating for institutional clarity, realistic financial accounting standards, and unencumbered global competitiveness for U.S. protocol developers."
+        },
+        {
+          "organization_name": "a16z Crypto (Andreessen Horowitz)",
+          "email_contacts": [
+            "crypto-policy@a16z.com",
+            "info@a16z.com"
+          ],
+          "reason_for_contact": "Major venture firm actively publishing empirical policy papers on crypto disclosure frameworks, token safe harbor mechanics, and protocol decentralization standards."
+        }
+      ]
+    }
+  },
+  {
+    "id": "CFTC-2026-1850-0001",
+    "agency": "CFTC",
+    "title": "Listing of Compute Derivatives Contracts - Request for Comment",
+    "link": "https://www.regulations.gov/document/CFTC-2026-1850-0001",
+    "posted_date": "2026-08-21 04:00:00+00:00",
+    "comment_end_date": "2026-10-21T03:59:59Z",
+    "processed_at": "2026-08-22T12:52:36.961726",
+    "ai_data": {
+      "summary_of_main_idea": "The Commodity Futures Trading Commission (CFTC) is issuing a Request for Comment on the listing of compute derivatives contracts\u2014futures and options referencing the price of artificial intelligence processing power\u2014on Designated Contract Markets (DCMs) and Swap Execution Facilities (SEFs). The initiative seeks to evaluate how these nascent instruments can comply with statutory requirements under the Commodity Exchange Act (CEA), specifically Core Principle 3 (ensuring contracts are not readily susceptible to manipulation) and Core Principle 4 (market surveillance). The agency aims to establish a clear regulatory pathway that supports price discovery and risk management for the expanding AI economy while preventing market distortion and fraud.",
+      "challenges": "The listing of compute derivatives presents severe legal, economic, and technical defects under the Commodity Exchange Act (CEA) and the Administrative Procedure Act (APA). First, compute lacks physical standardization and fungibility across hardware generations (e.g., NVIDIA B200 vs. H100), latency configurations, and cloud provider ecosystem dependencies, violating baseline criteria set forth in 17 CFR Part 38 Appendix C. Second, the cash market for compute is highly concentrated and fragmented, characterized by opaque, privately negotiated bilateral transactions rather than liquid, transparent spot markets. Reference price indices derived from provider-posted rates or thin trading venues are inherently vulnerable to price manipulation, self-dealing, and wash trading by dominant hyperscalers (CEA Section 5(d)(3), 7 U.S.C. 7(d)(3)). Third, permitting DCMs to list compute contracts via self-certification under 17 CFR 40.2 without establishing binding benchmark standards constitutes arbitrary and capricious agency action under the APA (5 U.S.C. 706(2)(A)).",
+      "references": [
+        {
+          "title": "Bandi, F. M. (2026). (Early) AI Compute Asset Pricing. Working Paper / Financial Economics Series.",
+          "url": "https://ssrn.com/abstract=4891234"
+        },
+        {
+          "title": "Carlton, D. W. (1984). Futures markets: Their purpose, their history, their growth, their successes and failures. Journal of Futures Markets, 4(3), 237-271.",
+          "url": "https://doi.org/10.1002/fut.3990040302"
+        },
+        {
+          "title": "CFTC 17 CFR Part 38, Appendix C - Demonstration of Compliance That a Contract Is Not Readily Susceptible to Manipulation.",
+          "url": "https://www.ecfr.gov/current/title-17/chapter-I/part-38/appendix-Appendix%20C%20to%20Part%2038"
+        },
+        {
+          "title": "Center for Security and Emerging Technology (CSET). Compute Governance and Market Infrastructure in Artificial Intelligence.",
+          "url": "https://cset.georgetown.edu/research/compute-governance-and-market-mechanisms/"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC AND FINANCIAL MARKET ADVOCATES\n\nTo: Christopher Kirkpatrick, Secretary\nCommodity Futures Trading Commission\nThree Lafayette Centre, 1155 21st Street NW\nWashington, DC 20581\n\nRe: Request for Comment on the Listing of Compute Derivatives Contracts (RIN 3038-AF77; 91 FR 54259\u201354264)\n\nI. Introduction\nWe submit these comments in response to the Commodity Futures Trading Commission's (\"CFTC\" or \"Commission\") Request for Comment (\"RFC\") regarding the listing of derivatives contracts referencing artificial intelligence processing capacity (\"compute derivatives\"). While recognizing the rapid macroeconomic expansion of AI infrastructure as noted on page 54260, we urge the Commission to enforce strict statutory compliance with the Commodity Exchange Act (\"CEA\") before approving or permitting the listing of any compute futures or swaps.\n\nII. Substantive Legal and Economic Weaknesses\n\n1. Incompatibility with DCM Core Principle 3 (7 U.S.C. 7(d)(3) & 17 CFR Part 38, Appendix C)\nAs acknowledged on pages 54262\u201354263 of the RFC, compute is currently an unstandardized, non-fungible, and non-storable service flow rather than a standardized physical commodity. Price formation occurs almost entirely through opaque, long-term bilateral transactions that are withheld from public view. Settlement price indices constructed from posted provider rates or low-volume spot venues fail to satisfy Appendix C to Part 38, which mandates that a cash-settled contract must rely on a cash price series that is liquid, reliable, and resistant to manipulation. Dominant compute providers possess the capability and financial incentive to distort underlying cash benchmark rates during observation windows to benefit off-exchange or on-exchange derivative positions.\n\n2. Surveillance Infeasibility under DCM Core Principle 4 (7 U.S.C. 7(d)(4))\nAs highlighted in Question 2(d) on page 54263, DCMs currently lack information-sharing arrangements with private compute capacity providers and cloud execution venues. Without direct, verifiable access to primary transaction logs, independent audits, and order-book data, DCMs cannot fulfill their statutory obligation to monitor and prevent price distortion, corners, or squeezes.\n\n3. Impermissibility of Rule 40.2 Self-Certification\nPermitting DCMs to list cash-settled compute derivatives through self-certification pursuant to 17 CFR 40.2 creates grave market vulnerability. Given the structural risk of index manipulation, any attempt to bypass rigorous pre-approval under 17 CFR 40.3 would constitute arbitrary and capricious regulation under Section 706 of the Administrative Procedure Act.\n\nIII. Proposed Alternative Wording and Regulatory Framework\n\nTo ensure compliance with CEA Core Principles and protect market participants, the Commission should amend its Part 38 guidance by adopting the following binding provision:\n\n\"Proposed Rule Amendment (17 CFR \u00a7 38.202 - Mandatory Commission Review for Compute and Emerging Digital Infrastructure Derivatives):\n(a) Prior Approval Required. Notwithstanding 17 CFR 40.2, no designated contract market or swap execution facility may list for trading any contract referencing the price, yield, or capacity of compute, artificial intelligence processing units, or cloud hardware, unless the Commission has formally approved such contract pursuant to 17 CFR 40.3.\n(b) Benchmark Integrity Standard. Approval under paragraph (a) shall require the listing facility to demonstrate that:\n  (1) At least 80% of the underlying index volume is derived from arm's-length, executed transactions subject to independent, third-party audit;\n  (2) Sole reliance on posted, unexecuted, or provider-administered rates is expressly prohibited;\n  (3) Binding information-sharing agreements exist between the DCM and venues accounting for a majority of the cash market underlying the index.\"\n\nRespectfully submitted,\n[Civic Advocates & Public Interest Coalition]",
+      "sponsors": [
+        {
+          "organization_name": "Futures Industry Association (FIA)",
+          "email_contacts": [
+            "commentletters@futuresindustry.org"
+          ],
+          "reason_for_contact": "FIA represents futures clearing merchants and clearing members who face clearing risk, default management challenges, and customer protection compliance risks if illiquid or easily manipulated compute derivatives are listed on DCMs."
+        },
+        {
+          "organization_name": "Managed Funds Association (MFA)",
+          "email_contacts": [
+            "regulations@managedfunds.org"
+          ],
+          "reason_for_contact": "MFA represents alternative asset managers and hedge funds that require robust, unmanipulable price benchmark standards and transparent pricing indices before engaging in compute derivatives markets."
+        },
+        {
+          "organization_name": "Center for Security and Emerging Technology (CSET)",
+          "email_contacts": [
+            "cset@georgetown.edu"
+          ],
+          "reason_for_contact": "CSET conducts leading empirical research on compute governance, supply chains, and AI infrastructure market structures, making them key partners for setting benchmark standards."
+        },
+        {
+          "organization_name": "Americans for Financial Reform (AFR)",
+          "email_contacts": [
+            "info@ourfinancialsecurity.org"
+          ],
+          "reason_for_contact": "AFR advocates for financial market integrity and strong regulatory oversight under the CEA, opposing deregulatory self-certification for vulnerable or easily manipulated commodity benchmarks."
+        }
+      ]
+    }
+  },
+  {
+    "id": "USCBP-2026-0892-0001",
+    "agency": "USCBP",
+    "title": "Withdrawal of International Airport Designation of Chalk Seaplane Base",
+    "link": "https://www.regulations.gov/document/USCBP-2026-0892-0001",
+    "posted_date": "2026-08-21 04:00:00+00:00",
+    "comment_end_date": "2026-10-21T03:59:59Z",
+    "processed_at": "2026-08-22T12:52:36.961799",
+    "ai_data": {
+      "summary_of_main_idea": "The Department of Homeland Security (DHS) and U.S. Customs and Border Protection (CBP) propose to withdraw the international airport designation of Chalk Seaplane Base (Miami Seaplane Base), removing it from the codified lists in 8 CFR 100.4(b) and 19 CFR 122.13. The agency justifies this action based on the facility's failure to comply with the 2021 CBP Airport Terminal Design Standard and low international passenger volume. If finalized, international flights will no longer be cleared at this location and must land at alternative facilities such as Miami International Airport or Fort Lauderdale-Hollywood International Airport.",
+      "challenges": "1. Defective Baseline and Circular Logic under the APA: CBP evaluates the economic impact against a baseline created by its own administrative denial of landing permissions beginning in May 2021. By artificially suppressing flight volume through administrative action prior to formal rulemaking, CBP creates a circular justification under Executive Order 12866 and OMB Circular A-4.\n2. Inadequate Consideration of Seaplane Operational Requirements: CBP improperly treats land-locked airports (Miami International and Fort Lauderdale-Hollywood International) as direct substitutes for a seaplane base. Straight-hull seaplanes and certain amphibious aircraft cannot land on conventional asphalt runways, making nearby terrestrial airports functionally unavailable as alternative processing ports.\n3. Failure to Evaluate Reasonable Regulatory Alternatives: CBP failed to explore less restrictive alternatives, such as transitioning the facility to a User Fee Airport status under 19 U.S.C. 58b or establishing a public-private partnership timeline for facility upgrades.",
+      "references": [
+        {
+          "title": "Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983) (Establishing arbitrary and capricious standards for administrative agency decision-making)",
+          "url": "https://supreme.justia.com/cases/federal/us/463/29/"
+        },
+        {
+          "title": "OMB Circular A-4: Regulatory Analysis Guidance on Establishing Baseline Conditions and Evaluating Regulatory Alternatives",
+          "url": "https://www.whitehouse.gov/wp-content/uploads/2023/11/CircularA-4.pdf"
+        },
+        {
+          "title": "Congressional Research Service: U.S. Customs and Border Protection Ports of Entry Infrastructure and Staffing Constraints (Report R43356)",
+          "url": "https://crsreports.congress.gov/product/pdf/R/R43356"
+        },
+        {
+          "title": "Seaplane Pilots Association: Technical Evaluation of Waterborne Aircraft Access to Public Processing Infrastructure",
+          "url": "https://www.seaplanes.org/waterfront-infrastructure-study"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. USCBP-2026-0892, RIN 1651-AB51: Comments on Proposed Rule for Withdrawal of International Airport Designation of Chalk Seaplane Base\n\nI. INTRODUCTION\nThese comments are submitted in response to the U.S. Customs and Border Protection (CBP) and Department of Homeland Security (DHS) Notice of Proposed Rulemaking (NPRM) published at 91 FR 54249 (August 21, 2026), proposing to remove Chalk Seaplane Base (CSB / Miami Seaplane Base) from the list of international airports in 8 CFR 100.4(b) and 19 CFR 122.13.\n\nII. LEGAL AND ECONOMIC DEFECTS IN THE PROPOSED RULE\n1. Improper Baseline Analysis (91 FR 54251): CBP claims that the proposed rule carries zero economic cost because international arrivals have not occurred at CSB since May 2021. This methodology violates OMB Circular A-4 guidance. CBP artificially depressed the operational baseline by denying landing permissions prior to engaging in formal notice-and-comment rulemaking. Agency action cannot rely on a pre-existing administrative lockout to claim that a permanent regulatory withdrawal has no incremental market impact.\n\n2. Mischaracterization of Alternative Facilities (91 FR 54251): CBP asserts that Miami International Airport (MIA) and Fort Lauderdale-Hollywood International Airport (FLL) provide seamless alternatives for arriving seaplanes. This finding is technically flawed. Pure water-landing aircraft (straight-float seaplanes) cannot operate on dry land runways at MIA or FLL. Removing CSB effectively deprives water-only international flights of a viable port of entry in South Florida, causing severe market displacement.\n\n3. Arbitrary Failure to Consider User-Fee Alternatives (19 CFR 122.11): Rather than total derecognition, CBP should consider conditional designation or transition to a User Fee Airport under 19 U.S.C. 58b, allowing private operators to finance required inspection equipment and dedicated personnel space.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\nInstead of removing CSB, amend the proposed rule to insert a conditional compliance timeline under 19 CFR 122.13:\n\n\"19 CFR 122.13 [Amended]\nMiami, Fla.\u2014Chalk Seaplane Base* \n*Note: Designation subject to facility compliance with CBP Airport Terminal Design Standards under a User Fee Agreement pursuant to 19 U.S.C. 58b within 24 calendar months of final rule publication. Failure to achieve facility certification by [Date 2 Years Post-Final Rule] shall result in automatic administrative withdrawal of international airport status.\"\n\nIV. CONCLUSION\nCBP should withdraw the proposed rule, re-evaluate the true economic baseline, and work with local facility operators to transition CSB to a compliant user-fee waterborne port of entry.",
+      "sponsors": [
+        {
+          "organization_name": "Seaplane Pilots Association (SPA)",
+          "email_contacts": [
+            "info@seaplanes.org",
+            "advocacy@seaplanes.org"
+          ],
+          "reason_for_contact": "SPA is the leading national advocacy group representing seaplane pilots and operators, directly impacted by the loss of marine aviation international clearance points."
+        },
+        {
+          "organization_name": "Florida Aviation Business Association (FABA)",
+          "email_contacts": [
+            "info@faba.aero",
+            "government@faba.aero"
+          ],
+          "reason_for_contact": "FABA represents general aviation businesses and charter operators across Florida that rely on diverse port-of-entry options for regional island commerce."
+        },
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "info@nbaa.org",
+            "ops@nbaa.org"
+          ],
+          "reason_for_contact": "NBAA advocates for general aviation access to federal border clearance facilities and can support legal challenges against improper agency baseline settings."
+        },
+        {
+          "organization_name": "Greater Miami Chamber of Commerce",
+          "email_contacts": [
+            "info@miamichamber.com",
+            "policy@miamichamber.com"
+          ],
+          "reason_for_contact": "The local chamber has an interest in maintaining South Florida's marine and aviation infrastructure to foster regional tourism and international trade."
+        }
+      ]
+    }
+  },
+  {
+    "id": "DHS_FRDOC_0001-2784",
+    "agency": "DHS",
+    "title": "Withdrawal of International Airport Designation of Chalk Seaplane Base",
+    "link": "https://www.regulations.gov/document/DHS_FRDOC_0001-2784",
+    "posted_date": "2026-08-21 04:00:00+00:00",
+    "comment_end_date": "2026-10-21T03:59:59Z",
+    "processed_at": "2026-08-22T12:52:36.961871",
+    "ai_data": {
+      "summary_of_main_idea": "The Department of Homeland Security (DHS) and U.S. Customs and Border Protection (CBP) propose withdrawing the international airport designation for the historic Chalk Seaplane Base (now Miami Seaplane Base) under 8 CFR 100.4(b) and 19 CFR 122.13. CBP justifies this withdrawal on the grounds that the facility fails to comply with modern CBP Airport Terminal Design Standards and that low historical passenger volume does not justify allocating inspection personnel and resources.",
+      "challenges": "The proposed rule suffers from several key legal, economic, and procedural vulnerabilities:\n\n1. Arbitrary Baseline Selection & Deficient Regulatory Impact Analysis: CBP improperly treats the rule's economic cost as zero by using a baseline established after it unilaterally prohibited foreign arrivals in May 2021. By relying on an agency-created cessation of operations to claim 'zero economic cost,' CBP fails to assess the actual economic harm to regional waterborne aviation, cross-border commerce with the Bahamas, and local maritime businesses in violation of Executive Order 12866.\n\n2. Arbitrary and Capricious Failure to Consider Reasonable Alternatives (APA 5 U.S.C. \u00a7 706): CBP failed to evaluate viable regulatory alternatives short of full revocation, such as transitioning the facility to User Fee Airport status pursuant to 19 U.S.C. \u00a7 58b, establishing a Reimbursable Services Agreement under 6 U.S.C. \u00a7 226, or tailoring inspection guidelines specifically for light seaplane operations rather than rigid land-based commercial terminal standards.\n\n3. Inflexible Application of Non-Binding Guidelines: CBP retroactively applied the 2021 Airport Terminal Design Standard\u2014a guidance document\u2014without providing clear administrative variances or accommodating the unique spatial constraints of waterfront seaplane infrastructure on Watson Island.",
+      "references": [
+        {
+          "title": "U.S. Government Accountability Office: Commercial Infrastructure and Customs Processing at User Fee Airports (GAO Report)",
+          "url": "https://www.gao.gov/products/gao-21-342t"
+        },
+        {
+          "title": "Columbia Law Review: The Baseline Problem in Regulatory Impact Analysis and Administrative Law",
+          "url": "https://www.columbialawreview.org/content/baseline-fallacy-ria"
+        },
+        {
+          "title": "Journal of Air Transport Management: Economic and Multi-Modal Impact of Regional Seaplane Infrastructure",
+          "url": "https://www.sciencedirect.com/journal/journal-of-air-transport-management"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND AVIATION STAKEHOLDERS\n\nDocket No. USCBP-2026-0892\nRIN 1651-AB51\nProposed Rule: Withdrawal of International Airport Designation of Chalk Seaplane Base\n\nI. INTRODUCTION\nThese comments are submitted in response to the Department of Homeland Security (DHS) and U.S. Customs and Border Protection (CBP) Notice of Proposed Rulemaking published at 91 FR 54249 (August 21, 2026). DHS proposes to remove Chalk Seaplane Base (Miami Seaplane Base, CSB) from the codified lists of international airports in 8 CFR 100.4(b) and 19 CFR 122.13.\n\nII. LEGAL AND ECONOMIC DEFICIENCIES\n\nA. Flawed Economic Baseline under E.O. 12866 and E.O. 14192\nOn page 54251, CBP asserts that 'the economic cost on all parties is expected to be zero' because CBP unilaterally denied landing permissions starting in May 2021. This logic is impermissibly circular under Administrative Procedure Act (APA) principles and OMB Circular A-4. An agency cannot create an administrative pre-clearance ban, use that self-created ban to establish an artificially depressed economic baseline, and then claim a permanent regulatory revocation causes zero economic impact. CBP must evaluate the real-world baseline prior to the administrative shutdown, taking into account the lost commercial opportunities for cross-border maritime flight operations, regional tourism, and international connections between South Florida and the Caribbean.\n\nB. Failure to Consider Less Restrictive Alternatives\nUnder 5 U.S.C. \u00a7 706(2)(A), an agency rule is arbitrary and capricious if the agency fails to consider an important aspect of the problem or reasonable alternatives. CBP's standard for facilities compliance relies on the 2021 CBP Airport Terminal Design Standard (91 FR 54251), which is designed primarily for large land-based international airports. CBP failed to analyze whether CSB could maintain international capability through alternative mechanisms, such as:\n1. Transitioning CSB to a User Fee Airport under 19 U.S.C. \u00a7 58b;\n2. Executing a Reimbursable Services Agreement (RSA) under 6 U.S.C. \u00a7 226;\n3. Establishing customized seaplane security and inspection protocols appropriate for low-volume, light-aircraft water landings.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\nInstead of permanently removing Chalk Seaplane Base from 8 CFR 100.4(b) and 19 CFR 122.13, DHS should amend the proposed rule to allow a 180-day transition period for the facility operator to submit a binding plan for User Fee Airport designation or a Reimbursable Services Agreement.\n\nProposed Revision to 19 CFR 122.13:\n'Miami, Fla.\u2014Chalk Seaplane Base* \n[*Note: International airport designation conditional upon the facility operator entering into a Reimbursable Services Agreement or User Fee Airport agreement pursuant to 19 U.S.C. 58b within 180 days of the effective date of this rule; absent such agreement, designation shall be automatically reclassified.]'\n\nIV. CONCLUSION\nDHS and CBP should stay the final withdrawal of CSB\u2019s international designation and collaborate with local stakeholders to preserve this vital historic seaplane gateway.",
+      "sponsors": [
+        {
+          "organization_name": "Seaplane Pilots Association (SPA)",
+          "email_contacts": [
+            "advocacy@seaplanes.org",
+            "info@seaplanes.org"
+          ],
+          "reason_for_contact": "SPA represents water-landing aviation operators nationwide and has a direct interest in preserving dedicated seaplane border clearance points."
+        },
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "info@nbaa.org",
+            "governmentaffairs@nbaa.org"
+          ],
+          "reason_for_contact": "NBAA advocates for general aviation access and user-fee airport alternatives to maintain international access for specialized aircraft."
+        },
+        {
+          "organization_name": "Florida Aviation Business Association (FABA)",
+          "email_contacts": [
+            "info@faba.aero",
+            "board@faba.aero"
+          ],
+          "reason_for_contact": "FABA represents airport operators and aviation businesses in Florida concerned with preserving regional aviation infrastructure and trade corridors."
+        },
+        {
+          "organization_name": "Greater Miami Chamber of Commerce",
+          "email_contacts": [
+            "info@miamichamber.com",
+            "policy@miamichamber.com"
+          ],
+          "reason_for_contact": "The Chamber supports local infrastructure and commerce, particularly historical trade routes connecting Miami to the Caribbean."
+        }
+      ]
+    }
+  },
+  {
+    "id": "USCIS-2026-0331-0001",
+    "agency": "USCIS",
+    "title": "Genealogy Program Regulations To Clarify the Impact of Federal Records Requirements",
+    "link": "https://www.regulations.gov/document/USCIS-2026-0331-0001",
+    "posted_date": "2026-08-21 04:00:00+00:00",
+    "comment_end_date": "2026-10-21T03:59:59Z",
+    "processed_at": "2026-08-22T12:52:36.961946",
+    "ai_data": {
+      "summary_of_main_idea": "The Department of Homeland Security (DHS) proposes to amend 8 CFR Part 103 to clarify that U.S. Citizenship and Immigration Services (USCIS) will only search for and produce historical records that remain in its physical and legal custody. Under the proposed rule, once historical records (such as C-Files, Visa Files, or Alien Registration Forms) are transferred to the National Archives and Records Administration (NARA) in accordance with federal records retention schedules, USCIS will no longer process genealogy requests for those files. The regulation establishes that requesters must apply directly to NARA for transferred records, paving the way for the ultimate phase-out of the USCIS Genealogy Program as all historic records are accessioned into NARA custody.",
+      "challenges": "1. APA Arbitrary and Capricious Defects & Fee Exploitation: The proposed rule permits USCIS to collect non-refundable search fees (Form G-1041) from requesters without providing real-time pre-filing notification of whether a record set has been transferred to NARA. Requiring public requesters to pay USCIS fees only to receive a response stating that the record is at NARA\u2014requiring a second fee payment to NARA\u2014imposes an unconsidered economic burden without administrative justification.\n2. Regulatory Flexibility Act (RFA) Compliance Failures: DHS inadequately performed its Initial Regulatory Flexibility Analysis (IRFA) by claiming it lacks data on whether requesters are small entities (e.g., independent professional genealogists and historical research firms). The agency failed to evaluate the economic impact on sole proprietorships and small research firms that rely on predictable access to historical immigration records.\n3. Procedural Due Process and Inadequate Public Notice: Relying on website updates rather than formal Federal Register notices or binding regulatory schedules for specific record transfers fails to guarantee adequate public notice, creating administrative bottlenecks and delays for researchers.",
+      "references": [
+        {
+          "title": "Preserving the Paper Trail: Administrative Law and the Accessibility of Historical Immigration Records",
+          "url": "https://www.law.georgetown.edu/immigration-law-journal/archives/historical-records-access"
+        },
+        {
+          "title": "Agency Fee Structures and Burden Distribution Under the Freedom of Information and Genealogy Programs",
+          "url": "https://www.law.upenn.edu/journals/lawreview/articles/volume170/records-management-foia"
+        },
+        {
+          "title": "Inter-Agency Record Transfers and the Arbitrary Imposition of Duplicative User Fees",
+          "url": "https://www.harvardlawreview.org/forum/interagency-record-transfers-administrative-fee-burdens"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON PROPOSED RULEMAKING\nDepartment of Homeland Security\n8 CFR Part 103 [CIS No. 2798-25; DHS Docket No. USCIS-2026-0331; RIN 1615-AD21]\nGenealogy Program Regulations To Clarify the Impact of Federal Records Requirements\n\nI. INTRODUCTION AND STATEMENT OF INTEREST\nThe undersigned submit this formal public comment regarding DHS's Notice of Proposed Rulemaking (NPRM) amending 8 CFR Part 103. While we recognize the statutory obligation of USCIS to transfer permanent records to the National Archives and Records Administration (NARA) pursuant to 44 U.S.C. 3102 and 36 CFR part 1220, the rule as written creates significant legal defects and procedural unfairness for public researchers, professional genealogists, and historians.\n\nII. SPECIFIC CITATIONS AND LEGAL DEFECTS\n\n1. Proposed 8 CFR 103.38(c) & 103.40(a) \u2013 Absence of Refund or Direct Referral Mechanisms\nAs proposed, 8 CFR 103.38(c) states that USCIS will not provide requesters with historical records transferred to NARA. However, the preamble (91 FR 54254) notes that when an individual submits Form G-1041 (Index Search Request) or Form G-1041A (Records Request) for records already at NARA, USCIS will simply 'inform the requestor that such records may be requested directly from NARA.' \nThis process is arbitrary and capricious under 5 U.S.C. 706(2)(A). Requesters pay $30 (online) or $80 (paper) per request. Under the proposed rule, USCIS retains the fee despite performing no meaningful retrieval, while forcing the user to pay a secondary fee to NARA. USCIS must implement an automated verification system prior to payment or establish an inter-agency referral system that forwards requests and fees directly to NARA without requiring duplicative submissions.\n\n2. Initial Regulatory Flexibility Analysis (IRFA) Deficiencies (91 FR 54256-54257)\nDHS states that it 'does not currently have sufficient data to definitively assess the impact on small entities.' Disregarding the economic impact on thousands of self-employed professional genealogists and historical research small businesses violates the Regulatory Flexibility Act (5 U.S.C. 603). USCIS has collected Form G-1041 filings for nearly two decades and cannot rely on self-induced data blindspots to bypass its RFA statutory duties.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\nTo resolve these procedural and legal deficiencies, we urge DHS to adopt the following amended text prior to finalizing the rule:\n\nAmend 8 CFR 103.38 by revising paragraph (c) to read as follows:\n\n'\u00a7 103.38 Genealogy Program.\n***\n(c) Effect of Transfer of Historical Records to National Archives and Records Administration. \n(1) Under the genealogical research request process, USCIS will not provide requestors with historical records, as defined under 8 CFR 103.39, that have been transferred to the legal custody of the National Archives and Records Administration in accordance with the records schedule that governs the disposition of the records.\n(2) Mandatory Search Refunds and Referral. If a requester submits Form G-1041 or Form G-1041A for a record series that USCIS has transferred to the legal custody of NARA, USCIS shall either: (i) automatically transfer the request and applicable filing fee to NARA for processing; or (ii) issue a full refund of the fee collected within 30 days of determining that legal custody rests with NARA, accompanied by specific instructions on how to request the file from NARA.'",
+      "sponsors": [
+        {
+          "organization_name": "National Genealogical Society (NGS)",
+          "email_contacts": [
+            "advocacy@ngsgenealogy.org",
+            "admin@ngsgenealogy.org"
+          ],
+          "reason_for_contact": "NGS represents thousands of professional and amateur genealogists who rely on access to historical USCIS records and actively advocate for transparent fee and search policies."
+        },
+        {
+          "organization_name": "Records Preservation and Access Coalition (RPAC)",
+          "email_contacts": [
+            "info@fgs.org",
+            "chair@rpac.info"
+          ],
+          "reason_for_contact": "RPAC advises the genealogical community on public access to federal records and has historically filed comments opposing unfair fee hikes and redundant access barriers."
+        },
+        {
+          "organization_name": "American Historical Association (AHA)",
+          "email_contacts": [
+            "advocacy@historians.org",
+            "info@historians.org"
+          ],
+          "reason_for_contact": "AHA represents historical researchers and academic institutions directly impacted by agency policy shifts regarding archival record availability and NARA transfers."
+        },
+        {
+          "organization_name": "Society of American Archivists (SAA)",
+          "email_contacts": [
+            "saahq@archivists.org",
+            "advocacy@archivists.org"
+          ],
+          "reason_for_contact": "SAA focuses on federal records scheduling, proper inter-agency archival transfers, and ensuring smooth public access transitions between federal agencies and NARA."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OPP-2025-0042-0008",
+    "agency": "EPA",
+    "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities\u2014June 2026",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OPP-2025-0042-0008",
+    "posted_date": "2026-08-20 04:00:00+00:00",
+    "comment_end_date": "2026-09-22T03:59:59Z",
+    "processed_at": "2026-08-22T12:52:36.962020",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) is issuing a notice of receipt for several pesticide petitions submitted under Section 408 of the Federal Food, Drug, and Cosmetic Act (FFDCA), requesting the establishment or modification of maximum residue tolerances for active ingredients across multiple food and feed commodities. The petitions propose new residue thresholds for thiabendazole (cotton gin byproducts), fenpropathrin (various crop groups including leafy greens, tree nuts, and legumes), iptriazopyrid (rice, aquatic organisms, and animal tissue/milk products), and aviglycine HCl (almonds). The notice solicits public comment on these requested tolerances, analytical measurement methods, and potential commodity variations before the Agency conducts its full risk evaluations.",
+      "challenges": "1. Administrative Procedure Act (APA) & FFDCA Procedural Deficiencies: The Agency solicits public comments on petitions prior to publishing its own preliminary risk assessments or verifying data completeness. Requiring public comment before providing EPA's independent evaluation of dietary risk, ecotoxicity, and bioaccumulation deprives the public of a meaningful opportunity to comment under APA 5 U.S.C. 553.\n2. Bioaccumulation and Ecotoxicological Risks for Aquatic Species (Iptriazopyrid): Petition PP 5F9219 seeks tolerances for novel herbicide iptriazopyrid residues in fish, shellfish, and crustaceans at 0.04 ppm, alongside elevated poultry liver tolerances (0.60 ppm). The notice lacks empirical bioaccumulation kinetics or degradation pathways in aquatic environments, risking unchecked trophic transfer in marine and freshwater ecosystems.\n3. Cumulative Exposure Violations under Food Quality Protection Act (FQPA) (Fenpropathrin): Petition PP 5E9210 significantly expands fenpropathrin (a synthetic pyrethroid) tolerances across wide crop subgroups (e.g., brassica, leafy greens at 15 ppm). Fenpropathrin shares a common mechanism of toxicity with other broad-spectrum pyrethroids. Establishing expanded tolerances without a updated cumulative risk assessment that factors in combined daily dietary exposure violates FFDCA \u00a7 408(b)(2)(C).\n4. Enforcement Method Confidentiality & Validation Deficiencies: Petitions reference proprietary analytical methods (e.g., GRM040.01A, generic LC-MS/MS) without providing public access to method validation reports or standard operating procedures required for public health enforcement monitoring by state and federal regulatory agencies.",
+      "references": [
+        {
+          "title": "EPA Pyrethroid and Pyrethrins Cumulative Risk Assessment and Registration Review",
+          "url": "https://www.epa.gov/pesticide-reevaluation/pyrethroids-and-pyrethrins"
+        },
+        {
+          "title": "Pyrethroid Insecticides: Analysis, Occurrence, and Toxicity in the Environment (ACS Symposium Series)",
+          "url": "https://pubs.acs.org/doi/10.1021/bk-2008-0991"
+        },
+        {
+          "title": "Evaluation of Biomagnification and Bioaccumulation of Pesticides in Aquatic Food Webs",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7071457/"
+        },
+        {
+          "title": "Pesticide Tolerances: Statutory Authority and Safety Standards Under FFDCA Section 408",
+          "url": "https://www.epa.gov/pesticide-tolerances/pesticide-tolerances-statutory-authority-and-guidance"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND HEALTH POLICY ANALYSTS\n\nDate: September 21, 2026\n\nAttn: Docket ID No. EPA-HQ-OPP-2026-0332\nEnvironmental Protection Agency\n1200 Pennsylvania Ave. NW\nWashington, DC 20460\n\nRE: Notice of Filing of Pesticide Petitions for Residues of Pesticide Chemicals in or on Various Commodities (89 FR 53832\u201353834)\n\nI. INTRODUCTION\nThese comments are submitted regarding the Environmental Protection Agency's (EPA) Notice of Filing for pesticide petitions proposing tolerance limits under FFDCA Section 408, published at 91 FR 53832\u201353834. While we recognize the statutory requirement under 21 U.S.C. 346a(d)(3) to publish petition notices, the Agency must ensure that tolerance approvals adhere to strict safety margins established by the Food Quality Protection Act (FQPA) and Administrative Procedure Act (APA) notice-and-comment standards.\n\nII. LEGAL & SCIENTIFIC DEFICIENCIES\n\n1. Inadequate Data Disclosure Under APA \u00a7 553 (89 FR 53833, Unit I.C)\nEPA explicitly notes on page 53833 that it 'has not fully evaluated the sufficiency of the submitted data at this time or whether the data supports granting the pesticide petitions.' Requesting public comment on petitions without releasing the Agency's preliminary human health risk assessments (HHRAs) or ecological risk assessments (ERAs) denies stakeholders a meaningful opportunity to critique the technical foundations of these requests.\n\n2. Failure to Account for Cumulative Pyrethroid Risk (PP 5E9210, Docket ID EPA-HQ-OPP-2026-3599)\nThe petition submitted by the IR-4 Project requests widespread tolerance expansions for fenpropathrin, including high tolerances such as 15 ppm in brassica leafy greens subgroup 4-16B and 5 ppm in cherry subgroup 12-12A. Fenpropathrin is a neurotoxic synthetic pyrethroid. Under 21 U.S.C. 346a(b)(2)(C), EPA must evaluate cumulative exposure from all pesticides sharing a common mechanism of toxicity. EPA cannot grant these modified tolerances without updating the comprehensive pyrethroid cumulative risk model to ensure aggregate dietary exposure does not exceed the acceptable daily intake (ADI).\n\n3. Unsubstantiated Residue Tolerances for Aquatic Ecosystems and Animal Products (PP 5F9219, Docket ID EPA-HQ-OPP-2026-1784)\nNissan Chemical Corporation seeks tolerances for a new chemical entity, iptriazopyrid, across rice, animal fat/tissue, and specifically 'fish, shellfish, crustacean' at 0.04 ppm. Rice paddy effluents discharge directly into surrounding watersheds. Establishing a tolerance in aquatic organisms without providing public access to bioconcentration factor (BCF) data or depuration kinetics creates an unquantified risk of trophic biomagnification in coastal and estuarine food webs.\n\nIII. PROPOSED REGULATORY TEXT REVISIONS\n\nTo ensure regulatory compliance and public health protection, EPA should adopt the following procedural and substantive rules prior to final tolerance determinations:\n\n1. Mandatory Risk Assessment Publication:\nAmend 40 CFR \u00a7 180.7 to insert paragraph (g):\n'(g) Prior to issuing a final rule establishing or modifying a tolerance under FFDCA section 408(d)(4), the Administrator shall publish in the Federal Register a secondary notice of availability containing the preliminary human health risk assessment and ecological risk assessment, opening a secondary public comment period of no less than 30 days.'\n\n2. Conditional Approval Standard for Novel Residues in Aquatic Species (40 CFR Part 180):\nInsert specific condition for Iptriazopyrid (PP 5F9219):\n'No tolerance for residues of iptriazopyrid in or on fish, shellfish, or crustaceans shall be finalized until the petitioner submits, and the Agency publishes for public review, aquatic mesocosm bioaccumulation testing and multi-generational aquatic toxicity data demonstrating that bioaccumulative residues present reasonable certainty of no harm to non-target aquatic organisms and human consumers.'\n\n3. Cumulative Risk Safety Factor Application for Fenpropathrin (40 CFR \u00a7 180.466):\n'Tolerances established for fenpropathrin under subgroup 4-16B, group 5-16, and related agricultural commodities shall incorporate an additional 10-fold FQPA safety factor for infants and children until an updated aggregate neurotoxicity risk assessment for all Type I and Type II pyrethroids is completed.'\n\nIV. CONCLUSION\nEPA must withhold final rulemakings on these petitions until complete toxicology studies, cumulative risk models, and enforcement methodology validations are deposited into the respective public dockets for public inspection.\n\nRespectfully submitted,",
+      "sponsors": [
+        {
+          "organization_name": "Center for Biological Diversity",
+          "email_contacts": [
+            "pesticides@biologicaldiversity.org",
+            "legal@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "The Center for Biological Diversity actively litigates EPA pesticide approvals and tolerance actions that threaten non-target aquatic species and pollinators, particularly regarding novel chemical runoff (iptriazopyrid) and expanded synthetic pyrethroid uses (fenpropathrin)."
+        },
+        {
+          "organization_name": "Beyond Pesticides",
+          "email_contacts": [
+            "info@beyondpesticides.org",
+            "policy@beyondpesticides.org"
+          ],
+          "reason_for_contact": "Beyond Pesticides focuses on petition reviews, administrative law compliance under FFDCA/FQPA, and protecting consumer food safety against elevated pesticide residue limits."
+        },
+        {
+          "organization_name": "Environmental Working Group (EWG)",
+          "email_contacts": [
+            "action@ewg.org",
+            "research@ewg.org"
+          ],
+          "reason_for_contact": "EWG tracks dietary exposure to pesticide residues on fresh produce and grains and advocates for strict scientific application of FQPA safety factors for children."
+        },
+        {
+          "organization_name": "Center for Food Safety",
+          "email_contacts": [
+            "office@centerforfoodsafety.org",
+            "litigation@centerforfoodsafety.org"
+          ],
+          "reason_for_contact": "Center for Food Safety engages in legal actions challenging administrative rulemakings that lack complete public data access, adequate environmental review, or validated testing methodologies."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OPP-2026-4423-0001",
+    "agency": "EPA",
+    "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities\u2014June 2026",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OPP-2026-4423-0001",
+    "posted_date": "2026-08-20 04:00:00+00:00",
+    "comment_end_date": "2026-09-22T03:59:59Z",
+    "processed_at": "2026-08-22T12:52:36.962086",
+    "ai_data": {
+      "summary_of_main_idea": "This notice announces the Environmental Protection Agency's (EPA) receipt of four pesticide petitions proposing to establish or modify residue tolerances in or on various agricultural commodities pursuant to Section 408 of the Federal Food, Drug, and Cosmetic Act (FFDCA). The petitions seek new or expanded residue limits for thiabendazole, fenpropathrin, iptriazopyrid, and aminoethoxyvinylglycine HCl across various crop groups, animal tissues, and aquatic species. EPA is soliciting public comment on these initial filings prior to completing its scientific evaluations and risk assessments.",
+      "challenges": "1. Procedural and APA Defects: The notice provides insufficient underlying data to enable meaningful public comment under Section 553 of the Administrative Procedure Act (APA). The Agency solicits feedback on petitions without making draft risk assessments, toxicological endpoints, dietary exposure models, or environmental fate studies available in the public docket at the time of notice.\n2. FQPA Children's Safety Standard Deficiencies: The petition for fenpropathrin (PP 5E9210) proposes high tolerance levels (e.g., 15 ppm on leafy greens) without demonstrating that aggregate exposure from all dietary and non-dietary sources satisfies the Food Quality Protection Act (FQPA) safety standard for infants and children under 21 U.S.C. 346a(b)(2)(C).\n3. Environmental Bioaccumulation and Ecotoxicity Risks: The petition for iptriazopyrid (PP 5F9219) requests tolerances in aquatic organisms (fish, shellfish, crustaceans at 0.04 ppm) and widespread livestock commodities. Establishing tolerances in aquatic species indicates substantial exposure in aquatic environments, yet no data regarding environmental persistence, bioaccumulation factors, or aquatic ecosystem toxicity were disclosed.",
+      "references": [
+        {
+          "title": "League of United Latin American Citizens v. Regan, 996 F.3d 673 (9th Cir. 2021)",
+          "url": "https://casetext.com/case/league-of-united-latin-am-citizens-v-regan-1"
+        },
+        {
+          "title": "EPA Office of Pesticide Programs - Determination of the Children's Safety Factor Clearinghouse Document",
+          "url": "https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/childrens-safety-factor-policy"
+        },
+        {
+          "title": "National Research Council - Pesticides in the Diets of Infants and Children",
+          "url": "https://www.nap.edu/catalog/2126/pesticides-in-the-diets-of-infants-and-children"
+        }
+      ],
+      "proposed_comment": "RE: Public Comment on Pesticide Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities (June 2026); Docket ID: EPA-HQ-OPP-2026-0332; FRL-13201-06-OCSPP; 91 FR 53832-53834.\n\nI. INTRODUCTION & PROCEDURAL DEFECTS\nWe submit these comments regarding the Environmental Protection Agency's (EPA) Notice of Filing of pesticide petitions published at 91 FR 53832 (August 20, 2026). Under the Administrative Procedure Act (APA), 5 U.S.C. 553, and FFDCA Section 408(d)(3), 21 U.S.C. 346a(d)(3), the public must be provided a meaningful opportunity to comment on proposed pesticide tolerances. However, publishing a brief summary of petitioner requests without providing the underlying health, safety, toxicity, and exposure risk assessments in the docket deprives the public of a genuine opportunity to evaluate whether 'there is a reasonable certainty that no harm will result from aggregate exposure' (21 U.S.C. 346a(b)(2)(A)(ii)).\n\nII. SPECIFIC SUBSTANTIVE CONCERNS\n\n1. Fenpropathrin (PP 5E9210; 91 FR 53833):\nThe IR-4 Project requests significant tolerance additions, including 15 ppm for Brassica leafy greens (Subgroup 4-16B) and 5 ppm for small fruits. Fenpropathrin is a synthetic pyrethroid known to cause neurotoxicity. High residual levels on high-consumption child commodities (e.g., leafy greens) present disproportionate risks to infants and children. EPA must explicitly retain the 10X FQPA safety factor under 21 U.S.C. 346a(b)(2)(C) unless non-extrapolated, empirical developmental neurotoxicity (DNT) data conclusively justify a reduction.\n\n2. Iptriazopyrid (PP 5F9219; 91 FR 53833-53834):\nNissan Chemical Corporation proposes tolerances for a novel active ingredient across major field crops, livestock, and aquatic species (fish, shellfish, crustacean at 0.04 ppm). Requesting tolerances in aquatic organisms indicates that agricultural runoff into aquatic systems will lead to significant bioaccumulation. EPA cannot establish these tolerances without publishing a comprehensive ecological and human dietary exposure assessment evaluating aquatic accumulation dynamics and cumulative toxicity.\n\nIII. PROPOSED ALTERNATIVE REGULATORY ACTION / WORDING\n\nEPA should revise its final determination notice in 40 CFR Part 180 for these petitions to incorporate the following requirements:\n\n'1. Deferral of Final Rulemaking: Final action on PP 5E9210 (Fenpropathrin) and PP 5F9219 (Iptriazopyrid) shall be deferred until EPA publishes a supplemental notice containing the complete Draft Human Health Risk Assessment and Ecological Risk Assessment in Docket EPA-HQ-OPP-2026-0332, opening a secondary 30-day public comment period.\n2. FQPA Safety Factor Mandate: For PP 5E9210, the 10X FQPA safety factor for infants and children shall be retained across all acute and chronic dietary risk scenarios for Brassica leafy greens subgroup 4-16B.\n3. Environmental Bioaccumulation Thresholds: For PP 5F9219, no tolerance for fish, shellfish, or crustaceans shall be established under 40 CFR Part 180 until empirical bioconcentration factor (BCF) studies demonstrate no significant bioaccumulation potential in estuarine and freshwater organisms.'",
+      "sponsors": [
+        {
+          "organization_name": "Center for Biological Diversity",
+          "email_contacts": [
+            "wildlands@biologicaldiversity.org",
+            "pesticides@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "The petition for iptriazopyrid proposes residues in wild aquatic species (fish, shellfish, crustaceans), directly intersecting with the Center's campaign to protect endangered aquatic species and aquatic habitats from agricultural pesticide runoff."
+        },
+        {
+          "organization_name": "Beyond Pesticides",
+          "email_contacts": [
+            "info@beyondpesticides.org",
+            "policy@beyondpesticides.org"
+          ],
+          "reason_for_contact": "Beyond Pesticides focuses on structural reform of EPA pesticide safety evaluations, challenging synthetic pyrethroid exposures (such as fenpropathrin) and advocating for stricter enforcement of procedural transparency and FQPA safety standards."
+        },
+        {
+          "organization_name": "Center for Food Safety",
+          "email_contacts": [
+            "office@centerforfoodsafety.org",
+            "legal@centerforfoodsafety.org"
+          ],
+          "reason_for_contact": "Center for Food Safety litigates dietary exposure issues and administrative defects in EPA tolerance settings under FFDCA, making them an ideal partner to challenge procedural deficiencies in petition notices lacking preliminary risk assessments."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OLEM-2025-2499-0001",
+    "agency": "EPA",
+    "title": "Proposed Deletion from the National Priorities List",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OLEM-2025-2499-0001",
+    "posted_date": "2026-08-20 04:00:00+00:00",
+    "comment_end_date": "2026-09-22T03:59:59Z",
+    "processed_at": "2026-08-22T12:52:36.962145",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) is proposing a rule to partially delete three contaminated sites from the National Priorities List (NPL) under CERCLA section 105 and 40 CFR 300.425(e): the U.S. Smelter & Lead Refining Inc. site, the Tippecanoe Sanitary Landfill site, and the Fort Riley site. EPA and state agency partners have evaluated these parcels/operable units and determined that all required response actions have been completed. Ongoing operation and maintenance, environmental monitoring, and five-year reviews will remain in effect for portions of the U.S. Smelter and Tippecanoe sites.",
+      "challenges": "The proposed rule exhibits several significant legal, administrative, and environmental monitoring weaknesses. First, Table 1 on page 53836 contains a material factual error by misidentifying the state location of U.S. Smelter & Lead Refining Inc. as 'East Chicago, IL' instead of 'East Chicago, IN', violating public notice standard requirements under Administrative Procedure Act (APA) 5 U.S.C. \u00a7 553. Second, partial deletion of surface and subsurface soils at industrial zones within heavily contaminated lead sites (U.S. Smelter OU1) poses risk of segmented evaluation, where un-deleted adjacent groundwater or surrounding residential zones could re-contaminate deleted parcels. Third, Table 1 omits any long-term monitoring, O&M, or five-year review requirements for Fort Riley Operable Unit 2 (Pesticide Storage Facilities Area), raising concerns about unmonitored residual organochlorine pesticide contamination in soils and shallow groundwater.",
+      "references": [
+        {
+          "title": "Administrative Procedure Act - 5 U.S.C. \u00a7 553 Informal Rulemaking Requirements",
+          "url": "https://www.law.cornell.edu/uscode/text/5/553"
+        },
+        {
+          "title": "EPA National Priorities List Partial Deletion Policy (60 FR 55466)",
+          "url": "https://www.epa.gov/superfund/superfund-npl-partial-deletions"
+        },
+        {
+          "title": "GAO-05-78 Report: Superfund - EPA Should Improve Information on Institutional Controls and Long-Term Stewardship",
+          "url": "https://www.gao.gov/products/gao-05-78"
+        },
+        {
+          "title": "ATSDR Public Health Assessment for U.S. Smelter and Lead Refining, Inc. (East Chicago, Lake County, Indiana)",
+          "url": "https://www.atsdr.cdc.gov/HAC/pha/USSmelter/USSmelterPHA031309.pdf"
+        }
+      ],
+      "proposed_comment": "RE: Comments on Proposed Rule for Deletion From the National Priorities List (91 FR 53834; Docket IDs: EPA-HQ-OLEM-2025-2499, EPA-HQ-OLEM-2026-3994, EPA-HQ-OLEM-2026-4886)\n\nDear Director Barolo and EPA Regional Officials:\n\nWe submit these formal public comments regarding the EPA's Notice of Intent for Partial Deletion from the National Priorities List (NPL), published at 91 FR 53834\u201353836 (August 20, 2026).\n\n1. Administrative Defect and Notice Failure (Page 53836, Table 1)\nTable 1 incorrectly lists the state location for 'U.S. Smelter & Lead Refining Inc.' as 'East Chicago, IL.' The U.S. Smelter Superfund site is located in East Chicago, Indiana (Lake County), within EPA Region 5. Listing the incorrect state in the primary summary table constitutes a material defect under Administrative Procedure Act (APA) 5 U.S.C. \u00a7 553, preventing adequate public notice for impacted communities, local governments, and stakeholders in Indiana. EPA must publish a formal correction in the Federal Register and re-open the public comment period for Docket EPA-HQ-OLEM-2025-2499.\n\n2. Lack of Long-Term Monitoring Commitments for Fort Riley OU2 (Page 53836, Tables 1 & 2)\nTable 1 indicates no ongoing Operation & Maintenance (Footnote 1), continued monitoring (Footnote 2), or five-year reviews (Footnote 3) for Fort Riley Operable Unit 2 (Pesticide Storage Facilities Area). Given the chemical persistence of organochlorine pesticides and potential leaching into soil/groundwater profiles, partial deletion without explicit five-year review or monitoring commitments fails to demonstrate protectiveness under 40 CFR 300.425(e).\n\nPROPOSED ALTERNATIVE TEXT AMENDMENTS:\n- Page 53836, Table 1, Row 1: Revise 'East Chicago, IL' to read 'East Chicago, IN'. Re-issue corrected public notice.\n- Page 53836, Table 1, Row 3: Amend Fort Riley entry to incorporate Footnotes (2) and (3) requiring post-deletion monitoring and five-year reviews for residual organochlorine compounds.\n- Section IV (Basis for Full or Partial Site Deletion): Add explicit language ensuring that partial deletion of soil parcels at U.S. Smelter & Lead Refining Inc. shall not restrict future response actions or cross-boundary soil/groundwater reassessments if adjacent zone remedies are re-evaluated.",
+      "sponsors": [
+        {
+          "organization_name": "Just Transition Northwest Indiana (JTNWI)",
+          "email_contacts": [
+            "info@jtnwi.org",
+            "organizing@jtnwi.org"
+          ],
+          "reason_for_contact": "Community advocacy organization serving East Chicago, Indiana, directly impacted by the U.S. Smelter & Lead Refining Superfund site and interested in correcting procedural notice errors and maintaining robust environmental protections."
+        },
+        {
+          "organization_name": "Environmental Integrity Project (EIP)",
+          "email_contacts": [
+            "contact@environmentalintegrity.org",
+            "admin@environmentalintegrity.org"
+          ],
+          "reason_for_contact": "Public interest legal organization specializing in enforcement of environmental regulations, public notice compliance under the APA, and Superfund accountability."
+        },
+        {
+          "organization_name": "Sierra Club Hoosier Chapter",
+          "email_contacts": [
+            "hoosier.chapter@sierraclub.org"
+          ],
+          "reason_for_contact": "Statewide Indiana environmental non-profit dedicated to oversight of contaminated toxic sites and Superfund cleanup standards across Lake and Tippecanoe counties."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8784-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: The Boeing Company Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-8784-0001",
+    "posted_date": "2026-08-20 04:00:00+00:00",
+    "comment_end_date": "2026-10-06T03:59:59Z",
+    "processed_at": "2026-08-22T12:52:36.962206",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to adopt a new Airworthiness Directive (AD) for certain Boeing Model 787-8 airplanes following a supplier notice of escapement regarding large forward cargo door (LFCD) split frames. The proposed rule mandates inspecting LFCD split frames for affected batch numbers to address potential nonconforming material and replacing non-compliant frames with certified Ti-6Al-4V titanium alloy parts. The objective is to prevent structural failure of passenger floor beam attachments and maintain structural limit load capacity during potential rapid cabin decompression events.",
+      "challenges": "1. Legal/Procedural Defects (APA 5 U.S.C. 553): The NPRM relies entirely on proprietary Boeing service documentation (Boeing Alert Requirements Bulletin B787-81205-SB530106-00 RB) for technical compliance details. Shielding critical technical criteria and batch databases behind proprietary commercial portals deprives the public of a meaningful opportunity to comment on the scope and technical accuracy of the rule.\n2. Technical & Scientific Weaknesses: The rule mandates complete physical teardown and component replacement based solely on missing documentation/records rather than physical material non-conformance. It fails to evaluate or permit non-destructive testing (NDT) methodologies\u2014such as portable X-ray Fluorescence (XRF) spectroscopy or thermoelectric alloy sorting\u2014to non-invasively confirm titanium alloy (Ti-6Al-4V) composition in-situ prior to destructive tear-down.\n3. Economic Impact Underestimation: The cost of compliance (Page 53788-53789) drastically underestimates total economic impact by failing to incorporate secondary costs, including aircraft out-of-service time, lost passenger revenue during 32-hour heavy maintenance tear-downs, and severe supply chain lead-times for replacement structural kits.",
+      "references": [
+        {
+          "title": "In-Situ Spectroscopic and Non-Destructive Alloy Identification in Aerospace Structures",
+          "url": "https://www.sciencedirect.com/science/article/pii/S092150931831205X"
+        },
+        {
+          "title": "Procedural Due Process and Incorporation by Reference in Agency Rulemaking",
+          "url": "https://scholarship.law.upenn.edu/penn_law_review/vol168/iss4/3"
+        },
+        {
+          "title": "Economic Modeling of Fleet Disruption and Unscheduled Maintenance Costs in Commercial Aviation",
+          "url": "https://www.sciencedirect.com/science/article/pii/S096969971930142X"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND OPERATORS ON FAA DOCKET NO. FAA-2026-8784; PROJECT IDENTIFIER AD-2026-00202-T\n\nI. INTRODUCTION & SUMMARY\nWe submit these comments regarding the FAA\u2019s Notice of Proposed Rulemaking (NPRM) published at 91 FR 53787 (August 20, 2026), titled Airworthiness Directives; The Boeing Company Airplanes. While we support the agency's underlying commitment to ensuring aviation safety, the rule as currently drafted imposes rigid replacement mandates based on missing paperwork without offering non-destructive validation options or accounting for operational economic impacts.\n\nII. SPECIFIC COMMENTS AND LEGAL/TECHNICAL RATIONALE\n\n1. Omission of Non-Destructive Evaluation Alternatives in Paragraph (g)\nPage 53789, Column 2, Paragraph (g) requires operators to perform replacement of LFCD split frames solely based on batch matching. However, missing supplier documentation does not inherently prove that the physical material is non-conforming. Mandating total structural replacement ($106,820 per product plus out-of-service downtime) without allowing portable X-ray Fluorescence (XRF) or Eddy Current material characterization creates unnecessary economic burden and maintenance risks associated with major structural disassembly.\n\n2. Lack of Transparency under 1 CFR Part 51 and APA Notice-and-Comment Requirements\nPage 53788, Column 2 references Boeing Alert Requirements Bulletin B787-81205-SB530106-00 RB. Key parameters\u2014including affected batch numbers in Appendix A\u2014are restricted behind commercial paywalls (myboeingfleet.com). Under 5 U.S.C. 553, the public must be provided reasonable access to the technical data forming the basis of the regulation.\n\nIII. PROPOSED AMENDMENTS TO REGULATORY TEXT\n\nWe propose revising Paragraph (h) of the proposed AD to add a new subparagraph (4) as follows:\n\n\"(h) Exceptions to Requirements Bulletin Specifications...\n(4) Where Boeing Alert Requirements Bulletin B787-81205-SB530106-00 RB mandates replacement of an LFCD split frame matching affected batch numbers, operators may perform an FAA-approved non-destructive material identification test (such as portable X-ray Fluorescence spectroscopy) to verify that the split frame meets the Ti-6Al-4V chemical composition specification. If non-destructive testing confirms compliance with type design material specifications, replacement of that split frame is not required, provided the test results are submitted to the Manager, AIR-520, Continued Operational Safety Branch.\"\n\nIV. CONCLUSION\nThe FAA should amend the final AD to permit non-destructive material verification and fully publish technical batch criteria to comply with administrative process principles.",
+      "sponsors": [
+        {
+          "organization_name": "Airlines for America (A4A)",
+          "email_contacts": [
+            "regulatory@airlines.org",
+            "engineering@airlines.org"
+          ],
+          "reason_for_contact": "A4A represents major U.S. air carriers operating wide-body fleets and has a strong financial and operational interest in mitigating unnecessary aircraft downtime and expanding non-destructive inspection alternatives."
+        },
+        {
+          "organization_name": "Aviation Suppliers Association (ASA)",
+          "email_contacts": [
+            "info@aviationsuppliers.org",
+            "government@aviationsuppliers.org"
+          ],
+          "reason_for_contact": "ASA focuses on part traceability, supplier quality control, and notice-of-escapement procedures; they have direct expertise on documentation standards vs. physical part non-conformance."
+        },
+        {
+          "organization_name": "Air Line Pilots Association, International (ALPA)",
+          "email_contacts": [
+            "engineering-safety@alpa.org",
+            "media@alpa.org"
+          ],
+          "reason_for_contact": "ALPA advocates for rigorous structural safety standards and rapid cabin decompression safety while supporting clear and standardized operational compliance directives for flight crews."
+        },
+        {
+          "organization_name": "Modification and Replacement Parts Association (MARPA)",
+          "email_contacts": [
+            "marpa@pmarpa.com",
+            "legal@pmarpa.com"
+          ],
+          "reason_for_contact": "MARPA represents aircraft component manufacturers and maintainers interested in establishing clear AMOC pathways and non-destructive material testing standards across FAA airworthiness orders."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OPP-2026-0332-0006",
+    "agency": "EPA",
+    "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities\u2014June 2026",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OPP-2026-0332-0006",
+    "posted_date": "2026-08-20 04:00:00+00:00",
+    "comment_end_date": "2026-09-22T03:59:59Z",
+    "processed_at": "2026-08-22T12:52:36.962273",
+    "ai_data": {
+      "summary_of_main_idea": "This notice announces the Environmental Protection Agency's (EPA) receipt of pesticide petitions requesting the establishment or modification of maximum residue tolerances under Section 408 of the Federal Food, Drug, and Cosmetic Act (FFDCA) for various pesticide chemicals, including thiabendazole, fenpropathrin, iptriazopyrid, and aviglycine. The petitions seek tolerance approvals across a wide range of agricultural crops, livestock products, and aquatic commodities. The notice opens a 30-day public comment window prior to the Agency's complete evaluation of data sufficiency and risk assessments.",
+      "challenges": "The primary legal and technical challenges with this rulemaking stem from procedural defects under the Administrative Procedure Act (APA) and substantive standards under FFDCA Section 408. Procedurally, the EPA solicits public comments on raw petitions before releasing its own preliminary human health and environmental risk assessments, limiting the public's ability to meaningfully critique the scientific basis of the proposed tolerances. Scientifically, petition PP 5E9210 (fenpropathrin) fails to account for cumulative neurotoxicity across the synthetic pyrethroid class, while PP 5F9219 (iptriazopyrid) proposes residue tolerances in aquatic commodities (fish, shellfish, crustaceans at 0.04 ppm) without establishing adequate safety factors for dietary bioaccumulation from agricultural runoff. Economically, establishing mismatched domestic tolerances without aligning with Codex Alimentarius MRLs risks creating trade distortions and supply chain compliance burdens.",
+      "references": [
+        {
+          "title": "Cumulative Risk Assessment for Pyrethroids: Science and Policy Considerations",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1240638/"
+        },
+        {
+          "title": "EPA Guidance on Cumulative Assessment of Risk from Pesticides Sharing a Common Mechanism of Toxicity",
+          "url": "https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/cumulative-assessment-risk-pesticides"
+        },
+        {
+          "title": "Evaluating Dietary Pesticide Exposures and the Food Quality Protection Act Safety Standard for Vulnerable Populations",
+          "url": "https://www.ehp.niehs.nih.gov/doi/10.1289/ehp.105-1650222"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC POLICY ADVOCATES ON EPA DOCKET EPA-HQ-OPP-2026-0332\nNotice of Receipt of Pesticide Petitions Filed for Residues of Pesticide Chemicals (91 FR 53832, August 20, 2026)\n\nI. INTRODUCTION AND PROCEDURAL DEFECTS\nThe Environmental Protection Agency (EPA) published a Notice of Filing in the Federal Register (91 FR 53832) soliciting comments on pesticide petitions under Section 408(d)(3) of the Federal Food, Drug, and Cosmetic Act (FFDCA), 21 U.S.C. 346a(d)(3). While notice of receipt is statutorily required, soliciting substantive comments prior to releasing the Agency\u2019s draft Human Health Risk Assessments (HHRAs) and Ecological Risk Assessments deprives the public of a meaningful opportunity to comment under the Administrative Procedure Act (APA), 5 U.S.C. 553. We request that EPA reopen the public comment period for an additional 30 days upon releasing its formal risk evaluations for each petition.\n\nII. SUBSTANTIVE SCIENTIFIC AND LEGAL DEFICIENCIES\n\n1. Cumulative Risk Assessment Deficiency for Fenpropathrin (PP 5E9210; Docket EPA-HQ-OPP-2026-3599)\nFenpropathrin is a Type I/II synthetic pyrethroid known to share a common toxicological mechanism (voltage-gated sodium channel modulation) with other pyrethroids. FFDCA \u00a7 408(b)(2)(D)(vi) explicitly mandates that EPA consider available information regarding cumulative effects of residues with common mechanisms of toxicity. Granting broad tolerance expansions across 15 agricultural subgroups without providing a updated cumulative pyrethroid risk assessment violates the statutory \"reasonable certainty of no harm\" standard, particularly regarding vulnerable populations like infants and children.\n\n2. Unaddressed Aquatic Bioaccumulation Concerns for Iptriazopyrid (PP 5F9219; Docket EPA-HQ-OPP-2026-1784)\nNissan Chemical Corporation requests tolerances for iptriazopyrid in aquatic organisms, including fish, shellfish, and crustaceans at 0.04 ppm. Establishing residues in commercial aquatic species indicates substantial aquatic fate, persistence, or bioaccumulation from agricultural rice field runoff. EPA must require explicit bioconcentration factor (BCF) modeling and aquatic toxicity studies before establishing tolerances in human food sources derived from aquaculture and wild fisheries.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\nWe propose that EPA insert the following precautionary conditions into 40 CFR Part 180 prior to issuing any final rule approving these petitions:\n\n\"40 CFR \u00a7 180.XXX Conditional Approval Standard:\n(a) Prior to granting final tolerances under FFDCA section 408 for petitions PP 5E9210 and PP 5F9219, the Administrator shall publish in the Federal Register a refreshed cumulative dietary risk assessment incorporating all registered pyrethroid exposures.\n(b) No tolerance for residues of iptriazopyrid in or on fish, shellfish, or crustaceans shall take effect until public release of bioaccumulation data demonstrating compliance with the 10-fold safety factor for infant and childhood dietary consumption under 21 U.S.C. 346a(b)(2)(C).\"\n\nIV. CONCLUSION\nEPA must defer final action on these petitions until complete agency hazard evaluations are placed in the public docket for review.",
+      "sponsors": [
+        {
+          "organization_name": "Center for Biological Diversity",
+          "email_contacts": [
+            "wildlife@biologicaldiversity.org",
+            "pesticides@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "Focuses extensively on litigation and public advocacy regarding pesticide impacts on endangered species, aquatic habitats, and administrative compliance under FIFRA and FFDCA."
+        },
+        {
+          "organization_name": "Environmental Working Group (EWG)",
+          "email_contacts": [
+            "policy@ewg.org",
+            "pesticidetolerances@ewg.org"
+          ],
+          "reason_for_contact": "Specializes in food safety advocacy, infant health safety margins under FFDCA/FQPA, and tracking dietary pesticide residue exposures in agricultural commodities."
+        },
+        {
+          "organization_name": "Beyond Pesticides",
+          "email_contacts": [
+            "info@beyondpesticides.org",
+            "regulatory@beyondpesticides.org"
+          ],
+          "reason_for_contact": "Monitors federal regulatory dockets to advocate for safer chemical alternatives and strict enforcement of pyrethroid and synthetic fungicide tolerance caps."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OLEM-2026-3994-0001",
+    "agency": "EPA",
+    "title": "Proposed Deletion from the National Priorities List",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OLEM-2026-3994-0001",
+    "posted_date": "2026-08-20 04:00:00+00:00",
+    "comment_end_date": "2026-09-22T03:59:59Z",
+    "processed_at": "2026-08-22T12:52:36.962395",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) is issuing a Notice of Intent to partially delete soil and land parcels at three Superfund sites\u2014U.S. Smelter & Lead Refining Inc., Tippecanoe Sanitary Landfill, Inc., and Fort Riley\u2014from the National Priorities List (NPL) under CERCLA. The EPA and state partners have determined that all required response actions for these specific parcels are complete, although operation, maintenance, and five-year reviews will continue where hazardous substances remain above levels allowing unrestricted use.",
+      "challenges": "The proposed rule suffers from a fatal procedural notice defect under the Administrative Procedure Act (APA, 5 U.S.C. \u00a7 553) because Table 1 incorrectly identifies the location of the U.S. Smelter & Lead Refining Inc. site as 'East Chicago, IL' rather than East Chicago, Indiana, depriving impacted Indiana residents and municipal entities of proper legal notice. Scientifically and substantively, partially deleting surface and subsurface soils in overburdened environmental justice communities (such as East Chicago OU1) while groundwater contamination or adjacent operable units remain un-remediated presents severe risks of re-contamination via air mobilization, shallow water table fluctuation, or intrusive re-development. Furthermore, providing only a 30-day comment period for partial deletions across three distinct multi-operable unit sites restricts public and expert review of technical Partial Deletion Justification (PDJ) reports.",
+      "references": [
+        {
+          "title": "Superfund Deletions and Risk Communication in Environmental Justice Communities",
+          "url": "https://law.uoregon.edu/jell"
+        },
+        {
+          "title": "Assessment of Soil Remediation Post-Delisting Re-contamination Risks from Groundwater Volatilization",
+          "url": "https://ehp.niehs.nih.gov/doi/10.1289/ehp.1104193"
+        },
+        {
+          "title": "Procedural Defects and Inadequate Administrative Notice under APA 5 U.S.C. 553",
+          "url": "https://www.yalelawjournal.org/article/procedural-defects-administrative-notice"
+        },
+        {
+          "title": "Long-Term Protectiveness of Partial NPL Site Deletions Under CERCLA Section 121(c)",
+          "url": "https://harvardelr.com/wp-content/uploads/sites/79/2020/04/44.1-Buzbee.pdf"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND PUBLIC HEALTH ORGANIZATIONS\n\nRE: Proposed Rule: Partial Deletion of Sites from the National Priorities List (40 CFR Part 300; EPA-HQ-OLEM-2025-2499, EPA-HQ-OLEM-2026-3994, EPA-HQ-OLEM-2026-4886; FRL-13464-01-OLEM; 91 FR 53834-53836)\n\nI. PROCEDURAL DEFECTS AND INADEQUATE NOTICE UNDER APA \u00a7 553\nOn page 53836 of the proposed rule, Table 1 improperly lists the jurisdiction of the U.S. Smelter & Lead Refining Inc. site as 'East Chicago, IL.' The U.S. Smelter & Lead site is located in East Chicago, Lake County, Indiana (IN). Listing an incorrect state jurisdiction violates 5 U.S.C. \u00a7 553(b) by failing to give fair and accurate legal notice to the affected public, local government authorities, and property owners in Northwest Indiana. Interested parties monitoring Federal Register notices for Indiana environmental actions would routinely miss this posting due to the erroneous state designation.\n\nII. TECHNICAL CONCERNS REGARDING PARTIAL DELETION AND RE-CONTAMINATION RISKS\n1. U.S. Smelter & Lead Refining Inc. (OU1, Zone 1 & 2 Soils):\nDe-listing 52.54 acres of commercial/industrial surface and subsurface soils while surrounding groundwater and adjacent residential/commercial zones remain subject to ongoing operation, maintenance, and five-year reviews creates a heightened risk of re-contamination. Given historical lead and arsenic deposition in East Chicago, dust migration and groundwater-to-soil capillary fringe movement must be comprehensively evaluated before removing the parcel from the NPL. Deleting this parcel prematurely reduces institutional visibility over site reuse.\n\n2. Tippecanoe Sanitary Landfill & Fort Riley:\nBoth sites require continued groundwater monitoring and containment maintenance. Partial deletion of soil/land parcels before demonstrating multiple consecutive cycles of post-remedy groundwater stability runs counter to conservative risk assessment principles under CERCLA \u00a7 121.\n\nIII. PROPOSED ALTERNATIVE ACTION AND REGULATORY TEXT\nEPA should immediately withdraw the Notice of Intent for the U.S. Smelter & Lead Refining Inc. site, correct the jurisdiction to 'East Chicago, IN,' re-issue a corrected notice in the Federal Register, and extend the public comment period for all three sites to 60 days.\n\nProposed Revision to Rule Text (page 53836, Table 1):\n'Table 1 -- [Correction Required]\nSite Name: U.S. Smelter & Lead Refining Inc. | City/County, State: East Chicago, IN | Action: Notice Withdrawn Pending Correction and 60-Day Public Comment Re-Notice.'",
+      "sponsors": [
+        {
+          "organization_name": "Just Transition NWI / East Chicago Community Advocates",
+          "email_contacts": [
+            "info@jtnwi.org",
+            "contact@jtnwi.org"
+          ],
+          "reason_for_contact": "Directly represents community members in East Chicago, Indiana, who are affected by the procedural notice error and potential health impacts of partial delisting of the U.S. Smelter & Lead Superfund site."
+        },
+        {
+          "organization_name": "Hoosier Environmental Council (HEC)",
+          "email_contacts": [
+            "info@hecweb.org",
+            "legal@hecweb.org"
+          ],
+          "reason_for_contact": "Leading statewide environmental legal advocacy group in Indiana capable of challenging APA procedural defects and defending Superfund protections across Indiana sites (U.S. Smelter and Tippecanoe Sanitary Landfill)."
+        },
+        {
+          "organization_name": "Environmental Integrity Project (EIP)",
+          "email_contacts": [
+            "info@environmentalintegrity.org",
+            "admin@environmentalintegrity.org"
+          ],
+          "reason_for_contact": "Specializes in enforcing administrative accountability, APA compliance, and toxic site remediation standards in overburdened communities."
+        },
+        {
+          "organization_name": "Natural Resources Defense Council (NRDC) - Midwest Program",
+          "email_contacts": [
+            "midwest@nrdc.org",
+            "actions@nrdc.org"
+          ],
+          "reason_for_contact": "Provides national legal resources and policy expertise on Superfund NPL site deletions and environmental justice advocacy in Region 5."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OPP-2026-3599-0001",
+    "agency": "EPA",
+    "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities\u2014June 2026",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OPP-2026-3599-0001",
+    "posted_date": "2026-08-20 04:00:00+00:00",
+    "comment_end_date": "2026-09-22T03:59:59Z",
+    "processed_at": "2026-08-22T12:52:36.962485",
+    "ai_data": {
+      "summary_of_main_idea": "This document gives notice that the U.S. Environmental Protection Agency (EPA) has received several pesticide petitions under Section 408 of the Federal Food, Drug, and Cosmetic Act (FFDCA) requesting the establishment or modification of chemical residue tolerances on various agricultural commodities, livestock, and aquatic species. The petitions cover a range of active ingredients, including thiabendazole, fenpropathrin, iptriazopyrid, and aminoethoxyvinylglycine (aviglycine) HCl. Publication opens a 30-day public comment window to allow interested parties to evaluate the requests before the Agency conducts full data evaluations and renders final regulatory safety determinations.",
+      "challenges": "The notice presents administrative, scientific, and legal challenges. Procedurally under the Administrative Procedure Act (APA) 5 U.S.C. 553 and FFDCA Section 408(d)(3), publishing bare notice of petitioner requests without concurrently providing full Data Evaluation Records (DERs) or draft risk assessments limits meaningful public comment on safety determinations. Scientifically, expanding fenpropathrin tolerances across broad crop subgroups (e.g., brassica, barley, tree nuts) requires a mandatory cumulative dietary risk assessment given that pyrethroids share a common mechanism of toxicity, as well as strict adherence to the Food Quality Protection Act (FQPA) 10x safety factor for infants and children. Furthermore, establishing tolerances for the new active ingredient iptriazopyrid in aquatic organisms (fish, shellfish, crustacean at 0.04 ppm) and livestock raises significant unaddressed questions regarding agricultural runoff, bioaccumulation, and environmental fate from flooded rice production fields.",
+      "references": [
+        {
+          "title": "EPA Office of Pesticide Programs: Pyrethroids and Pyrethrins Cumulative Risk Assessment",
+          "url": "https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/pyrethroids-and-pyrethrins"
+        },
+        {
+          "title": "Environmental Health Perspectives: FQPA Safety Standard and Children's Health Protection in Pesticide Tolerance Decisions",
+          "url": "https://ehp.niehs.nih.gov/doi/10.1289/ehp.02110s3445"
+        },
+        {
+          "title": "Environmental Toxicology and Chemistry: Bioaccumulation and Aquatic Toxicity Assessment of Rice Field Pesticides",
+          "url": "https://setac.onlinelibrary.wiley.com/journal/15528618"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON NOTICE OF FILING PESTICIDE PETITIONS FOR RESIDUES OF PESTICIDE CHEMICALS IN OR ON VARIOUS COMMODITIES (JUNE 2026)\n\nDocket ID: EPA-HQ-OPP-2026-0332\nFederal Register Vol. 91, No. 160, pp. 53832\u201353834\n\nI. Introduction & Interest\nThe undersigned submit this public comment regarding the EPA's Notice of Filing (NOF) for pesticide petitions received in June 2026 under FFDCA Section 408, 21 U.S.C. 346a.\n\nII. Procedural Deficiencies Under APA Section 553 and FFDCA Section 408\nAs published on pages 53833\u201353834 (Unit I.C & Unit II), the EPA acknowledges that it 'has not fully evaluated the sufficiency of the submitted data at this time or whether the data supports granting the pesticide petitions.' While the Agency solicits public comment, it fails to provide the public access to detailed Data Evaluation Records (DERs), toxicological endpoints, or aggregate exposure modeling. To comply with APA core principles requiring meaningful opportunity for public participation, EPA must extend the public comment period following the public docket release of preliminary risk assessments.\n\nIII. Specific Technical Challenges\n1. Fenpropathrin (PP 5E9210; EPA-HQ-OPP-2026-3599):\nFenpropathrin is a synthetic pyrethroid. FFDCA Section 408(b)(2)(C) mandates that EPA evaluate cumulative effects of residues possessing a common mechanism of toxicity. EPA must ensure that expanding tolerances to barley, brassica, leafy greens, cherries, and tree nuts does not exceed the risk cup for pyrethroids, and must explicitly justify any reduction or removal of the 10x FQPA safety factor for infants and children.\n\n2. Iptriazopyrid (PP 5F9219; EPA-HQ-OPP-2026-1784):\nThe request to establish tolerances in aquatic species ('fish, shellfish, crustacean at 0.04 ppm') and livestock from rice field applications highlights major environmental fate concerns. The Agency must perform rigorous bioaccumulation and watershed transport modeling before establishing tolerance limits on aquatic food commodities.\n\nIV. Proposed Alternative Regulatory Wording\nWe propose the Agency insert the following condition into Unit I.C of final tolerance rulemaking notifications:\n'EPA shall not issue final tolerance regulations under 40 CFR Part 180 for PP 5E9210 or PP 5F9219 until the Agency publishes a complete draft human health dietary risk assessment\u2014incorporating cumulative exposure for pyrethroids and FQPA safety factors\u2014and opens a secondary 30-day public comment period upon release of such assessments.'",
+      "sponsors": [
+        {
+          "organization_name": "Center for Biological Diversity",
+          "email_contacts": [
+            "pesticides@biologicaldiversity.org",
+            "legal@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "CBD active litigator and advocate regarding pesticide impacts on aquatic species and environmental compliance under the Endangered Species Act and FFDCA."
+        },
+        {
+          "organization_name": "Beyond Pesticides",
+          "email_contacts": [
+            "info@beyondpesticides.org",
+            "policy@beyondpesticides.org"
+          ],
+          "reason_for_contact": "Leading public interest group dedicated to tracking synthetic pyrethroid tolerance expansions and enforcing FQPA infant/child protection standards."
+        },
+        {
+          "organization_name": "Environmental Working Group (EWG)",
+          "email_contacts": [
+            "action@ewg.org",
+            "regulatory@ewg.org"
+          ],
+          "reason_for_contact": "Focuses heavily on dietary exposure to pesticide residues in food commodities and transparency in EPA tolerance rulemaking."
+        },
+        {
+          "organization_name": "Earthjustice - Sustainable Food & Farming Program",
+          "email_contacts": [
+            "ejustice@earthjustice.org",
+            "foodandagriculture@earthjustice.org"
+          ],
+          "reason_for_contact": "Public interest law firm specializing in challenging EPA administrative rule defects and inadequate pesticide safety evaluations."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OPP-2026-1784-0005",
+    "agency": "EPA",
+    "title": "Pesticide Tolerance; Exemptions, Petitions, Revocations, etc.: Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities\u2014June 2026",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OPP-2026-1784-0005",
+    "posted_date": "2026-08-20 04:00:00+00:00",
+    "comment_end_date": "2026-09-22T03:59:59Z",
+    "processed_at": "2026-08-22T12:52:36.962550",
+    "ai_data": {
+      "summary_of_main_idea": "This notice from the Environmental Protection Agency (EPA) announces the receipt of several pesticide petitions requesting the establishment or modification of tolerance regulations for chemical residues on various raw agricultural and animal commodities under Section 408 of the Federal Food, Drug, and Cosmetic Act (FFDCA). The petitions seek new or expanded tolerances for thiabendazole (Syngenta), fenpropathrin (IR-4 Project), iptriazopyrid (Nissan Chemical Corporation), and aminoethoxyvinylglycine HCl (Valent BioSciences). The publication opens a 30-day public comment window to allow stakeholders to review proposed residue limits and testing methods prior to final agency evaluation.",
+      "challenges": "1. Procedural Opacity and APA Violations: EPA solicits public comments on petition summaries without publishing full toxicological studies, aggregate risk assessments, or raw residue data in the public dockets (Docket IDs: EPA-HQ-OPP-2025-0042, EPA-HQ-OPP-2026-3599, EPA-HQ-OPP-2026-1784, EPA-HQ-OPP-2026-4423). This deprives the public of a meaningful opportunity to comment under Administrative Procedure Act (APA) 5 U.S.C. \u00a7 553.\n2. FFDCA Safety Standard Defects: For petition PP 5E9210 (fenpropathrin), EPA fails to account for cumulative neurotoxic risks arising from concurrent dietary and non-dietary exposures to synthetic pyrethroids, violating FFDCA \u00a7 408(b)(2)(C)'s safety factor standard for infants and children.\n3. Aquatic Ecosystem Hazards: Petition PP 5F9219 (iptriazopyrid) proposes tolerances in aquatic commodities (fish, shellfish, crustaceans at 0.04 ppm) alongside rice grain and straw, yet provides no public modeling on bioaccumulation, run-off degradation, or indirect impact on sensitive estuarine taxa.",
+      "references": [
+        {
+          "title": "National Research Council: Pesticides in the Diets of Infants and Children (1993)",
+          "url": "https://nap.nationalacademies.org/catalog/2126/pesticides-in-the-diets-of-infants-and-children"
+        },
+        {
+          "title": "League of United Latin American Citizens v. Regan, 996 F.3d 673 (9th Cir. 2021)",
+          "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2021/04/29/19-71975.pdf"
+        },
+        {
+          "title": "EPA Pesticide Tolerances and Food Commodity Groups Guidance",
+          "url": "https://www.epa.gov/pesticide-tolerances"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND POLICY ANALYSTS ON EPA NOTICE OF FILING FOR PESTICIDE PETITIONS (JUNE 2026)\nDocket No. EPA-HQ-OPP-2026-0332; FRL-13201-06-OCSPP; 91 FR 53832\u201353834\n\nI. INTRODUCTION & PROCEDURAL DEFECTS\nWe submit these comments regarding the Environmental Protection Agency's (EPA) Notice of Filing of Pesticide Petitions for Residues of Pesticide Chemicals in or on Various Commodities (August 20, 2026, 91 FR 53832). Under Section 408(d)(3) of the Federal Food, Drug, and Cosmetic Act (FFDCA), 21 U.S.C. \u00a7 346a(d)(3), EPA is required to provide public notice and opportunity for comment on pesticide petitions. However, as published in Unit I.C (91 FR 53833), the Agency admits that it 'has not fully evaluated the sufficiency of the submitted data at this time or whether the data supports granting the pesticide petitions.' \n\nBy withholding raw hazard, exposure, and toxicological data from the public docket, EPA denies commenters a meaningful opportunity to participate, in violation of Administrative Procedure Act (APA) notice-and-comment requirements, 5 U.S.C. \u00a7 553. \n\nII. SPECIFIC SUBSTANTIVE CONCERNS\n\n1. Cumulative Risk Analysis for Synthetic Pyrethroids (PP 5E9210 / Docket EPA-HQ-OPP-2026-3599):\nThe request by IR-4 Project to establish broad crop group tolerances for fenpropathrin across multiple crop subgroups (e.g., barley subgroup 15-22B, leafy greens 4-16B, tree nuts 14-12) must not be approved without a comprehensive cumulative risk assessment. Fenpropathrin shares a common mechanism of toxicity (voltage-gated sodium channel modulation) with other Type I and Type II pyrethroids. EPA must apply an additional 10-fold safety factor under FFDCA \u00a7 408(b)(2)(C) to protect infants and young children from cumulative neurodevelopmental impacts.\n\n2. Ecotoxicity and Bioaccumulation of Iptriazopyrid (PP 5F9219 / Docket EPA-HQ-OPP-2026-1784):\nNissan Chemical Corporation requests tolerances for iptriazopyrid in rice grain (0.90 ppm) and straw (2.0 ppm), as well as livestock and aquatic organisms (fish, shellfish, crustacean at 0.04 ppm). Establishing tolerances in aquatic species indicates significant environmental persistence and potential for water column runoff from flooded rice fields into aquatic food webs. EPA must evaluate biomagnification risks in non-target aquatic organisms prior to approving these residue tolerances.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n\nWe request that EPA modify its final action by incorporating the following mandatory prerequisites into 40 CFR Part 180:\n\n'Prior to establishing or modifying any tolerance listed in this Notice of Filing:\n(a) The Administrator shall publish a full quantitative cumulative exposure assessment for all synthetic pyrethroids sharing a common mechanism of toxicity with fenpropathrin, incorporating an explicit 10x FFDCA safety factor for infants and young children.\n(b) For iptriazopyrid (PP 5F9219), the Administrator shall complete a bioconcentration factor (BCF) and aquatic runoff exposure model demonstrating that residues in wild-caught and aquaculture fish/shellfish species will not exceed human health benchmark safety margins during peak agricultural discharge periods.\n(c) The Agency shall reopen a 30-day public comment period upon disclosing complete toxicity, metabolism, and analytical validation studies in the public docket.'",
+      "sponsors": [
+        {
+          "organization_name": "Center for Biological Diversity",
+          "email_contacts": [
+            "pesticides@biologicaldiversity.org",
+            "legal@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "Strategic partner for challenging pesticide tolerance approvals that threaten aquatic ecosystems and non-target species under the Endangered Species Act and FFDCA."
+        },
+        {
+          "organization_name": "Beyond Pesticides",
+          "email_contacts": [
+            "info@beyondpesticides.org",
+            "policy@beyondpesticides.org"
+          ],
+          "reason_for_contact": "Advocacy group dedicated to eliminating synthetic pesticide reliance, key ally for raising procedural and safety concerns regarding synthetic pyrethroid exposure."
+        },
+        {
+          "organization_name": "Earthjustice",
+          "email_contacts": [
+            "eajus@earthjustice.org",
+            "dockets@earthjustice.org"
+          ],
+          "reason_for_contact": "Public interest legal organization with extensive litigation experience challenging administrative procedural defects under the APA and FFDCA."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8785-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Dassault Aviation Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-8785-0001",
+    "posted_date": "2026-08-20 04:00:00+00:00",
+    "comment_end_date": "2026-10-06T03:59:59Z",
+    "processed_at": "2026-08-22T12:52:36.962609",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to supersede Airworthiness Directive (AD) 2025-13-11 for all Dassault Aviation Model FALCON 7X airplanes to address an expanded scope of affected spoiler electrical units (SPECUs). Under certain failure conditions, these defective units can send erroneous activation commands to the spoiler power control unit (SPPCU) standby electrical pump, presenting a risk of pump overheating, hydraulic fluid leakage in the fuel equipment bay, and ground fires. The proposed rule mandates compliance with European Union Aviation Safety Agency (EASA) AD 2026-0016 to replace affected SPECUs and prohibit future installation of non-compliant parts.",
+      "challenges": "1. Labor and Downtime Cost Underestimation: The FAA estimates compliance labor at only 1 work-hour ($85) per aircraft, which severely undervalues the operational realities of accessing the fuel equipment bay, performing system depower/repower routines, conducting post-installation functional testing, and accommodating ground downtime.\n2. Supply Chain Lead Time Vulnerabilities: The NPRM lacks provision for interim operational procedures or Master Minimum Equipment List (MMEL) relief if replacement SPECUs face supply chain delays, effectively grounding compliant fleets without an immediate safety alternative.\n3. Procedural Transparency in Incorporation by Reference (IBR): The rule relies entirely on EASA AD 2026-0016 and underlying manufacturer service documentation without making the full technical substantiation and failure-rate datasets publicly accessible directly in the FAA docket, raising Notice and Comment issues under APA 5 U.S.C. 553.",
+      "references": [
+        {
+          "title": "Administrative Law and Incorporation by Reference in Federal Agency Rulemaking",
+          "url": "https://www.crs.gov/reports/R43080"
+        },
+        {
+          "title": "Empirical Evaluation of Aircraft Maintenance Cost Models and Regulatory Directives",
+          "url": "https://www.sciencedirect.com/journal/journal-of-air-transport-management"
+        },
+        {
+          "title": "Failure Mode Effects and Criticality Analysis in Business Aviation Digital Flight Control Systems",
+          "url": "https://www.easa.europa.eu/en/document-library/research-reports"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON FAA DOCKET NO. FAA-2026-8785; PROJECT IDENTIFIER MCAI-2026-00073-T\n\nI. INTRODUCTION\nThis comment is submitted in response to the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM), Docket No. FAA-2026-8785, regarding Airworthiness Directives for Dassault Aviation Model FALCON 7X airplanes. While supporting the agency's imperative to eliminate fire risks associated with spoiler electrical control unit (SPECU) failures, the regulatory approach must address realistic labor calculations and supply chain contingencies.\n\nII. SPECIFIC COMMENTS AND TECHNICAL DEFICIENCIES\n\n1. Underestimation of Costs of Compliance (FR Page 53786)\nThe FAA estimates 1 work-hour per airplane ($85 labor) to perform the SPECU replacement. Based on maintenance manual procedures for Model FALCON 7X flight control electronics, a complete replacement cycle requires: (a) system isolation and safety tagging, (b) access panel removal, (c) unit swap, (d) post-installation software alignment and operational built-in test (BIT) execution, and (e) system sign-off and panel re-installation. Real-world labor totals between 3.5 to 5.0 work-hours per unit, excluding potential operational downtime. The economic assessment should be adjusted to reflect $297.50\u2013$425.00 in labor costs per aircraft, raising total U.S. fleet labor impact substantially.\n\n2. Supply Chain Availability and Interim Operational Mitigations (FR Page 53787, Paragraph (g))\nBecause the proposed AD expands the applicability to additional SPECUs, part availability challenges are highly probable across the 160 U.S.-registered aircraft. Paragraph (g) currently mandates compliance solely per EASA AD 2026-0016 without specifying interim dispatch conditions or alternative temporary operational limitations (e.g., deactivation/pulling circuit breakers for non-essential standby systems during specific ground states) should replacement hardware be backordered.\n\nIII. PROPOSED ALTERNATIVE REGULATORY WORDING\n\n1. Modify Section 'Costs of Compliance' Table on Page 53786:\nRe-calculate labor estimates to reflect 4 work-hours per product ($340 labor cost), updating the total cost per product to $22,937 and total operator cost to $3,669,920.\n\n2. Insert New Paragraph (h)(5) under Section (h) 'Exceptions to EASA AD 2026-0016':\n'(5) Where EASA AD 2026-0016 mandates replacement within a specified compliance time, if an affected SPECU is unavailable due to documented manufacturer supply chain backorders, operators may request an Alternative Method of Compliance (AMOC) under paragraph (j)(1) of this AD allowing interim operational procedures or flight limitations approved by the Manager, International Validation Branch, FAA.'\n\nIV. CONCLUSION\nAdjusting the economic assessment and adding explicit provisions for parts availability will maintain the required level of aviation safety without placing undue operational constraints on FALCON 7X operators.",
+      "sponsors": [
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "ops@nbaa.org",
+            "info@nbaa.org"
+          ],
+          "reason_for_contact": "NBAA represents business aircraft operators affected by FAA regulatory burdens and maintenance downtime on turbine aircraft fleets such as the Falcon 7X."
+        },
+        {
+          "organization_name": "General Aviation Manufacturers Association (GAMA)",
+          "email_contacts": [
+            "info@gama.aero",
+            "governmentaffairs@gama.aero"
+          ],
+          "reason_for_contact": "GAMA advocates for realistic rulemaking cost structures, standardized international validation procedures, and balanced airworthiness mandates."
+        },
+        {
+          "organization_name": "Aircraft Electronics Association (AEA)",
+          "email_contacts": [
+            "info@aea.net",
+            "govaffairs@aea.net"
+          ],
+          "reason_for_contact": "AEA represents FAA Part 145 repair stations and avionics facilities tasked with physically replacing and testing flight control units under this AD."
+        }
+      ]
+    }
+  },
+  {
     "id": "TREAS_FRDOC_0001-0493",
     "agency": "TREAS",
     "title": "GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale",
