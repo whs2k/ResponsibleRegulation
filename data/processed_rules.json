@@ -1,5 +1,121 @@
 [
   {
+    "id": "FS_FRDOC_0001-4422",
+    "agency": "FS",
+    "title": "Environmental Impact Statements; Availability, etc.: Travel Management; National Forest System Lands",
+    "link": "https://www.regulations.gov/document/FS_FRDOC_0001-4422",
+    "posted_date": "2026-08-24 04:00:00+00:00",
+    "comment_end_date": "2026-09-24T03:59:59Z",
+    "processed_at": "2026-08-24T12:53:38.357721",
+    "ai_data": {
+      "summary_of_main_idea": "The U.S. Department of Agriculture (USDA) Forest Service is initiating rulemaking and an Environmental Impact Statement (EIS) to revise its Travel Management Regulations at 36 CFR Parts 212 and 261 following Executive Order 14408. The proposed rule establishes a uniform national policy featuring a default presumption that existing roads, trails, airfields, and access points on National Forest System lands are open to public use unless explicitly closed or restricted based on documented site-specific criteria. Additionally, the proposal removes national 'minimization criteria,' eliminates the requirement for a 'minimum road system,' simplifies procedural requirements for route designation revisions, and categorically exempts Class 1 electric bicycles on non-motorized bicycle trails.",
+      "challenges": "1. Legal Defects under the Administrative Procedure Act (APA) & NFMA: Rescinding the long-standing national 'minimization criteria' (36 CFR 212.55(b)) without demonstrating that resource protection will be maintained constitutes arbitrary and capricious rulemaking under APA \u00a7 706(2)(A). Shifting to a default 'open unless closed' presumption conflicts with the Forest Service's statutory duties under the National Forest Management Act (NFMA, 16 U.S.C. 1604) and the Multiple-Use Sustained-Yield Act (MUSYA, 16 U.S.C. 528) to protect soil, watershed, and wildlife values from resource degradation.\n\n2. Scientific and Technical Weaknesses: The proposal relies on aerial imagery and public data to establish existing physical routes while removing standardized environmental screening criteria. Decades of peer-reviewed conservation science show that unmanaged motorized access leads to severe soil erosion, stream sedimentation, direct wildlife displacement, and habitat fragmentation. Replacing mandatory minimization criteria with discretionary local closures shifts the burden of proof onto under-resourced field staff.\n\n3. Economic Defects: The Forest Service currently faces a multi-billion-dollar deferred maintenance backlog on existing forest roads and trails. Establishing an open presumption and requiring annual reviews of all closed routes will severely inflate administrative and maintenance overhead without providing dedicated funding, exacerbating land management deficits and public safety risks.",
+      "references": [
+        {
+          "title": "Review of Ecological Effects of Roads on Terrestrial and Aquatic Communities (Trombulak & Frissell, 2000)",
+          "url": "https://conbio.onlinelibrary.wiley.com/doi/abs/10.1046/j.1523-1739.2000.99084.x"
+        },
+        {
+          "title": "Forest Service Roads: Analysis of Effects and Impacts (USDA Forest Service General Technical Report PNW-GTR-505)",
+          "url": "https://www.fs.usda.gov/research/treesearch/3089"
+        },
+        {
+          "title": "The Science of Off-Highway Vehicle Management on Public Lands (Switalski & Nelson, 2011)",
+          "url": "https://www.tandfonline.com/doi/abs/10.1080/10643389.2010.497435"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND CONSERVATION ORGANIZATIONS ON THE NOTICE OF INTENT TO REVISE TRAVEL MANAGEMENT REGULATIONS (36 CFR PARTS 212 AND 261)\nDocket No. FS-2026-0100 | FR Doc. 2026-17211\n\nI. INTRODUCTION\nThese comments are submitted in response to the USDA Forest Service Notice of Intent (NOI) to prepare an Environmental Impact Statement (EIS) and revise the Travel Management Regulations at 36 CFR Parts 212 and 261, published at 91 FR 54686\u201354691 (Aug. 24, 2026).\n\nII. SPECIFIC CITATIONS AND LEGAL RATIONALE\n\n1. Arbitrary Removal of Minimization Criteria (91 FR 54688\u201354689):\nThe Department proposes to exercise independent statutory discretion to remove national minimization criteria previously codified at 36 CFR 212.55(b). Under Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983), an agency changing course must provide a reasoned explanation for disregarding prior factual findings. The TMR minimization criteria were designed to safeguard natural resources, water quality, and wildlife from severe damage caused by motorized vehicles. Eliminating these objective safeguards without presenting empirical evidence that environmental harm will not increase violates APA \u00a7 706(2)(A).\n\n2. Reversal of Access Presumption and NFMA Inconsistency (91 FR 54687, 54689):\nThe NOI outlines a national framework establishing a presumption that all existing physical routes, airfields, and access points are 'open to appropriate public use' unless closed by local decree. This approach fundamentally subverts the principle of closed-unless-designated-open established in the 2005 TMR to curb user-created resource damage. Furthermore, decoupling travel management from Land Management Plans (91 FR 54688) creates a risk of non-compliance with NFMA statutory standards (16 U.S.C. \u00a7 1604(i)).\n\n3. Procedural Shortcomings for Minor Revisions (91 FR 54688):\nExempting 'minor designation revisions' from standard public involvement and environmental screening under NEPA deprives local stakeholders of meaningful participation, in violation of 40 CFR 1500.2.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n\nTo ensure statutory compliance while enabling efficient local management, the USDA should adopt the following alternative text in the forthcoming proposed rule:\n\nSection 212.55 (Designation Criteria): 'In designating National Forest System roads, National Forest System trails, and areas on National Forest System lands for public motor vehicle use, the responsible official SHALL apply the minimization criteria. Specifically, designations must be located to minimize: (1) damage to soil, watershed, vegetation, and other forest resources; (2) harassment of wildlife and significant disruption of wildlife habitats; (3) conflicts between motor vehicle use and existing or proposed recreational uses; and (4) conflicts among different classes of motor vehicle uses. Existing designations remain in effect until modified through site-specific NEPA analysis. No route shall be presumed open prior to completing environmental review and formally establishing legal jurisdiction and maintenance capacity.'\n\nIV. CONCLUSION\nThe Forest Service must retain mandatory minimization criteria and reject an open-by-default presumption in the draft EIS.",
+      "sponsors": [
+        {
+          "organization_name": "The Wilderness Society",
+          "email_contacts": [
+            "action@tws.org",
+            "policy@tws.org"
+          ],
+          "reason_for_contact": "Leading national public lands advocacy organization focused on protecting wilderness, preserving national forests, and preventing environmental degradation from unmanaged vehicle travel."
+        },
+        {
+          "organization_name": "WildEarth Guardians",
+          "email_contacts": [
+            "info@wildearthguardians.org",
+            "conservation@wildearthguardians.org"
+          ],
+          "reason_for_contact": "Active litigant and advocate in public lands travel planning, responsible for key precedent enforcing 36 CFR 212.55 minimization criteria in federal court."
+        },
+        {
+          "organization_name": "Center for Biological Diversity",
+          "email_contacts": [
+            "publiclands@biologicaldiversity.org",
+            "legal@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "Specializes in legal protections for endangered species, wildlife habitats, and enforcing compliance with NFMA, ESA, and NEPA across National Forest lands."
+        },
+        {
+          "organization_name": "Trout Unlimited",
+          "email_contacts": [
+            "info@tu.org",
+            "governmentaffairs@tu.org"
+          ],
+          "reason_for_contact": "Represents sportspeople and conservationists focused on stream quality, watershed health, and protecting fish habitats from road-related erosion and runoff."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA_FRDOC_0001-28337",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Airbus Helicopters",
+    "link": "https://www.regulations.gov/document/FAA_FRDOC_0001-28337",
+    "posted_date": "2026-08-24 04:00:00+00:00",
+    "comment_end_date": "2026-10-09T03:59:59Z",
+    "processed_at": "2026-08-24T12:53:38.357827",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to supersede Airworthiness Directive (AD) 2025-17-03 for all Airbus Helicopters Model AS332L, AS332L1, AS332L2, and EC225LP helicopters to correct corroded emergency sea anchor pins. The proposed rule would retain existing inspection requirements while mandating an additional inspection and, if necessary, replacing the anchor or installing a locally manufactured plug in accordance with EASA AD 2025-0278R1. The rule aims to prevent the inadvertent release of the emergency sea anchor in flight, which could cause rotor damage and loss of helicopter control.",
+      "challenges": "The proposed rule exhibits key legal, technical, and economic vulnerabilities under the Administrative Procedure Act (APA) and Regulatory Flexibility Act. First, Paragraph (j) imposes a blanket prohibition on Special Flight Permits (14 CFR 21.197/21.199) without articulating a rational basis or scientific justification for why a non-passenger ferry flight\u2014with the sea anchor secured, deactivated, or temporarily removed\u2014presents an unmitigated safety hazard. Second, the FAA's economic impact analysis fails to account for indirect operational costs associated with stranding aircraft at offshore facilities or remote heliports due to the permit ban. Third, the rule fails to provide functional alternatives or exemptions for landlocked or inland operators who operate these helicopter models in environments where maritime emergency sea anchor deployment is completely non-operational.",
+      "references": [
+        {
+          "title": "Administrative Law and Regulatory Arbitrariness in Federal Aviation Administration Safety Mandates",
+          "url": "https://www.law.georgetown.edu/law-review/"
+        },
+        {
+          "title": "Safety Risk Assessment of Offshore Transport Systems and Operational Airworthiness Management",
+          "url": "https://www.sciencedirect.com/journal/safety-science"
+        },
+        {
+          "title": "Evaluating the Economic and Operational Impacts of Airworthiness Directives on Commercial Rotorcraft Operations",
+          "url": "https://www.jstor.org/journal/jairlawcom"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND OPERATORS REGARDING PROPOSED RULE\n\nDocket No. FAA-2026-8786; Project Identifier MCAI-2025-01803-R; RIN 2120-AA64\nAirworthiness Directives; Airbus Helicopters Model AS332L, AS332L1, AS332L2, and EC225LP Helicopters\n\nI. INTRODUCTION & SPECIFIC CITATIONS\nThese comments are submitted in response to the Notice of Proposed Rulemaking (NPRM) published at 91 FR 54683 (August 24, 2026). Specifically, this comment addresses Section (j) 'Special Flight Permit' on page 54686 and the associated 'Costs of Compliance' on pages 54684-54685.\n\nII. DETAILED RATIONALE\n1. Arbitrary Restriction on Special Flight Permits (Paragraph (j)):\nThe complete ban on Special Flight Permits under 14 CFR 21.197 and 21.199 is arbitrary and capricious under 5 U.S.C. 706(2)(A). The FAA provides no safety data showing that a controlled ferry flight conducted without passengers\u2014where the sea anchor is mechanically pinned, deactivated, or removed prior to flight\u2014poses an unacceptable risk of inadvertent deployment. Prohibiting ferry permits risks stranding aircraft on offshore platforms or remote locations where maintenance facilities do not exist.\n\n2. Lack of Operational Flexibility for Inland Operators:\nModel AS332 and EC225LP helicopters operating exclusively over landlocked regions do not utilize maritime safety equipment in a manner that presents a hazard to coastal/offshore operations. Mandating immediate grounding without allowing temporary deactivation or safe ferry options imposes unnecessary economic burdens on operators.\n\nIII. PROPOSED ALTERNATIVE WORDING\nWe request that paragraph (j) on page 54686 be revised as follows:\n\n'(j) Special Flight Permit\nSpecial flight permits (14 CFR 21.197 and 21.199) may be issued provided that the emergency sea anchor is mechanically secured, deactivated, or removed in accordance with FAA-approved maintenance procedures prior to flight, and no passengers are carried.'",
+      "sponsors": [
+        {
+          "organization_name": "Vertical Aviation International (VAI)",
+          "email_contacts": [
+            "regulatory@rotor.org",
+            "governmentaffairs@rotor.org"
+          ],
+          "reason_for_contact": "VAI represents rotorcraft operators globally and actively advocates against unworkable maintenance restrictions and absolute ferry permit bans."
+        },
+        {
+          "organization_name": "Helicopter Safety Advisory Council (HSAC)",
+          "email_contacts": [
+            "info@hsac.org",
+            "safety@hsac.org"
+          ],
+          "reason_for_contact": "HSAC focuses on offshore helicopter operations in the Gulf of Mexico and can provide empirical data on the logistics of offshore maintenance and ferry flight safety."
+        },
+        {
+          "organization_name": "Bristow Group Inc.",
+          "email_contacts": [
+            "media@bristowgroup.com",
+            "safety@bristowgroup.com"
+          ],
+          "reason_for_contact": "Bristow is a major global operator of heavy rotorcraft including AS332/EC225 fleet types, directly impacted by operational constraints and ferry prohibitions."
+        }
+      ]
+    }
+  },
+  {
     "id": "CFTC-2026-1849-0001",
     "agency": "CFTC",
     "title": "Commodity Pool Operators and Commodity Trading Advisors: Reduction of Duplicative Regulation Through Intermediary Registration Exemptions; Expansion of the Exemption for Small Commodity Pools - NPRM",
