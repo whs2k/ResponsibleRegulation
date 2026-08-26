@@ -1,5 +1,612 @@
 [
   {
+    "id": "CFTC-2026-1882-0001",
+    "agency": "CFTC",
+    "title": "Swap Execution Facility Order Book Requirement for Permitted Transactions",
+    "link": "https://www.regulations.gov/document/CFTC-2026-1882-0001",
+    "posted_date": "2026-08-26 04:00:00+00:00",
+    "comment_end_date": "2026-09-26T03:59:59Z",
+    "processed_at": "2026-08-26T13:00:42.886213",
+    "ai_data": {
+      "summary_of_main_idea": "The Commodity Futures Trading Commission (CFTC) proposes to amend 17 CFR 37.3(a)(2) to eliminate the requirement that Swap Execution Facilities (SEFs) offer an electronic order book for 'Permitted Transactions'\u2014swaps that are not subject to the mandatory trade execution requirement under Section 2(h)(8) of the Commodity Exchange Act. The proposed rule seeks to codify CFTC Staff No-Action Letter 25-24, reasoning that mandatory order books for illiquid or episodically traded swaps impose heavy operational and financial costs on SEFs while generating negligible trading volume and minimal pre-trade price transparency.",
+      "challenges": "The proposal suffers from three major defects. First, legally and procedurally under the Administrative Procedure Act (APA), the CFTC relies on isolated representations from select SEF operators rather than conducting a broad empirical evaluation of market-wide pre-trade transparency, thereby failing to demonstrate how a blanket removal aligns with its statutory mandate under CEA Section 5h(e) to promote pre-trade transparency. Second, economically, eliminating order books entirely without establishing a conditional or volume-based threshold mechanism risks locking in dealer-centric market fragmentation (e.g., RFQ-to-3 or voice execution), foreclosing opportunities for buy-side liquidity provision and wider quote competition as markets evolve. Third, the rule fails to consider hybrid transparency alternatives, such as mandatory indicative pricing streams or low-cost central limit order displays, which would preserve pre-trade price discovery without imposing full matching-engine overhead.",
+      "references": [
+        {
+          "title": "Mechanism Selection and Trade Formation on Swap Execution Facilities (Riggs, Onur, Reiffen, & Zhu, 2020)",
+          "url": "https://www.cftc.gov/sites/default/files/idc/groups/public/@economicanalysis/documents/file/oce_mechanism_selection.pdf"
+        },
+        {
+          "title": "Market Structure and Transaction Costs of Index CDSs (Collin-Dufresne, Junge, & Trolle, 2020)",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3055901"
+        },
+        {
+          "title": "Size Discovery (Duffie & Zhu, 2017)",
+          "url": "https://academic.oup.com/rfs/article/30/4/1095/2969968"
+        },
+        {
+          "title": "Swaps Regulation Version 2.0: An Assessment of the Current Implementation of Reform and Proposals for Next Steps (Giancarlo & Tuckman, 2018)",
+          "url": "https://www.cftc.gov/sites/default/files/2018-04/oce_chairman_swapregversion2whitepaper_042618.pdf"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND MARKET STRUCTURE ANALYSTS\n\nTo: Christopher Kirkpatrick, Secretary\nCommodity Futures Trading Commission\nThree Lafayette Centre, 1155 21st Street NW, Washington, DC 20581\n\nRe: Swap Execution Facility Order Book Requirement for Permitted Transactions (RIN 3038-AF79; 91 FR 55030, August 26, 2026)\n\nI. INTRODUCTION AND EXECUTIVE SUMMARY\nWe appreciate the opportunity to comment on the Commodity Futures Trading Commission's ('CFTC' or 'Commission') Notice of Proposed Rulemaking ('NPRM') regarding amendments to 17 CFR Part 37, 'Swap Execution Facility Order Book Requirement for Permitted Transactions' (91 FR 55030). \n\nWhile we recognize the operational costs highlighted by SEF operators on pages 55032\u201355033 of the NPRM, we strongly object to the complete, unconditioned elimination of the Order Book Requirement for all Permitted Transactions. CEA Section 5h(e) explicitly establishes that a primary statutory goal of SEFs is to promote pre-trade price transparency and trading on SEFs. A blanket removal of the minimum order book functionality for all non-mandated swaps\u2014regardless of liquidity, trading volume, or product evolution\u2014undermines these statutory directives and risks enshrining opaque, multi-dealer request-for-quote (RFQ) and voice workflows as permanent market fixtures.\n\nII. SPECIFIC COMMENTS AND LEGAL DEFICIENCIES\n\n1. APA Procedural and Empirical Deficiencies (91 FR 55032)\nIn Section II.A.1, the Commission bases its rationale primarily on NAL No. 25-24 and self-reported data from select registrants (e.g., LSEG SEF and Bloomberg SEF). Relying on qualitative assertions of operational burden without establishing a standardized, empirical evaluation across all registered SEFs creates an inadequate administrative record under 5 U.S.C. 706. The low usage of order books historically is partly a symptom of dealer preference for RFQ workflows rather than an inherent failure of order book mechanics.\n\n2. Failure to Adopt a Volume-Based or Tiered Threshold (Response to Request for Comment #2, 91 FR 55033)\nIn Request for Comment #2 (p. 55033), the Commission asks whether it should use 'another method, such as trading volume in a certain swap, to require the use of an Order Book for some Permitted Transactions.' We strongly advocate for a volume-based threshold. Permitted Transactions are not a homogenous class; certain liquid benchmark swaps that have not yet been formally made subject to a trade execution requirement under Section 2(h)(8) possess sufficient activity to support order book price discovery. A dynamic threshold ensures that as a Permitted Transaction matures in volume and liquidity, market participants benefit from pre-trade order book transparency automatically.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n\nTo balance operational burdens against the statutory mandate to promote pre-trade transparency, we propose modifying 17 CFR 37.3(a)(2) to incorporate a conditional liquidity assessment standard rather than a total exemption:\n\nProposed Revision to \u00a7 37.3(a)(2):\n\n'\u00a7 37.3 Requirements and procedures for registration.\n(a) * * *\n(2) Minimum trading functionality. \n(i) Required Transactions. A swap execution facility shall, at a minimum, offer an Order Book as defined in paragraph (a)(3) of this section for Required Transactions as defined in \u00a7 37.9(a)(1).\n(ii) Permitted Transactions. A swap execution facility shall offer an Order Book for Permitted Transactions, as defined in \u00a7 37.9(c)(1), that meet or exceed quarterly trading volume and liquidity thresholds established by the Commission. For all other Permitted Transactions, a swap execution facility may satisfy minimum trading functionality by offering an Order Book or an alternative trading functionality that displays executable or indicative quotes to all market participants on the facility.'\n\nIV. CONCLUSION\nThe Commission should refine its proposal to ensure that market structure reform actively encourages competitive, pre-trade price transparency, rather than permanently deregulating execution methods for non-cleared or non-mandated swaps.",
+      "sponsors": [
+        {
+          "organization_name": "Better Markets",
+          "email_contacts": [
+            "cantrell@bettermarkets.org",
+            "comments@bettermarkets.org"
+          ],
+          "reason_for_contact": "Better Markets is a leading non-profit public interest organization dedicated to promoting transparency, accountability, and financial integrity in derivative and capital markets under the Dodd-Frank Act."
+        },
+        {
+          "organization_name": "Healthy Markets Association",
+          "email_contacts": [
+            "info@healthymarkets.org",
+            "ty@healthymarkets.org"
+          ],
+          "reason_for_contact": "Healthy Markets Association is an investor-focused trade association committed to improving market structure, execution quality, and pre- and post-trade transparency across OTC and exchange-traded markets."
+        },
+        {
+          "organization_name": "Managed Funds Association (MFA)",
+          "email_contacts": [
+            "legal@mfaalts.org",
+            "regulatory@mfaalts.org"
+          ],
+          "reason_for_contact": "MFA represents buy-side alternative investment funds that benefit from open, non-discriminatory access and competitive quote display on SEFs to lower transaction costs."
+        },
+        {
+          "organization_name": "Council of Institutional Investors (CII)",
+          "email_contacts": [
+            "general@cii.org",
+            "jeff@cii.org"
+          ],
+          "reason_for_contact": "CII represents major public pension funds and institutional asset owners with a long-term interest in robust price discovery and transparent OTC derivatives markets."
+        }
+      ]
+    }
+  },
+  {
+    "id": "IRS_FRDOC_0001-2410",
+    "agency": "IRS",
+    "title": "Pro Rata Share of Subpart F Income, Tested Income, or Tested Loss",
+    "link": "https://www.regulations.gov/document/IRS_FRDOC_0001-2410",
+    "posted_date": "2026-08-26 04:00:00+00:00",
+    "comment_end_date": "2026-10-27T03:59:59Z",
+    "processed_at": "2026-08-26T13:00:42.886323",
+    "ai_data": {
+      "summary_of_main_idea": "This proposed regulation from the Internal Revenue Service and Department of the Treasury implements statutory amendments from the One, Big, Beautiful Bill Act (OBBBA) regarding how United States shareholders calculate their pro rata share of Subpart F income, tested income, and tested loss from Controlled Foreign Corporations (CFCs). It eliminates former rules requiring ownership on the 'last relevant day' and replaces them with a daily proration regime across periods of ownership during the CFC's taxable year. Additionally, the rule establishes mandatory taxable year closing upon a CFC status change event and provides a 50% ownership variance elective year-closing mechanism, while phasing out extraordinary reduction rules under \u00a71.245A-5.",
+      "challenges": "1. Administrative Procedure Act (APA) Arbitrary & Capricious Weakness: The rigid mandatory application of daily proration under proposed \u00a7 1.951-1(e)(2) without an interim closing of books or an 'extraordinary items' exception fails to account for major discrete income events (such as substantial asset dispositions) occurring before or after ownership transfers. Failing to provide standard accounting exceptions misallocates tax burdens contrary to economic reality and administrative precedents (e.g., Treas. Reg. \u00a7 1.706-4 and \u00a7 1.1502-76(b)).\n\n2. Overly Restrictive Elective Year-Closing Threshold: Proposed \u00a7 1.951-1(d)(2) restricts elective year-closing exclusively to transactions resulting in a greater than 50 percentage point shift among non-related shareholders. For transfers between 10% and 50%, selling U.S. shareholders lose operational control yet remain fully exposed to post-closing actions of buyers that inflate Subpart F or GILTI inclusion amounts without contractual recourse or remedy.\n\n3. Excessively Onerous Substantiation Requirements: Proposed \u00a7 1.951-4(h) rejects public comments on Notice 2025-75 and mandates onerous, subjective third-party documentation to prove a dividend increased taxable income for transition rule purposes. The refusal to provide a administrative safe harbor or per se rule creates severe compliance friction for historical, closed transactions.",
+      "references": [
+        {
+          "title": "Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983) (APA requirement that agencies offer rational connections between facts found and choices made, including considering obvious regulatory alternatives).",
+          "url": "https://supreme.justia.com/cases/federal/us/463/29/"
+        },
+        {
+          "title": "American Bar Association Section of Taxation Comments on Pro Rata Share Allocations and Foreign Entity Year-Closing Rules.",
+          "url": "https://www.americanbar.org/groups/taxation/"
+        },
+        {
+          "title": "Tax Executives Institute (TEI) Policy Statement on Administrative Burdens and Accounting Elections in International Tax Rules.",
+          "url": "https://www.tei.org/advocacy"
+        }
+      ],
+      "proposed_comment": "October 20, 2026\n\nCC:PA:01:PR (REG-115646-25)\nRoom 5503\nInternal Revenue Service\nP.O. Box 7604, Ben Franklin Station\nWashington, DC 20044\n\nRE: Comments on Proposed Regulations under Sections 951, 951A, and 6038 (REG-115646-25; RIN 1545-BR77): Pro Rata Share of Subpart F Income, Tested Income, or Tested Loss\n\nDear Officers and Drafting Counsel:\n\nWe submit these comments in response to the Notice of Proposed Rulemaking published in the Federal Register (91 FR 55037-55062) on August 26, 2026. While we support Treasury and the IRS's efforts to implement the statutory revisions under the One, Big, Beautiful Bill Act (OBBBA), key aspects of the proposed regulations impose significant economic distortions and administrative burdens that fail the standards of reasoned decision-making under the Administrative Procedure Act (APA).\n\n1. Need for an Extraordinary Items Exception in Daily Proration (\u00a7 1.951-1(e)(2))\nAs drafted, proposed \u00a7 1.951-1(e)(2) mandates a pure daily proration approach for allocating a CFC's Subpart F income, tested income, and tested loss when ownership shifts during the year. This blanket method creates significant economic distortions if a CFC recognizes a large extraordinary gain (such as a discrete asset sale under Section 337 or Section 1001) either prior to or following a stock transfer. A taxpayer selling stock early in the year could be retroactively allocated a pro rata share of Subpart F income generated by an extraordinary transaction conducted months later by an unrelated buyer.\n\nRecommendation: Treasury and the IRS should adopt an 'extraordinary items' exception modeled on Treas. Reg. \u00a7 1.706-4 and \u00a7 1.1502-76(b). Under this exception, extraordinary discrete gains or losses would be specifically allocated to the period in which they occurred rather than prorated daily across the entire taxable year.\n\n2. Lowering the Threshold for Elective Closing of Taxable Year (\u00a7 1.951-1(d)(2))\nProposed \u00a7 1.951-1(d)(2) limits the elective closing of a CFC's taxable year to cases where there is a 'significant ownership variance' exceeding 50 percentage points among non-related shareholders. This threshold is overly restrictive. A shareholder disposing of a 20% or 30% stake frequently surrenders operational oversight and lacks the audit rights or contractual power to prevent buyers from altering business operations or tax choices before year-end.\n\nRecommendation: Lower the threshold for an elective year-closing under proposed \u00a7 1.951-1(d)(2)(ii)(A) from 50 percentage points to 20 percentage points, or permit a joint election whenever a U.S. shareholder disposes of its entire stock interest in a CFC.\n\n3. Adoption of a Safe Harbor for Transition Rule Substantiation (\u00a7 1.951-4(h))\nProposed \u00a7 1.951-4(h) mandates that taxpayers submit a detailed statement proving that a dividend increased a U.S. person's taxable income without establishing clear safe harbors for taxpayers who lack third-party access.\n\nRecommendation: Adopt a per se safe harbor stating that dividends received by domestic corporations subject to standard federal corporate income tax (where no deduction under Section 245A or foreign tax credit offsets apply) automatically satisfy the substantiation requirement.\n\nPROPOSED REGULATORY TEXT CHANGES:\n\nModify proposed \u00a7 1.951-1(d)(2)(ii)(A) as follows:\n\"(A) In general. A significant ownership variance occurs if, taking into account all specified transfers that occur pursuant to the same plan during the same taxable year of a controlled foreign corporation... the percentage of the outstanding stock of the controlled foreign corporation owned by one or more section 958(a) U.S. shareholders decreases, in the aggregate, by [REPLACE: more than 50 percentage points] [WITH: 20 percentage points or more, or results in a complete disposition of a section 958(a) U.S. shareholder's interest].\"\n\nModify proposed \u00a7 1.951-1(e)(2)(i)(A) as follows:\n\"(A) Daily proration. Subject to paragraph (e)(2)(i)(B) of this section and paragraph (e)(2)(i)(C) (Extraordinary Items Exception), if the controlled foreign corporation has only one class of stock outstanding...\"\n\nRespectfully submitted,\n[Civic Advocates & Policy Coalition]",
+      "sponsors": [
+        {
+          "organization_name": "Tax Executives Institute (TEI)",
+          "email_contacts": [
+            "taxpolicy@tei.org",
+            "guidance@tei.org"
+          ],
+          "reason_for_contact": "TEI represents corporate tax executives who directly manage Form 5471 compliance and international M&A accounting adjustments for global corporate taxpayers."
+        },
+        {
+          "organization_name": "National Association of Manufacturers (NAM)",
+          "email_contacts": [
+            "tax@nam.org",
+            "governmentaffairs@nam.org"
+          ],
+          "reason_for_contact": "NAM represents multinational manufacturing entities directly impacted by daily proration distortions and year-closing elections during cross-border restructurings."
+        },
+        {
+          "organization_name": "United States Council for International Business (USCIB)",
+          "email_contacts": [
+            "info@uscib.org",
+            "taxcommittee@uscib.org"
+          ],
+          "reason_for_contact": "USCIB advocates for fair international tax frameworks and reduced administrative compliance costs for US-based multinational enterprises."
+        },
+        {
+          "organization_name": "American Bar Association (ABA) Section of Taxation",
+          "email_contacts": [
+            "tax@americanbar.org"
+          ],
+          "reason_for_contact": "The ABA Tax Section frequently submits technical procedural comments focusing on APA administrative compliance, regulatory clarity, and practical tax administration."
+        }
+      ]
+    }
+  },
+  {
+    "id": "USCG-2026-0035-0001",
+    "agency": "USCG",
+    "title": "Anchorage Regulation; San Juan Bay, San Juan, PR",
+    "link": "https://www.regulations.gov/document/USCG-2026-0035-0001",
+    "posted_date": "2026-08-26 04:00:00+00:00",
+    "comment_end_date": "2026-09-26T03:59:59Z",
+    "processed_at": "2026-08-26T13:00:42.886435",
+    "ai_data": {
+      "summary_of_main_idea": "The U.S. Coast Guard proposes to amend 33 CFR Part 110 by shifting the boundaries of Anchorage D in San Juan Bay, Puerto Rico, eastward and establishing a mandatory no-wake speed restriction within the anchorage. This action aims to resolve navigational hazards and collision risks created when a U.S. Army Corps of Engineers project expanded the deep-draft commercial channel into existing recreational anchorage space. The proposed rule also redesignates 33 CFR 110.74c to 33 CFR 110.76 to conform with Federal Register formatting standards.",
+      "challenges": "The proposed rule exhibits significant legal, scientific, and economic vulnerabilities under the Administrative Procedure Act (APA), National Environmental Policy Act (NEPA), and Regulatory Flexibility Act (RFA). First, under the APA (5 U.S.C. 553), the agency failed to conduct a quantitative spatial analysis demonstrating that the reduced footprint of Anchorage D can safely accommodate existing recreational and transit traffic without creating severe secondary congestion elsewhere in San Juan Bay. Second, the agency improperly relied on a Categorical Exclusion (CATEX L59(b)) under NEPA despite explicitly invoking benefits to the federally protected West Indian Manatee; invoking environmental protection as justification without conducting formal Endangered Species Act (ESA) Section 7 consultation or an Environmental Assessment (EA) constitutes arbitrary agency action where extraordinary circumstances exist. Third, the RFA certification under 5 U.S.C. 605(b) lacks empirical baseline economic data regarding impacts on local marine charter businesses, eco-tourism operators, and recreational vessel services impacted by the reduction of anchorage capacity.",
+      "references": [
+        {
+          "title": "Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983) (Standards for Rational Agency Decision-Making and APA Review)",
+          "url": "https://supreme.justia.com/cases/federal/us/463/29/"
+        },
+        {
+          "title": "NOAA Fisheries Marine Mammal and Endangered Species Conservation in Puerto Rico Waters",
+          "url": "https://www.fisheries.noaa.gov/region/southeast"
+        },
+        {
+          "title": "Sierra Club v. U.S. Forest Service, 843 F.2d 1190 (9th Cir. 1988) (Limits of Categorical Exclusions under NEPA)",
+          "url": "https://openjurist.org/843/f2d/1190/sierra-club-v-united-states-forest-service"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND MARITIME INTERESTS\n\nDocket No. USCG-2026-0035; RIN 1625-AA01\nAnchorage Regulation; San Juan Bay, San Juan, PR\n91 FR 55062 (August 26, 2026)\n\nI. INTRODUCTION AND STATEMENT OF INTEREST\nThese comments are submitted in response to the Coast Guard's Notice of Proposed Rulemaking (NPRM) regarding revisions to Anchorage D in San Juan Harbor, Puerto Rico (91 FR 55062\u201355064). While we support the agency's primary goal of ensuring maritime safety and avoiding collisions between commercial vessels and anchored craft in the San Antonio Channel, the rule as drafted imposes arbitrary restrictions on recreational mariners and lacks required procedural and environmental documentation.\n\nII. PROCEDURAL AND LEGAL DEFICIENCIES\n\n1. Inadequate Arbitrary and Capricious Justification under the APA (5 U.S.C. 553)\nThe agency notes that an Army Corps of Engineers project expanded the deep-draft segment eastward by approximately 1,000 feet, overlapping Anchorage D (91 FR 55062). However, the Coast Guard proposes to contract the acreage of Anchorage D without analyzing the carrying capacity of the reduced zone or assessing where displaced vessels will go. Failing to consider obvious safety risks stemming from increased vessel density in the remaining anchorage footprint renders the rule arbitrary and capricious under Motor Vehicle Mfrs. Ass'n v. State Farm, 463 U.S. 29 (1983).\n\n2. Improper Use of Categorical Exclusion Under NEPA\nThe Coast Guard states that a mandatory no-wake restriction is intended to protect ESA-listed species such as the West Indian Manatee (91 FR 55063) while simultaneously relying on Categorical Exclusion L59(b) under DHS Directive 023-01. Where an agency relies on wildlife conservation assertions to justify regulatory restrictions, it must provide the supporting biological assessment or ESA Section 7 consultation in the public docket. Circumventing an Environmental Assessment when sensitive species are directly referenced violates NEPA.\n\n3. Flawed Regulatory Flexibility Act Certification\nThe certification that the rule will not have a ",
+      "sponsors": [
+        {
+          "organization_name": "Boat Owners Association of The United States (BoatUS)",
+          "email_contacts": [
+            "govaffairs@boatus.com",
+            "press@boatus.com"
+          ],
+          "reason_for_contact": "BoatUS is the largest organization of recreational boaters in the U.S. and actively advocates against the uncompensated loss of public anchorage grounds and unstudied vessel restrictions."
+        },
+        {
+          "organization_name": "Seven Seas Cruising Association (SSCA)",
+          "email_contacts": [
+            "office@ssca.org",
+            "concerns@ssca.org"
+          ],
+          "reason_for_contact": "SSCA represents live-aboard and long-distance cruising mariners who rely heavily on designated special anchorage areas like Anchorage D in San Juan Harbor."
+        },
+        {
+          "organization_name": "National Marine Manufacturers Association (NMMA)",
+          "email_contacts": [
+            "gr@nmma.org",
+            "info@nmma.org"
+          ],
+          "reason_for_contact": "NMMA advocates for marine industry access rights, commercial/recreational harbor balance, and rigorous economic impact analysis under the Regulatory Flexibility Act."
+        }
+      ]
+    }
+  },
+  {
+    "id": "NRC_FRDOC_0001-10851",
+    "agency": "NRC",
+    "title": "List of Approved Spent Fuel Storage Casks: TN Americas, LLC Standardized NUHOMS Horizontal Modular Storage System for Irradiated Nuclear Fuel, Certificate of Compliance No. 1004, Renewed Amendment No.19",
+    "link": "https://www.regulations.gov/document/NRC_FRDOC_0001-10851",
+    "posted_date": "2026-08-26 04:00:00+00:00",
+    "comment_end_date": "2026-09-26T03:59:59Z",
+    "processed_at": "2026-08-26T13:00:42.886530",
+    "ai_data": {
+      "summary_of_main_idea": "The U.S. Nuclear Regulatory Commission (NRC) proposes amending its spent fuel storage regulations under 10 CFR 72.214 to include Renewed Amendment No. 19 to Certificate of Compliance (CoC) No. 1004 for the TN Americas, LLC Standardized NUHOMS Horizontal Modular Storage System. The amendment introduces a modified 61BTH basket design using staggered plates to reduce weight, simplify manufacturing, and enhance fabricability while maintaining compliance with the system's Aging Management Program (AMP) requirements.",
+      "challenges": "The proposed rule exhibits several technical and administrative defects. Scientifically, modifying the 61BTH basket to a staggered plate configuration alters structural load paths, thermal conductivity dynamics, and criticality safety margins under seismic and impact conditions, particularly when loaded with high-burnup spent fuel. The NRC's reliance on design analogies to CoC 1042 (EOS 37PTH/89BTH) without presenting complete, publicly accessible structural integrity and thermal degradation modeling raises safety concerns. Procedurally, the NRC's reliance on outdated Environmental Assessments\u2014referencing baseline analyses from 1989 and 2010\u2014violates National Environmental Policy Act (NEPA) requirements by failing to account for cumulative long-term degradation mechanisms associated with extended storage and higher burnup rates under the Aging Management Program.",
+      "references": [
+        {
+          "title": "NUREG-2215: Standard Review Plan for Spent Fuel Dry Storage Systems and Facilities",
+          "url": "https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr2215/index.html"
+        },
+        {
+          "title": "EPRI High Burnup Dry Storage Cask Research Project Assessment (Report 3002015076)",
+          "url": "https://www.epri.com/research/products/000000003002015076"
+        },
+        {
+          "title": "GAO-21-403: Spent Nuclear Fuel - Additional Actions Needed to Improve NRC's Oversight of Dry Storage Casks",
+          "url": "https://www.gao.gov/products/gao-21-403"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND POLICY ANALYSTS ON THE PROPOSED RULE:\nList of Approved Spent Fuel Storage Casks: TN Americas, LLC Standardized NUHOMS Horizontal Modular Storage System, Renewed Amendment No. 19\nDocket ID: NRC-2026-2806 | RIN: 3150-AL72 | 10 CFR Part 72\n\nI. INTRODUCTION & EXECUTIVE SUMMARY\nWe submit these public comments regarding the Nuclear Regulatory Commission's (NRC) proposed rule to approve Renewed Amendment No. 19 to Certificate of Compliance (CoC) No. 1004 for the TN Americas, LLC Standardized NUHOMS Horizontal Modular Storage System (88 FR 55028, August 26, 2026). While design optimizations that streamline manufacturing are understandable, the proposed implementation of a staggered plate design in the 61BTH basket introduces structural, thermal, and regulatory questions that require comprehensive public disclosure and technical justification prior to final approval.\n\nII. SPECIFIC TECHNICAL AND LEGAL DEFECTS\n\n1. Inadequate Structural and Thermal Margin Justification (88 FR 55028, Section I / Safety Evaluation Report ML26103A252):\nThe NRC proposes approving the 61BTH staggered plate basket based on technical similarities to the 24PTH Type 3 basket (CoC 1004, Amend 18) and EOS 37PTH/89BTH baskets (CoC 1042). However, changing the geometry of structural plates directly affects thermal dissipation capacity and load distribution during drop or seismic events. The rule relies heavily on design analogies rather than providing fully unredacted finite element dynamic impact modeling and transient heat transfer analyses for high-burnup fuel loads. Under 10 CFR 72.236(l), dry storage designs must evaluate structural integrity under normal, off-normal, and accident conditions; cross-referencing separate CoC approvals without providing integrated, public stress-strain evaluations for the modified 61BTH basket prevents meaningful public review under the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 553.\n\n2. Reliance on Outdated Environmental Assessments (88 FR 55030, Section VI):\nThe NRC cites environmental assessments dated 1989 (ML051230231) and 2010 (ML100710441) to satisfy its NEPA obligations. The physical properties of high-burnup fuel, combined with the extended storage periods envisioned under the CoC 1004 renewal, create thermal stress and cladding degradation risks that were not analyzed in 1989 or 2010. Reliance on legacy environmental documents to justify structural basket weight reductions for renewed CoCs fails to satisfy NEPA's mandate for a 'hard look' at cumulative environmental impacts.\n\nIII. PROPOSED ALTERNATIVE WORDING AND REGULATORY ACTION\n\nTo ensure complete safety and regulatory compliance, the NRC should withdraw the direct final rule and issue a revised proposed rule incorporating the following text within the 10 CFR 72.214 entry for CoC No. 1004, Renewed Amendment No. 19:\n\nProposed Technical Specification Requirement Addition:\n\"For the 61BTH improved basket design using staggered plates, general licensees shall verify that site-specific seismic acceleration limits and peak cladding temperature margins do not exceed the baseline parameters established in Revision 0 of the Safety Evaluation Report. Prior to first use of the 61BTH staggered plate configuration for spent fuel exceeding 45,000 MWd/MTU burnup, licensees must conduct a finite element structural dynamic analysis confirming basket plate integrity under maximum credible drop and seismic scenarios, and submit the analysis to the NRC for public docketing under Docket ID NRC-2026-2806.\"\n\nIV. CONCLUSION\nThe NRC must ensure that economic and manufacturing convenience does not compromise structural redundancy or environmental review standards. We urge the Commission to address these comments as significant adverse comments under the procedure described at 88 FR 55029, withdraw the direct final rule, and publish a detailed supplemental evaluation for public review.",
+      "sponsors": [
+        {
+          "organization_name": "Nuclear Energy Institute (NEI)",
+          "email_contacts": [
+            "media@nei.org",
+            "policy@nei.org"
+          ],
+          "reason_for_contact": "NEI represents nuclear plant operators and technology vendors; engaging NEI ensures dry storage design changes maintain clear, predictable licensing standards across general licensees."
+        },
+        {
+          "organization_name": "Beyond Nuclear",
+          "email_contacts": [
+            "info@beyondnuclear.org",
+            "paul@beyondnuclear.org"
+          ],
+          "reason_for_contact": "Beyond Nuclear advocates for safety and environmental rigor in nuclear waste management and can support legal/procedural challenges regarding NEPA compliance and cask structural integrity."
+        },
+        {
+          "organization_name": "Union of Concerned Scientists (UCS) - Nuclear Safety Project",
+          "email_contacts": [
+            "nuclear-action@ucsusa.org",
+            "punterner@ucsusa.org"
+          ],
+          "reason_for_contact": "UCS provides independent technical analysis of nuclear reactor and spent fuel storage safety, supporting rigorous thermal and criticality evaluations for modified dry cask designs."
+        },
+        {
+          "organization_name": "Orano USA / TN Americas LLC",
+          "email_contacts": [
+            "info.usa@orano.group"
+          ],
+          "reason_for_contact": "As the applicant and design holder for the NUHOMS system, Orano/TN Americas is the primary commercial party directly impacted by technical clarification requests and regulatory approval timelines."
+        }
+      ]
+    }
+  },
+  {
+    "id": "NOAA-NMFS-2026-1387-0008",
+    "agency": "NOAA",
+    "title": "Fisheries of the Caribbean, Gulf of America, and South Atlantic: Extension of the Commercial Shrimp Permit Moratorium in the Gulf of America",
+    "link": "https://www.regulations.gov/document/NOAA-NMFS-2026-1387-0008",
+    "posted_date": "2026-08-25 04:00:00+00:00",
+    "comment_end_date": "2026-09-25T03:59:59Z",
+    "processed_at": "2026-08-26T13:00:42.886613",
+    "ai_data": {
+      "summary_of_main_idea": "The National Marine Fisheries Service (NMFS) proposes to extend the moratorium on issuing new commercial shrimp vessel permits in the Gulf of America for an additional 10 years, through October 26, 2036. The rule aims to stabilize fishing effort, prevent overcapacity, preserve vessel permit market values, and mitigate sea turtle and juvenile red snapper bycatch. NMFS is also soliciting comments on an alternative 5-year extension to allow for earlier scientific re-evaluation.",
+      "challenges": "The primary legal and scientific defect in the proposed rule is its reliance on a 10-year extension without completing an updated stock and economic assessment, which potentially violates Magnuson-Stevens Act National Standard 2 (best scientific information available) and National Standard 8 (communities). Furthermore, lock-in for 10 years under deteriorating economic conditions (evidenced by negative net operating revenues in 2022\u20132023) creates severe barriers to entry for young and historically disadvantaged commercial harvesters by permanently removing 646 unrenewed permits rather than creating an equitable allocation or reissuance pool.",
+      "references": [
+        {
+          "title": "NMFS Final Rule for Amendment 17B to the Shrimp FMP Establishing Minimum Permit Thresholds (82 FR 60564)",
+          "url": "https://www.federalregister.gov/documents/2017/12/21/2017-27514/fisheries-of-the-caribbean-gulf-of-mexico-and-south-atlantic-shrimp-fishery-of-the-gulf-of-mexico"
+        },
+        {
+          "title": "Economic Status of the Gulf of Mexico Commercial Shrimp Fishery Report",
+          "url": "https://www.fisheries.noaa.gov/resource/document/economic-status-gulf-mexico-commercial-shrimp-fishery"
+        },
+        {
+          "title": "Magnuson-Stevens Fishery Conservation and Management Act, 16 U.S.C. 1851 (National Standards for Fishery Conservation and Management)",
+          "url": "https://www.law.cornell.edu/uscode/text/16/1851"
+        },
+        {
+          "title": "Gulf of Mexico Fishery Management Council Shrimp Fishery Management Plan Frameworks",
+          "url": "https://gulfcouncil.org/fishery-management/plans/shrimp/"
+        }
+      ],
+      "proposed_comment": "COMMENTS ON PROPOSED RULE: Extension of Commercial Shrimp Permit Moratorium in the Gulf of America\nDocket No. 260819-0006; RIN 0648-BO31; 91 FR 54841-54844 (August 25, 2026)\n\nI. INTRODUCTION\nThese comments are submitted regarding the National Marine Fisheries Service (NMFS) proposed rule to extend the moratorium on new Federal commercial shrimp vessel permits in the Gulf of America under Amendment 19 to the Fishery Management Plan for the Shrimp Fishery of the Gulf (Shrimp FMP).\n\nII. RATIONALE & CRITIQUE OF THE 10-YEAR EXTENSION (91 FR 54842)\nWhile maintaining fleet stability and mitigating bycatch of sea turtles and juvenile red snapper are necessary goals under the Magnuson-Stevens Act (MSA), extending the moratorium for a full 10-year period through October 26, 2036, is arbitrary and premature under MSA National Standards 2 and 8. As noted on 91 FR 54843, average net operating revenues for active vessels turned negative in 2022 (-$14,635 in 2023), driven by soaring fuel prices and foreign import competition. Concurrently, 646 permits have been permanently canceled due to non-renewal.\n\nLocking in a 10-year moratorium without first completing the re-evaluation of the 1,072 permit minimum threshold (established in Amendment 17B) prevents adaptive management. A 5-year extension (through October 26, 2031), as requested for feedback on 91 FR 54842, creates an administrative imperative for NMFS and the Gulf Council to complete scientific assessments of economic capacity and bycatch thresholds in a timely manner, while lowering barriers for new entrants.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\nNMFS should adopt a 5-year extension to 50 CFR 622.50(b) and initiate a rulemaking framework within 3 years to establish a permit reserve pool for qualified new entrants.\n\nProposed revision to 50 CFR 622.50(b):\n\n'\u00a7 622.50 Permits, permit issuance moratorium, permit endorsement, and transit provision.\n***\n(b) Moratorium on commercial vessel permits for Gulf shrimp. The provisions of this paragraph (b) are applicable through October 26, 2031.'",
+      "sponsors": [
+        {
+          "organization_name": "Southern Shrimp Alliance",
+          "email_contacts": [
+            "info@shrimpalliance.com"
+          ],
+          "reason_for_contact": "Represents commercial shrimp harvesters and processors across the Gulf coast focused on economic viability and managing import impacts."
+        },
+        {
+          "organization_name": "Gulf of Mexico Shrimp Fishermen's Association",
+          "email_contacts": [
+            "contact@gulfshrimpers.org",
+            "advocacy@gulfshrimpers.org"
+          ],
+          "reason_for_contact": "Direct advocacy group for vessel owners and operators impacted by permit capitalization, entry barriers, and fleet capacity limits."
+        },
+        {
+          "organization_name": "Ocean Conservancy - Gulf of Mexico Program",
+          "email_contacts": [
+            "gulfprogram@oceanconservancy.org"
+          ],
+          "reason_for_contact": "Focuses on sustainable fishery management, reducing juvenile red snapper and sea turtle bycatch, and rigorous scientific reviews under MSA National Standard 2."
+        }
+      ]
+    }
+  },
+  {
+    "id": "AMS_FRDOC_0001-2742",
+    "agency": "AMS",
+    "title": "Membership Adjustment of the Mushroom Council",
+    "link": "https://www.regulations.gov/document/AMS_FRDOC_0001-2742",
+    "posted_date": "2026-08-25 04:00:00+00:00",
+    "comment_end_date": "2026-09-25T03:59:59Z",
+    "processed_at": "2026-08-26T13:00:42.886697",
+    "ai_data": {
+      "summary_of_main_idea": "The USDA Agricultural Marketing Service (AMS) proposes to amend the Mushroom Promotion, Research, and Consumer Information Order (7 CFR Part 1209) by realigning the geographic regions and member seats on the Mushroom Council. Specifically, the rule reallocates one Council seat from Region 1 (Eastern/Other States) to Region 3 (Western States) based on 4-year average production and shipment data. The objective is to adjust Council representation to reflect regional shifts in domestic mushroom production volume.",
+      "challenges": "The proposed rule exhibits several legal, procedural, and empirical weaknesses under the Administrative Procedure Act (APA) and the Regulatory Flexibility Act (RFA):\n\n1. Reliance on Unvalidated Proxy Data: Because USDA National Agricultural Statistics Service (NASS) discontinued individual state-level reporting for California in 2025, AMS estimated production ratios for Regions 1 and 3 using static 2022 Census of Agriculture square-footage figures. Applying 2022 square-footage proportions to 2021-2024 NASS production data assumes constant yield per square foot across all regions and time periods. This methodology is scientifically flawed, fails to reflect regional efficiency gains, and introduces arbitrary estimates into formal rulemaking.\n\n2. Severe Governance Disproportion for Importers: Importers contribute roughly 198 million pounds annually (~22-30% of total U.S. mushroom volume), yet remain capped at 1 member out of 9 (11% representation). While statutory limits exist, AMS relies on a rigid reallocation framework without providing economic analysis on the disparate assessment-to-representation ratio imposed on importers.\n\n3. Procedural Shortcomings and Inadequate Comment Period: A truncated 30-day comment window limits the ability of small producers in Region 1\u2014who stand to lose 33% of their voting power\u2014to conduct independent data collection to verify or challenge AMS's square-footage allocation estimates.",
+      "references": [
+        {
+          "title": "GAO Report: Federal Checkoff Programs - USDA Oversight and Producer Representation",
+          "url": "https://www.gao.gov/products/gao-17-717"
+        },
+        {
+          "title": "National Agricultural Law Center: Commodity Checkoff Programs Overview and Legal Framework",
+          "url": "https://nationalaglawcenter.org/research-by-topic/checkoff-programs/"
+        },
+        {
+          "title": "USDA NASS 2022 Census of Agriculture - Speciality Crops and Mushroom Production Data",
+          "url": "https://www.nass.usda.gov/Publications/AgCensus/2022/index.php"
+        }
+      ],
+      "proposed_comment": "Re: Comments on Proposed Rule: Membership Adjustment of the Mushroom Council; 7 CFR Part 1209; Docket No. AMS-SC-25-0551; 91 FR 54814 (August 25, 2026).\n\nI. INTRODUCTION & SUMMARY\nThese comments are submitted regarding the Agricultural Marketing Service's (AMS) proposed rule to reallocate seats on the Mushroom Council from Region 1 to Region 3. While periodic reapportionment is authorized under 7 U.S.C. 6104 and 7 CFR 1209.30, the methodology employed by AMS to derive regional volume figures relies on unvalidated proxy estimates that violate core principles of administrative reasoned decision-making under the Administrative Procedure Act (5 U.S.C. 706).\n\nII. PROCEDURAL AND EMPIRICAL DEFECTS IN DATA ESTIMATION (91 FR 54815-54816)\nOn pages 54815 and 54816, AMS acknowledges that NASS ceased publishing individual state production data for California in 2025. To compensate, AMS calculated a fixed ratio (45% for Region 1 and 55% for Region 3) using growing area square footage from the 2022 Census of Agriculture, and applied this 2022 static ratio across all 2021\u20132024 production figures.\n\nThis proxy methodology is fundamentally flawed:\n1. Yield Variability: Crop yield per square foot differs significantly between advanced commercial growing operations in California/West and legacy operations in the East. Assuming uniform productivity across all square footage introduces systemic bias.\n2. Temporal Mismatch: A static 2022 area metric cannot accurately capture dynamic shifts in production efficiency or farm closures occurring in 2023 and 2024.\n3. Lack of Empirical Validation: AMS failed to cross-validate these proxy calculations against actual assessment collection records held by the Mushroom Council.\n\nIII. SMALL BUSINESS AND RFA IMPACTS (91 FR 54816)\nUnder the Initial Regulatory Flexibility Act Analysis, AMS notes that 96% of mushroom producers (1,213 of 1,258) are small entities. Removing a seat from Region 1 dilutes the representation of small, independent growers in the Eastern U.S. who rely on Council activities for regional research and promotion, without providing a verified empirical basis for the reduction.\n\nIV. PROPOSED ALTERNATIVE ACTION AND REGULATORY TEXT\nAMS should delay finalization of this reallocation until actual, verified producer assessment shipment volumes from the Mushroom Council\u2014rather than NASS proxy estimates based on 2022 square footage\u2014are published for public audit. Alternatively, AMS should adopt a phased reallocation or establish a temporary advisory seat for Region 1.\n\nIf AMS proceeds, 7 CFR 1209.230 should be amended to require empirical verification prior to seat reallocation:\n\nProposed Wording for 7 CFR 1209.230:\n\"Sec. 1209.230 Reallocation of Council members.\nPursuant to Sec. 1209.30 of the Order, the reallocation of members shall be based upon audited assessment records of actual volume shipped. Pending verification of annual grower shipment reports by the Secretary, the Council seats shall be allocated as follows:\n(a) Region 1: 2 members (subject to annual verification of production thresholds under Sec. 1209.30(e));\n(b) Region 2: 4 members;\n(c) Region 3: 2 members;\n(d) Region 4: 1 member.\"",
+      "sponsors": [
+        {
+          "organization_name": "American Mushroom Institute (AMI)",
+          "email_contacts": [
+            "info@americanmushroom.org",
+            "policy@americanmushroom.org"
+          ],
+          "reason_for_contact": "AMI represents domestic mushroom growers and packers nationwide; they have a direct interest in ensuring Council seat reallocation is based on accurate, audited industry production data rather than proxy estimates."
+        },
+        {
+          "organization_name": "Fresh Produce Association of the Americas (FPAA)",
+          "email_contacts": [
+            "info@freshfrommexico.com",
+            "regulatory@freshfrommexico.com"
+          ],
+          "reason_for_contact": "FPAA advocates for produce importers and distributors, making them an ideal partner to raise concerns regarding the structural underrepresentation of mushroom importers relative to total import volume."
+        },
+        {
+          "organization_name": "Organization for Competitive Markets (OCM)",
+          "email_contacts": [
+            "info@competitivemarkets.com"
+          ],
+          "reason_for_contact": "OCM focuses on checkoff program reform, transparency, and protecting small agricultural producers from regulatory actions that unfairly concentrate voting authority in larger regional industrial entities."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-3073-0001",
+    "agency": "FAA",
+    "title": "Special Conditions: Pratt and Whitney Canada, PW220A; New Engine Rating: Idle-Cruise Regime",
+    "link": "https://www.regulations.gov/document/FAA-2026-3073-0001",
+    "posted_date": "2026-08-25 04:00:00+00:00",
+    "comment_end_date": "2026-10-10T03:59:59Z",
+    "processed_at": "2026-08-26T13:00:42.886785",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes special conditions for the Pratt & Whitney Canada (P&WC) PW220A turboshaft engine to establish airworthiness safety standards for an unusual 'Idle-Cruise Regime' (ICR) power rating structure. Under ICR, twin-engine transport helicopters can operate one engine at low stand-by idle while the active engine provides 100% of required cruise power to significantly improve fuel efficiency and extend flight range. The proposed special conditions create new definitions, operating limitations, control system requirements, and modified testing criteria for icing, rain ingestion, endurance, and transient power response under 14 CFR Part 33.",
+      "challenges": "The primary challenges and regulatory defects in the proposed special conditions concern safety margins during sudden engine-out emergencies, environmental icing risk, thermal fatigue, and Administrative Procedure Act (APA) procedural sufficiency:\n\n1. Safety and Acceleration Response Latency (\u00a7 33.73): Allowing up to 5 seconds for an engine to transition from ICR stand-by power to 95% takeoff power creates a critical performance lag. In the event of a sudden flameout or failure of the active engine, a 5-second recovery delay risks significant rotor droop, control loss, or rapid loss of altitude before the stand-by engine can supply sufficient power.\n2. Environmental Icing and Relight Risk (\u00a7 33.68 & \u00a7 33.78): Because an engine operating at ICR stand-by produces substantially less waste heat, ice and water accumulation on intake blades, guide vanes, and combustor probes during extended low-power cruise in icing or heavy rain conditions could cause engine flameout or delayed relight during sudden acceleration.\n3. Thermal Shock and Low-Cycle Fatigue (\u00a7 33.87): Rapidly cycling between low stand-by idle and maximum continuous or 2-minute emergency power subjects hot-section turbine components to severe thermal gradients and mechanical strain. The proposed endurance test cycles may fail to capture long-term low-cycle fatigue (LCF) and thermal mechanical fatigue (TMF) blade degradation over the engine's lifecycle.\n4. Procedural & Substantiation Deficiencies under the APA: The FAA has not provided empirical test data or rotorcraft flight dynamics modeling to justify why a 5-second acceleration response time ensures an equivalent level of safety for transport category twin-engine helicopters operating under 14 CFR Part 29.",
+      "references": [
+        {
+          "title": "NASA Technical Memorandum: Dynamic Simulation and Control of Variable-Speed Turboshaft Engines in Asymmetric Rotorcraft Operations",
+          "url": "https://ntrs.nasa.gov/citations/20180002148"
+        },
+        {
+          "title": "ASME Journal of Turbomachinery: Thermal Mechanical Fatigue and Life Prediction in Advanced Gas Turbine Rotor Components Under Severe Transient Cycles",
+          "url": "https://asmedigitalcollection.asme.org/turbomachinery/article/141/5/051008/367332"
+        },
+        {
+          "title": "FAA Aviation Safety Technical Report: Engine Transient Response Requirements and Rotor Droop Dynamics in Multi-Engine Helicopter Operations",
+          "url": "https://www.faa.gov/aircraft/safety/reports"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND SAFETY RESEARCHERS ON PROPOSED SPECIAL CONDITIONS\n\nDocket No. FAA-2026-3073; Notice No. 33-25-03-SC\nSpecial Conditions: Pratt and Whitney Canada, PW220A; New Engine Rating: Idle-Cruise Regime\n\nI. INTRODUCTION AND EXECUTIVE SUMMARY\nWe submit these comments in response to the Federal Aviation Administration's (FAA) Notice of Proposed Special Conditions for the Pratt & Whitney Canada (P&WC) Model PW220A engine. While we support fuel-efficiency innovations in rotorcraft propulsion, the proposed Idle-Cruise Regime (ICR) creates novel failure modes that demand stricter safety parameters to protect civil aviation safety under 14 CFR Part 33 and Part 29.\n\nII. SPECIFIC TECHNICAL CONCERNS AND RECOMMENDATIONS\n\n1. Transient Acceleration Time Limits (\u00a7 33.73 - Power or Thrust Response)\n- Issue: The FAA proposes allowing a 5-second response time from rated ICR stand-by power to 95% rated takeoff power. In a twin-engine rotorcraft, if the active engine suffers an abrupt uncommanded shutdown during cruise, a 5-second delay before the stand-by engine reaches power will result in dangerous main rotor RPM decay (rotor droop).\n- Recommendation: The acceleration time from ICR stand-by to 95% rated takeoff power must be shortened to no more than 3.0 seconds under all ambient temperatures and bleed air load conditions. Alternatively, the FAA must require an integrated automated rotorcraft flight control system override that prevents transient rotor droop beyond allowable safety limits.\n\n2. Extended Icing Exposure and Ingestion Safety (\u00a7 33.68 & \u00a7 33.78)\n- Issue: Low engine thermal output during extended ICR stand-by flight in icing conditions increases the risk of ice accretion in the induction system and combustor flameout during rapid power expansion.\n- Recommendation: Section 33.68 testing should require a minimum continuous 30-minute exposure at rated ICR stand-by power in continuous maximum icing conditions prior to rapid acceleration, ensuring no ice shed induces engine stall or flameout.\n\n3. Endurance and Thermal Mechanical Fatigue Verification (\u00a7 33.87)\n- Issue: The proposed endurance cycles do not adequately account for the cumulative thermal mechanical fatigue (TMF) resulting from repeated rapid step-changes between cold stand-by idle and hot 2-minute ICR power.\n- Recommendation: Add a mandatory supplemental low-cycle thermal shock test requiring 500 direct rapid acceleration/deceleration cycles between ICR stand-by and ICR 2-minute power to evaluate turbine blade erosion and creep failure modes.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n\nWe propose the following amendments to the proposed special condition text:\n\nSection 33.73 Power or Thrust Response:\n\"The design and construction of the engine must enable an increase from the rated ICR stand-by power lever position to 95 percent rated takeoff power in not over 3.0 seconds. The 3.0-second power response must occur from a stabilized static condition using maximum allowable bleed air and accessories loads necessary to run the engine and rotorcraft services.\"\n\nSection 33.68 Induction System Icing:\n\"Compliance with \u00a7 33.68 must be demonstrated at 'rated ICR stand-by power rotor speeds' for a continuous duration of not less than 30 minutes in standard icing conditions prior to demonstrating rapid engine acceleration without engine surge, stall, or flameout.\"\n\nIV. CONCLUSION\nThe FAA should revise these special conditions to incorporate these essential safeguards prior to final issuance.",
+      "sponsors": [
+        {
+          "organization_name": "Vertical Aviation International (VAI) / Helicopter Association International",
+          "email_contacts": [
+            "regulatory@verticalavi.org",
+            "safety@verticalavi.org"
+          ],
+          "reason_for_contact": "VAI represents rotorcraft operators and manufacturers concerned with engine reliability, emergency handling, and operational safety standards for twin-engine helicopters."
+        },
+        {
+          "organization_name": "Aerospace Industries Association (AIA)",
+          "email_contacts": [
+            "civil.aviation@aia-aerospace.org",
+            "regulatory@aia-aerospace.org"
+          ],
+          "reason_for_contact": "AIA represents major aerospace and engine manufacturers interested in establishing consistent, standardized type certification standards for next-generation engine propulsion systems."
+        },
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "ops@nbaa.org",
+            "info@nbaa.org"
+          ],
+          "reason_for_contact": "NBAA advocates for business aviation and rotorcraft safety, ensuring that performance margins during asymmetric engine operations do not jeopardize passenger safety."
+        },
+        {
+          "organization_name": "Foundation for Aviation Safety",
+          "email_contacts": [
+            "contact@aviationsafetyfoundation.org",
+            "legal@aviationsafetyfoundation.org"
+          ],
+          "reason_for_contact": "A public interest non-profit dedicated to ensuring FAA safety standards and special conditions undergo rigorous administrative and technical scrutinies under the APA."
+        }
+      ]
+    }
+  },
+  {
+    "id": "USCIS-2026-0298-0001",
+    "agency": "USCIS",
+    "title": "Fee for Certain H\u20131B Petitions",
+    "link": "https://www.regulations.gov/document/USCIS-2026-0298-0001",
+    "posted_date": "2026-08-25 04:00:00+00:00",
+    "comment_end_date": "2026-09-25T03:59:59Z",
+    "processed_at": "2026-08-26T13:00:42.886880",
+    "ai_data": {
+      "summary_of_main_idea": "The Department of Homeland Security (DHS) proposes establishing an additional, standalone fee of $103,265 on all H-1B cap-subject petitions, including those eligible for the advanced degree exemption. The proposed rule seeks to collect approximately $8.8 billion annually to fund immigration-related operational, adjudicative, consular, and enforcement activities across six federal agencies (USCIS, ICE, CBP, EOIR, DOS, and DOL). DHS justifies targeting H-1B cap-subject filers by asserting that employers sponsoring skilled foreign workers possess a higher 'ability to pay' compared to other immigration benefit requestors.",
+      "challenges": "The proposed rule suffers from major legal, economic, and procedural defects:\n1. Statutory Overreach under INA \u00a7 286(m) and (n): Section 286(m) limits fee assessments to recovering the full costs of 'providing adjudication and naturalization services.' Attempting to fund foreign refugee travel/medicals (DOS/PRM), removal proceedings (DOJ/EOIR), border biometric technology (CBP), and multi-agency labor enforcement (DOL) transforms a targeted user fee into an unauthorized tax lacking statutory authority.\n2. Arbitrary and Capricious Cost-Shifting (APA 5 U.S.C. \u00a7 706): DHS explicitly acknowledges that it has never before transferred 100% of multi-agency operational deficits onto a single benefit category based on an unbacked 'ability to pay' principle. Disregarding the traditional Activity-Based Costing (ABC) framework and OMB Circular A-25 without a rational nexus violates administrative law standards.\n3. Regulatory Flexibility Act (RFA) & Economic Flaws: DHS admits that 76% of small business H-1B petitioners will suffer a severe economic impact exceeding 1% of revenue. Despite this, DHS summarily rejected small-business exemptions or tiered fee structures without empirical economic modeling, relying instead on a single non-peer-reviewed working paper (Borjas 2026) to claim H-1B demand is inelastic.",
+      "references": [
+        {
+          "title": "National Cable Television Ass'n, Inc. v. United States, 415 U.S. 336 (1974) (Limiting executive agency user fees to direct specific benefit value rather than general government taxation)",
+          "url": "https://supreme.justia.com/cases/federal/us/415/336/"
+        },
+        {
+          "title": "GAO Federal User Fees: A Design Guide (GAO-08-386SP) (Authoritative guidance on setting user fees, cost alignment, and beneficiary pay principles)",
+          "url": "https://www.gao.gov/products/gao-08-386sp"
+        },
+        {
+          "title": "American Hospital Association v. Becerra, 596 U.S. 381 (2022) (Invalidating agency statutory overreach and improper cost calculation methodologies under the APA)",
+          "url": "https://supreme.justia.com/cases/federal/us/596/20-1114/"
+        },
+        {
+          "title": "National Venture Capital Association v. Duke, 291 F. Supp. 3d 5 (D.D.C. 2017) (Setting aside DHS immigration regulatory action for failure to provide rational basis under APA)",
+          "url": "https://law.justia.com/cases/federal/district-courts/district-of-columbia/gwdc/1:2017cv01912/189280/23/"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT SUBMISSION\n\nDate: September 20, 2026\nTo: U.S. Citizenship and Immigration Services, Department of Homeland Security\nDocket No.: USCIS-2026-0298\nRIN: 1615-AD20\nRe: Notice of Proposed Rulemaking \u2013 Fee for Certain H-1B Petitions (91 FR 54817-54839)\n\nI. INTRODUCTION & STATEMENT OF INTEREST\nThe undersigned organization submits this public comment in response to the Department of Homeland Security (DHS) Notice of Proposed Rulemaking (NPRM) titled \"Fee for Certain H-1B Petitions,\" published at 91 FR 54817 (August 25, 2026). The proposed rule would establish an unprecedented $103,265 supplemental fee on all H-1B cap-subject petitions, creating an unsustainable burden on employers, higher education institutions, and small businesses.\n\nII. STATUTORY DEFECTS: DHS EXCEEDS ITS AUTHORITY UNDER INA \u00a7 286(m) & (n)\nAs stated at 91 FR 54819\u201354820, DHS relies on Sections 286(m) and (n) of the Immigration and Nationality Act (INA), 8 U.S.C. \u00a7 1356(m) and (n), to justify recovering $8.8 billion across six federal agencies. However, Section 286(m) explicitly mandates that fee levels must ensure recovery of the full costs of \"providing adjudication and naturalization services.\" \n\nFunding DOJ Executive Office for Immigration Review (EOIR) court proceedings ($2.95 billion, 91 FR 54830), DOS Bureau of Population, Refugees, and Migration (PRM) overseas refugee travel ($66 million, 91 FR 54830), and CBP border technology ($76.2 million, 91 FR 54829) exceeds the statutory scope of \"adjudication services.\" Under Supreme Court precedent in National Cable Television Ass'n v. United States, 415 U.S. 336 (1974), an administrative user fee that funds broad public benefits rather than specific services rendered to the payor constitutes an unconstitutional tax. DHS lacks statutory authority to levy an enterprise-wide immigration tax on H-1B employers.\n\nIII. ARBITRARY AND CAPRICIOUS COST SHIFTING UNDER THE APA\nDHS concedes in the preamble (91 FR 54821) that it \"has never directly transferred the costs of one program to another based on a determination that requestors under one program can afford higher fees more than other general or specific requestors.\" Suddenly abandoning established Activity-Based Costing (ABC) principles\u2014which match fee levels with actual processing burdens\u2014in favor of a subjective \"ability-to-pay\" standard violates 5 U.S.C. \u00a7 706(2)(A).\n\nFurthermore, DHS relies on an unvetted working paper (Borjas 2026, 91 FR 54835) to assert that H-1B petition demand will remain at 85,000 despite a 2,000%+ fee increase. DHS failed to model the economic displacement of domestic innovation, talent migration to foreign jurisdictions, and downstream employer bankruptcy, rendering the rule's economic analysis fundamentally flawed.\n\nIV. VIOLATION OF THE REGULATORY FLEXIBILITY ACT (RFA)\nIn the Initial Regulatory Flexibility Analysis (IRFA) at 91 FR 54837, DHS admits that the proposed fee will have a \"significant economic impact on 11,051 small entities (76 percent of small entities that filed cap-subject petitions).\" Despite this severe finding, DHS summarily rejected small entity exemptions or fee reductions based on unsupported assertions regarding \"perverse incentives.\" This failure to consider viable regulatory alternatives violates 5 U.S.C. \u00a7 603.\n\nV. PROPOSED REGULATORY ALTERNATIVE Wording\nTo remedy these legal and procedural defects, DHS must withdraw the proposed 8 CFR \u00a7 106.2(a)(3)(xii) in its entirety. If DHS seeks to adjust H-1B filing fees, it must do so strictly based on USCIS's actual adjudication costs under established Activity-Based Costing methodologies.\n\nProposed Regulatory Revision:\nParagraph 8 CFR \u00a7 106.2(a)(3)(xii) should be amended/removed as follows:\n\nOption A (Withdrawal):\n\"8 CFR 106.2(a)(3)(xii) [Removed and Reserved]\"\n\nOption B (Capped Adjudication Cost Alternative):\n\"8 CFR 106.2(a)(3)(xii): In addition to the fee prescribed in paragraph (a)(3)(i) of this section, an additional adjudication cost recovery fee for H-1B cap-subject petitions may be required in an amount not to exceed $1,200, representing solely the direct and indirect costs incurred by USCIS in adjudicating Form I-129 H-1B cap-subject petitions under section 286(m) of the Act.\"\n\nRespectfully submitted,",
+      "sponsors": [
+        {
+          "organization_name": "U.S. Chamber of Commerce",
+          "email_contacts": [
+            "immigration@uschamber.com",
+            "legal@uschamber.com"
+          ],
+          "reason_for_contact": "As the nation's largest business federation, the Chamber represents thousands of employers affected by dramatic fee increases and can lead federal court litigation under the Administrative Procedure Act."
+        },
+        {
+          "organization_name": "Information Technology Industry Council (ITI)",
+          "email_contacts": [
+            "policy@itic.org",
+            "info@itic.org"
+          ],
+          "reason_for_contact": "ITI represents leading tech companies heavily reliant on H-1B specialty occupation talent; they possess economic data to refute the rule's wage gap and elasticity assumptions."
+        },
+        {
+          "organization_name": "National Association of Manufacturers (NAM)",
+          "email_contacts": [
+            "legal@nam.org",
+            "governmentrelations@nam.org"
+          ],
+          "reason_for_contact": "NAM advocates for industrial manufacturers requiring specialized engineering skills and can sponsor public comments highlighting supply chain disruptions caused by extreme regulatory fees."
+        },
+        {
+          "organization_name": "American Immigration Lawyers Association (AILA)",
+          "email_contacts": [
+            "policy@aila.org",
+            "advocacy@aila.org"
+          ],
+          "reason_for_contact": "AILA provides technical legal analysis on INA statutory construction and possesses the procedural expertise to mount APA administrative and judicial challenges."
+        },
+        {
+          "organization_name": "National Venture Capital Association (NVCA)",
+          "email_contacts": [
+            "policy@nvca.org",
+            "press@nvca.org"
+          ],
+          "reason_for_contact": "NVCA represents high-growth startups and small venture-backed entities severely affected under the rule's Regulatory Flexibility Act analysis (76% small business impact)."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FS-2026-0100-0001",
+    "agency": "FS",
+    "title": "Environmental Impact Statements; Availability, etc.: Travel Management; National Forest System Lands",
+    "link": "https://www.regulations.gov/document/FS-2026-0100-0001",
+    "posted_date": "2026-08-24 04:00:00+00:00",
+    "comment_end_date": "2026-09-24T03:59:59Z",
+    "processed_at": "2026-08-26T13:00:42.886963",
+    "ai_data": {
+      "summary_of_main_idea": "The U.S. Department of Agriculture (USDA) Forest Service is proposing to revise its Travel Management Regulations (36 CFR parts 212 and 261) to create a national access policy featuring a presumption that existing roads, trails, airfields, and access routes on National Forest System lands are open to public use unless specifically documented and closed. Prompted by Executive Order 14408, which rescinded prior Executive Orders 11644 and 11989, the rule seeks to eliminate national 'minimization criteria,' exempt Class 1 e-bikes on trails where bicycles are allowed, mandate annual reviews to consider reopening closed routes, and decouple local travel management decisions from National Forest Management Act land planning procedures.",
+      "challenges": "1. Legal Defects under the Administrative Procedure Act (APA) & Organic Act: The proposed rule reverses over two decades of travel management precedent without a reasoned explanation for discarding the 'minimization criteria' designed to protect forest resources, violating the APA's arbitrary-and-capricious standard (5 U.S.C. \u00a7 706(2)(A)). Reversing the default status from 'closed unless designated open' to 'open unless closed' directly conflicts with the Forest Service's statutory mandate under the Organic Administration Act of 1897 (16 U.S.C. \u00a7 551) and National Forest Management Act (16 U.S.C. \u00a7 1604) to prevent resource destruction and protect watersheds. Additionally, providing only a 30-day comment window without separate public scoping meetings violates NEPA public participation mandates (40 CFR \u00a7 1501.9).\n2. Scientific and Technical Weaknesses: Permitting aerial imagery and public datasets to serve as evidence of 'existing' routes risks legitimizing thousands of miles of user-created, unengineered 'ghost roads' and unauthorized off-highway vehicle (OHV) tracks. Scientific literature demonstrates that unmaintained roads cause accelerated soil erosion, stream sedimentation, wildlife habitat fragmentation, and invasive species vector proliferation.\n3. Economic and Administrative Unfeasibility: Imposing a mandatory annual unit-level review of all closed or restricted routes places severe operational and fiscal burdens on local ranger districts already facing billions of dollars in deferred maintenance backlogs, without providing additional legislative appropriations or administrative capacity.",
+      "references": [
+        {
+          "title": "Review of Ecological Effects of Roads on Terrestrial and Aquatic Communities (Trombulak & Frissell, 2000)",
+          "url": "https://conbio.onlinelibrary.wiley.com/doi/10.1046/j.1523-1739.2000.99084.x"
+        },
+        {
+          "title": "Forest Roads: A Synthesis of Scientific Information (USDA Forest Service General Technical Report PNW-GTR-509)",
+          "url": "https://www.fs.usda.gov/research/treesearch/3034"
+        },
+        {
+          "title": "Efficacy of Road Removal for Restoring Natural Resources: A Review of Ecological Effects and Costs (Switalski & Nelson, 2011)",
+          "url": "https://academic.oup.com/bioscience/article/61/1/21/242273"
+        },
+        {
+          "title": "Center for Biological Diversity v. Bureau of Land Management, 937 F. Supp. 2d 1140 (N.D. Cal. 2013) (Holding on Minimization Criteria Duty)",
+          "url": "https://scholar.google.com/scholar_case?case=17621867156947623101"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON NOTICE OF INTENT TO PREPARE AN ENVIRONMENTAL IMPACT STATEMENT: TRAVEL MANAGEMENT REGULATIONS (36 CFR PARTS 212 AND 261)\nDocket ID: FS-2026-0100 | FR Doc No: 2026-17211\n\nI. INTRODUCTION\nThese comments are submitted in response to the United States Department of Agriculture (USDA) Forest Service Notice of Intent (NOI) to prepare an Environmental Impact Statement (EIS) and revise its Travel Management Regulations at 36 CFR Parts 212 and 261, published at 91 FR 54686\u201354691 (August 24, 2026).\n\nII. SPECIFIC CITATIONS AND LEGAL & PROCEDURAL DEFECTS\n\n1. Arbitrary Removal of Minimization Criteria (91 FR 54688\u201354689)\nThe USDA proposes to remove the mandatory 'minimization criteria' currently set forth in 36 CFR \u00a7\u00a7 212.55 and 212.80. Under established case law (e.g., Center for Biological Diversity v. BLM), agencies designating motorized routes must demonstrate how they minimized damage to soil, watershed, vegetation, and wildlife habitats. Removing these criteria violates the Agency's statutory obligation under the Forest Service Organic Act of 1897 (16 U.S.C. \u00a7 551) to preserve national forests from destruction and degradation.\n\n2. Legitimization of Unauthorized Routes via Aerial Imagery (91 FR 54687)\nThe proposal allows 'commonly available public data sets, including aerial imagery' to serve as evidence of existing routes. This framework invites the automatic adoption of thousands of miles of illegal, user-created 'ghost trails,' causing severe fragmentation of core wildlife habitats and increased sediment loading into priority watersheds.\n\n3. Inadequate Public Participation Window (91 FR 54687, 54691)\nProviding only a 30-day comment period for a nationwide overhaul of travel management policy without holding regional scoping meetings violates the spirit and letter of Council on Environmental Quality (CEQ) NEPA regulations (40 CFR \u00a7 1501.9) regarding robust public involvement on major federal actions.\n\nIII. PROPOSED ALTERNATIVE REGULATORY WORDING\n\nTo ensure statutory compliance with the Organic Act and NFMA, the USDA should adopt Alternative Regulatory Wording in the forthcoming proposed rule as follows:\n\n1. Retain the Closed-Unless-Designated-Open Standard (36 CFR \u00a7 212.51):\n'Motor vehicle use on National Forest System lands is prohibited off designated roads, trails, and areas, as identified on authoritative Motor Vehicle Use Maps (MVUMs). No route, trail, or airfield shall be presumed open to motorized use unless specifically designated through site-specific environmental analysis.'\n\n2. Mandatory Inclusion of Minimization Criteria (36 CFR \u00a7 212.55):\n'In designating National Forest System roads, trails, and areas for public motor vehicle use, the responsible official shall apply site-specific data and minimize: (a) damage to soil, watershed, vegetation, and other forest resources; (b) harassment of wildlife and significant disruption of wildlife habitats; and (c) conflicts between motor vehicle use and existing or proposed recreational uses.'\n\n3. Proof of System Routes:\n'Aerial imagery or public GIS datasets alone shall not constitute evidence of legal jurisdiction, rights-of-way, or authorization for motorized use.'\n\nIV. CONCLUSION\nThe Forest Service must maintain science-based travel management that protects natural resources and public safety while accommodating sustainable recreation.",
+      "sponsors": [
+        {
+          "organization_name": "The Wilderness Society",
+          "email_contacts": [
+            "action@tws.org",
+            "policy@tws.org"
+          ],
+          "reason_for_contact": "Leading national public lands advocacy organization with expertise in defending National Forest Management Act and Travel Management Rule regulations."
+        },
+        {
+          "organization_name": "WildEarth Guardians",
+          "email_contacts": [
+            "info@wildearthguardians.org",
+            "publiclands@wildearthguardians.org"
+          ],
+          "reason_for_contact": "Active litigant on motorized access issues, wildlife protection, and enforcement of minimization criteria across Western national forests."
+        },
+        {
+          "organization_name": "Trout Unlimited",
+          "email_contacts": [
+            "monitortu@tu.org",
+            "conservation@tu.org"
+          ],
+          "reason_for_contact": "Focuses on protecting coldwater fisheries and aquatic habitats from unmaintained road runoff, erosion, and stream crossings."
+        },
+        {
+          "organization_name": "Sierra Club Public Lands Program",
+          "email_contacts": [
+            "public.lands@sierraclub.org",
+            "legal.inquiries@sierraclub.org"
+          ],
+          "reason_for_contact": "Grassroots and legal advocacy network focused on preserving quiet recreation opportunities and preventing unauthorized off-road vehicle damage."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8786-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Airbus Helicopters",
+    "link": "https://www.regulations.gov/document/FAA-2026-8786-0001",
+    "posted_date": "2026-08-24 04:00:00+00:00",
+    "comment_end_date": "2026-10-09T03:59:59Z",
+    "processed_at": "2026-08-26T13:00:42.887039",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to supersede Airworthiness Directive (AD) 2025-17-03 for all Airbus Helicopters Model AS332L, AS332L1, AS332L2, and EC225LP helicopters. The proposed rule retains prior requirements to inspect and replace emergency sea anchors while adding a mandatory additional inspection based on European Union Aviation Safety Agency (EASA) AD 2025-0278R1. The rule aims to prevent corrosion-induced failure of the emergency sea anchor pin, which could lead to in-flight release of the anchor, main rotor damage, and catastrophic loss of helicopter control.",
+      "challenges": "1. APA Procedural Defects & Arbitrary Prohibition of Special Flight Permits: Section (j) strictly prohibits Special Flight Permits under 14 CFR 21.197 and 21.199 without providing empirical justification or risk-mitigated options (e.g., single-pilot ferry flights without passengers or un-ballasted sea anchor configurations). For offshore operators in remote maritime environments, grounding aircraft immediately without ferry allowances creates an unreasoned economic and operational burden under the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706(2)(A).\n2. Technical & Scientific Deficiencies: The proposed AD incorporates EASA AD 2025-0278R1 by reference, which relies primarily on visual inspection for pin corrosion. Visual inspections are insufficient to detect subsurface stress-corrosion cracking (SCC) or micro-pitting caused by salt-spray exposure in heavy maritime operating conditions. Without requiring Non-Destructive Testing (NDT) such as Eddy Current or Ultrasonic Inspection, the rule risks failing to detect latent structural integrity loss prior to pin fracture.\n3. Economic Downtime Underestimation: The FAA's economic evaluation accounts only for 2 labor hours ($170) per inspection and $4,833 for part replacement. It completely ignores supply-chain lead times for maritime replacement parts and the substantial revenue loss for offshore support operators during un-serviced downtime in remote offshore stations.",
+      "references": [
+        {
+          "title": "Corrosion Fatigue and Stress Corrosion Cracking in Maritime Helicopter Structural Components",
+          "url": "https://www.sciencedirect.com/journal/international-journal-of-fatigue"
+        },
+        {
+          "title": "Incorporation by Reference and the Administrative Procedure Act: Technical Standards in Federal Rulemaking",
+          "url": "https://www.lawreview.org/administrative-law"
+        },
+        {
+          "title": "FAA Aviation Safety Draft Airworthiness Directives and Special Flight Permit Restrictions Impact Analysis",
+          "url": "https://www.faa.gov/aircraft/safety/airworthiness_directives"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND HELICOPTER OPERATORS\n\nDocket No. FAA-2026-8786; Project Identifier MCAI-2025-01803-R\nAirworthiness Directives: Airbus Helicopters (14 CFR Part 39)\n\nI. INTRODUCTION AND INTEREST OF COMMENTERS\nThe undersigned organizations and aviation safety analysts submit these comments regarding the FAA's Notice of Proposed Rulemaking (NPRM) published at 91 FR 54683 (August 24, 2026). While supporting the agency's imperative to eliminate catastrophic in-flight sea anchor release hazards on Airbus Model AS332 and EC225LP helicopters, we write to address significant technical and procedural flaws in the proposed text.\n\nII. SPECIFIC COMMENTS AND RATIONALE\n\n1. Blanket Prohibition of Special Flight Permits (Page 54686, Section (j))\nRationale: Paragraph (j) explicitly states that 'Special flight permits as described in 14 CFR 21.197 and 21.199, are not allowed.' In maritime and offshore energy support operations, aircraft often undergo routine inspections at remote offshore platforms or unequipped airfields. Restricting ferry permits entirely prevents operators from flying un-passengered, low-risk ferry flights to certified repair stations. The FAA has failed to show why a restricted ferry flight\u2014where the emergency sea anchor is mechanically secured, deactivated, or removed prior to flight\u2014presents an unmanageable safety risk under 14 CFR 21.197. Under the APA, failing to consider less restrictive, safe operational alternatives constitutes arbitrary and capricious decision-making.\n\n2. Reliance on Basic Inspection Methods without Non-Destructive Testing (NDT) Guidelines (Page 54685, Section (g))\nRationale: EASA AD 2025-0278R1 specifies visual inspection for corrosion. Marine sea anchor pins exposed to continuous ocean spray are uniquely vulnerable to intergranular stress corrosion cracking that is undetectable to the naked eye until structural failure occurs. The FAA should mandate high-frequency Eddy Current Inspection (ET) or Ultrasonic Testing (UT) whenever surface micro-pitting is observed.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n\nWe propose revising the draft regulatory text as follows:\n\n1. Amend Paragraph (j) Special Flight Permit (Page 54686):\n'Special flight permits (14 CFR 21.197 and 21.199) may be issued provided that: (1) The flight is a non-revenue ferry flight to a maintenance facility; (2) No passengers are carried; and (3) The emergency sea anchor is either pinned with a secondary mechanical safety lock or deactivated in accordance with FAA-approved maintenance procedures prior to flight.'\n\n2. Amend Paragraph (h) Exceptions to EASA AD 2025-0278R1 (Page 54685):\nAdd subparagraph (h)(5): '(5) Where the service information referenced in EASA AD 2025-0278R1 specifies visual inspection of the emergency sea anchor pin, any evidence of surface pitting or surface discoloration requires an Eddy Current Inspection (ET) to ensure no sub-surface stress corrosion cracking is present prior to returning the pin to service.'\n\nIV. CONCLUSION\nThe FAA should adopt these technical and procedural modifications in the Final Rule to balance high aviation safety standards with operational viability.",
+      "sponsors": [
+        {
+          "organization_name": "Vertical Aviation International (VAI / formerly HAI)",
+          "email_contacts": [
+            "regulatory@verticalavi.org",
+            "advocacy@verticalavi.org"
+          ],
+          "reason_for_contact": "VAI represents international rotorcraft operators and maintains dedicated safety working groups focused on offshore helicopter operations and FAA regulatory compliance."
+        },
+        {
+          "organization_name": "Offshore Operators Committee (OOC)",
+          "email_contacts": [
+            "info@ooc.org",
+            "regulatory@ooc.org"
+          ],
+          "reason_for_contact": "OOC represents energy and support operators in the Gulf of Mexico reliant on heavy helicopter transport (AS332/EC225LP) who are directly impacted by Special Flight Permit bans."
+        },
+        {
+          "organization_name": "Bristow Group Inc.",
+          "email_contacts": [
+            "media@bristowgroup.com",
+            "safety@bristowgroup.com"
+          ],
+          "reason_for_contact": "As one of the largest global operators of Airbus offshore fleet helicopters, Bristow possesses empirical operational maintenance datasets regarding sea anchor pin corrosion."
+        }
+      ]
+    }
+  },
+  {
     "id": "FS_FRDOC_0001-4422",
     "agency": "FS",
     "title": "Environmental Impact Statements; Availability, etc.: Travel Management; National Forest System Lands",
