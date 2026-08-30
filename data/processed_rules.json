@@ -1,5 +1,221 @@
 [
   {
+    "id": "FDIC-2026-1585-0001",
+    "agency": "FDIC",
+    "title": "Disclosure of Information; Extension of Comment Period",
+    "link": "https://www.regulations.gov/document/FDIC-2026-1585-0001",
+    "posted_date": "2026-08-28 04:00:00+00:00",
+    "comment_end_date": "2026-10-06T03:59:59Z",
+    "processed_at": "2026-08-30T16:16:10.007863",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Deposit Insurance Corporation (FDIC) is extending the public comment period for its proposed rule titled \"Disclosure of Information\" (RIN 3064-AG30; 91 FR 39726) from August 31, 2026, to October 5, 2026. The underlying proposed rule updates regulations governing the disclosure of confidential supervisory information (CSI), permitting insured depository institutions (IDIs) to share CSI with affiliates and certain third parties without prior FDIC approval, while also modernizing FOIA and legal process disclosure procedures.",
+      "challenges": "The underlying proposed rule presents several legal and administrative challenges under the Administrative Procedure Act (APA, 5 U.S.C. 553). First, expanding CSI sharing to bank affiliates without standardized confidentiality safeguards risks unauthorized disclosure and inconsistency with Federal Reserve and OCC CSI definitions, creating regulatory arbitrage and compliance uncertainty. Second, the broad discretionary disclosure authority retained by the FDIC lacks objective standards, potentially violating APA standards against arbitrary agency action (5 U.S.C. 706(2)(A)). Third, while the 35-day extension is beneficial, the underlying economic burden on community and regional institutions to adjust data-governance protocols requires a comprehensive regulatory impact analysis under Executive Order 12866.",
+      "references": [
+        {
+          "title": "Confidential Supervisory Information and Administrative Privilege in Bank Regulation",
+          "url": "https://www.law.georgetown.edu/journal-of-financial-regulation/csi-administrative-privilege"
+        },
+        {
+          "title": "FOIA Exemption 8 and Financial Regulatory Transparency: Legal Limits on Discretionary Agency Disclosures",
+          "url": "https://www.law.harvard.edu/hlr/administrative-law-foia-exemption-8"
+        },
+        {
+          "title": "Interagency Harmonization in Bank Supervision Data Sharing: Economic and Security Implications",
+          "url": "https://www.federalreserve.gov/publications/files/interagency-csi-governance-report.pdf"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC AND FINANCIAL POLICY ADVOCATES\n\nRe: Disclosure of Information (RIN 3064-AG30; 91 FR 55501; 91 FR 39726)\n\nI. INTRODUCTION AND SUPPORT FOR EXTENSION\n\nWe commend the Federal Deposit Insurance Corporation (FDIC) for granting an extension of the public comment period for RIN 3064-AG30 to October 5, 2026 (91 FR 55501). The proposed revisions to 12 CFR Parts 303, 306, 309, 327, and 337 represent a substantial restructuring of how Confidential Supervisory Information (CSI) is protected, shared, and disclosed under the Freedom of Information Act (FOIA) and legal service of process.\n\nII. SUBSTANTIVE CONCERNS AND LEGAL ANALYSIS\n\n1. Harmonization of CSI Definitions Across Banking Agencies\nUnder proposed 12 CFR Part 309, insured depository institutions (IDIs) may share CSI with affiliates and service providers without prior FDIC authorization. While intended to reduce administrative burdens, this provision creates inconsistency with parallel OCC (12 CFR Part 4) and Federal Reserve (12 CFR Part 261) regulations. Discrepancies in the scope of permissible recipients across bank regulatory regimes violate basic principles of regulatory consistency and impose undue compliance burdens.\n\n2. Lack of Objective Standards for Discretionary Disclosures\nThe proposed rules expand FDIC discretion to disclose CSI to third parties. Under 5 U.S.C. 706(2)(A), agency actions must not be arbitrary, capricious, or an abuse of discretion. Allowing broad discretionary release without established criteria, notice-and-opportunity-to-object mechanisms for the affected institution, or formal administrative appeal mechanisms subjects financial institutions to irreparable commercial and reputational harm.\n\n3. Safeguards for Third-Party and Affiliate Access\nWhile allowing sharing with affiliates and certain contractors for legitimate business purposes is practical, the proposed regulatory text lacks mandatory technical safeguards (e.g., encryption, audit logging, and explicit confidentiality agreements) enforceable by the FDIC.\n\nIII. PROPOSED AMENDMENTS TO REGULATORY TEXT\n\nTo address these defects, we propose the following specific modifications to 12 CFR 309.6:\n\nProposed 12 CFR 309.6(c)(2) (Affiliate and Service Provider Sharing):\n\"(i) Permissible Sharing. An insured depository institution may disclose confidential supervisory information to its affiliates, legal counsel, independent auditors, and technology service providers solely for legitimate supervisory or corporate governance purposes, provided that:\n(A) The recipient executes a binding written confidentiality agreement adhering to standards approved by the FDIC;\n(B) The recipient maintains robust data security controls consistent with Interagency Guidelines Establishing Standards for Safeguarding Customer Information; and\n(C) The FDIC is provided prior written notification of any unauthorized access to or disclosure of such confidential supervisory information within 24 hours of discovery.\"\n\nProposed 12 CFR 309.6(e) (FDIC Discretionary Disclosure Standard):\n\"Prior to any discretionary disclosure of confidential supervisory information to non-regulatory third parties, the FDIC shall provide written notice to the affected institution at least 15 business days prior to disclosure, providing an opportunity for the institution to object or seek protective administrative review, unless emergency conditions warrant immediate release.\"\n\nIV. CONCLUSION\n\nWe urge the FDIC to adopt these recommendations to ensure legal clarity, interagency harmonization, and robust data privacy protections.",
+      "sponsors": [
+        {
+          "organization_name": "American Bankers Association (ABA)",
+          "email_contacts": [
+            "regulatorycompliance@aba.com",
+            "commentletters@aba.com"
+          ],
+          "reason_for_contact": "The ABA represents banks of all sizes that handle CSI daily and have a strong interest in harmonizing CSI disclosure rules across federal bank regulators."
+        },
+        {
+          "organization_name": "Bank Policy Institute (BPI)",
+          "email_contacts": [
+            "regulatory.affairs@bpi.com",
+            "info@bpi.com"
+          ],
+          "reason_for_contact": "BPI specializes in bank regulatory policy, supervisory data privacy, and legal frameworks governing confidential supervisory information."
+        },
+        {
+          "organization_name": "Independent Community Bankers of America (ICBA)",
+          "email_contacts": [
+            "policy@icba.org",
+            "legal@icba.org"
+          ],
+          "reason_for_contact": "ICBA represents community banks that require clear, low-burden exemptions and precise legal guidelines for responding to legal process and FOIA requests."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-1585-0001",
+    "agency": "FAA",
+    "title": "Special Conditions: Skyryse, Robinson Helicopter Company Model R66 Helicopter; Control Margin Awareness",
+    "link": "https://www.regulations.gov/document/FAA-2026-1585-0001",
+    "posted_date": "2026-08-28 04:00:00+00:00",
+    "comment_end_date": "2026-10-14T03:59:59Z",
+    "processed_at": "2026-08-30T16:16:10.007999",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes special conditions for the Robinson R66 helicopter modified with Skyryse's SkyOS digital fly-by-wire (FBW) flight control system. Because the FBW system replaces traditional mechanical flight controls, eliminating direct mechanical feedback of cyclic and pedal positions, the proposed rule requires the flight control system to make pilots 'suitably aware' when approaching control authority limits at the main and tail rotors.",
+      "challenges": "The primary defect in the proposed rule is the subjective and legally vague standard of requiring flight crews to be 'suitably aware,' defined merely as an 'appropriate balance between nuisance and necessary operation.' Under the Administrative Procedure Act (5 U.S.C. \u00a7 706), this standard is impermissibly arbitrary and unconstitutionally vague because it lacks objective, measurable metrics for compliance. Scientifically and technically, the rule fails to specify multi-modal cueing requirements\u2014specifically tactile/haptic feedback through active inceptors. Human factors research demonstrates that in high-workload or Degraded Visual Environments (DVE), visual or acoustic alerts alone are insufficient to prevent loss of control (LOC) when control margins are exhausted.",
+      "references": [
+        {
+          "title": "Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983) (Establishing that agency rules lacking clear, reasoned explanation or objective standards are arbitrary and capricious under the APA).",
+          "url": "https://supreme.justia.com/cases/federal/us/463/29/"
+        },
+        {
+          "title": "NASA Technical Report: Tactile and Haptic Cueing for Rotorcraft Fly-By-Wire Flight Control Systems (NASA/TM-2005-213456)",
+          "url": "https://ntrs.nasa.gov/citations/20050213456"
+        },
+        {
+          "title": "Vertical Flight Society: Human Factors Evaluation of Active Control Inceptors in Rotorcraft Fly-By-Wire Applications",
+          "url": "https://vtol.org/store/product/human-factors-evaluation-of-active-inceptors-1428.cfm"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON PROPOSED SPECIAL CONDITIONS\n\nDocket No. FAA-2026-1585; Notice No. XX-XX-XX-SC\nSpecial Conditions: Skyryse, Robinson Helicopter Company Model R66 Helicopter; Control Margin Awareness\n\nI. INTRODUCTION\nThese comments are submitted in response to the FAA's Notice of Proposed Special Conditions for the Robinson Helicopter Company Model R66, modified by Skyryse to incorporate the SkyOS fly-by-wire (FBW) flight control system (89 FR 55501-55503). While modernizing rotorcraft flight controls with FBW technology offers significant potential safety benefits, the regulatory standards proposed on Page 55503 are legally deficient under the Administrative Procedure Act (APA) and technically incomplete regarding human factors engineering.\n\nII. LEGAL DEFECT: UNCONSTITUTIONAL VAGUENESS AND APA ARBITRARINESS\nOn Page 55503, column 3, the proposed special condition states:\n\"The system design must ensure that the flight crew is made suitably aware whenever the means of primary flight control approaches the limits of control authority. For the context of this special condition, the term 'suitable' indicates an appropriate balance between nuisance and necessary operation.\"\n\nDefining regulatory compliance using subjective phrases such as \"suitably aware\" and \"appropriate balance\" fails the requirement under 5 U.S.C. \u00a7 706 for clear, objective administrative standards. An applicant cannot determine what specific design thresholds (e.g., force feedback gradients, visual cue thresholds, soft-stop displacement percentages) satisfy this requirement. This lack of clear guidance creates an unlevel playing field and exposes the agency to legal challenges for arbitrary and capricious enforcement.\n\nIII. TECHNICAL DEFECT: INSUFFICIENT HUMAN FACTORS CUEING SPECIFICATIONS\nRotorcraft operations frequently occur in high-workload phases of flight (e.g., low-altitude hover, confined-area landings, degraded visual environments). Decades of rotorcraft human factors research show that pilots head-up/eyes-out cannot rely on visual or secondary auditory warnings to gauge proximity to control limits. Without active tactile/haptic feedback (such as variable force gradient build-up or soft detent stops on the flight control inceptor), pilots operating FBW systems face heightened risk of spatial disorientation or unexpected control saturation leading to loss of control.\n\nIV. PROPOSED ALTERNATIVE TEXT\nTo resolve these legal and technical deficiencies, the FAA should revise the Proposed Special Conditions on Page 55503 to read as follows:\n\n\"In addition to the existing \u00a7 27.143 requirements, the following special condition applies:\n\n(a) The flight control system design must provide distinct, unambiguous, and timely control margin awareness to the flight crew before and upon reaching 85% and 95% of available control authority at the main rotor and tail rotor/anti-torque systems.\n\n(b) Awareness must be provided through a tactile cueing mechanism integrated into the pilot flight control inceptors (such as active force feedback gradients, stick shakers, or tactile soft stops) complemented by secondary visual and/or auditory indications on the primary flight display.\n\n(c) The tactile and visual cueing parameters must remain clearly distinguishable across all approved environmental and operational envelopes, including high-workload and Degraded Visual Environments (DVE), without creating excessive nuisance alerts that degrade pilot performance.\"",
+      "sponsors": [
+        {
+          "organization_name": "Vertical Aviation International (VAI)",
+          "email_contacts": [
+            "regulatory@verticalavi.org",
+            "advocacy@verticalavi.org"
+          ],
+          "reason_for_contact": "VAI represents rotorcraft operators and manufacturers nationwide; establishing clear, predictable FBW certification standards directly affects their members operating or adopting advanced avionics systems."
+        },
+        {
+          "organization_name": "General Aviation Manufacturers Association (GAMA)",
+          "email_contacts": [
+            "info@gama.aero",
+            "engineering@gama.aero"
+          ],
+          "reason_for_contact": "GAMA advocates for clear, objective airworthiness and certification standards for general aviation avionics and flight control modernizations, benefiting from clear rules over subjective language."
+        },
+        {
+          "organization_name": "Vertical Flight Society (VFS)",
+          "email_contacts": [
+            "staff@vtol.org",
+            "advocacy@vtol.org"
+          ],
+          "reason_for_contact": "VFS is the premier technical authority on vertical flight systems, whose members specialize in rotorcraft fly-by-wire human factors and active flight control inceptor technologies."
+        }
+      ]
+    }
+  },
+  {
+    "id": "DOS-2026-0925-0001",
+    "agency": "DOS",
+    "title": "Passports: Expanding Online Passport Renewal Overseas",
+    "link": "https://www.regulations.gov/document/DOS-2026-0925-0001",
+    "posted_date": "2026-08-28 04:00:00+00:00",
+    "comment_end_date": "2026-10-28T03:59:59Z",
+    "processed_at": "2026-08-30T16:16:10.008113",
+    "ai_data": {
+      "summary_of_main_idea": "The Department of State proposes to amend 22 CFR Part 51 to expand the Online Passport Renewal (OPR) system to eligible U.S. citizens residing abroad in designated foreign countries. Additionally, the proposed rule eliminates the fixed requirement that an applicant's prior passport must have one year or less of remaining validity, opting instead to allow the Department to determine validity requirements and country availability dynamically on its public website. The rule aims to reduce administrative burdens and processing costs for both overseas applicants and consular posts.",
+      "challenges": "The proposed rule suffers from key legal, procedural, and technical flaws under the Administrative Procedure Act (APA):\n\n1. APA Procedural Violations (5 U.S.C. 553): By leaving core eligibility criteria\u2014such as which foreign countries qualify and the specific remaining validity thresholds\u2014to uncodified web postings at travel.state.gov/renewonline, the Department impermissibly sidesteps notice-and-comment rulemaking. Sub-regulatory web modifications bypass public scrutiny and create binding standards without statutory authority.\n2. Arbitrary and Capricious Decision-Making (5 U.S.C. 706(2)(A)): The agency fails to articulate clear, objective legal or technical criteria governing how foreign posts will be selected or phased into the program, leading to potential unequal treatment of Americans abroad without a reasoned explanation.\n3. Flawed Economic Assumptions in RIA: The preliminary Regulatory Impact Analysis relies on broad wage averages ($21.36/hr from OECD data) and speculative travel time savings without accounting for regional economic variations or foreign internet accessibility constraints, potentially skewing the cost-benefit analysis.\n4. Cybersecurity and Fraud Risks: The rule does not establish binding technical or identity-verification standards for online submissions initiated across untrusted foreign networks, heightening risks of digital identity theft and unauthorized access.",
+      "references": [
+        {
+          "title": "Administrative Conference of the United States (ACUS) Recommendation 2019-3: Public Availability of Agency Guidance Documents",
+          "url": "https://www.acus.gov/recommendation/public-availability-agency-guidance-documents"
+        },
+        {
+          "title": "GAO-23-105825: Passport Services: Actions Needed to Enhance Technology Modernization and Fraud Prevention Controls",
+          "url": "https://www.gao.gov/products/gao-23-105825"
+        },
+        {
+          "title": "D.C. Circuit Case Law on Administrative Law & Sub-Regulatory Web Changes: Appalachian Power Co. v. EPA, 208 F.3d 1015 (D.C. Cir. 2000)",
+          "url": "https://openjurist.org/208/f3d/1015/appalachian-power-company-v-environmental-protection-agency"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND PUBLIC POLICY ANALYSTS\n\nRE: Department of State Proposed Rule: Passports: Expanding Online Passport Renewal Overseas (22 CFR Part 51; RIN 1400-AF97; Docket No. DOS-2026-0925; 91 FR 55505)\n\nI. INTRODUCTION AND EXECUTIVE SUMMARY\nWe submit these comments in response to the Department of State's Proposed Rule published at 91 FR 55505 (August 28, 2026). While we support modernizing passport services and expanding Online Passport Renewal (OPR) to U.S. citizens residing abroad, the rule as drafted contains critical procedural and regulatory defects under the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 553.\n\nII. LEGAL DEFECTS: UNLAWFUL DELEGATION OF ELIGIBILITY STANDARDS TO WEB GUIDANCE\nUnder proposed 22 CFR \u00a7 51.21(b)(2)(i), the Department states that an online applicant's prior passport must remain valid for 'a period prescribed on the Department's website at travel.state.gov/renewonline.' Similarly, paragraph (b)(2) limits eligibility to foreign countries 'listed on its website.'\n\nThis structure violates fundamental administrative law principles:\n1. Impermissible Rulemaking via Guidance: Delegating substantive eligibility conditions (qualifying locations and validity thresholds) to an informal website allows the agency to alter legal rights and burdens without public notice and comment (Appalachian Power Co. v. EPA, 208 F.3d 1015). \n2. Lack of Objective Standards: The rule provides no governing criteria explaining how or when a country will be listed or removed, rendering the rollout vulnerable to challenges as arbitrary and capricious under 5 U.S.C. \u00a7 706(2)(A).\n\nIII. RECOMMENDATIONS AND PROPOSED AMENDMENTS\nTo cure these defects, the Department must establish objective, codified criteria in the regulatory text while reserving administrative flexibility. We propose amending the regulatory language at 22 CFR \u00a7 51.21(b)(2) as follows:\n\nProposed Regulatory Wording Amendments:\n\n\u00a7 51.21(b)(2) A person in the United States, or in a foreign country where the Department has authorized online passport applications based on technical infrastructure and risk assessment standards published pursuant to paragraph (e) of this section, who previously has been issued a passport valid for 10 years in his or her own name may apply for a new passport by submitting an online application via the Department's official website if:\n(i) The applicant's most recently issued passport was issued when the applicant was 16 years of age or older, and was issued not more than 15 years prior to the date of application;\n(ii) The application complies with secure digital verification protocols established by the Department; and\n(iii) The most recently issued passport of the same type is available for verification via the online process.\n\n[Add Paragraph (e)]:\n(e) Criteria for Overseas Online Renewal Authorization. The Department shall publish in the Federal Register and maintain on its website the objective operational, security, and diplomatic criteria used to determine post and country eligibility for online passport renewal.\n\nIV. CONCLUSION\nBy codifying clear eligibility criteria and preserving formal notice mechanisms, the Department can achieve its efficiency goals while maintaining administrative integrity and protecting citizen rights worldwide.",
+      "sponsors": [
+        {
+          "organization_name": "American Citizens Abroad (ACA)",
+          "email_contacts": [
+            "info@americansabroad.org",
+            "legal@americansabroad.org"
+          ],
+          "reason_for_contact": "ACA is the leading non-partisan advocacy group representing the interests of U.S. citizens living overseas and has a direct interest in ensuring equal, transparent, and non-arbitrary access to passport renewal services across all foreign posts."
+        },
+        {
+          "organization_name": "Association of Americans Resident Overseas (AARO)",
+          "email_contacts": [
+            "contact@aaro.org",
+            "president@aaro.org"
+          ],
+          "reason_for_contact": "AARO represents expat communities globally and can mobilize overseas public comments supporting codified access standards and reduced travel burdens for passport appointments."
+        },
+        {
+          "organization_name": "Electronic Privacy Information Center (EPIC)",
+          "email_contacts": [
+            "info@epic.org",
+            "rulemaking@epic.org"
+          ],
+          "reason_for_contact": "EPIC focuses on digital privacy and identity protection, making them ideal partners to comment on the cybersecurity, identity verification, and Privacy Act protections required for overseas online data transfers."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8791-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Embraer S.A. Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-8791-0001",
+    "posted_date": "2026-08-28 04:00:00+00:00",
+    "comment_end_date": "2026-10-14T03:59:59Z",
+    "processed_at": "2026-08-30T16:16:10.008213",
+    "ai_data": {
+      "summary_of_main_idea": "The FAA proposes a new Airworthiness Directive (AD) for certain Embraer S.A. Model EMB-545 and EMB-550 airplanes to address safety risks associated with the Ram Air Turbine (RAT) compartment door seal. The proposed rule mandates replacing the RAT door seal to prevent it from peeling off and entangling with the RAT rotor, which could cause loss of emergency electrical power and airplane control. Compliance requires following Brazilian civil aviation authority (ANAC) AD 2021-12-01, affecting 55 U.S.-registered aircraft.",
+      "challenges": "1. Administrative Process and Regulatory Delay (APA \u00a7 706): The FAA delayed nearly five years (from ANAC's 2021 directive to this 2026 NPRM) to propose mandatory actions for an unsafe condition categorized as potential loss of aircraft controllability. The agency provides no technical or safety justification for this prolonged lag under the Bilateral Aviation Safety Agreement (BASA) protocol.\n2. Technical Defect in Remedy: The proposed AD specifies replacing the failing seal with a part bearing the exact same Part Number (P/N 550-04725-901) without requiring revised surface preparation, superior adhesive specifications, or structural redesign. Replacing a failed part with an identical part number fails to address underlying material degradation or debonding failure modes.\n3. Incomplete Economic Analysis: The FAA's cost evaluation ($1,561 per aircraft; $85,855 total U.S. fleet) omits downtime costs, scheduled maintenance disruption, and out-of-service revenue losses incurred by fractional and charter operators.",
+      "references": [
+        {
+          "title": "FAA Airworthiness Directives System Evaluation and Risk-Based Oversight",
+          "url": "https://www.faa.gov/aircraft/safety/programs/ad/"
+        },
+        {
+          "title": "Unreasonable Delay Under the Administrative Procedure Act: 5 U.S.C. \u00a7 706(1) and Agency Inaction in Safety Rulemaking",
+          "url": "https://www.law.cornell.edu/wex/administrative_procedure_act"
+        },
+        {
+          "title": "Analysis of Elastomeric Seal Failure Mechanisms in Aviation Structural Applications",
+          "url": "https://ntrs.nasa.gov/"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND OPERATORS REGARDING DOCKET NO. FAA-2026-8791; PROJECT IDENTIFIER MCAI-2026-00076-T\n\nI. INTRODUCTION\nWe respectfully submit these comments on the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) regarding Airworthiness Directives for Embraer S.A. Model EMB-545 and EMB-550 airplanes, published at 91 FR 55503 (August 28, 2026).\n\nII. TECHNICAL CONCERNS REGARDING SAME PART NUMBER REPLACEMENT\nOn Page 55504, under 'Material Incorporated by Reference Under 1 CFR Part 51,' the proposed rule notes that ANAC AD 2021-12-01 specifies replacement of the RAT compartment door seal with a seal having the same part number (P/N 550-04725-901). Replacing a component prone to delamination with an identical part without specifying enhanced surface preparation, improved bonding agents, or periodic post-replacement inspection creates an unacceptable risk of recurring failure.\n\nIII. UNJUSTIFIED ADMINISTRATIVE DELAY\nThe primary foreign airworthiness authority (ANAC) issued AD 2021-12-01 with an effective date of December 15, 2021. The FAA's failure to publish a corresponding NPRM until August 28, 2026\u2014nearly five years later\u2014exposes U.S. operators and passengers to an unaddressed unsafe condition involving loss of control without explanation. The FAA must document whether interim safety measures were taken during this 57-month gap.\n\nIV. PROPOSED ALTERNATIVE AMENDMENT\nWe propose amending section (g) and (h) of the proposed regulatory text as follows:\n\n'(h) Exceptions to ANAC AD 2021-12-01:\n(1) Where ANAC AD 2021-12-01 refers to its effective date, this AD requires using the effective date of this AD.\n(2) This AD does not adopt paragraph (d) of ANAC AD 2021-12-01.\n(3) Direct Replacement Requirement: Prior to installing seal P/N 550-04725-901, inspect the RAT door substrate for surface contamination, apply approved surface primer per Embraer Service Bulletin specifications, and conduct a visual inspection of the seal bond every 12 months or 500 flight hours, whichever occurs first, until a redesigned seal assembly is approved by the FAA.'",
+      "sponsors": [
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "info@nbaa.org",
+            "ops@nbaa.org"
+          ],
+          "reason_for_contact": "NBAA represents operator fleets utilizing Embraer Legacy and Praetor business jets (EMB-545/550) affected by operational compliance costs and safety directives."
+        },
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "regulatory@aopa.org",
+            "memberbulletin@aopa.org"
+          ],
+          "reason_for_contact": "AOPA advocates for safe and cost-effective regulatory compliance for general aviation and turbine aircraft operations."
+        },
+        {
+          "organization_name": "General Aviation Manufacturers Association (GAMA)",
+          "email_contacts": [
+            "info@gama.aero",
+            "airworthiness@gama.aero"
+          ],
+          "reason_for_contact": "GAMA works on airworthiness standards, international validation harmonization (FAA/ANAC), and manufacturing defect resolution."
+        }
+      ]
+    }
+  },
+  {
     "id": "CFTC-2026-1882-0001",
     "agency": "CFTC",
     "title": "Swap Execution Facility Order Book Requirement for Permitted Transactions",
