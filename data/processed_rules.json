@@ -1,5 +1,882 @@
 [
   {
+    "id": "FAA-2026-10990-0001",
+    "agency": "FAA",
+    "title": "Modernizing Medical Standards for Non-Insulin Dependent Diabetes Mellitus Cases",
+    "link": "https://www.regulations.gov/document/FAA-2026-10990-0001",
+    "posted_date": "2026-09-04 04:00:00+00:00",
+    "comment_end_date": "2026-10-06T03:59:59Z",
+    "processed_at": "2026-09-04T16:06:38.060177",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to amend 14 CFR Part 67 (specifically \u00a7\u00a7 67.113(a), 67.213(a), and 67.313(a)) to eliminate the mandatory Special Issuance (SI) process for applicants with non-insulin dependent diabetes mellitus (NIDDM). By removing the phrase 'or any other hypoglycemic drug' from disqualifying general medical standards, the proposed rule allows Aviation Medical Examiners (AMEs) to directly issue unrestricted first-, second-, and third-class medical certificates to qualified applicants whose diabetes is controlled through non-insulin medications. This update aims to align medical certification with modern therapeutic advancements, significantly reduce administrative delays, and alleviate processing backlogs for both airmen and the FAA.",
+      "challenges": "1. Administrative Procedure Act (APA) Procedural Defect: The FAA relies heavily on internal, non-public accident and toxicology data (FAA ToxDB / MANTRA / ToxFlo) to justify its safety determinations under Section IV.B. Failing to disclose the raw data or methodologies in the public docket deprives stakeholders of a meaningful opportunity to comment under 5 U.S.C. 553.\n2. Scientific and Pharmacological Flaws: The rule treats all 'non-insulin hypoglycemic drugs' uniformly, failing to distinguish high-risk secretagogues (such as sulfonylureas and meglitinides, which carry significant risks of sudden, unpredictable hypoglycemia) from low-risk modern therapies (such as GLP-1 receptor agonists, SGLT2 inhibitors, and metformin). Furthermore, the regulatory text fails to mandate objective clinical baselines (e.g., explicit HbA1c caps or continuous glucose monitoring requirements) within Part 67 itself, improperly delegating binding standard-setting to non-binding sub-regulatory AME guidance manuals.\n3. Economic and Cost-Benefit Shortcomings: The Regulatory Impact Analysis completely omits quantitative benefit and cost-savings assessments for Third-Class medical certificate holders (private and student pilots), despite them representing 60% of initial certifications. Additionally, the analysis ignores the administrative burden and liability shifted onto AMEs and treating physicians who must review complex clinical histories without clear codification in the regulation.",
+      "references": [
+        {
+          "title": "Owner-Operator Independent Drivers Ass'n v. FMCSA, 494 F.3d 188 (D.C. Cir. 2007) (Administrative Procedure Act requirement to disclose primary scientific data and models relied upon in rulemaking)",
+          "url": "https://openjurist.org/494/f3d/188/owner-operator-independent-drivers-association-inc-v-federal-motor-carrier-safety-administration"
+        },
+        {
+          "title": "Gregg, E.W., et al., 'Changes in Diabetes-Related Complications in the United States, 1990\u20132010', New England Journal of Medicine, 370(16): 1514\u20131523 (2014)",
+          "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa1310799"
+        },
+        {
+          "title": "American Diabetes Association, 'Standards of Care in Diabetes\u20142024: Pharmacologic Approaches to Glycemic Treatment', Diabetes Care, 47(Suppl. 1): S158\u2013S178 (2024)",
+          "url": "https://diabetesjournals.org/care/article/47/Supplement_1/S158/153952/9-Pharmacologic-Approaches-to-Glycemic-Treatment"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON NOTICE OF PROPOSED RULEMAKING\nDepartment of Transportation \u2014 Federal Aviation Administration\n14 CFR Part 67 [Docket No. FAA-2026-10990; Notice No. 26-15; RIN 2120-AM25]\nModernizing Medical Standards for Non-Insulin Dependent Diabetes Mellitus Cases\n\nI. INTRODUCTION AND STATEMENT OF INTEREST\nThe undersigned submits these comments in response to the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) regarding medical certification standards for Non-Insulin Dependent Diabetes Mellitus (NIDDM). While we strongly support the FAA's initiative to streamline airman medical certification and eliminate redundant administrative burdens associated with Special Issuance (SI) reviews, the rule as proposed contains procedural APA flaws, critical scientific oversights, and inadequate regulatory definitions.\n\nII. PROCEDURAL DEFECT UNDER THE ADMINISTRATIVE PROCEDURE ACT\nIn Section IV.B of the preamble (91 FR 56800), the FAA cites an internal safety analysis of 51 fatal aviation accidents from 2008\u20132025 using the FAA ToxDB databases (MANTRA and ToxFlo). The FAA explicitly acknowledges in footnote 14 that these databases 'are internal data sources... and are not available to the public.' Under the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 553, an agency must disclose the empirical data, methodology, and technical studies upon which it relies to afford the public a meaningful opportunity to comment. See Owner-Operator Indep. Drivers Ass'n v. FMCSA, 494 F.3d 188, 199 (D.C. Cir. 2007). The FAA must release anonymized dataset records for these 51 accident reviews into Docket No. FAA-2026-10990 or extend the public comment period following public disclosure.\n\nIII. SCIENTIFIC AND PHARMACOLOGICAL DEFICIENCIES\n1. Indiscriminate Classification of Hypoglycemic Agents: The proposed amendment indiscriminately removes 'or any other hypoglycemic drug' without differentiating between pharmacological classes. First-generation and second-generation sulfonylureas (e.g., glipizide, glyburide) directly stimulate insulin secretion and carry an established clinical risk of severe, acute hypoglycemia. In contrast, modern antihyperglycemic therapies\u2014such as GLP-1 receptor agonists (e.g., semaglutide), SGLT2 inhibitors (e.g., empagliflozin), and biguanides (metformin)\u2014work via insulin-independent mechanisms with negligible hypoglycemia risks. The FAA must explicitly distinguish between glucose-lowering drugs with high risk of hypoglycemia versus low-risk euglycemic agents in regulatory definitions.\n\n2. Lack of Explicit Standards in Regulatory Text: Relying entirely on sub-regulatory guidance (such as the FAA Guide for Aviation Medical Examiners) to establish clinical eligibility thresholds (e.g., HbA1c < 8.0%, absence of end-organ disease) creates regulatory instability and deprives airmen of due process. Clear baseline clinical criteria for AME issuance should be codified in the regulatory text of Part 67.\n\nIV. PROPOSED AMENDMENTS TO REGULATORY TEXT\nTo resolve these defects, the FAA should revise \u00a7\u00a7 67.113(a), 67.213(a), and 67.313(a) as follows (proposed additions in **bold**):\n\n14 CFR \u00a7 67.113 General medical condition.\n(a) No established medical history or clinical diagnosis of diabetes mellitus that requires:\n  (1) Insulin for control; or\n  (2) Non-insulin hypoglycemic medications with a high risk of induced clinical hypoglycemia (including sulfonylureas and meglitinides), unless evaluated and specifically authorized under \u00a7 67.401.\n(b) An applicant with non-insulin dependent diabetes mellitus controlled solely through diet, exercise, or low-risk antihyperglycemic agents (including GLP-1 receptor agonists, SGLT2 inhibitors, DPP-4 inhibitors, or biguanides) may be issued a medical certificate by an Aviation Medical Examiner provided the applicant presents clinical documentation establishing an HbA1c level equal to or less than 8.0 percent and no evidence of severe hypoglycemic events or advancing end-organ disease within the preceding 12 months.\n\nV. CONCLUSION\nBy incorporating clear pharmacological distinctions into the rule text and placing the underlying toxicology safety data in the public docket, the FAA can achieve its policy goals of administrative efficiency while maintaining the highest standard of safety in the National Airspace System.",
+      "sponsors": [
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "regulatory@aopa.org",
+            "medical@aopa.org"
+          ],
+          "reason_for_contact": "AOPA represents the vast majority of general aviation pilots who currently face extensive delays under the SI process. Sponsoring this comment will advance member interest in securing codified, predictable AME issuance standards while ensuring Third-Class regulatory impacts are fully quantified."
+        },
+        {
+          "organization_name": "Air Line Pilots Association, International (ALPA)",
+          "email_contacts": [
+            "medical@alpa.org",
+            "governmentaffairs@alpa.org"
+          ],
+          "reason_for_contact": "ALPA represents commercial airline pilots holding First-Class medical certificates. Supporting this comment ensures that high-risk sulfonylurea medications are distinguished from modern GLP-1/SGLT2 treatments, protecting commercial flight safety without placing undue administrative holds on well-managed pilots."
+        },
+        {
+          "organization_name": "Civil Aviation Medical Association (CAMA)",
+          "email_contacts": [
+            "info@civilaeromedical.org",
+            "president@civilaeromedical.org"
+          ],
+          "reason_for_contact": "CAMA represents Aviation Medical Examiners who will directly bear the expanded responsibility of evaluating NIDDM cases under general medical standards. They have a direct interest in ensuring regulatory text provides clear, legally binding evaluation criteria to protect AMEs from ambiguous liability."
+        },
+        {
+          "organization_name": "American Diabetes Association (ADA)",
+          "email_contacts": [
+            "legal@diabetes.org",
+            "advocacy@diabetes.org"
+          ],
+          "reason_for_contact": "The ADA actively advocates against outdated regulatory discrimination against individuals with diabetes. Sponsoring this public comment aligns with the ADA's mission to push federal agencies toward modern, individualized, science-based therapeutic standards."
+        }
+      ]
+    }
+  },
+  {
+    "id": "SEC-2026-5516-0001",
+    "agency": "SEC",
+    "title": "Transfer Agent Rules",
+    "link": "https://www.regulations.gov/document/SEC-2026-5516-0001",
+    "posted_date": "2026-09-04 04:00:00+00:00",
+    "comment_end_date": "2026-11-04T04:59:59Z",
+    "processed_at": "2026-09-04T16:06:38.060292",
+    "ai_data": {
+      "summary_of_main_idea": "The Securities and Exchange Commission (SEC) is proposing comprehensive updates to modernize its rules governing registered transfer agents under Parts 240 and 249b of the Exchange Act. The proposed rule shortens routine turnaround times from three business days to one business day (matching T+1 settlement), replaces metric-based performance standards with mandatory written compliance and risk management programs, and updates registration/reporting forms (Form TA-1 and Form TA-2). Additionally, it rescinds long-standing exemptions for small transfer agents and investment funds under Rule 17ad-4, mandates strict 15-day record handover timelines upon agent termination, and establishes standardized procedures for placing and removing restrictive legends.",
+      "challenges": "1. APA Violations & Arbitrary and Capricious Rulemaking: The Commission's proposed rescission of Rule 17ad-4 removes small transfer agent exemptions without providing sufficient empirical cost-benefit justification, failing to account for the catastrophic compliance burden on small non-bank agents in violation of the Administrative Procedure Act (APA) and the Regulatory Flexibility Act.\n2. Ultra Vires Overreach on Contractual Termination (Rule 17ad-7(i)): The proposed mandatory 15-day record delivery requirement upon contract termination interferes with state commercial law and common-law possessory liens used to resolve fee disputes, exceeding the SEC's statutory authority under Section 17A of the Exchange Act.\n3. Technological Incompatibility & Single-Entity Restrictions (Rule 17ad-9(h)): Restricting an issue to strictly 'one recordkeeping transfer agent' directly undermines decentralized ledger, blockchain, and multi-node tokenized security architectures, creating severe market barriers for digital asset innovation.\n4. De Facto Strict Liability Standards (Rule 17ad-2): Transitioning from a 90% operational turnaround threshold to a mandatory 100% written policies and procedures standard exposes transfer agents to enforcement penalties for minor, unavoidable operational delays beyond their control.",
+      "references": [
+        {
+          "title": "Business Roundtable v. SEC, 647 F.3d 1144 (D.C. Cir. 2011) (Holding that SEC rulemakings violate the APA when failing to adequately evaluate economic burdens on small entities)",
+          "url": "https://openjurist.org/647/f3d/1144/business-roundtable-v-securities-and-exchange-commission"
+        },
+        {
+          "title": "Loper Bright Enterprises v. Raimondo, 144 S. Ct. 2244 (2024) (Reclaiming judicial authority to review agency statutory interpretation under Section 706 of the APA)",
+          "url": "https://www.supremecourt.gov/opinions/23pdf/22-451_7648.pdf"
+        },
+        {
+          "title": "Securities Transfer Association (STA) Industry Survey on Transfer Agent Operational Infrastructure and T+1 Settlement Dynamics",
+          "url": "https://www.stai.org/research-and-surveys"
+        },
+        {
+          "title": "SIFMA T+1 Settlement Industry Implementation Progress and Operational Risk Assessment Report",
+          "url": "https://www.sifma.org/resources/general/t1-settlement-industry-implementation-playbook/"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC AND INDUSTRY ADVOCATES REGARDING SEC PROPOSED RULE: TRANSFER AGENT RULES\nFile No. S7-2026-30 | RIN 3235-AL55 | Release No. 34-106246\n\nI. INTRODUCTION\nWe appreciate the opportunity to comment on the Securities and Exchange Commission's (the \"Commission\" or \"SEC\") Proposed Rule on Transfer Agent Rules (Release No. 34-106246). While we support regulatory updates that enhance market infrastructure, several core components of the proposal suffer from critical legal, economic, and technical flaws under the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706, and Section 17A of the Securities Exchange Act of 1934 (the \"Exchange Act\").\n\nII. SPECIFIC LEGAL AND POLICY OBJECTIONS\n\n1. Arbitrary Rescission of Rule 17ad-4 Exemptions for Small Transfer Agents\nThe proposal to rescind Rule 17ad-4 violates the APA because the Commission fails to provide adequate empirical justification or consider less burdensome alternatives for small, non-bank transfer agents servicing thinly traded equity or mutual fund issues. Imposing full annual audit requirements under Rule 17ad-13 ($40,000+ per year) and rigid turnaround policies on entities processing fewer than 500 items per six months will drive small agents out of business, concentrating the market further into the hands of mega-agents.\n\n2. Excessive Statutory Authority in Rule 17ad-7(i) (15-Day Record Delivery Mandate)\nProposed Rule 17ad-7(i) mandates that a terminated transfer agent deliver all issuer records within 15 calendar days, regardless of pending fee disputes or common-law possessory liens recognized under state commercial law. Section 17A of the Exchange Act authorizes the SEC to regulate national clearance and settlement, not to rewrite private contract remedies or state commercial lien laws. Overriding state-law contractual protections without explicit Congressional authorization exceeds statutory authority under Loper Bright Enterprises v. Raimondo, 144 S. Ct. 2244 (2024).\n\n3. Rule 17ad-9(h) Impairs Blockchain and Tokenized Securities Innovation\nProposed Rule 17ad-9(h) specifies that '[t]here can be only one recordkeeping transfer agent for a given issue of securities.' This rigid requirement fails to accommodate multi-node, smart-contract-driven, distributed ledger technology (DLT) where multi-entity validation and co-recordkeeping models enhance clearance resiliency. This restriction is arbitrary and capricious under 5 U.S.C. \u00a7 706(2)(A).\n\n4. Unrealistic T+1 Turnaround Timelines under Rule 17ad-2(a)\nRequiring a strict 1-day turnaround for all routine items, combined with mandatory 1-day written rejection notices under 17ad-2(e)(2), imposes an unworkable standard for physical certificates or complex estate/trust transfers, exposing small agents to severe liability.\n\nIII. PROPOSED AMENDATORY TEXT\n\nTo cure these defects, we urge the Commission to modify the proposed regulatory text as follows:\n\n1. Rule 17ad-4 (Retain Small Agent Exemption):\n'Maintain Rule 17ad-4(b) with an updated threshold of 1,000 items per consecutive six-month period, exempting qualifying small transfer agents from Rule 17ad-13 annual audit requirements.'\n\n2. Rule 17ad-7(i) (Record Delivery Timeline and Fee Dispute Carve-Out):\nAmend proposed Rule 17ad-7(i) to read:\n'(i) Within thirty (30) calendar days of ceasing to perform transfer agent functions for an issue, or upon mutually agreed contractual settlement of outstanding undisputed fees, a registered transfer agent must deliver, provide, or otherwise make available to the issuer or its designee all records required under \u00a7 240.17ad-6(a).'\n\n3. Rule 17ad-9(h) (Accommodating Decentralized Recordkeeping):\nAmend proposed Rule 17ad-9(h) to read:\n'(h) A recordkeeping transfer agent is the registered transfer agent that maintains and updates the master securityholder file for an issue of securities. A primary recordkeeping transfer agent may delegate or share consensus ledger maintenance across distributed ledger node providers or co-transfer agents, provided one designated registered transfer agent retains ultimate supervisory responsibility for compliance.'\n\n4. Rule 17ad-2(e)(2) (Notification Timeline for Rejected Items):\nAmend proposed Rule 17ad-2(e)(2) to read:\n'(2) Within three (3) business days of the day of receipt of any item that is rejected by the transfer agent, the transfer agent shall provide written or electronic notification to the presentor identifying the reasons for rejection.'\n\nIV. CONCLUSION\nThe SEC must revise these rules to prevent market consolidation, preserve legal rights under state commercial law, and support technological innovation in national clearance systems.",
+      "sponsors": [
+        {
+          "organization_name": "Securities Transfer Association, Inc. (STA)",
+          "email_contacts": [
+            "sta@stai.org",
+            "advocacy@stai.org"
+          ],
+          "reason_for_contact": "As the primary professional trade association representing transfer agents, STA is directly impacted by turnaround changes, Form TA-1/TA-2 reporting burdens, and record handover mandates."
+        },
+        {
+          "organization_name": "Securities Industry and Financial Markets Association (SIFMA)",
+          "email_contacts": [
+            "regulatoryaffairs@sifma.org",
+            "info@sifma.org"
+          ],
+          "reason_for_contact": "SIFMA represents broker-dealers, banks, and asset managers who interface directly with transfer agents under T+1, Rule 17ad-17 lost securityholder mandates, and legend removal rules."
+        },
+        {
+          "organization_name": "Small Business Investor Alliance (SBIA)",
+          "email_contacts": [
+            "policy@sbia.org",
+            "info@sbia.org"
+          ],
+          "reason_for_contact": "SBIA represents small business capital markets and smaller market participants disproportionately burdened by the rescission of Rule 17ad-4 small transfer agent exemptions."
+        },
+        {
+          "organization_name": "Digital Chamber (formerly Chamber of Digital Commerce)",
+          "email_contacts": [
+            "policy@digitalchamber.org",
+            "regulatory@digitalchamber.org"
+          ],
+          "reason_for_contact": "The Digital Chamber advocates for blockchain and tokenized asset infrastructure, which is directly threatened by Rule 17ad-9(h)'s single-recordkeeper restriction."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-10543-0001",
+    "agency": "FAA",
+    "title": "Airspace Designations and Reporting Points: Hardy, VA",
+    "link": "https://www.regulations.gov/document/FAA-2026-10543-0001",
+    "posted_date": "2026-09-04 04:00:00+00:00",
+    "comment_end_date": "2026-10-20T03:59:59Z",
+    "processed_at": "2026-09-04T16:06:38.060365",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to establish a new Class E airspace area extending upward from 700 feet above the surface within a 6-mile radius of the Carilion Westlake Center Heliport in Hardy, Virginia. The proposed airspace is intended to support new Instrument Flight Rules (IFR) Special Instrument Approach Procedures (SIAPs) designed for emergency air medical helicopter operations. If finalized, this rule will lower the floor of controlled airspace from 1,200 feet AGL to 700 feet AGL across the 6-mile radius.",
+      "challenges": "The proposed rule suffers from significant administrative, technical, and operational deficiencies. Procedurally, the FAA failed to publish or include the underlying Special Instrument Approach Procedures (SIAPs) or flight track data in the public docket, violating the notice-and-comment requirements of the Administrative Procedure Act (APA, 5 U.S.C. 553) by denying stakeholders the ability to evaluate the necessity of the airspace dimensions. Scientifically and technically, establishing a standard 6-mile circular radius for a helicopter Point-in-Space (PinS) approach is overly broad and inefficient; modern helicopter instrument approaches utilize narrow transition corridors rather than large circular surface-footprint protection. Economically, lowering the controlled airspace floor to 700 feet AGL imposes unanalyzed operational restrictions on local visual flight rules (VFR) general aviation, agricultural aircraft, and low-altitude Unmanned Aircraft Systems (UAS) operators who utilize Class G airspace.",
+      "references": [
+        {
+          "title": "Administrative Law and Technical Information Transparency in Informal Rulemaking (Administrative Law Review)",
+          "url": "https://www.administrativelawreview.org/wp-content/uploads/2021/10/ALR-73-4-02-Shapiro.pdf"
+        },
+        {
+          "title": "FAA Advisory Circular AC 90-80C: Approval of Special Instrument Approach Procedures",
+          "url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_90-80C.pdf"
+        },
+        {
+          "title": "Journal of Air Law and Commerce: Airspace Design and Low-Altitude Helicopter IFR Infrastructure",
+          "url": "https://scholar.smu.org/jalc/vol85/iss3/4/"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES & GENERAL AVIATION STAKEHOLDERS\n\nRe: Docket No. FAA-2026-10543; Airspace Docket No. 26-AEA-14; RIN 2120-AA66\nEstablishment of Class E Airspace Over Hardy, VA (56 FR 56810\u201356811)\n\nI. INTRODUCTION\nThese comments are submitted in response to the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) published at 91 FR 56810 (September 4, 2026), proposing to establish Class E airspace extending upward from 700 feet above the surface within a 6-mile radius of Carilion Westlake Center Heliport, Hardy, VA.\n\nII. PROCEDURAL DEFECT UNDER THE ADMINISTRATIVE PROCEDURE ACT (5 U.S.C. 553)\nThe FAA's proposal relies entirely on the creation of new Special Instrument Approach Procedures (SIAPs) for the Carilion Westlake Center Heliport (91 FR 56810). However, the FAA has failed to include the technical criteria, flight paths, or procedure design charts for these 'Special' SIAPs in the public docket. Under 5 U.S.C. 553(b), an agency must provide sufficient technical data and rationales in the notice to allow meaningful public comment. Special SIAPs are proprietary or non-published procedures; without access to the actual arrival/departure flight corridors, the public cannot evaluate whether a 6-mile circular radius is necessary or excessive.\n\nIII. OVERLY BROAD AIRSPACE DESIGN & FAILURE TO CONSIDER NARROWER CORRIDORS\nStandard FAA airspace design principles for helicopter Point-in-Space (PinS) procedures recommend tailoring controlled airspace to the specific approach and missed approach corridors rather than imposing a blanket 6-mile circular radius (FAA Order 8260.19). Lowering Class G uncontrolled airspace to 700 feet AGL across a broad 6-mile radius unnecessarily compresses Visual Flight Rules (VFR) general aviation traffic and imposes regulatory burdens on low-altitude Unmanned Aircraft System (UAS) operations under 14 CFR Part 107.\n\nIV. PROPOSED ALTERNATIVE TEXT\nThe FAA should revise the airspace designation under Paragraph 6005 to establish a tailored approach corridor rather than a blanket 6-mile radius. The proposed text under 14 CFR Part 71 should be amended as follows:\n\n'AEA VA E5 Hardy, VA [Amended]\nCarilion Westlake Center Heliport, VA\n(Lat. 37\u00b006'58'' N, long. 79\u00b043'05'' W)\n\nThat airspace extending upward from 700 feet above the surface within a 3.5-mile radius of Carilion Westlake Center Heliport, and within 2 miles each side of the 040\u00b0 bearing from the heliport extending from the 3.5-mile radius to 6 miles northeast of the heliport, excluding that airspace within active low-altitude VFR corridors.'",
+      "sponsors": [
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "govtaffairs@aopa.org",
+            "airspace@aopa.org"
+          ],
+          "reason_for_contact": "AOPA advocates for general aviation pilots and routinely opposes unnecessary reductions in Class G uncontrolled airspace that restrict VFR navigation."
+        },
+        {
+          "organization_name": "Vertical Aviation International (VAI / formerly HAI)",
+          "email_contacts": [
+            "operations@verticalavi.org",
+            "regulatory@verticalavi.org"
+          ],
+          "reason_for_contact": "VAI represents rotorcraft operators and supports efficient helicopter IFR infrastructure design that balances air ambulance needs with local airspace accessibility."
+        },
+        {
+          "organization_name": "Commercial Drone Alliance (CDA)",
+          "email_contacts": [
+            "info@commercialdronealliance.org",
+            "policy@commercialdronealliance.org"
+          ],
+          "reason_for_contact": "Lowering Class E airspace floors restricts autonomous drone operations below 400 ft AGL under Part 107, making commercial UAS stakeholders key partners."
+        },
+        {
+          "organization_name": "Virginia Airport Operators Council (VAOC)",
+          "email_contacts": [
+            "info@vaoc.org"
+          ],
+          "reason_for_contact": "Regional Virginia aviation stakeholders have a direct interest in preventing localized airspace congestion around Roanoke and Smith Mountain Lake general aviation traffic zones."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OW-2026-6965-0001",
+    "agency": "EPA",
+    "title": "Updates to the National Pollutant Discharge Elimination System Definitions and Exclusions",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OW-2026-6965-0001",
+    "posted_date": "2026-09-04 04:00:00+00:00",
+    "comment_end_date": "2026-10-20T03:59:59Z",
+    "processed_at": "2026-09-04T16:06:38.060430",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) proposes to amend its Clean Water Act (CWA) National Pollutant Discharge Elimination System (NPDES) regulations at 40 CFR 122.2 and 122.3 to align regulatory definitions with statutory language in CWA Section 502(12)(B). By removing the qualifying phrase 'which is being used as a means of transportation,' the rule excludes unattached vessels and floating craft (such as mobile seafood processing trawlers) operating in the contiguous zone (3-12 miles) and ocean (>12 miles) from requiring NPDES permits. Floating or fixed structures secured to the seabed remain subject to NPDES permitting requirements.",
+      "challenges": "1. Procedural and Legal Defects under the APA: EPA relies on Loper Bright Enters. v. Raimondo (2024) to assert that removing the transportation qualifier reflects the 'best reading' of CWA \u00a7 502(12)(B). However, the agency fails to rationally reconcile this deregulation with the overarching objective of the CWA to eliminate pollutant discharges (33 U.S.C. \u00a7 1251(a)) and creates an arbitrary regulatory gap, as industrial operational wastes (e.g., seafood processing waste) discharged beyond 3 miles will escape NPDES oversight without guaranteed coverage under other statutory frameworks like MPRSA or VIDA.\n2. Economic & Environmental Flaws: The economic analysis focuses on $1.8 million in private compliance and federal administrative cost savings while dismissing environmental degradation as 'potential foregone benefits.' The EPA fails to quantify localized environmental harms, such as benthic hypoxia, pathogen loading, and marine toxicity caused by high-volume seafood processing discharges in ocean waters.\n3. Deficient Information Collection Assessment: Under the Paperwork Reduction Act review (91 FR 56824), EPA reduces respondent monitoring and reporting hours to zero without evaluating the public loss of critical water quality data.",
+      "references": [
+        {
+          "title": "Loper Bright Enterprises v. Raimondo, 603 U.S. 369 (2024)",
+          "url": "https://www.supremecourt.gov/opinions/23pdf/22-451_7648.pdf"
+        },
+        {
+          "title": "Northwest Environmental Advocates v. U.S. Environmental Protection Agency, 537 F.3d 1006 (9th Cir. 2008)",
+          "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2008/07/23/0635661.pdf"
+        },
+        {
+          "title": "EPA Guidelines for Preparing Economic Analyses: Environmental Costs and Unquantified Impacts",
+          "url": "https://www.epa.gov/environmental-economics/guidelines-preparing-economic-analyses"
+        },
+        {
+          "title": "Impacts of Organic Waste Discharges from Seafood Processing Operations on Marine Benthic Ecosystems",
+          "url": "https://www.sciencedirect.com/journal/marine-pollution-bulletin"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC AND ENVIRONMENTAL ADVOCATES ON THE ENVIRONMENTAL PROTECTION AGENCY'S PROPOSED RULE: UPDATES TO THE NATIONAL POLLUTANT DISCHARGE ELIMINATION SYSTEM DEFINITIONS AND EXCLUSIONS\nDocket ID No. EPA-HQ-OW-2026-6965; RIN 2040-AG56\nFederal Register Vol. 91, No. 171 (September 4, 2026), pp. 56819\u201356825\n\nI. INTRODUCTION AND INTEREST OF COMMENTERS\nThe undersigned organizations submit these comments regarding the EPA's proposed rule titled 'Updates to the National Pollutant Discharge Elimination System Definitions and Exclusions.' While we recognize the EPA's attempt to respond to judicial precedents such as Loper Bright Enterprises v. Raimondo, 603 U.S. 369 (2024), we strongly oppose the deregulation of industrial point-source discharges\u2014specifically mobile seafood processing vessels operating in the contiguous zone and ocean waters\u2014from the National Pollutant Discharge Elimination System (NPDES).\n\nII. LEGAL DEFECTS UNDER THE ADMINISTRATIVE PROCEDURE ACT (APA) AND CWA\n1. Misinterpretation of Statutory Context: Under CWA \u00a7 502(12)(B) (33 U.S.C. \u00a7 1362(12)(B)), Congress intended to prevent double regulation of traditional navigation vessels, not to create a blanket regulatory haven for industrial processing facilities operating off-shore. By deleting 'which is being used as a means of transportation' from 40 CFR 122.2(b), EPA expands the exclusion far beyond statutory intent.\n2. Arbitrary Creation of Regulatory Gaps: At 91 FR 56822, EPA acknowledges that activities such as ocean dumping are regulated under MPRSA, OPA, and VIDA. However, operational industrial discharges from mobile seafood processing trawlers are not functionally covered by these statutes, effectively leaving high-volume industrial waste discharges in the contiguous zone entirely unregulated.\n3. Arbitrary Cost-Benefit Analysis: The draft Economic Analysis (91 FR 56820) highlights $1.8 million in private industry cost savings while failing to monetize or adequately evaluate environmental degradation, localized hypoxia, and loss of public water quality data resulting from zero reporting requirements (91 FR 56824).\n\nIII. PROPOSED REGULATORY TEXT REVISIONS\nTo maintain fidelity to the CWA and prevent unmitigated environmental harm, EPA should revise the proposed text at 40 CFR 122.2 and 122.3 as follows:\n\n40 CFR 122.2 Definitions:\n'Discharge of a pollutant means:\n(b) Any addition of any pollutant or combination of pollutants to waters of the \"contiguous zone\" or the ocean from any point source other than a vessel or other floating craft when operating as a means of transportation. Industrial processing facilities, including mobile seafood processing vessels, operating in the contiguous zone or the ocean in a capacity other than primary transportation, shall remain subject to NPDES permitting under Section 402 of the Act.'\n\n40 CFR 122.3 Exclusions:\n'(a) ... Nor shall this exclusion apply to commercial or industrial discharges, including seafood processing waste, generated by floating craft operating in a commercial capacity other than routine navigation in the contiguous zone, territorial seas, or ocean waters.'\n\nIV. CONCLUSION\nEPA should withdraw this proposed rule or amend the text as suggested above to maintain mandatory permitting oversight for mobile offshore industrial processing facilities.",
+      "sponsors": [
+        {
+          "organization_name": "Ocean Conservancy",
+          "email_contacts": [
+            "contacts@oceanconservancy.org",
+            "legal@oceanconservancy.org"
+          ],
+          "reason_for_contact": "Leading advocacy group dedicated to marine protection; directly interested in preventing unpermitted industrial pollution in contiguous zone and ocean ecosystems."
+        },
+        {
+          "organization_name": "Earthjustice",
+          "email_contacts": [
+            "info@earthjustice.org",
+            "ejoffice@earthjustice.org"
+          ],
+          "reason_for_contact": "Public interest legal organization with extensive history litigating Clean Water Act vessel exemptions and administrative rule defects."
+        },
+        {
+          "organization_name": "Natural Resources Defense Council (NRDC)",
+          "email_contacts": [
+            "nrdcinfo@nrdc.org",
+            "water@nrdc.org"
+          ],
+          "reason_for_contact": "National non-profit focused on clean water policy and upholding NPDES permitting standards across ocean waters."
+        },
+        {
+          "organization_name": "Puget Soundkeeper Alliance",
+          "email_contacts": [
+            "info@pugetsoundkeeper.org"
+          ],
+          "reason_for_contact": "Regional water advocate directly affected by EPA Region 10 seafood processing general permits referenced in the proposed rule."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ACF-2026-0661-0002",
+    "agency": "ACF",
+    "title": "Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals",
+    "link": "https://www.regulations.gov/document/ACF-2026-0661-0002",
+    "posted_date": "2026-09-04 04:00:00+00:00",
+    "comment_end_date": "2026-10-06T03:59:59Z",
+    "processed_at": "2026-09-04T16:06:38.060494",
+    "ai_data": {
+      "summary_of_main_idea": "This proposed rule by the Department of Health and Human Services (HHS) removes 45 CFR Part 211 and re-establishes its provisions under a new 45 CFR Part 1390 within Subchapter J. The primary objective is to streamline regulations for the repatriation of mentally ill U.S. nationals following prior regulatory cuts and to correctly attribute oversight to the Office of Human Services Emergency Preparedness and Response (OHSEPR) rather than the Office of Family Assistance.",
+      "challenges": "The proposed rule presents notable legal, procedural, and constitutional issues under the Administrative Procedure Act (APA) and the Fifth Amendment Due Process Clause. Specifically, \u00a7 1390.1(b) permits a non-clinician Department of State official to issue a mental condition certificate certifying that an individual requires mental health care or hospitalization if a qualified mental health professional is 'unavailable.' The rule fails to define 'qualified mental health professional,' sets no objective standard for determining 'unavailability,' and lacks procedural due process safeguards\u2014such as notice, right to counsel, or administrative review\u2014prior to or immediately following temporary hospitalization and care under \u00a7 1390.1(d).",
+      "references": [
+        {
+          "title": "Constitutional Due Process Limits on Emergency Involuntary Commitment and Detention",
+          "url": "https://www.law.georgetown.edu/georgetown-law-journal/"
+        },
+        {
+          "title": "Procedural Vulnerabilities in Federal Repatriation Statutes (24 U.S.C. \u00a7\u00a7 321-329)",
+          "url": "https://www.law.harvard.edu/students/orgs/hlr/"
+        },
+        {
+          "title": "Clinical Assessment Integrity in Federal Emergency Human Services and Repatriation Programs",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC AND DISABILITY RIGHTS ADVOCATES ON THE PROPOSED RULE:\nREDUCING BUREAUCRACY AND BURDEN FOR THE REPATRIATION OF MENTALLY ILL NATIONALS\n45 CFR PARTS 211 AND 1390 / DOCKET NO. ACF-2026-0661 / RIN 0970-AD48\n\nI. INTRODUCTION AND INTEREST OF COMMENTERS\nThe undersigned organizations and administrative law advocates submit these comments regarding the Notice of Proposed Rulemaking (NPRM) published at 91 FR 56826 (September 4, 2026). While we support the agency's goal of streamlining regulations and updating administrative structures under the Office of Human Services Emergency Preparedness and Response (OHSEPR), the rule as drafted creates significant legal and administrative vulnerabilities.\n\nII. SPECIFIC LEGAL AND PROCEDURAL DEFECTS\n1. Absence of Clinical Standards in \u00a7 1390.1(b) (88 FR 56827-56828):\nProposed \u00a7 1390.1(b) allows a Department of State official to certify an individual's mental health status for the purpose of care and hospitalization whenever a qualified mental health professional is 'unavailable.' Substituting non-medical government personnel for certified clinicians to justify mental health care placement violates basic administrative standards and exposes citizens to erroneous deprivations of liberty without adequate clinical justification.\n\n2. Lack of procedural due process safeguards in \u00a7 1390.1(c)-(d) (88 FR 56827-56828):\nSection 1390.1(d) outlines temporary care, treatment, and hospitalization. However, the rule provides no procedural framework for obtaining informed consent, providing prompt notice of legal rights, appointing legal representation, or facilitating administrative review for individuals subjected to involuntary temporary hospitalization upon arrival at a U.S. port of entry.\n\n3. Arbitrary and Capricious Failure to Define Terms under the APA (5 U.S.C. \u00a7 706):\nThe agency fails to define key statutory and regulatory terms, including 'qualified mental health professional' and 'unavailability.' Leaving these terms undefined creates arbitrary implementation across different ports of entry and state jurisdictions.\n\nIII. PROPOSED AMENDMENTS TO REGULATORY TEXT\nTo resolve these legal and procedural deficiencies, HHS should amend proposed 45 CFR \u00a7 1390.1 as follows:\n\n1. Amend \u00a7 1390.1(b) to read:\n'(b) Appropriate authority or person. For paragraph (a)(2)(ii), an appropriate authority or person is a licensed physician, psychiatrist, or qualified mental health professional credentialed under applicable state or federal law. A Department of State official may only transmit existing clinical documentation and shall not issue a mental condition certificate in lieu of a qualified mental health professional.'\n\n2. Add paragraph \u00a7 1390.1(e) to read:\n'(e) Due process safeguards and voluntary consent. All temporary care, treatment, and hospitalization provided under this section shall be conducted with the informed consent of the individual or their lawful legal guardian. If temporary emergency hospitalization is required under applicable federal or state emergency procedures, the agency shall ensure the individual receives written notice of rights, access to independent legal counsel, and prompt administrative or judicial review within 48 hours of arrival at the destination facility.'",
+      "sponsors": [
+        {
+          "organization_name": "Bazelon Center for Mental Health Law",
+          "email_contacts": [
+            "legal@bazelon.org",
+            "policy@bazelon.org"
+          ],
+          "reason_for_contact": "Leading advocacy group specializing in constitutional due process rights and legal protections for individuals with mental health conditions."
+        },
+        {
+          "organization_name": "American Civil Liberties Union (ACLU) - Disability Rights Program",
+          "email_contacts": [
+            "disability@aclu.org",
+            "info@aclu.org"
+          ],
+          "reason_for_contact": "Key litigant and advocate regarding constitutional civil liberties, civil commitment, and due process issues under federal law."
+        },
+        {
+          "organization_name": "National Disability Rights Network (NDRN)",
+          "email_contacts": [
+            "info@ndrn.org",
+            "policy@ndrn.org"
+          ],
+          "reason_for_contact": "Federally mandated Protection and Advocacy (P&A) system network providing legal representation to individuals facing institutionalization or civil commitment."
+        },
+        {
+          "organization_name": "National Alliance on Mental Illness (NAMI)",
+          "email_contacts": [
+            "policy@nami.org",
+            "legal@nami.org"
+          ],
+          "reason_for_contact": "Major grassroots advocacy organization focusing on policy standards, treatment access, and rights of individuals with severe mental illness."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-10544-0001",
+    "agency": "FAA",
+    "title": "Airspace Designations and Reporting Points: Lexington, VA",
+    "link": "https://www.regulations.gov/document/FAA-2026-10544-0001",
+    "posted_date": "2026-09-04 04:00:00+00:00",
+    "comment_end_date": "2026-10-20T03:59:59Z",
+    "processed_at": "2026-09-04T16:06:38.060551",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to establish a new Class E airspace area extending upward from 700 feet above the surface within a 6-mile radius of the Carilion Rockbridge Community Hospital Heliport in Lexington, VA. This designation is intended to provide controlled airspace necessary to support new Special Instrument Approach Procedures (SIAPs) and Instrument Flight Rules (IFR) helicopter operations serving the medical facility. The rule aims to enhance aeronautical safety and efficiency for air ambulance transport in the region.",
+      "challenges": "The proposed rule exhibits several key administrative, technical, and legal weaknesses: 1) APA Procedural Defect: The FAA relies on 'Special Instrument Approach Procedures' (SIAPs) that are not made available in the public docket for review, violating the notice-and-comment requirements of 5 U.S.C. \u00a7 553 by withholding the underlying technical data necessary to evaluate whether a full 6-mile radius is required. 2) Overbroad Airspace Designation: Extending Class E controlled airspace down to 700 feet AGL across a full 6-mile circular radius may unnecessarily restrict or burden Visual Flight Rules (VFR) general aviation, agricultural, and Unmanned Aircraft System (UAS) operations in surrounding rural terrain where a point-in-space (PinS) approach corridor would suffice. 3) Regulatory Flexibility Act (RFA) Deficiency: The FAA's certification of 'de minimis' economic impact lacks quantitative empirical analysis evaluating the local general aviation sector or flight rerouting impacts in the Lexington/Rockbridge County area.",
+      "references": [
+        {
+          "title": "FAA Order JO 7400.2P: Procedures for Handling Airspace Matters",
+          "url": "https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7400.2"
+        },
+        {
+          "title": "AOPA Advocacy: Airspace Designations and VFR Operational Considerations",
+          "url": "https://www.aopa.org/advocacy/air-traffic-and-flight-ops/airspace"
+        },
+        {
+          "title": "GAO-23-105822: Airspace Management - Actions Needed to Better Integration Low-Altitude Air Traffic",
+          "url": "https://www.gao.gov/products/gao-23-105822"
+        },
+        {
+          "title": "Administrative Procedure Act Standards for Notice and Comment under 5 U.S.C. 553 (Legal Information Institute)",
+          "url": "https://www.law.cornell.edu/uscode/text/5/553"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND GENERAL AVIATION STAKEHOLDERS\n\nRe: Docket No. FAA-2026-10544; Airspace Docket No. 26-AEA-15\nNotice of Proposed Rulemaking: Establishment of Class E Airspace Over Lexington, VA (91 FR 56809-56810, Sept. 4, 2026)\n\nI. INTRODUCTION\nThe undersigned submit these comments regarding the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) to establish Class E airspace extending upward from 700 feet AGL within a 6-mile radius of Carilion Rockbridge Community Hospital Heliport in Lexington, VA.\n\nWhile supporting emergency medical helicopter operations and IFR flight safety, we urge the FAA to address procedural deficiencies under the Administrative Procedure Act (APA) and reconsider the overbroad geographic extent of the proposed airspace designation.\n\nII. PROCEDURAL DEFICIENCIES UNDER THE APA (5 U.S.C. \u00a7 553)\nThe FAA's justification relies entirely on newly established Special Instrument Approach Procedures (SIAPs). However, the specific flight tracks, obstacle clearance profiles, and technical parameters of these SIAPs were not published in the public docket (Docket No. FAA-2026-10544). Under 5 U.S.C. \u00a7 553, meaningful opportunity to comment requires agencies to disclose the technical data and methodologies upon which proposed rules depend. Without public disclosure of the SIAPs, general aviation stakeholders cannot evaluate whether a 6-mile radius is technically necessary or if a narrower approach/departure corridor would provide equivalent safety.\n\nIII. RECOMMENDATION FOR TAILORED AIRSPACE DESIGNATION\nA standard 6-mile radius from the hospital heliport creates 113 square miles of Class E controlled airspace down to 700 feet AGL. In local rural terrain, this lowering of controlled airspace impacts VFR general aviation traffic and local agricultural aviation. Rather than a blanket circular radius, the FAA should evaluate establishing a Point-in-Space (PinS) approach route or tailored transition corridor under FAA Order JO 7400.2, minimizing controlled airspace volume while maintaining full protection for IFR medical transport aircraft.\n\nIV. PROPOSED ALTERNATIVE REGULATORY WORDING\nWe propose amending the designation in 14 CFR Part 71 under Paragraph 6005 to read as follows:\n\n\"AEA VA E5 Lexington, VA [New]\nCarilion Rockbridge Community Hospital Heliport, VA\n(Lat. 37\u00b046'46'' N, long. 79\u00b026'28'' W)\n\nThat airspace extending upward from 700 feet above the surface within a 4-mile radius of Carilion Rockbridge Community Hospital Heliport, and within 2 miles each side of the 040\u00b0 bearing from the heliport extending from the 4-mile radius to 6 miles northeast of the heliport, excluding that airspace within existing controlled airspace limits.\"\n\nCONCLUSION\nWe respectfully request that the FAA publish the underlying SIAPs in the docket, grant a 30-day comment extension, and consider adopting a tailored corridor approach to preserve non-controlled airspace access for general aviation.",
+      "sponsors": [
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "govtrelations@aopa.org",
+            "regulatory@aopa.org"
+          ],
+          "reason_for_contact": "AOPA advocates for preserving general aviation access and preventing unnecessary expansions of controlled low-altitude airspace that burden VFR pilots."
+        },
+        {
+          "organization_name": "Vertical Aviation International (VAI)",
+          "email_contacts": [
+            "operations@verticalavi.org",
+            "regulatory@verticalavi.org"
+          ],
+          "reason_for_contact": "VAI represents rotorcraft and air ambulance operators and can provide expert input on optimizing helicopter IFR procedures and Class E boundaries."
+        },
+        {
+          "organization_name": "Experimental Aircraft Association (EAA)",
+          "email_contacts": [
+            "govt@eaa.org"
+          ],
+          "reason_for_contact": "EAA represents recreational flight and general aviation pilots who may operate under VFR in the Rockbridge County region near 700 feet AGL."
+        },
+        {
+          "organization_name": "Virginia Aviation Association (VAA)",
+          "email_contacts": [
+            "info@virginiaaviation.org"
+          ],
+          "reason_for_contact": "VAA represents statewide aviation interests in Virginia and can mobilize local pilots and airport managers affected by airspace updates."
+        }
+      ]
+    }
+  },
+  {
+    "id": "ACF-2026-0661-0001",
+    "agency": "ACF",
+    "title": "RIN0970-AD48_ReducingBuracracyBurdenRepatriationMentiallyIllNationals",
+    "link": "https://www.regulations.gov/document/ACF-2026-0661-0001",
+    "posted_date": "2026-09-04 04:00:00+00:00",
+    "comment_end_date": "2026-10-06T03:59:59Z",
+    "processed_at": "2026-09-04T16:06:38.060615",
+    "ai_data": {
+      "summary_of_main_idea": "The Department of Health and Human Services (HHS) Administration for Children and Families (ACF) proposes to remove 45 CFR Part 211 and renumber its remaining regulations under a newly created 45 CFR Part 1390 (Subchapter J). The proposed rule consolidates the streamlined operational provisions for the repatriation of mentally ill U.S. nationals into a single section (\u00a7 1390.1) and updates organizational references to reflect oversight by the Office of Human Services Emergency Preparedness and Response (OHSEPR) rather than the Office of Family Assistance.",
+      "challenges": "The proposed rule suffers from significant administrative law, procedural due process, and regulatory design defects. First, under the Administrative Procedure Act (5 U.S.C. 706), HHS fails to provide adequate reasoned decision-making regarding how the removal of 13 statutory/regulatory sections under prior rulemaking (91 FR 36542) impacts constitutional due process protections for individuals who are involuntarily detained, transported, or hospitalized upon return to the United States under 24 U.S.C. 321-329. Second, proposed \u00a7 1390.1(a)(2)(i) retains outdated, stigmatizing terminology ('legally adjudged insane') without defining modern psychiatric standards or establishing procedural checks for foreign adjudication validity. Third, \u00a7 1390.1(b) permits State Department officials to certify mental health conditions when a qualified professional is unavailable, yet sets no objective criteria, standard of evidence, or time limit for such non-clinical determinations, creating an undue risk of arbitrary deprivation of liberty.",
+      "references": [
+        {
+          "title": "Addington v. Texas, 441 U.S. 418 (1979) (Establishing Clear and Convincing Standard of Proof for Involuntary Civil Commitment)",
+          "url": "https://supreme.justia.com/cases/federal/us/441/418/"
+        },
+        {
+          "title": "Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983) (APA Requirement for Reasoned Decision-Making)",
+          "url": "https://supreme.justia.com/cases/federal/us/463/29/"
+        },
+        {
+          "title": "Bazelon Center for Mental Health Law \u2014 Position Statement on Due Process and Involuntary Care Protections",
+          "url": "https://www.bazelon.org/our-work/mental-health-rights/"
+        },
+        {
+          "title": "National Council on Disability \u2014 Mental Health and Civil Rights Standards in Federal Programs",
+          "url": "https://ncd.gov/publications/"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON PROPOSED RULEMAKING\nDepartment of Health and Human Services\nAdministration for Children and Families\n45 CFR Parts 211 and 1390 | Docket No. ACF-2026-0661 | RIN 0970-AD48\n'Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals'\n\nI. INTRODUCTION\nThese comments are submitted in response to the Notice of Proposed Rulemaking (NPRM) published by the Administration for Children and Families (ACF) on September 4, 2026 (91 FR 56826\u201356828). While streamlining regulatory code and accurately reflecting agency oversight under the Office of Human Services Emergency Preparedness and Response (OHSEPR) are constructive administrative goals, the proposed text of 45 CFR \u00a7 1390.1 creates substantial procedural due process vulnerabilities and lacks vital clinical safeguards.\n\nII. SPECIFIC LEGAL AND PROCEDURAL DEFECTS\n\n1. Outdated Legal Terminology and Violation of Due Process (\u00a7 1390.1(a)(2)(i), 91 FR 56827):\nProposed \u00a7 1390.1(a)(2)(i) authorizes repatriation eligibility based on a certificate stating an individual has been 'legally adjudged insane in a specified foreign country.' The term 'insane' is medically obsolete and legally imprecise. Furthermore, foreign judicial proceedings may lack basic due process guarantees comparable to Fifth Amendment protections. Accepting foreign adjudications of mental incapacity without requiring a contemporaneous clinical assessment upon re-entry compromises individual liberty and constitutional protections established in Addington v. Texas, 441 U.S. 418 (1979).\n\n2. Unchecked Non-Clinical Authority (\u00a7 1390.1(b), 91 FR 56827):\nProposed \u00a7 1390.1(b) allows an authorized Department of State official to execute a mental condition certificate when a qualified mental health professional is unavailable. Granting non-clinicians unguided authority to certify mental conditions\u2014without defining mandatory criteria, exigency limits, or a maximum time frame before a formal clinical evaluation must occur\u2014violates APA standards requiring rational and non-arbitrary administrative procedures.\n\n3. Lack of Timeframe and Due Process Protections for Temporary Care and Hospitalization (\u00a7 1390.1(c)\u2013(d), 91 FR 56827\u201356828):\nProposed \u00a7 1390.1(d) mandates that the agency provide temporary care, treatment, and hospitalization in the 'nearest suitable hospital.' However, the rule omits any statutory time limit for 'temporary' care, explicit rights to legal counsel, or notice of administrative remedies/appeals for individuals detained against their preference.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\nTo resolve these legal and clinical defects, HHS should revise proposed \u00a7 1390.1 to read as follows:\n\n'\u00a7 1390.1 General.\n(a) Required certificates. To establish eligibility, the following certificates are required:\n  (1) Nationality certificate. A certificate issued by an authorized Department of State official stating that the individual is a United States national.\n  (2) Mental condition certificate. Either:\n    (i) A certificate obtained or transmitted by an authorized Department of State official indicating that the individual has been adjudicated as lacking mental capacity or requiring involuntary psychiatric care under the laws of a specified foreign country, accompanied by a modern clinical evaluation where available; or\n    (ii) A certificate from a qualified mental health professional stating that the individual was in a specified foreign country and requires acute mental health care and treatment.\n(b) Appropriate authority or person. For paragraph (a)(2)(ii), an appropriate authority or person is a qualified mental health professional. If emergency circumstances prevent immediate evaluation by a qualified mental health professional, an authorized Department of State official may issue a temporary 72-hour provisional certification detailing the specific reasons why a professional was unavailable. A comprehensive clinical assessment by a qualified U.S. mental health professional must occur within 24 hours of arrival at the port of entry.\n(c) Reception and temporary assistance. Upon arrival at the port of entry, the agency shall meet the individual, inform them of their rights in accessible language, arrange an immediate medical examination, and plan needed voluntary temporary care and treatment in consultation with the individual, their chosen advocate, legal guardian, or other designated representatives.\n(d) Temporary care, treatment, and protections. The agency shall provide voluntary temporary care, treatment, and assistance necessary for the individual\u2019s health and welfare, including hospitalization, medical care, transportation, and legal advocacy assistance. Hospitalization or involuntary detention shall not exceed 72 hours without judicial oversight or formal commitment proceedings conducted in accordance with applicable state and federal constitutional due process requirements.'\n\nIV. CONCLUSION\nACF must ensure that regulatory streamlining does not diminish substantive constitutional rights. Implementing these modifications will satisfy administrative requirements while safeguarding civil rights.",
+      "sponsors": [
+        {
+          "organization_name": "Bazelon Center for Mental Health Law",
+          "email_contacts": [
+            "legal@bazelon.org",
+            "advocacy@bazelon.org"
+          ],
+          "reason_for_contact": "Leading national legal advocacy organization specializing in defending the civil rights and due process protections of individuals with mental disabilities."
+        },
+        {
+          "organization_name": "Disability Rights Education and Defense Fund (DREDF)",
+          "email_contacts": [
+            "info@dredf.org",
+            "policy@dredf.org"
+          ],
+          "reason_for_contact": "Prominent disability rights policy organization capable of mobilizing public comments and mounting legal challenges against inadequate civil rights protections."
+        },
+        {
+          "organization_name": "American Civil Liberties Union (ACLU) - Disability Rights Program",
+          "email_contacts": [
+            "drp@aclu.org",
+            "media@aclu.org"
+          ],
+          "reason_for_contact": "Expertise in federal administrative law, Fifth Amendment due process claims, and civil liberties regarding involuntary detention and state commitments."
+        },
+        {
+          "organization_name": "National Association for Rights Protection and Advocacy (NARPA)",
+          "email_contacts": [
+            "narpa@narpa.org",
+            "board@narpa.org"
+          ],
+          "reason_for_contact": "Focuses specifically on protecting the legal rights of psychiatric recipients and individuals facing involuntary mental health care."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FCC-2026-3466-0001",
+    "agency": "FCC",
+    "title": "Television Broadcasting Services: Colusa, CA",
+    "link": "https://www.regulations.gov/document/FCC-2026-3466-0001",
+    "posted_date": "2026-09-03 04:00:00+00:00",
+    "comment_end_date": "2026-10-20T03:59:59Z",
+    "processed_at": "2026-09-04T16:06:38.060682",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Communications Commission (FCC) proposes to amend the Digital Television Table of Allotments (47 CFR 73.622(j)) by substituting UHF Channel *14 for Low-VHF Channel *2 for noncommercial educational station KEDS(TV) in Colusa, California. Initiated by licensee One Ministries, Inc., the rule aims to eliminate severe indoor antenna reception defects and RF noise interference inherent to Low-VHF channels. The proposed modification intends to ensure enhanced over-the-air digital broadcasting and full principal community coverage for viewers in Colusa.",
+      "challenges": "1. Adjacent-Band Land Mobile Interference: TV Channel 14 (470\u2013476 MHz) directly abuts land mobile radio (LMR) frequencies (including public safety and commercial spectrum). Channel 14 operations carry a heightened risk of transmitter intermodulation and receiver overload interference with land mobile communications unless strict filter installation and joint engineering coordination are mandated.\n2. Potential Loss of Geographic Coverage: Low-VHF channels (Channel 2) possess broad propagation characteristics covering vast geographic distances. Transitioning to UHF Channel *14 will inherently contract the overall signal footprint, which may result in net service loss for peripheral rural populations outside Colusa, raising unaddressed equity and service loss concerns under FCC precedent.\n3. Procedural Sufficiency Under the APA: The Notice relies heavily on the petitioner's initial engineering statement without demonstrating an independent agency assessment of potential intermodulation or peripheral coverage loss, risking arbitrary and capricious review under 5 U.S.C. 706(2)(A).",
+      "references": [
+        {
+          "title": "FCC Office of Engineering and Technology: Land Mobile / TV Channel 14 Protection Criteria and Intermodulation Standards",
+          "url": "https://www.fcc.gov/engineering-technology/electromagnetic-compatibility-division/general/land-mobile-tv-channel-14"
+        },
+        {
+          "title": "IEEE Transactions on Broadcasting: Empirical Analysis of VHF to UHF Digital Television Signal Propagation and Indoor Antenna Performance",
+          "url": "https://ieeexplore.ieee.org/document/4683251"
+        },
+        {
+          "title": "Federal Communications Law Journal: Regulatory Dilemmas in DTV Allotments and Population Loss Assessment",
+          "url": "https://www.fclj.org/wp-content/uploads/2020/09/72.3.4-DTV-Allotments.pdf"
+        }
+      ],
+      "proposed_comment": "BEFORE THE\nFEDERAL COMMUNICATIONS COMMISSION\nWASHINGTON, DC 20554\n\nIn the Matter of )\nTelevision Broadcasting Services ) MB Docket No. 26-234\n(Colusa, California) ) RM-12026\n\nCOMMENTS OF CIVIC ADVOCATES AND PUBLIC INTEREST STAKEHOLDERS\n\nI. INTRODUCTION\nInterested civic advocates and broadcast consumer representatives hereby submit these comments in response to the Notice of Proposed Rulemaking (NPRM) published at 91 FR 56605 (September 3, 2026), regarding the proposed substitution of Channel *14 for Channel *2 at Colusa, California, for station KEDS(TV).\n\nII. TECHNICAL CONCERNS REGARDING CHANNEL 14 AND SERVICE LOSS\nWhile the goal of improving indoor reception for KEDS(TV) is commendable given the known limitations of Low-VHF digital signals, two primary issues require Commission resolution prior to adopting a final rule:\n\n1. Land Mobile Protection (47 CFR 73.687 / 90.303): UHF Channel 14 lies adjacent to land mobile radio frequencies. Operation on Channel *14 creates a recognized hazard of intermodulation interference to land mobile and public safety networks. The Commission must condition any grant on KEDS(TV) installing appropriate mask filtering and resolving all verified land mobile interference complaints.\n\n2. Service Loss Area Analysis: A shift from Channel *2 to Channel *14 reduces total propagation area. The Commission must ensure that no rural population suffers a net loss of over-the-air noncommercial educational service without adequate mitigation or replacement signals.\n\nIII. PROPOSED ALTERNATIVE TEXT AND CONDITIONAL LANGUAGE\nWe propose amending the proposed regulation text in 47 CFR 73.622(j) to include explicit engineering conditions in the final order, as follows:\n\n\"Sec. 73.622 Digital television table of allotments.\n(j) California: Colusa, Channel *14.\n* * * * *\nCondition of Allocation: Operation on Channel *14 at Colusa, CA, is subject to the condition that the licensee satisfy all technical requirements regarding protection of Land Mobile Radio services pursuant to 47 CFR 73.687(e), perform field strength testing prior to program test authority, and install necessary emission masks or filtering to prevent interference to adjacent spectrum users.\"\n\nRespectfully submitted,\n/s/ Civic Advocacy & Policy Group\nDates: October 5, 2026",
+      "sponsors": [
+        {
+          "organization_name": "Land Mobile Communications Council (LMCC)",
+          "email_contacts": [
+            "info@lmcc.org",
+            "regulatory@lmcc.org"
+          ],
+          "reason_for_contact": "LMCC represents land mobile frequency coordinators who need to ensure that new Channel 14 TV allotments do not disrupt adjacent public safety and commercial land mobile radio services."
+        },
+        {
+          "organization_name": "Association of Public-Safety Communications Officials (APCO International)",
+          "email_contacts": [
+            "gr@apcointl.org",
+            "regulatory@apcointl.org"
+          ],
+          "reason_for_contact": "APCO protects public safety communications and has a direct regulatory interest in preventing adjacent-channel intermodulation interference from Channel 14 TV transmitters."
+        },
+        {
+          "organization_name": "California Public Interest Research Group (CALPIRG)",
+          "email_contacts": [
+            "info@calpirg.org",
+            "advocate@calpirg.org"
+          ],
+          "reason_for_contact": "CALPIRG advocates for broad public access to educational media and over-the-air broadcasting, ensuring rural viewers in Northern California do not suffer net service loss."
+        }
+      ]
+    }
+  },
+  {
+    "id": "CPSC-2023-0004-0116",
+    "agency": "CPSC",
+    "title": "Voluntary Standard: Products Containing Button Cell or Coin Batteries",
+    "link": "https://www.regulations.gov/document/CPSC-2023-0004-0116",
+    "posted_date": "2026-09-03 04:00:00+00:00",
+    "comment_end_date": "2026-09-18T03:59:59Z",
+    "processed_at": "2026-09-04T16:06:38.060735",
+    "ai_data": {
+      "summary_of_main_idea": "The Consumer Product Safety Commission (CPSC) is soliciting public comments to determine whether UL's revised voluntary standard, UL 4200A-2026, improves the safety of consumer products containing button cell or coin batteries. Under Reese's Law (15 U.S.C. 2056e), if CPSC does not determine within 90 days that the revision fails to improve safety, UL 4200A-2026 will automatically replace the current mandatory standard (UL 4200A-2023) codified at 16 CFR Part 1263.",
+      "challenges": "1. Procedural APA Defect: The 14-day comment window provides insufficient time for stakeholders to thoroughly review, test, and comment on complex technical revisions, potentially violating the Administrative Procedure Act (5 U.S.C. 553).\n2. Read-Only Standard Accessibility Barrier: Relying on copyright-restricted, read-only online viewing platforms hampers technical analysis, public participation, and open governance principles governing incorporated-by-reference federal regulations.\n3. Evidentiary Standard under Reese's Law \u00a7 2(f): CPSC must affirmatively establish whether UL 4200A-2026 improves safety relative to UL 4200A-2023. If any provisions weaken battery compartment accessibility, abuse testing, or warning label requirements, automatic adoption would violate the statutory mandate to reduce pediatric ingestion risks.",
+      "references": [
+        {
+          "title": "Pediatric Button Battery Ingestions: 30-Year Analysis of Incidence and Outcomes (Pediatrics)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20513720/"
+        },
+        {
+          "title": "American Society for Testing and Materials v. Public.Resource.Org, Inc., 896 F.3d 437 (D.C. Cir. 2018) (Fair Use and Access to Incorporated Standards)",
+          "url": "https://openjurist.org/896/f3d/437/american-society-for-testing-and-materials-v-publicresourceorg-inc"
+        },
+        {
+          "title": "National Capital Poison Center: Button Battery Ingestion Triage and Management Protocol",
+          "url": "https://www.poison.org/battery/guidelines"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND SAFETY RESEARCHERS\n\nDocket No. CPSC-2023-0004\n16 CFR Part 1263: Safety Standard for Button Cell or Coin Batteries and Consumer Products Containing Such Products\n\nI. INTRODUCTION & EXECUTIVE SUMMARY\nOn September 3, 2026, the Consumer Product Safety Commission (CPSC) published a Notice of Availability and Request for Comment (91 FR 56604-56605) regarding the revised voluntary standard UL 4200A-2026. Under Section 2(f) of Reese's Law (15 U.S.C. 2056e(f)), CPSC must evaluate whether UL 4200A-2026 improves the safety of consumer products containing button cell or coin batteries. We submit these comments to urge CPSC to perform a rigorous technical comparison between UL 4200A-2023 and UL 4200A-2026 before permitting the revision to take effect.\n\nII. PROCEDURAL AND ACCESS CONCERNS\n1. Abbreviated Comment Period: The 14-day comment deadline (ending September 17, 2026) imposes an extreme procedural limitation on consumer groups, independent laboratories, and manufacturers seeking to perform empirical stress testing or statutory evaluations of the revised standard.\n2. Incorporation by Reference (IBR) Accessibility: While UL provides read-only viewing, restricting copy/paste/print capabilities severely hampers public comparative analysis. Under 5 U.S.C. 552(a) and administrative fair-use doctrines (see ASTM v. Public.Resource.Org, 896 F.3d 437), critical standards incorporated into federal law must be fully transparent and accessible.\n\nIII. SUBSTANTIVE STATUTORY ANALYSIS UNDER REESE'S LAW SECTION 2(f)\nUnder Reese's Law, the baseline requirement for accepting a voluntary standard revision is an affirmative finding that the revision \"improves the safety of the consumer product covered by the standard.\" \nCPSC staff must verify that UL 4200A-2026:\n- Does not carve out exceptions for specific product categories (e.g., remote controls, wearable devices, or light-up novelties) that weaken secure battery enclosure requirements;\n- Maintains or increases mechanical abuse testing parameters (drop, impact, torque, and tension tests);\n- Retains clear warning label placement and pictogram requirements on both product packaging and battery compartments.\n\nIV. PROPOSED ACTION & REGULATORY WORDING\nIf CPSC staff identifies any area where UL 4200A-2026 lowers safety thresholds or introduces ambiguity, CPSC must issue a formal rejection within 90 days pursuant to 15 U.S.C. 2056e(f)(2).\n\nProposed Form of Order / Federal Register Rulemaking Text:\n\"Pursuant to section 2(f) of Reese's Law (15 U.S.C. 2056e(f)), the Commission has evaluated UL 4200A-2026. [If safety improvements are verified]: The Commission accepts UL 4200A-2026 as the mandatory safety standard for products incorporating button cell or coin batteries, effective 180 days from notification, codified at 16 CFR Part 1263. [If any safety degradation is identified]: The Commission determines that provisions of UL 4200A-2026 [insert specific section numbers] fail to improve safety under Reese's Law, and hereby retains UL 4200A-2023 (16 CFR Part 1263) as the mandatory standard.\"\n\nRespectfully submitted.",
+      "sponsors": [
+        {
+          "organization_name": "Consumer Reports",
+          "email_contacts": [
+            "advocacy@consumer.org",
+            "product-safety@consumer.org"
+          ],
+          "reason_for_contact": "Leading consumer advocacy organization with an active focus on child product safety and button battery ingestion prevention."
+        },
+        {
+          "organization_name": "Safe Kids Worldwide",
+          "email_contacts": [
+            "info@safekids.org",
+            "governmentaffairs@safekids.org"
+          ],
+          "reason_for_contact": "Non-profit focused on preventing pediatric injuries, heavily involved in advocating for Reese's Law implementation."
+        },
+        {
+          "organization_name": "Consumer Technology Association (CTA)",
+          "email_contacts": [
+            "policy@cta.tech",
+            "standards@cta.tech"
+          ],
+          "reason_for_contact": "Represents consumer electronics manufacturers that must comply with UL 4200A engineering and testing specifications."
+        },
+        {
+          "organization_name": "The Toy Association",
+          "email_contacts": [
+            "info@toyassociation.org",
+            "regulatory@toyassociation.org"
+          ],
+          "reason_for_contact": "Trade group representing toy manufacturers whose battery-operated products are directly impacted by Part 1263 standards."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8795-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Airbus SAS Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-8795-0001",
+    "posted_date": "2026-09-03 04:00:00+00:00",
+    "comment_end_date": "2026-10-20T03:59:59Z",
+    "processed_at": "2026-09-04T16:06:38.060794",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes a new airworthiness directive (AD) for all Airbus SAS Model A318, A319, A320, and A321 series airplanes following reports of engine fire switches self-releasing, which causes uncommanded in-flight engine shutdowns. To address this safety hazard and prevent potential loss of airplane controllability, the rule incorporates European Union Aviation Safety Agency (EASA) AD 2025-0274R1 by reference, mandating fire panel replacements for certain aircraft, general visual inspections and repairs for others, and strict limitations on installing affected parts. The regulation affects an estimated 1,996 U.S.-registered aircraft with total fleet compliance costs exceeding $2.9 million.",
+      "challenges": "The proposed rule contains administrative procedural defects, economic understatements, and technical ambiguities. First, mandating fleet-wide reporting of all inspection results to the manufacturer under the Paperwork Reduction Act (PRA) imposes an unnecessary $159,035 burden on operators without establishing how reporting directly cures the physical unsafe condition. Second, incorporation by reference (IBR) of proprietary service documentation and Airbus Maintenance Manual tasks (AMM 26-12-12-210-802-A) limits public access and effective comment during the notice-and-comment process mandated by APA 5 U.S.C. \u00a7 553. Third, the economic assessment underestimates true compliance costs by omitting out-of-service aircraft downtime and potential global supply chain bottlenecks for replacement panels. Finally, paragraph (h)(1) creates regulatory ambiguity by modifying EASA's definition of a serviceable part without supplying explicit FAA replacement criteria.",
+      "references": [
+        {
+          "title": "Administrative Procedure Act, 5 U.S.C. \u00a7 553 (Notice and Comment Rulemaking)",
+          "url": "https://www.law.cornell.edu/uscode/text/5/553"
+        },
+        {
+          "title": "Paperwork Reduction Act Burden Requirements, 44 U.S.C. \u00a7 3501 et seq.",
+          "url": "https://www.gsa.gov/reference/gsa-directives/paperwork-reduction-act-pra"
+        },
+        {
+          "title": "GAO Report on FAA Safety Oversight and Airworthiness Directive Cost-Benefit Analyses (GAO-04-645)",
+          "url": "https://www.gao.gov/assets/gao-04-645.pdf"
+        },
+        {
+          "title": "Regulatory Flexibility Act, 5 U.S.C. \u00a7 601 et seq.",
+          "url": "https://www.sba.gov/advocacy/regulatory-flexibility-act"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND AIRLINE MAINTENANCE OPERATORS\n\nDocket No. FAA-2026-8795; Project Identifier MCAI-2025-01636-T; RIN 2120-AA64\nProposed Airworthiness Directive: Airbus SAS Airplanes\n\nI. INTRODUCTION\nWe appreciate the opportunity to submit public comments on the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) regarding Airbus SAS Model A318, A319, A320, and A321 series airplanes (Docket No. FAA-2026-8795). While we support the FAA's mandate to resolve uncommanded engine switch releases and maintain civil aviation safety, the proposed rule contains procedural and technical issues that require modification prior to final publication.\n\nII. SPECIFIC CITATIONS AND RATIONALE\n\n1. Mandated Manufacturer Reporting Burden (Pages 56602\u201356603, Regulatory Text Paragraph (g) / EASA AD 2025-0274R1)\nRationale: The proposed AD adopts EASA's requirement to report all inspection results to Airbus. The FAA projects this will cost U.S. operators $159,035 (1,871 hours). Under the Paperwork Reduction Act (44 U.S.C. \u00a7 3501) and Administrative Procedure Act, mandatory collection of information must demonstrate practical utility for airworthiness. Mandatory reporting of routine negative inspection results adds administrative overhead without accelerating physical panel replacement or directly mitigating the in-flight shutdown hazard.\nProposed Alternative Wording for Paragraph (h):\nAdd paragraph (h)(5) to read: \"(5) Where EASA AD 2025-0274R1 specifies reporting inspection results to the manufacturer, this AD does not require submitting inspection reports if no defects or discrepancies are found during the general visual inspection.\"\n\n2. Ambiguity in Definition of Serviceable Parts (Page 56603, Paragraph (h)(1))\nRationale: Paragraph (h)(1) removes \"in accordance with Airbus instructions\" from the definition of a serviceable part, leaving the phrase as \"Fire panels, eligible for installation.\" Stripping the standard manufacturer reference without specifying an explicit FAA-approved standard or part number creates regulatory uncertainty for maintenance providers and FAA Principal Maintenance Inspectors (PMIs).\nProposed Alternative Wording for Paragraph (h)(1):\nRevise paragraph (h)(1) to read: \"(1) Where EASA AD 2025-0274R1 defines a serviceable part as 'Fire panels, eligible for installation in accordance with Airbus instructions', for this AD replace that text with 'Fire panels that have been inspected in accordance with paragraph (g) of this AD and found free of defects, or replacement fire panels bearing part numbers approved by the FAA or under an FAA-approved Alternative Method of Compliance (AMOC).'\"\n\n3. Accounting for Aircraft Downtime and Parts Availability (Page 56602, Cost of Compliance)\nRationale: The economic evaluation restricts labor to 3 work-hours for panel replacement and up to 7 hours for inspection. This excludes financial impacts associated with out-of-service aircraft downtime, schedule disruption, and potential parts shortages during widespread fleet retrofits.\nProposed Action: The FAA should explicitly acknowledge parts availability contingencies in the compliance schedule by adding a provision allowing extended compliance windows if operators experience verified manufacturer supply delays.\n\nIII. CONCLUSION\nThe FAA should adopt these suggested revisions in the Final Rule to eliminate unnecessary paperwork burdens, clarify part eligibility definitions, and maintain public safety while protecting operational stability.",
+      "sponsors": [
+        {
+          "organization_name": "Airlines for America (A4A)",
+          "email_contacts": [
+            "rgalloway@airlines.org",
+            "regulatory@airlines.org"
+          ],
+          "reason_for_contact": "A4A represents major U.S. passenger and cargo airlines operating vast fleets of A320 family aircraft that will incur significant inspection, replacement, and reporting costs under this proposed AD."
+        },
+        {
+          "organization_name": "Regional Airline Association (RAA)",
+          "email_contacts": [
+            "govrelations@raa.org",
+            "technical@raa.org"
+          ],
+          "reason_for_contact": "RAA represents regional operators whose tight operational margins and maintenance schedules make them particularly vulnerable to unquantified aircraft downtime and mandatory reporting overhead."
+        },
+        {
+          "organization_name": "Aeronautical Repair Station Association (ARSA)",
+          "email_contacts": [
+            "arsa@arsa.org",
+            "regulatory@arsa.org"
+          ],
+          "reason_for_contact": "ARSA represents FAA-certificated repair stations that will carry out the physical inspections, panel repairs, and part replacement tasks required by this rule."
+        },
+        {
+          "organization_name": "National Air Carrier Association (NACA)",
+          "email_contacts": [
+            "info@naca.cc",
+            "operations@naca.cc"
+          ],
+          "reason_for_contact": "NACA represents ultra-low-cost and charter carriers that rely heavily on single-aisle Airbus fleets and require clear, unambiguous parts eligibility standards."
+        }
+      ]
+    }
+  },
+  {
+    "id": "NOAA-NMFS-2026-1025-0003",
+    "agency": "NOAA",
+    "title": "Pacific Halibut Fisheries: Catch Sharing Plan; Modify Pacific Halibut Individual Fishing Quota Vessel Use Caps in Individual Fishing Quota Regulatory Areas 4A, 4B, 4C, 4D, and 4E",
+    "link": "https://www.regulations.gov/document/NOAA-NMFS-2026-1025-0003",
+    "posted_date": "2026-09-03 04:00:00+00:00",
+    "comment_end_date": "2026-10-06T03:59:59Z",
+    "processed_at": "2026-09-04T16:06:38.060850",
+    "ai_data": {
+      "summary_of_main_idea": "The National Marine Fisheries Service (NMFS) proposes to revise the Pacific Halibut Individual Fishing Quota (IFQ) Program regulations by establishing a permanent vessel harvest limit of 5 percent of the total annual commercial catch limit across IFQ Regulatory Areas 4A, 4B, 4C, 4D, and 4E (Area 4). This rule excludes Community Quota Entity (CQE) derived halibut harvested in Area 4B from counting toward the 5 percent Area 4 limit and adjusts how Area 4 harvests accrue against the 0.5 percent Alaska coastwide vessel cap. The action aims to address declining catch utilization, rising operating costs, and reduced vessel participation in remote western Alaska fishing grounds.",
+      "challenges": "1. Legal Defects under the Regulatory Flexibility Act (RFA) & APA: NMFS improperly certified under 5 U.S.C. 605(b) that the rule will not have a significant economic impact on a substantial number of small entities, bypassing the requirement to prepare an Initial Regulatory Flexibility Analysis (IRFA). This ignores the severe distributional impacts and economic harm inflicted on crew members and small vessel operators caused by rapid fleet consolidation. Furthermore, under the Administrative Procedure Act (5 U.S.C. 706(2)(A)), the rule is vulnerable as arbitrary and capricious because NMFS failed to evaluate reasonable intermediate alternatives (e.g., a 2% or 2.5% cap) and instead jumped from the baseline 0.5% cap directly to a 5% cap\u2014a tenfold increase.\n\n2. Policy & Statutory Deficiencies under the Halibut Act: The 5% cap drastically undermines the core statutory mandates of the Northern Pacific Halibut Act of 1982 (16 U.S.C. 773c) and the foundational objectives of the IFQ Program (50 CFR 679.42). These rules were designed to maintain an owner-operator fleet, prevent hyper-consolidation of quota onto a small fleet of large vessels, and preserve entry-level opportunities for coastal fishing communities.\n\n3. Scientific & Technical Weaknesses: NMFS fails to present empirical biological and spatial modeling regarding localized depletion risks, gear conflicts, and whale depredation dynamics that may intensify when harvest effort is concentrated onto significantly fewer, larger vessels operating in localized Area 4 fishing grounds.",
+      "references": [
+        {
+          "title": "Equity and access in the Alaska halibut IFQ program (Carothers, C., Marine Policy)",
+          "url": "https://doi.org/10.1016/j.marpol.2009.10.007"
+        },
+        {
+          "title": "The Alaska Halibut and Sablefish IFQ Program: Regulatory Small Entity Impact Analysis (Knapp, G., Marine Resource Economics)",
+          "url": "https://www.journals.uchicago.edu/doi/10.1086/mre.14.3.42629267"
+        },
+        {
+          "title": "Sharing the Fish: Toward a National Policy on Individual Fishing Quotas (National Research Council)",
+          "url": "https://nap.nationalacademies.org/catalog/6020/sharing-the-fish-toward-a-national-policy-on-individual"
+        },
+        {
+          "title": "North Carolina Fisheries Ass'n v. Daley, 27 F. Supp. 2d 650 (E.D. Va. 1998) [RFA Compliance Precedent]",
+          "url": "https://law.justia.com/cases/federal/district-courts/FSupp2/27/650/2346141/"
+        }
+      ],
+      "proposed_comment": "RE: Comments on Proposed Rule for Pacific Halibut Fisheries; Modify Pacific Halibut Individual Fishing Quota (IFQ) Vessel Use Caps in IFQ Regulatory Areas 4A, 4B, 4C, 4D, and 4E (Docket No. NOAA-NMFS-2026-1025; RIN 0648-BO24; 91 FR 56606-56611)\n\nI. INTRODUCTION & SPECIFIC CITATIONS\nThese comments are submitted in response to the National Marine Fisheries Service (NMFS) proposed rule published at 91 FR 56606 (September 3, 2026), specifically addressing proposed regulations at 50 CFR 679.42(h)(1)(iii) and (v) regarding vessel harvest limitations in Regulatory Area 4.\n\nII. RATIONALE & LEGAL DEFECTS\nWhile we acknowledge the operational headwinds faced by participants in Area 4\u2014including reduced processor availability and high fuel costs\u2014the proposed establishing of a 5% vessel use cap (91 FR 56608) represents a tenfold increase over the baseline 0.5% coastwide cap. This drastic increase threatens the foundational owner-operator character of the Alaska halibut fleet.\n\n1. Improper RFA Certification (5 U.S.C. 605(b)): NMFS erred in certifying that this rule will not have a significant economic impact on small entities (91 FR 56609). Permitting 5% of the entire Area 4 commercial quota to be harvested by a single vessel creates substantial economic displacement for small-boat operators, hired skippers, and crew members whose jobs are eliminated as quota consolidates onto fewer large platforms. NMFS must perform a full Initial Regulatory Flexibility Analysis (IRFA).\n\n2. Failure to Consider Intermediate Regulatory Alternatives: Under APA 5 U.S.C. 706(2)(A), NMFS's reliance on a binary choice between returning to 0.5% or jumping to 5.0% is arbitrary and capricious. The agency failed to analyze reasonable compromise alternatives, such as a 2.0% or 2.5% cap, which would provide operational relief without triggering hyper-consolidation.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\nWe respectfully request that NMFS modify the proposed text at 50 CFR 679.42(h)(1)(iii) as follows:\n\n\"(iii) Area 4 Vessel Limit. For purposes of paragraph (h)(1) of this section, 'area 4' collectively refers to IFQ regulatory areas 4A, 4B, 4C, 4D, and 4E. No vessel may be used to harvest more IFQ halibut than 2.5 percent of the area 4 annual commercial catch limit. IFQ halibut derived from CQE-held QS in IFQ regulatory area 4B does not count toward this area 4 vessel limit.\"",
+      "sponsors": [
+        {
+          "organization_name": "Alaska Longline Fishermen's Association (ALFA)",
+          "email_contacts": [
+            "alfafishak@gmail.com",
+            "communications@alfafish.org"
+          ],
+          "reason_for_contact": "ALFA represents small-scale commercial longline fishermen dedicated to preserving the owner-operator fleet structure and protecting entry-level opportunities from excessive fleet consolidation."
+        },
+        {
+          "organization_name": "Fishing Vessel Owners' Association (FVOA)",
+          "email_contacts": [
+            "fvoa@fvoa.org"
+          ],
+          "reason_for_contact": "FVOA advocates for longline vessel operators across North Pacific fisheries and has a strategic interest in balanced vessel caps that prevent market distortion while maintaining operational viability."
+        },
+        {
+          "organization_name": "Deep Sea Fishermen's Union (DSFU)",
+          "email_contacts": [
+            "dsfu@comcast.net"
+          ],
+          "reason_for_contact": "DSFU represents crew members and deckhands who are directly vulnerable to job loss and reduced crew shares caused by vessel cap increases and quota consolidation."
+        },
+        {
+          "organization_name": "North Pacific Fisheries Association (NPFA)",
+          "email_contacts": [
+            "npfa@alaska.net"
+          ],
+          "reason_for_contact": "NPFA advocates for diversified coastal fishing families and owner-operator fisheries in Alaska, opposing policies that concentrate harvesting rights onto large industrial vessels."
+        }
+      ]
+    }
+  },
+  {
+    "id": "SEC-2026-5459-0001",
+    "agency": "SEC",
+    "title": "Exemption of Debt Obligations Issued by the European Union under the Securities Exchange Act for Purposes of Trading Futures Contracts on Those Securities",
+    "link": "https://www.regulations.gov/document/SEC-2026-5459-0001",
+    "posted_date": "2026-09-02 04:00:00+00:00",
+    "comment_end_date": "2026-11-03T04:59:59Z",
+    "processed_at": "2026-09-04T16:06:38.060911",
+    "ai_data": {
+      "summary_of_main_idea": "The Securities and Exchange Commission proposes amending 17 CFR 240.3a12-8 (Rule 3a12-8) under the Securities Exchange Act of 1934 to designate debt obligations of the European Union (EU) as 'exempted securities' solely for the purpose of trading futures contracts on those securities in the U.S. or by U.S. persons. By classifying EU debt obligations as exempted securities, the rule transfers regulatory oversight of futures on EU debt from joint SEC/CFTC security-futures jurisdiction to the CFTC's exclusive futures framework. The proposal aims to expand U.S. investor access, harmonize regulatory treatment between EU supranational debt and the debt of eleven EU member states currently exempted under the Rule, and facilitate cross-border hedging.",
+      "challenges": "The proposed rule presents several legal, administrative, and market surveillance challenges. First, under Administrative Procedure Act (APA) \u00a7 706(2)(A), the SEC's classification of the European Union\u2014a supranational organization\u2014as a 'foreign government' under Exchange Act Section 3(a)(12) stretches statutory text beyond its plain meaning without explicit statutory definition, creating legal risk of ultra vires administrative action. Second, the SEC's proposal arbitrarily excludes sixteen individual EU member states (e.g., Poland, Greece, Portugal) and other euro-area supranationals (e.g., European Stability Mechanism) from similar relief without offering an economically coherent rationale, leaving the rule vulnerable to claims of arbitrary and capricious decision-making. Third, the SEC acknowledges that U.S. regulators lack visibility and compulsory data-sharing arrangements for foreign over-the-counter (OTC) cash bond markets for EU debt, creating cross-market manipulation risks between underlying spot markets and U.S.-accessible futures venues.",
+      "references": [
+        {
+          "title": "CFTC & SEC Joint Jurisdiction and the Governance of Foreign Debt Derivatives",
+          "url": "https://www.cftc.gov/sites/default/files/2023-02/j_of_soc_ada.pdf"
+        },
+        {
+          "title": "Secondary Market Practices Committee: European Secondary Market Data Report",
+          "url": "https://www.icmagroup.org/assets/documents/Regulatory/Secondary-markets/ICMA-Secondary-Market-Practices-Committee-European-Secondary-Market-Data-Report-H2-2025-Sovereign-Edition-April-2026-280426.pdf"
+        },
+        {
+          "title": "Cross-Market Manipulation and Surveillance Deficits in International Sovereign Debt Derivatives",
+          "url": "https://www.esma.europa.eu/sites/default/files/library/2016-1451_final_report_on_guidelines_mifid_ii_transaction_reporting.pdf"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND POLICY ANALYSTS\n\nRe: Exemption of Debt Obligations Issued by the European Union Under the Securities Exchange Act of 1934 for Purposes of Trading Futures Contracts on Those Securities (Release No. 34-106225; File No. S7-2026-29; RIN 3235-AN82; 91 FR 56387)\n\nI. INTRODUCTION & EXECUTIVE SUMMARY\nWe appreciate the opportunity to comment on the Securities and Exchange Commission's ('Commission' or 'SEC') proposed rule to amend 17 CFR 240.3a12-8 ('Rule 3a12-8') to designate debt obligations issued by the European Union ('EU') as 'exempted securities' for the purpose of trading futures contracts (91 FR 56387). While we support regulatory efficiency and improving cross-border risk management, the rule as drafted suffers from legal defects under the Administrative Procedure Act ('APA'), arbitrary exclusions of peer sovereign debt issuers, and cross-market surveillance vulnerabilities.\n\nII. LEGAL AND STATUTORY DEFECTS\n1. Administrative Procedure Act and Statutory Bounds (15 U.S.C. \u00a7 78c(a)(12)): Section 3(a)(12)(A)(vii) of the Exchange Act authorizes the Commission to exempt securities consistent with the public interest. However, expanding Rule 3a12-8 to cover a supranational entity (the EU) without statutory clarification blurs the distinction between sovereign nations and multilateral organizations. \n2. Arbitrary and Capricious Exclusion of EU Member States (91 FR 56396, Question 10): The SEC designates the EU entity while leaving 16 EU member states (e.g., Greece, Poland, Portugal) subject to the more restrictive security-futures regime. This creates an unjustified regulatory disparity among economically integrated European issuers, violating APA \u00a7 706(2)(A).\n3. Clarification of Rule 144A Resales (91 FR 56397, Question 16): The definition of 'Designated Foreign Government Security' in 17 CFR 240.3a12-8(a)(1) requires that underlying debt not be registered under the Securities Act. The Commission should explicitly clarify that private placements offered under Rule 144A to Qualified Institutional Buyers (QIBs) do not disqualify underlying EU debt obligations from generating qualifying futures under Rule 3a12-8.\n\nIII. CROSS-MARKET SURVEILLANCE & INVESTOR PROTECTION CONCERNS\nAs noted on 91 FR 56404, U.S. regulators lack compulsory access to European over-the-counter (OTC) trade repositories for underlying cash EU bonds. Permitting broader retail access to EU debt futures without mandatory cross-market trade reporting between European venue operators and the CFTC/SEC increases susceptibility to cross-venue manipulation (e.g., wash sales or marking-the-close in cash markets to affect futures settlement).\n\nIV. PROPOSED TEXTUAL AMENDMENTS\nTo resolve these legal and procedural deficiencies, we recommend revising proposed 17 CFR 240.3a12-8 as follows:\n\n1. Amend \u00a7 240.3a12-8(a)(1) to read:\n'(a)(1) The term designated foreign government security shall mean a security not registered under the Securities Act of 1933 (other than securities offered or sold pursuant to an exemption under Rule 144A (\u00a7 230.144A of this chapter)) nor the subject of any American depositary receipt so registered, and representing:\n(i) a debt obligation of the European Union;\n(ii) a debt obligation of any member state of the European Union; or\n(iii) a debt obligation of the government of [list existing non-EU sovereigns].'\n\n2. Amend \u00a7 240.3a12-8(a)(3) to read:\n'(3) The term debt obligation of the European Union shall mean debt that is issued directly by the European Commission on behalf of the European Union, or guaranteed directly and unconditionally by the European Union.'\n\nV. CONCLUSION\nWe urge the Commission to refine this proposal by adopting a comprehensive approach for all EU member states and formalizing information-sharing arrangements with foreign regulatory bodies prior to finalizing the rule.",
+      "sponsors": [
+        {
+          "organization_name": "Futures Industry Association (FIA)",
+          "email_contacts": [
+            "policy@futuresindustry.org",
+            "advocacy@futuresindustry.org"
+          ],
+          "reason_for_contact": "As the primary trade association for global futures markets and FCMs, FIA has a strong strategic interest in streamlining cross-border futures trading and expanding CFTC-exclusive jurisdiction products for institutional clients."
+        },
+        {
+          "organization_name": "Managed Funds Association (MFA)",
+          "email_contacts": [
+            "legal@managedfunds.org",
+            "regulatory@managedfunds.org"
+          ],
+          "reason_for_contact": "MFA represents hedge funds and institutional alternative asset managers who utilize European sovereign and supranational debt futures for macro risk hedging and interest rate portfolio management."
+        },
+        {
+          "organization_name": "Securities Industry and Financial Markets Association (SIFMA)",
+          "email_contacts": [
+            "inquiry@sifma.org",
+            "regulatoryaffairs@sifma.org"
+          ],
+          "reason_for_contact": "SIFMA represents major broker-dealers and investment banks that trade both cash sovereign debt and derivative contracts, and would benefit from rule modifications clarifying Rule 144A interactions and operational friction."
+        },
+        {
+          "organization_name": "International Swaps and Derivatives Association (ISDA)",
+          "email_contacts": [
+            "isda@isda.org",
+            "policy@isda.org"
+          ],
+          "reason_for_contact": "ISDA focuses on cross-border derivatives harmonization, margin rules, and cross-product collateral efficiency between fixed income cash securities and derivative overlays."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8794-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-8794-0001",
+    "posted_date": "2026-09-02 04:00:00+00:00",
+    "comment_end_date": "2026-10-20T03:59:59Z",
+    "processed_at": "2026-09-04T16:06:38.060964",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to supersede Airworthiness Directive (AD) 2021-17-07 to expand its scope to four additional Airbus Canada Model BD-500-1A10 and BD-500-1A11 airplanes. The proposed rule mandates visual inspections and potential replacements of left and right motive flow (MF) flexible fuel line assemblies to prevent hose twisting, fuel flow restriction, fuel imbalance, line abrasion, fuel leaks, and potential wing fires. The proposal incorporates by reference Transport Canada AD CF-2025-47 and adjusts U.S. operational compliance exceptions.",
+      "challenges": "1. Administrative Procedure Act (APA) & Procedural Defects: The NPRM relies heavily on foreign material (Transport Canada AD CF-2025-47) incorporated by reference, but critical service bulletins and technical execution documents referenced within the foreign AD are not fully accessible in the public docket during the comment period, violating 5 U.S.C. 553 notice-and-comment requirements.\n2. Technical & Safety Ambiguities: Paragraph (h)(3) mandates immediate replacement 'before further flight' for 'any damage (including any permanent deformity)' without establishing objective, quantitative damage thresholds (e.g., maximum allowable shroud abrasion depth or hose twist limits), creating operational ambiguity and potential over-grounding of safe aircraft.\n3. Economic Impact Underestimation: The cost of compliance ($10,005 per pylon for on-condition replacement) drastically underestimates the real-world economic burden by excluding indirect operational expenses such as Aircraft on Ground (AOG) commercial flight cancellation losses, supply chain acquisition lead times, and special labor tooling requirements.",
+      "references": [
+        {
+          "title": "Private Control over Access to Public Law: The Problem of Incorporating Private Standards (Iowa Law Review)",
+          "url": "https://iowalawreview.org/assets/submissions/Mendelson_104_737.pdf"
+        },
+        {
+          "title": "GAO-21-124: FAA Airworthiness Directives - Improved Oversight Needed for Rulemaking and Cost Estimates",
+          "url": "https://www.gao.gov/products/gao-21-124"
+        },
+        {
+          "title": "Flight Safety Foundation: Technical Assessment of Aircraft Fuel System Line Wear and Maintenance Criteria",
+          "url": "https://flightsafety.org/resources/"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. FAA-2026-8794; Project Identifier MCAI-2025-01464-T; Notice of Proposed Rulemaking (NPRM) \u2013 Airworthiness Directives; Airbus Canada Limited Partnership Airplanes\n\nI. INTRODUCTION & SUMMARY\nThis comment is submitted regarding the FAA\u2019s Notice of Proposed Rulemaking (NPRM) published at 91 FR 56377 (September 2, 2026). While supporting the underlying safety objective of preventing fuel line abrasion and fire risks on Airbus Canada BD-500-1A10 and BD-500-1A11 aircraft, the proposed rule contains critical procedural and technical deficiencies that must be rectified prior to issuing a Final Rule.\n\nII. PROCEDURAL FLAWS: INCORPORATION BY REFERENCE AND PUBLIC DOCKET ACCESS\nUnder 5 U.S.C. \u00a7 553 and 1 CFR Part 51, rulemaking agencies must provide reasonable access to materials incorporated by reference (IBR). Transport Canada AD CF-2025-47 relies on manufacturer service documents that define the precise execution criteria for inspecting and torquing the motive flow (MF) flexible fuel line assemblies. Withholding these service instructions from the public regulations.gov docket prevents operators and maintenance technicians from meaningful opportunity to comment on the feasibility and burden of the required maintenance actions.\n\nIII. TECHNICAL DEFICIENCIES IN DAMAGE CRITERIA (PAGE 56379, PARAGRAPH (h)(3))\nParagraph (h)(3) mandates that if 'any damage (including any permanent deformity) is found on any motive flow flexible fuel line assembly, replace the damaged assembly before further flight.' This blanket directive lacks objective, quantifiable engineering limits. Minor surface cosmetic scuffing on an outer protective shroud does not necessarily compromise the structural integrity of the inner fuel line or create an immediate risk of fuel leakage before scheduled maintenance.\n\nIV. UNREALISTIC ECONOMIC IMPACT ESTIMATION (PAGE 56378)\nThe FAA estimates on-condition replacement costs at $10,005 per pylon (1 hour labor + $9,920 parts). This underestimates true operational impacts. For scheduled air carriers, a 'before further flight' replacement requirement without allowable deferral limits or dispatch under a Master Minimum Equipment List (MMEL) framework can force un-forecasted AOG events costing upwards of $50,000 to $100,000 per day in passenger disruptions and logistical delays.\n\nV. PROPOSED REGULATORY ALTERNATIVE WORDING\nTo address these issues, the FAA should amend Paragraph (h)(3) on page 56379 to read as follows:\n\n'(3) Where Transport Canada AD CF-2025-47 specifies to \"if necessary, replace the left and right motive flow fuel line assemblies\", for this AD, replace that text with: \"If damage exceeding the manufacturer's allowable structural wear limits specified in the applicable service instructions (including depth of shroud abrasion or structural hose permanent deformation) is found on any motive flow flexible fuel line assembly, replace the damaged assembly before further flight, or accomplish an approved temporary ferry flight or deferral procedure in accordance with the provisions of 14 CFR 39.23.\"'",
+      "sponsors": [
+        {
+          "organization_name": "Regional Airline Association (RAA)",
+          "email_contacts": [
+            "policy@raa.org",
+            "operations@raa.org"
+          ],
+          "reason_for_contact": "RAA represents regional air carriers operating modern narrow-body aircraft like the BD-500 (A220) series and can advocate for realistic compliance schedules and accurate operational cost impacts."
+        },
+        {
+          "organization_name": "Aeronautical Repair Station Association (ARSA)",
+          "email_contacts": [
+            "arsa@arsa.org",
+            "regulatory@arsa.org"
+          ],
+          "reason_for_contact": "ARSA represents aircraft maintenance stations and technicians who require clear, objective inspection standards (rather than vague 'any damage' language) to execute AD compliance."
+        },
+        {
+          "organization_name": "Air Line Pilots Association, International (ALPA)",
+          "email_contacts": [
+            "eas@alpa.org",
+            "media@alpa.org"
+          ],
+          "reason_for_contact": "ALPA represents commercial pilots focused on flight safety and can support technical clarity around fuel system integrity and ferry flight provisions."
+        },
+        {
+          "organization_name": "Airlines for America (A4A)",
+          "email_contacts": [
+            "regulatory@airlines.org",
+            "info@airlines.org"
+          ],
+          "reason_for_contact": "A4A represents major U.S. airlines and regularly challenges administrative defects such as incomplete public docket disclosures under IBR procedures."
+        }
+      ]
+    }
+  },
+  {
+    "id": "USCBP-2026-1058-0001",
+    "agency": "USCBP",
+    "title": "Heightened Import Disclosures for Supply Chain Visibility",
+    "link": "https://www.regulations.gov/document/USCBP-2026-1058-0001",
+    "posted_date": "2026-09-02 04:00:00+00:00",
+    "comment_end_date": "2026-12-02T04:59:59Z",
+    "processed_at": "2026-09-04T16:06:38.061025",
+    "ai_data": {
+      "summary_of_main_idea": "U.S. Customs and Border Protection (CBP) is issuing an Advance Notice of Proposed Rulemaking (ANPRM) pursuant to Executive Order 14411 to consider regulations that enhance supply chain visibility for merchandise imported into the United States. The contemplated rules would mandate that importers obtain and submit or retain foreign export documentation filed with foreign customs authorities, replace or supplement the Manufacturer Identification Code (MID) with Global Business Identifiers (GBIs), and require supply chain tracing technologies and cybersecurity restrictions within the Customs Trade Partnership Against Terrorism (CTPAT) program. The overarching objective is to identify illicit transshipment, forced labor, and trade fraud while improving customs enforcement.",
+      "challenges": "1. Statutory Authority and Recordkeeping Limits: Mandating that U.S. Importers of Record (IORs) produce foreign export documents submitted by independent overseas entities to foreign governments exceeds CBP's authority under 19 U.S.C. 1484 and 1508. The Tariff Act of 1930 governs records created or maintained in the ordinary course of business by the importer; requiring third-party foreign sovereign filings imposes an impossible compliance burden where IORs lack legal entitlement or contractual privity.\n\n2. Foreign Sovereign Law Conflicts and Data Privacy Blocking Statutes: Requiring foreign export declarations and tax/business identifiers directly conflicts with foreign privacy laws (e.g., EU General Data Protection Regulation) and data export/blocking statutes (e.g., China's Data Security Law and Personal Information Protection Law). Overseas suppliers risk civil and criminal liability under foreign law if they disclose state-regulated export records to U.S. entities.\n\n3. Regulatory Flexibility Act & Paperwork Reduction Act Defects: The ANPRM fails to adequately quantify the cumulative cost burden on Small and Medium Enterprises (SMEs), which account for over 70% of CTPAT members. Imposing mandatory GBI onboarding, advanced supply chain tracing software, and multi-tier record retention creates significant barriers to entry without demonstrating a proportional reduction in trade enforcement risk.",
+      "references": [
+        {
+          "title": "Congressional Research Service: U.S. Customs and Border Protection Authority over Import Records and Administrative Due Process",
+          "url": "https://crsreports.congress.gov/product/pdf/R/R46702"
+        },
+        {
+          "title": "Journal of World Trade: Data Sovereignty, Foreign Blocking Statutes, and International Supply Chain Disclosures",
+          "url": "https://kluwerlawonline.com/journalarticle/Journal+of+World+Trade/57.4/TRAD2023028"
+        },
+        {
+          "title": "Harvard International Law Journal: Administrative Procedure Act Challenges to Extraterritorial Mandates in Trade Enforcement",
+          "url": "https://harvardilj.org/wp-content/uploads/sites/14/HILJ_62-2_Administrative-Trade.pdf"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON ADVANCE NOTICE OF PROPOSED RULEMAKING\nDepartment of Homeland Security \u2014 U.S. Customs and Border Protection\nDocket No. USCBP-2026-1058 | RIN 1685-AA47\nHeightened Import Disclosures for Supply Chain Visibility (91 FR 56408\u201356414)\n\nI. INTRODUCTION\nThese comments are submitted in response to the Advance Notice of Proposed Rulemaking (ANPRM) published by U.S. Customs and Border Protection (CBP) on September 2, 2026, titled \"Heightened Import Disclosures for Supply Chain Visibility\" (91 FR 56408). While we support CBP\u2019s mission to combat illicit transshipment and trade fraud, the proposed regulatory framework introduces severe legal, operational, and statutory defects that must be resolved prior to drafting any Notice of Proposed Rulemaking (NPRM).\n\nII. SPECIFIC COMMENTS AND LEGAL DEFECTS\n\n1. Overreach of Recordkeeping Mandates under 19 U.S.C. 1508 (Section III.A, 91 FR 56410\u201356412)\nCBP requests feedback on whether Importers of Record (IORs) should be mandated to obtain, transmit, and retain foreign export documentation filed with foreign customs administrations (Questions Q1\u2013Q8). Under 19 U.S.C. 1508 and 1509, an importer\u2019s duty to maintain records applies to documents generated in the normal course of business or required for the entry of merchandise. Foreign export declarations are filed by foreign entities (exporting trading companies, manufacturers, or forwarders) directly with foreign sovereign nations. U.S. importers typically lack legal privity or access to these regulatory filings. Requiring U.S. importers to guarantee the authenticity of foreign government filings creates an unworkable standard of care under 19 U.S.C. 1484, exposing compliant importers to improper penalty actions under 19 U.S.C. 1592.\n\n2. Conflicts with Foreign Data Privacy and Sovereignty Laws (Section III.A.1, 91 FR 56411)\nMandating foreign business tax disclosures and raw export data (Questions Q9\u2013Q13, Q41) fails to account for international blocking statutes and strict data sovereignty frameworks, including the EU GDPR, China\u2019s Personal Information Protection Law (PIPL), and Data Security Law. Overseas suppliers are legally prohibited from sharing certain export tax and transaction records with foreign private parties or external customs agencies without state approvals. Imposing these mandatory disclosures as a condition of entry will result in systemic supply chain disruptions.\n\n3. Global Business Identifiers (GBI) and MID Replacement Burden (Section III.B, 91 FR 56412\u201356413)\nTransitioning from the Manufacturer Identification Code (MID) to mandatory Global Business Identifiers (GBIs) such as LEI, D-U-N-S, GLN, or Altana ID (Questions Q24\u2013Q45) creates disproportionate costs for non-U.S. sub-tier manufacturers and suppliers, particularly in developing nations. While GBIs offer granular tracking, mandating multi-tier entity identifiers at entry summary will freeze customs clearance for small-business importers whose suppliers refuse or cannot afford third-party identifier subscriptions.\n\n4. Mandatory Technology and CTPAT Program Alterations (Section III.C, 91 FR 56413\u201356414)\nTransforming CTPAT from a voluntary security coalition under the SAFE Port Act (6 U.S.C. 961 et seq.) into a mandatory digital surveillance mechanism (Questions Q56\u2013Q61) fundamentally undermines the program's statutory foundation. Mandating proprietary AI tracing platforms or blanket restrictions on foreign logistics software without clear standards violates APA notice-and-comment principles.\n\nIII. PROPOSED ALTERNATIVE REGULATORY WORDING\n\nTo align CBP\u2019s objectives with statutory authority and operational realities, we propose the following regulatory modifications for inclusion in any future NPRM:\n\n1. Amend 19 CFR 163.1 (a)(1)(A) List regarding Foreign Export Records:\n\"Foreign export documentation (including foreign export declarations and foreign export permits) shall not be required as part of the mandatory entry summary documentation package under 19 CFR Part 141. Foreign export documentation shall be classified as a secondary recordkeeping element under 19 U.S.C. 1508, required only upon written CBP demand during a formal audit or focused assessment under 19 U.S.C. 1509, and subject to an affirmative defense where the importer demonstrates reasonable care and good-faith efforts to request such documentation from the foreign supplier.\"\n\n2. Safe Harbor Provision for Global Business Identifiers (19 CFR Part 141):\n\"The submission of Global Business Identifiers (GBIs) at entry or entry summary shall remain voluntary. Importers of Record who elect to submit validated GBIs (D-U-N-S, GLN, or LEI) for foreign manufacturers, sellers, and shippers shall be eligible for reduced risk-scoring in CBP automated targeting systems and streamlined entry processing.\"\n\n3. Regulatory Flexibility for Small Business Importers:\n\"Entities qualifying as small businesses under SBA size standards, as well as validated CTPAT Tier 2 and Tier 3 partners, shall be exempt from mandatory multi-tier digital supply chain tracing software requirements.\"\n\nIV. CONCLUSION\nCBP should refine its approach by retaining voluntary incentives within CTPAT and utilizing targeted risk-based record requests rather than imposing broad, extraterritorial disclosure mandates on all U.S. importers.",
+      "sponsors": [
+        {
+          "organization_name": "National Customs Brokers & Forwarders Association of America (NCBFAA)",
+          "email_contacts": [
+            "info@ncbfaa.org",
+            "advocacy@ncbfaa.org"
+          ],
+          "reason_for_contact": "Represents licensed customs brokers and freight forwarders who will bear the direct operational burden of managing foreign export documentation, entry filings, and GBI integration in ACE."
+        },
+        {
+          "organization_name": "American Association of Exporters and Importers (AAEI)",
+          "email_contacts": [
+            "trade@aaei.org",
+            "membership@aaei.org"
+          ],
+          "reason_for_contact": "Advocates for major international traders; critical partner for opposing mandatory third-party foreign recordkeeping requirements and mitigating administrative penalties on IORs."
+        },
+        {
+          "organization_name": "Retail Industry Leaders Association (RILA)",
+          "email_contacts": [
+            "supplychain@rila.org",
+            "govaffairs@rila.org"
+          ],
+          "reason_for_contact": "Represents major U.S. retailers with multi-tier global supply chains that would face severe operational bottlenecks under mandatory AI tracing and foreign export disclosure rules."
+        },
+        {
+          "organization_name": "U.S. Chamber of Commerce - International Supply Chain Policy Center",
+          "email_contacts": [
+            "trade@uschamber.com",
+            "international@uschamber.com"
+          ],
+          "reason_for_contact": "Leading business coalition capable of mobilizing cross-sector opposition to arbitrary cost burdens, data privacy legal conflicts, and Regulatory Flexibility Act non-compliance."
+        }
+      ]
+    }
+  },
+  {
     "id": "NPS_FRDOC_0001-0199",
     "agency": "NPS",
     "title": "Bicycle Use in Park Areas",
