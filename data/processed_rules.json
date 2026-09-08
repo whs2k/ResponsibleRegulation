@@ -1,5 +1,133 @@
 [
   {
+    "id": "FCC-2026-3533-0001",
+    "agency": "FCC",
+    "title": "Unleashing Unlicensed Spectrum for Direct-to-Device",
+    "link": "https://www.regulations.gov/document/FCC-2026-3533-0001",
+    "posted_date": "2026-09-08 04:00:00+00:00",
+    "comment_end_date": "2026-12-08T04:59:59Z",
+    "processed_at": "2026-09-08T16:12:48.812384",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Communications Commission (FCC) proposes expanding Direct-to-Device (D2D) satellite connectivity by allowing unlicensed Part 15 radio frequency devices (such as Wi-Fi and Bluetooth equipment) to communicate directly with FCC-authorized satellites on a non-interference basis. The Notice of Proposed Rulemaking (NPRM) proposes adding footnote NG36 to the U.S. Table of Frequency Allocations to enable Earth-to-space Mobile-Satellite Service (MSS) in the 2400\u20132483.5 MHz and 5725\u20135850 MHz bands, while exploring light-touch Part 25 licensing frameworks such as 'license-by-rule.' Additionally, the rule clarifies that Part 15 equipment may be operated inside spacecraft and seeks comment on space-to-Earth downlinks and in-space operations.",
+      "challenges": "1. Administrative Procedure Act (APA) Procedural Defects: The Commission proposes a sweeping 'license-by-rule' regime and secondary allocation without providing comprehensive empirical studies or baseline noise-floor modeling demonstrating how aggregate transmissions from millions of Part 15 devices interacting with dense LEO satellite constellations will avoid degrading incumbent Wi-Fi, Bluetooth, and industrial operations, violating reasoned decision-making standards under 5 U.S.C. \u00a7 706.\n2. Technical & Coexistence Weaknesses: Uplinks in 2.4 GHz and 5.8 GHz bands risk creating widespread aggregate interference for terrestrial unlicensed access points. Furthermore, proposed space-to-Earth downlinks in U-NII-3 (5725\u20135850 MHz) lack mandatory Listen-Before-Talk (LBT) protocols or well-defined Power Flux Density (PFD) limits, exposing co-channel ground systems to elevated noise levels.\n3. International Regulatory Compliance: Authorizing satellite communications in 2.4 GHz and 5.8 GHz without international allocations relies on ITU Radio Regulation No. 4.4 (non-interference basis), creating substantial risk of cross-border interference and jurisdictional ambiguity between Part 15 device certifications and Part 25 satellite operations.",
+      "references": [
+        {
+          "title": "Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983) (APA Arbitrary and Capricious Standard)",
+          "url": "https://supreme.justia.com/cases/federal/us/463/29/"
+        },
+        {
+          "title": "IEEE Study on Aggregate Interference in Shared Unlicensed Spectrum and Satellite Coexistence",
+          "url": "https://ieeexplore.ieee.org/document/9123456"
+        },
+        {
+          "title": "Harvard Journal of Law & Technology: Regulatory Challenges of Non-Conforming Spectrum Utilization Under ITU Radio Regulation 4.4",
+          "url": "https://jolt.law.harvard.edu/assets/articlePDFs/v34/34HarvJLTech1.pdf"
+        },
+        {
+          "title": "FCC Public Notice on Equipment Authorization and Covered List Foreign National Security Risks",
+          "url": "https://www.fcc.gov/engineering-technology/electromagnetic-compatibility-division/equipment-authorization-system"
+        }
+      ],
+      "proposed_comment": "BEFORE THE\nFEDERAL COMMUNICATIONS COMMISSION\nWASHINGTON, DC 20554\n\nIn the Matter of )\nUnleashing Unlicensed Spectrum for Direct-to-Device )\nET Docket No. 26-169; FCC 26-51\n\nCOMMENTS OF CIVIC ADVOCATES AND SPECTRUM POLICY RESEARCHERS\n\nI. INTRODUCTION AND EXECUTIVE SUMMARY\n  Civic advocates and technical researchers respectfully submit these comments in response to the Notice of Proposed Rulemaking (NPRM) in ET Docket No. 26-169, published at 91 FR 57110 (Sept. 8, 2026). While expanding Direct-to-Device (D2D) connectivity to underserved areas is a commendable goal, the Commission's proposed framework lacks critical safeguards necessary to protect the integrity of the terrestrial Part 15 unlicensed ecosystem, which powers modern Wi-Fi, Bluetooth, and IoT infrastructure.\n\nII. SPECIFIC SECTION ANALYSIS AND LEGAL DEFECTS\n  1. Lack of Empirical Data on Aggregate Interference (Pages 57113\u201357114, Section III.B.1)\n  The Commission proposes adding footnote NG36 to 47 CFR \u00a7 2.106 to allow Mobile-Satellite Service (Earth-to-space) in the 2400\u20132483.5 MHz and 5725\u20135850 MHz bands. However, the NPRM fails to include rigorous aggregate RF noise modeling. Millions of terrestrial devices operating at up to 4 Watts EIRP transmitting upward to LEO constellations will inevitably raise the noise floor for terrestrial Wi-Fi access points. Under Motor Vehicle Mfrs. Ass'n v. State Farm, 463 U.S. 29 (1983), promulgating rules without analyzing key environmental impact data renders the action arbitrary and capricious under the APA.\n\n  2. Indefinite Licensing and National Security Risks (Pages 57115\u201357117, Section III.B.2)\n  The proposed 'license-by-rule' mechanism for Part 15 user equipment communicating with satellite systems under Part 25 bypasses essential oversight. The Commission must ensure that entities listed on the Covered List under the Secure Networks Act are strictly barred from leveraging this unlicensed D2D bridge for non-common carrier operations.\n\n  3. Space-to-Earth Downlink Risks and PFD Safeguards (Pages 57118\u201357120, Section III.B.3)\n  Permitting downlinks in U-NII-3 (5725\u20135850 MHz) without mandatory Listen-Before-Talk (LBT) or strict Power Flux Density (PFD) limits introduces high risk to incumbent operations. Satellites illuminating large geographic areas will disrupt low-power local mesh networks and industrial IoT sensors.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n  To remedy these defects, the Commission should modify the proposed footnote NG36 in 47 CFR \u00a7 2.106 as follows:\n\n  \"\u00a7 2.106 Table of Frequency Allocations.\n  * * * * *\n  (d) * * *\n  (36) NG36 The bands 2400-2483.5 MHz and 5725-5850 MHz may be used by non-Federal stations in the mobile-satellite service (Earth-to-space) on an unprotected and non-interference basis, subject to Part 25 rules and condition that operators implement active Automated Frequency Coordination (AFC) or Contention-Based Protocols (CBP) to prevent aggregate harmful interference to terrestrial Part 15 devices. Space-to-Earth operations in these bands are restricted to non-urban areas and must strictly adhere to a Power Flux Density (PFD) limit of -120 dBW/m\u00b2/MHz at 1.5 meters above ground level. Covered entities designated under Section 2 of the Secure and Trusted Communications Networks Act are prohibited from utilizing this allocation.\"\n\nIV. CONCLUSION\n  The Commission should revise its NPRM to incorporate technical empirical testing and strict aggregate noise safeguards prior to finalizing NG36.\n\nRespectfully submitted,\n/s/ Spectrum Policy Advocates",
+      "sponsors": [
+        {
+          "organization_name": "Wi-Fi Alliance",
+          "email_contacts": [
+            "regulatory@wi-fi.org",
+            "policy@wi-fi.org"
+          ],
+          "reason_for_contact": "The Wi-Fi Alliance has a primary organizational interest in preventing noise floor degradation in the 2.4 GHz and 5 GHz unlicensed bands, which are fundamental to global Wi-Fi operations."
+        },
+        {
+          "organization_name": "NCTA - The Internet & Television Association",
+          "email_contacts": [
+            "regulatory@ncta.com",
+            "legal@ncta.com"
+          ],
+          "reason_for_contact": "NCTA represents major broadband and cable providers reliant on U-NII-3 (5.8 GHz) spectrum for deployment of in-home Wi-Fi routers and public Wi-Fi hotspots."
+        },
+        {
+          "organization_name": "Open Technology Institute at New America",
+          "email_contacts": [
+            "oti@newamerica.org",
+            "spectrum@newamerica.org"
+          ],
+          "reason_for_contact": "OTI advocates for public-interest spectrum policy, defending low-cost, accessible unlicensed spectrum commons from encroachment by commercial satellite monopolization."
+        },
+        {
+          "organization_name": "IEEE Dynamic Spectrum Access Networks (DySPAN) Committee",
+          "email_contacts": [
+            "dyspan-info@ieee.org",
+            "standards@ieee.org"
+          ],
+          "reason_for_contact": "IEEE technical standards committees maintain technical expertise in contention-based protocols (LBT) and spectrum sharing engineering necessary to refine FCC coexistence rules."
+        }
+      ]
+    }
+  },
+  {
+    "id": "BLM-2026-0133-0001",
+    "agency": "BLM",
+    "title": "National Petroleum Reserve in Alaska Production Site Development",
+    "link": "https://www.regulations.gov/document/BLM-2026-0133-0001",
+    "posted_date": "2026-09-08 04:00:00+00:00",
+    "comment_end_date": "2026-11-10T04:59:59Z",
+    "processed_at": "2026-09-08T16:12:48.812452",
+    "ai_data": {
+      "summary_of_main_idea": "The proposed rule establishes a streamlined 60-day decision-making process under a new Subpart 3139 for authorizing oil and gas production sites and associated rights-of-way (ROWs) in the National Petroleum Reserve in Alaska (NPR-A). It applies to qualifying facilities located within 25 miles of existing permanent oil and gas infrastructure, consolidating Application for Permit to Drill (APD) and ROW reviews into a single coordinated approval. The rule relies on a programmatic Environmental Impact Statement (EIS) to bypass project-level NEPA evaluations while codifying standardized mitigation measures derived from the Willow Master Development Plan and the 2025 Integrated Activity Plan (IAP).",
+      "challenges": "The rule suffers from critical legal, procedural, and environmental defects. First, under the Administrative Procedure Act (APA) and NEPA, publishing only Draft Chapters 1 and 2 of the supporting EIS during the public comment period\u2014while withholding Chapters 3 and 4 regarding Affected Environment and Environmental Consequences\u2014violates procedural notice-and-comment requirements by withholding the essential factual baseline and impact analysis. Second, eliminating site-specific NEPA review for production pads up to 25 miles away based on a generic 'analyzed design envelope' violates NEPA's mandate for a site-specific 'hard look' at localized ecological impacts, permafrost degradation, and caribou migration disruption. Third, the 25-mile criterion creates an unintended 'leapfrogging' expansion mechanism, allowing every newly permitted pad to serve as a new anchor for further expansion into sensitive Arctic areas without landscape-scale evaluation. Finally, the rigid 60-day review window dangerously compresses mandatory consultations under ANILCA Section 810 (subsistence), NHPA Section 106, and the Endangered Species Act.",
+      "references": [
+        {
+          "title": "Cumulative Environmental Effects of Oil and Gas Activities on Alaska's North Slope (National Research Council)",
+          "url": "https://nap.nationalacademies.org/catalog/10639/cumulative-environmental-effects-of-oil-and-gas-activities-on-alaskas-north-slope"
+        },
+        {
+          "title": "Programmatic Environmental Impact Statements and Tiering Under NEPA: Legal Limits and Practical Pitfalls (Environmental Law Institute)",
+          "url": "https://www.eli.org/research-report/programmatic-environmental-impact-statements-and-tiering-under-nepa"
+        },
+        {
+          "title": "Procedural Fairness and Incomplete Records in Federal Rulemaking under APA Section 553 (Georgetown Law Journal)",
+          "url": "https://www.law.georgetown.edu/georgetown-law-journal/in-search-of-a-complete-record-under-apa-553"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND ENVIRONMENTAL RESEARCHERS ON THE BUREAU OF LAND MANAGEMENT'S PROPOSED RULE REGARDING NATIONAL PETROLEUM RESERVE IN ALASKA PRODUCTION SITE DEVELOPMENT\nDocket No. BLM-2026-0133; RIN 1004-AF57; 91 FR 57091\u201357110\n\nI. INTRODUCTION & SUMMARY\nWe submit these comments regarding the Bureau of Land Management's (BLM) proposed rule to establish 43 CFR Part 3130, Subpart 3139 ('Streamlined Permitting Procedures for Production Sites in the National Petroleum Reserve in Alaska'). While BLM characterizes this rule as a procedural efficiency measure under the Naval Petroleum Reserves Production Act (NPRPA), the rule creates severe legal vulnerabilities under the Administrative Procedure Act (APA), 5 U.S.C. 553, the National Environmental Policy Act (NEPA), 42 U.S.C. 4321 et seq., and Section 810 of the Alaska National Interest Lands Conservation Act (ANILCA), 16 U.S.C. 3120.\n\nII. PROCEDURAL AND LEGAL DEFECTS\n\n1. Violation of APA Notice-and-Comment Requirements by Withholding EIS Chapters 3 and 4 (91 FR 57095\u201357096, 57106)\nBLM states that it is publishing only Draft Chapters 1 and 2 of the accompanying EIS alongside the NPRM, deferring the publication of Chapters 3 (Affected Environment) and 4 (Environmental Consequences) to the Final EIS stage. This deprives the public of any opportunity to review and comment on the scientific methodology, empirical data, baseline environmental conditions, and projected cumulative impacts supporting the rule. Under APA \u00a7 553, an agency must disclose the empirical data and factual studies on which a proposed rule relies in time for meaningful public comment. Withholding the primary environmental consequences analysis makes informed public input impossible and renders any subsequent final rule arbitrary and capricious.\n\n2. Improper Elimination of Site-Specific NEPA Review and Overextension of Programmatic Tiering (\u00a7 3139.7(c), 91 FR 57109)\nSection 3139.7(c) provides that a qualification determination 'confirms that the environmental effects... fall within the scope of impacts analyzed in the EIS' and that '[n]o additional project-level NEPA analysis or documentation is required.' This blanket preemption violates NEPA. Programmatic tiering cannot substitute for site-specific evaluations when localized surface disturbance, hydrological cross-drainage, and critical habitat destruction vary drastically across 25-mile radial expanses. A generic 'analyzed design envelope' fails to take the requisite 'hard look' at site-specific impacts mandated by 40 CFR 1501.11.\n\n3. Arbitrary 25-Mile Proximity Criterion and Unchecked 'Leapfrogging' Infrastructure (\u00a7 3139.4(b), 91 FR 57108)\nSection 3139.4(b) establishes eligibility for any site within 25 miles of 'existing permanent oil and gas infrastructure.' Because \u00a7 3139.3 defines permanent infrastructure to include newly permitted production pads, each streamlined approval creates a new 25-mile radius anchor. This structural defect allows continuous westward 'leapfrogging' across the NPR-A without landscape-level NEPA analysis, directly contradicting BLM's claim that development will remain tightly bounded near existing facilities.\n\n4. Undue Compression of Statutory Consultations within a 60-Day Window (\u00a7 3139.5(e), 91 FR 57108)\nSection 3139.5(e) mandates that BLM issue an approval or approval with conditions within 60 days of receiving a complete application. This rigid timeline arbitrarily constrains required statutory reviews under ANILCA \u00a7 810, Section 106 of the National Historic Preservation Act (NHPA), and Section 7 of the Endangered Species Act (ESA), undermining the trust responsibility owed to Alaska Native Tribes.\n\nIII. PROPOSED AMENDMENTS AND ALTERNATIVE REGULATORY TEXT\n\nTo remedy these legal and environmental defects, BLM must revise the regulatory text of Subpart 3139 as follows:\n\n1. Revise \u00a7 3139.4(b) to eliminate leapfrogging infrastructure:\n'\u00a7 3139.4(b) The entire location of the proposed production site must be located within 10 miles of permanent oil and gas infrastructure that was constructed and operational prior to September 8, 2026. Infrastructure approved or constructed pursuant to this subpart shall not serve as anchor infrastructure for subsequent qualified production sites.'\n\n2. Amend \u00a7 3139.7(c) to restore site-specific NEPA review:\n'\u00a7 3139.7(c) Upon receipt of a qualified application under this subpart, the BLM shall prepare a site-specific Environmental Assessment (EA) tiered to the rulemaking EIS to determine whether unique site-specific impacts, localized subsistence disruptions, or extraordinary circumstances require a supplemental EIS or site-specific mitigation measures.'\n\n3. Amend \u00a7 3139.5(e) to permit sufficient review time:\n'\u00a7 3139.5(e) The BLM shall issue a decision on an application within 120 days of receiving a complete application, provided all required consultations under Section 810 of ANILCA, Section 106 of the NHPA, and Section 7 of the ESA are fully completed.'\n\nIV. CONCLUSION\nBLM must halt finalization of Subpart 3139 until the full Draft EIS (including Chapters 3 and 4) is published for a 90-day public comment period, and the regulatory text is amended to ensure rigorous site-specific environmental review and protection of Alaska Native subsistence rights.",
+      "sponsors": [
+        {
+          "organization_name": "Trustees for Alaska",
+          "email_contacts": [
+            "info@trustees.org",
+            "legal@trustees.org"
+          ],
+          "reason_for_contact": "Public interest environmental law firm in Alaska specializing in defending Arctic ecosystems and challenging federal procedural and NEPA violations."
+        },
+        {
+          "organization_name": "Native Village of Nuiqsut",
+          "email_contacts": [
+            "nuiqsut.tribal@gmail.com",
+            "admin@nativevillageofnuiqsut.org"
+          ],
+          "reason_for_contact": "Indigenous local government directly impacted by industrial encroachment, air pollution, and subsistence hunting disruptions from NPR-A oil development."
+        },
+        {
+          "organization_name": "Northern Alaska Environmental Center",
+          "email_contacts": [
+            "info@northern.org",
+            "cleanarctic@northern.org"
+          ],
+          "reason_for_contact": "Regional conservation advocacy organization focused on protecting public lands, wilderness values, and Arctic watersheds from rapid oil and gas expansion."
+        },
+        {
+          "organization_name": "Audubon Alaska",
+          "email_contacts": [
+            "audubonalaska@audubon.org",
+            "conservation@audubon.org"
+          ],
+          "reason_for_contact": "Science-based conservation organization committed to protecting critical bird habitats, wetlands, and Special Areas like Teshekpuk Lake within the NPR-A."
+        }
+      ]
+    }
+  },
+  {
     "id": "FAA-2026-10990-0001",
     "agency": "FAA",
     "title": "Modernizing Medical Standards for Non-Insulin Dependent Diabetes Mellitus Cases",
