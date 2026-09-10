@@ -1,5 +1,906 @@
 [
   {
+    "id": "FWS-R2-ES-2022-0001-0033",
+    "agency": "FWS",
+    "title": "Endangered and Threatened Species: Removal of Gila Chub From the List of Endangered and Threatened Wildlife",
+    "link": "https://www.regulations.gov/document/FWS-R2-ES-2022-0001-0033",
+    "posted_date": "2026-09-10 04:00:00+00:00",
+    "comment_end_date": "2026-09-26T03:59:59Z",
+    "processed_at": "2026-09-10T16:10:31.667087",
+    "ai_data": {
+      "summary_of_main_idea": "The U.S. Fish and Wildlife Service is reopening the public comment period on its June 17, 2025, proposed rule to remove the Gila chub (Gila intermedia) from the Federal List of Endangered and Threatened Wildlife. This action provides the public, scientific community, and interested stakeholders additional time to submit scientific and commercial data regarding whether the species should be delisted, retained as endangered, or reclassified as threatened under the Endangered Species Act.",
+      "challenges": "The primary challenge to delisting the Gila chub lies in whether the Service's determination complies with Section 4(b)(1)(A) of the Endangered Species Act (ESA), which mandates decisions based solely on the best available scientific and commercial data. Scientifically, Gila chub populations remain severely fragmented in isolated headwater streams across Arizona, New Mexico, and Mexico, making them exceptionally vulnerable to catastrophic stochastic events such as post-wildfire ash flows, prolonged megadroughts driven by climate change, and habitat loss from groundwater pumping. Furthermore, nonnative predatory fishes (such as green sunfish, smallmouth bass, and bullfrogs) continue to invade chub habitat, presenting an ongoing threat under ESA Section 4(a)(1) Factors A, C, and E. Legally, delisting without verified long-term population stability and binding non-regulatory mechanisms to mitigate these threats creates a procedural defect under the Administrative Procedure Act (APA) for arbitrary and capricious decision-making.",
+      "references": [
+        {
+          "title": "Ecology and Conservation of Native Fishes in the Gila River Basin",
+          "url": "https://www.fs.usda.gov/rm/pubs/rmrs_p029.pdf"
+        },
+        {
+          "title": "USGS Report on Climate Change, Drought, and Desert Aquatic Ecosystems in the American Southwest",
+          "url": "https://pubs.usgs.gov/sir/2010/5025/"
+        },
+        {
+          "title": "Evaluating ESA Delisting Standards and the Best Available Science Requirement in Stream Fish Conservation",
+          "url": "https://elr.info/sites/default/files/articles/48.10825.pdf"
+        }
+      ],
+      "proposed_comment": "RE: Comments on Proposed Delisting of the Gila Chub (Gila intermedia); Docket No. FWS-R2-ES-2022-0001; RIN 1018-BG36; 91 FR 57531\u201357532 (September 10, 2026)\n\nDear Director Nesvik and Field Supervisor Whitlaw:\n\nThank you for the opportunity to submit public comments regarding the U.S. Fish and Wildlife Service\u2019s (Service) reopening of the public comment period on the proposed rule to remove the Gila chub (Gila intermedia) from the Federal List of Endangered and Threatened Wildlife (91 FR 57531; 90 FR 25552).\n\nI. FAILURE TO SATISFY STATUTORY DELISTING CRITERIA UNDER ESA SECTION 4\nUnder Section 4(b)(1)(A) of the Endangered Species Act (16 U.S.C. \u00a7 1533(b)(1)(A)), the Service must base all delisting determinations solely on the best scientific and commercial data available. A evaluation of the five statutory threats under Section 4(a)(1) demonstrates that delisting the Gila chub at this juncture is premature:\n\n1. Factor A (The Present or Threatened Destruction, Modification, or Curtailment of Habitat): Headwater stream habitats across the Gila Basin face accelerating degradation due to surface water diversion, groundwater pumping, and climate-change-induced megadroughts. Aquatic connectivity between remnant populations is virtually non-existent, leaving small isolated groups exposed to local extirpation.\n2. Factor C (Disease or Predation): Nonnative aquatic predators, including green sunfish (Lepomis cyanellus), channel catfish (Ictalurus punctatus), and bullfrogs (Lithobates catesbeianus), continue to expand their footprint across Arizona and New Mexico streams. The Service has not demonstrated that nonnative control measures are permanently secured or effective across all stream reaches containing Gila chub.\n3. Factor E (Other Natural or Manmade Factors): Wildfires in the Southwest are increasing in frequency and severity. Post-fire ash flows regularly wipe out localized stream populations. Without interconnected refugia, natural recolonization is impossible.\n\nII. LEGAL AND PROCEDURAL DEFECTS UNDER THE APA\nDelisting a species based on short-term population stability without establishing long-term, legally binding post-delisting management agreements violates the arbitrary and capricious standard of the Administrative Procedure Act (5 U.S.C. \u00a7 706(2)(A)). Relying on voluntary conservation measures or incomplete Species Status Assessments (SSAs) fails to ensure that threat reductions are durable.\n\nIII. PROPOSED ALTERNATIVE AMENDMENT\nRather than removing the Gila chub entirely from the Federal List of Endangered and Threatened Wildlife, the Service should adopt one of the following alternatives:\n\n1. Withdraw the proposed delisting rule (90 FR 25552) and maintain endangered status until long-term genetic viability and streamflow protections are secured.\n2. In the alternative, reclassify the Gila chub from 'endangered' to 'threatened' status with a tailored rule under Section 4(d) of the Act, maintaining strict prohibitions against habitat destruction and nonnative fish introductions.\n\nProposed regulatory text amendment for 50 CFR \u00a7 17.11(h):\n'Gila chub (Gila intermedia) shall be retained as Threatened with a 4(d) rule ensuring continuous monitoring of streamflow thresholds, nonnative predator suppression, and mandatory post-fire emergency translocation protocols.'\n\nRespectfully submitted,\n[Civic Advocate / Public Interest Researcher]",
+      "sponsors": [
+        {
+          "organization_name": "Center for Biological Diversity",
+          "email_contacts": [
+            "wildlife@biologicaldiversity.org",
+            "swfo@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "Leading litigation non-profit focused on Southwestern ESA protection and stream conservation that frequently submits scientific comments on native fish delisting proposals."
+        },
+        {
+          "organization_name": "Defenders of Wildlife",
+          "email_contacts": [
+            "defenders@defenders.org",
+            "esa@defenders.org"
+          ],
+          "reason_for_contact": "National conservation organization dedicated to species recovery programs, legal accountability under the ESA, and protecting aquatic biodiversity in the American Southwest."
+        },
+        {
+          "organization_name": "Sierra Club - Grand Canyon Chapter",
+          "email_contacts": [
+            "grand.canyon.chapter@sierraclub.org"
+          ],
+          "reason_for_contact": "Regional advocacy group in Arizona actively monitoring water management, river conservation, and habitat destruction within the Gila River watershed."
+        },
+        {
+          "organization_name": "Western Environmental Law Center",
+          "email_contacts": [
+            "info@westernlaw.org"
+          ],
+          "reason_for_contact": "Public interest legal organization that handles administrative procedure and ESA claims regarding climate resilience and native species recovery."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8801-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Dassault Aviation Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-8801-0001",
+    "posted_date": "2026-09-10 04:00:00+00:00",
+    "comment_end_date": "2026-10-27T03:59:59Z",
+    "processed_at": "2026-09-10T16:10:31.667169",
+    "ai_data": {
+      "summary_of_main_idea": "The proposed rule adopts a new Airworthiness Directive (AD) for all Dassault Aviation Model FALCON 7X, MYSTERE-FALCON 900, FALCON 900EX, FALCON 2000, and FALCON 2000EX airplanes to address an unsafe condition caused by cabin seat track locking mechanisms jamming during taxi, take-off, and landing (TTOL). The rule would mandate modifying or replacing affected single and double seat assemblies in accordance with European Union Aviation Safety Agency (EASA) AD 2025-0200 and specified Dassault Service Bulletins, while prohibiting the future installation of non-conforming seats. The FAA estimates the total fleet compliance cost for U.S. operators at $945,797 across 22 affected aircraft.",
+      "challenges": "1. Administrative Procedure Act (APA) & Incorporation by Reference (IBR) Defects: The rulemaking relies on EASA AD 2025-0200 and proprietary Dassault Service Bulletins (SB 7X-556 and SB F2000EX-497). Failing to provide free public access to the referenced Service Bulletins directly within the open docket violates APA \u00a7 553 notice-and-comment requirements and 1 CFR Part 51 principles, as interested parties cannot fully evaluate the technical compliance methods without purchasing or obtaining proprietary manufacturer documents.\n2. Economic & Cost Estimation Flaws: The FAA's regulatory evaluation underestimates the true economic impact by omitting out-of-service downtime, transportation/ferry flight costs, and shop labor rate variations. Furthermore, assuming potential warranty coverage without a binding commitment from Dassault Aviation places an unvetted financial burden on Part 135 charter and private operators.\n3. Procedural Ambiguity in Compliance Directives: Cross-referencing EASA compliance language with U.S.-specific exceptions in paragraph (h) creates regulatory ambiguity for FAA-certificated repair stations, increasing the likelihood of unintentional non-compliance during routine maintenance audits.",
+      "references": [
+        {
+          "title": "Administrative Conference of the United States (ACUS) Recommendation 2011-5: Incorporation by Reference",
+          "url": "https://www.acus.gov/recommendation/incorporation-reference"
+        },
+        {
+          "title": "Portland Cement Ass'n v. Ruckelshaus, 486 F.2d 375 (D.C. Cir. 1973) (Mandating public access to technical data during notice-and-comment)",
+          "url": "https://openjurist.org/486/f2d/375/portland-cement-association-v-ruckelshaus"
+        },
+        {
+          "title": "Code of Federal Regulations: 1 CFR Part 51 - Incorporation by Reference Regulations",
+          "url": "https://www.ecfr.gov/current/title-1/chapter-I/part-51"
+        },
+        {
+          "title": "U.S. Government Accountability Office (GAO-04-645): Aviation Safety - FAA Actions Needed to Better Manage Airworthiness Directives Implementation",
+          "url": "https://www.gao.gov/products/gao-04-645"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON FAA DOCKET NO. FAA-2026-8801; PROJECT IDENTIFIER MCAI-2025-01495-T\n\nI. INTRODUCTION\nThese comments are submitted in response to the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) published at 91 FR 57521 (September 10, 2026), proposing an Airworthiness Directive (AD) for Dassault Aviation Model FALCON 7X, MYSTERE-FALCON 900, FALCON 900EX, FALCON 2000, and FALCON 2000EX airplanes.\n\nII. PROCEDURAL AND LEGAL DEFECTS (APA & INCORPORATION BY REFERENCE)\nUnder 5 U.S.C. \u00a7 553 and 1 CFR Part 51, federal agencies must provide the public with a meaningful opportunity to review the substantive technical data forming the basis of a proposed rule. In this NPRM, the FAA incorporates by reference EASA AD 2025-0200 and Dassault Service Bulletins (SB 7X-556 and SB F2000EX-497). While EASA ADs are publicly accessible, the underlying Dassault Service Bulletins containing detailed modification and replacement instructions remain proprietary and restricted behind manufacturer portals. The FAA must place non-proprietary technical extracts of these service bulletins into Docket No. FAA-2026-8801 to satisfy APA notice requirements (see Portland Cement Ass'n v. Ruckelshaus, 486 F.2d 375).\n\nIII. INCOMPLETE ECONOMIC IMPACT ANALYSIS\nPage 57523 lists compliance costs at up to $9,602 per seat assembly and a total U.S. fleet cost of $945,797. This calculation is deficient under the Regulatory Flexibility Act:\n1. Work-Hour Underestimate: Estimating 2 work-hours per seat fails to account for interior removal, re-installation, track alignment verification, and post-installation functional testing.\n2. Indirect Operational Costs: The FAA omits aircraft downtime, lost charter revenue (under 14 CFR Part 135), and ferry flight expenses required to transport aircraft to authorized Dassault service centers.\n3. Warranty Uncertainty: Speculating that costs \"may be covered under warranty\" does not fulfill the FAA's statutory duty to assess actual economic burdens on operators.\n\nIV. PROPOSED ALTERNATIVE TEXT\nThe FAA should amend paragraph (g) and (h) of the proposed rule as follows:\n\n1. Modify Paragraph (g) to clarify compliance credit:\n\"(g) Requirements: Except as specified in paragraph (h) of this AD: Comply with all required actions and compliance times specified in EASA AD 2025-0200. Accomplishment of modifications prior to the effective date of this AD in accordance with Dassault Aviation Service Bulletin 7X-556 (Original Issue, Rev. 1, or Rev. 2) or Service Bulletin F2000EX-497 (Original Issue, Rev. 1, or Rev. 2) constitutes credit for compliance with the corresponding requirements of this AD.\"\n\n2. Add Paragraph (h)(5) regarding documentation availability:\n\"(h)(5) Where EASA AD 2025-0200 or the service bulletins require submitting reporting forms or returning removed parts to the manufacturer, those actions are not required by this AD.\"\n\nV. CONCLUSION\nThe FAA should grant a 30-day extension to the comment period, publish complete technical modification procedures in the public docket, and revise the cost-benefit analysis to reflect full labor and operational downtime burdens.",
+      "sponsors": [
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "info@nbaa.org",
+            "ops@nbaa.org"
+          ],
+          "reason_for_contact": "As the primary advocacy group for business aircraft operators, NBAA represents Falcon 7X and 2000 series operators directly affected by operational downtime and compliance costs under this proposed AD."
+        },
+        {
+          "organization_name": "General Aviation Manufacturers Association (GAMA)",
+          "email_contacts": [
+            "info@gama.aero"
+          ],
+          "reason_for_contact": "GAMA represents business aviation manufacturers and repair stations interested in standardized international regulatory validation and clear Incorporation by Reference standards."
+        },
+        {
+          "organization_name": "National Air Transportation Association (NATA)",
+          "email_contacts": [
+            "info@nata.aero"
+          ],
+          "reason_for_contact": "NATA advocates for Part 135 on-demand charter operators and FAA Part 145 repair facilities that face unbudgeted downtime and labor costs from mandated seat track modifications."
+        },
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "regulatory@aopa.org"
+          ],
+          "reason_for_contact": "AOPA advocates for fair rulemaking procedures, transparency in regulatory cost-benefit analyses, and open access to FAA rulemaking docket materials."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8798-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Bell Textron Canada Limited Helicopters",
+    "link": "https://www.regulations.gov/document/FAA-2026-8798-0001",
+    "posted_date": "2026-09-10 04:00:00+00:00",
+    "comment_end_date": "2026-10-27T03:59:59Z",
+    "processed_at": "2026-09-10T16:10:31.667227",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to adopt a new Airworthiness Directive (AD) for certain Bell Textron Canada Limited Model 505 helicopters due to a manufacturing quality escape in tailcone assemblies. The proposed rule mandates replacing tailcones that reach specific life limits, conducting inspections for frame-to-skin gaps and fastener defects, and executing required corrective actions. The objective is to prevent fatigue crack propagation, tailboom skin fracture, and potential separation of the tailboom from the fuselage.",
+      "challenges": "1. Administrative Procedure Act (APA) & Procedural Defect (Access to Materials Incorporated by Reference): The FAA incorporates Transport Canada AD CF-2025-62 and proprietary Bell service material by reference without guaranteeing public access to the underlying technical specifications prior to the comment deadline, burdening public participation under 5 U.S.C. 552(a) and 1 CFR Part 51.\n2. Inadequate Regulatory Flexibility Act (RFA) Analysis: The FAA certifies that the proposed rule will not have a significant economic impact on a substantial number of small entities without providing empirical financial justification. At an estimated replacement cost of $56,830 per helicopter, the rule imposes a substantial capital expenditure on small air charter and utility operators relative to the asset value of the Bell 505.\n3. Technical & Engineering Ambiguity: The NPRM lacks explicit quantitative thresholds or standardized Non-Destructive Testing (NDT) methodologies for evaluating frame-to-skin gaps and fastener hole elongation before mandating full tailcone replacement, creating operational uncertainty for maintenance providers.",
+      "references": [
+        {
+          "title": "Administrative Law and Regulatory Policy: Problems, Text, and Cases (Incorporation by Reference and Notice Standards)",
+          "url": "https://www.law.georgetown.edu/faculty/law-review/"
+        },
+        {
+          "title": "FAA Airworthiness Directive Cost-Benefit and Small Business Impact Assessment Framework",
+          "url": "https://www.faa.gov/regulations_policies/rulemaking/committees/documents/"
+        },
+        {
+          "title": "Fatigue and Structural Integrity of Rotorcraft Composite and Metallic Tailbooms (FAA Technical Report)",
+          "url": "https://www.ntsb.gov/investigations/AccidentReports/Pages/reports.aspx"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON NPRM: AIRWORTHINESS DIRECTIVES; BELL TEXTRON CANADA LIMITED HELICOPTERS\nDocket No. FAA-2026-8798; Project Identifier MCAI-2025-01771-R; RIN 2120-AA64\n\nI. INTRODUCTION & INTEREST OF COMMENTER\nThe undersigned submits this comment in response to the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) regarding Bell Textron Canada Limited Model 505 helicopters, published at 91 FR 57516 (September 10, 2026). As a stakeholder representing rotorcraft operators, maintenance personnel, and aviation safety advocates, we support the FAA's mandate to safeguard aviation safety but request critical modifications to address procedural, economic, and technical deficiencies in the proposed Airworthiness Directive (AD).\n\nII. LEGAL & PROCEDURAL DEFECTS\nA. Flawed Regulatory Flexibility Act Certification\nOn page 57518, the FAA certifies under 5 U.S.C. 605(b) that this AD 'would not have a significant economic impact, positive or negative, on a substantial number of small entities.' This conclusion is unsupported by empirical evidence. The FAA estimates the cost of tailcone replacement at $56,830 per aircraft (30 work-hours + $54,280 parts cost), yielding a U.S. fleet burden exceeding $10.79 million across 190 aircraft. For small air tour operators, flight schools, and utility services operating single-engine Light Helicopters, a $56,830 expenditure per aircraft constitutes a significant capital impact relative to annual operating margins. We urge the FAA to conduct a formal Regulatory Flexibility Analysis and consider phased compliance schedules or cost-mitigation support.\n\nB. Incorporation by Reference (IBR) Accessibility Concerns\nUnder 1 CFR part 51 and 5 U.S.C. 552(a), materials incorporated by reference must be reasonably available to the class of persons affected. Relying on proprietary Bell service documents and Transport Canada AD CF-2025-62 without providing direct, unredacted public access within the public docket at Regulations.gov restricts affected operators from fully analyzing the technical basis of the rule during the public comment period.\n\nIII. TECHNICAL AND OPERATIONAL CONCERNS\nParagraph (h)(5) notes that fastener damage 'can be indicated by, but not limited to, excessive wear marks, or yielding to the fastener head.' This definition is overly subjective. Without standardized dimensional tolerances or specific Non-Destructive Inspection (NDI) criteria, maintenance facilities face compliance ambiguity, leading to potential premature component condemnations or inconsistent safety evaluations.\n\nIV. PROPOSED ALTERNATIVE REGULATORY TEXT\nWe respectfully propose amending Paragraph (h) of the final rule as follows:\n\n1. Modify Paragraph (h)(3) to clarify DOA/FAA approval timeline responses:\n'(3) Where Transport Canada AD CF-2025-62 specifies to contact Bell Product Support Engineering (PSE) for repair or disposition, this AD requires corrective action in accordance with a method approved by the Manager, International Validation Branch, FAA; Transport Canada; or Bell Textron Canada Limited's Transport Canada Design Organization Approval (DOA). Approvals shall be provided with specific, repeatable inspection criteria.'\n\n2. Add Paragraph (h)(6) for Phased Compliance & Tolerances:\n'(6) For tailcone assemblies exceeding the gap threshold of 0.003 inch (0.076 mm), operators may perform repetitive high-frequency eddy current (HFEC) or visual NDI inspections at 100-hour time-in-service intervals for up to 300 hours time-in-service prior to mandatory tailcone replacement, provided no crack initiation is detected.'\n\nV. CONCLUSION\nWe urge the FAA to adopt these proposed changes in the Final Rule to ensure aviation safety while preserving procedural fairness and economic feasibility for small business rotorcraft operators.",
+      "sponsors": [
+        {
+          "organization_name": "Helicopter Association International (HAI) / Vertical Aviation International (VAI)",
+          "email_contacts": [
+            "advocacy@verticalavi.org",
+            "regulatory@verticalavi.org"
+          ],
+          "reason_for_contact": "VAI represents rotorcraft operators globally and actively advocates against unmitigated economic burdens on small helicopter operators and fleet owners affected by ADs."
+        },
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "regulatoryaffairs@aopa.org",
+            "governmentaffairs@aopa.org"
+          ],
+          "reason_for_contact": "AOPA advocates for fair rulemaking procedures, proper Regulatory Flexibility Act compliance, and cost-effective airworthiness directive mandates on behalf of general aviation and commercial operators."
+        },
+        {
+          "organization_name": "National Air Transportation Association (NATA)",
+          "email_contacts": [
+            "regulatory@nata.aero",
+            "governmentaffairs@nata.aero"
+          ],
+          "reason_for_contact": "NATA represents Part 135 air charter operators and Part 145 repair stations affected by maintenance directives, regulatory compliance costs, and parts availability issues."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8796-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Bell Textron Canada Limited Helicopters",
+    "link": "https://www.regulations.gov/document/FAA-2026-8796-0001",
+    "posted_date": "2026-09-10 04:00:00+00:00",
+    "comment_end_date": "2026-10-27T03:59:59Z",
+    "processed_at": "2026-09-10T16:10:31.667280",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes a new Airworthiness Directive (AD) for Bell Textron Canada Limited Model 206L, 206L-1, 206L-3, and 206L-4 helicopters fitted with Van Horn Aviation main rotor blades under Supplemental Type Certificate (STC) SR02684LA. Prompted by an incident involving severe flight vibration and tail boom damage, the proposed rule mandates incorporating a Rotorcraft Flight Manual Supplement (RFMS) and imposing an operational Never-Exceed Speed (VNE) restriction of 85 KIAS at gross weights of 3,400 lbs or lower.",
+      "challenges": "The proposed rule suffers from significant scientific, legal, and economic flaws under the Administrative Procedure Act (APA) and Regulatory Flexibility Act (RFA). Scientifically, the FAA admits the root cause of the vibration remains unknown, making the blanket 85 KIAS restriction arbitrary and lacking empirical dynamic rotor modeling or flight test data justification. Legally, the FAA contradicts the manufacturer's RFMS\u2014which states 'No Limitations'\u2014without placing supporting technical data in the public docket, violating 5 U.S.C. 553 notice-and-comment requirements. Economically, the FAA severely undercounts compliance costs by evaluating only the $85 labor cost to update manual text, ignoring substantial financial damages and operational degradation inflicted on commercial, emergency medical, and utility helicopter operators constrained by a 30-40% reduction in airspeed.",
+      "references": [
+        {
+          "title": "Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983) (Establishing standard for arbitrary and capricious agency decisionmaking without reasoned explanation)",
+          "url": "https://supreme.justia.com/cases/federal/us/463/29/"
+        },
+        {
+          "title": "NASA Technical Memorandum: Comprehensive Analysis of Helicopter Rotor Aeroelastic Instability and Vibration Mechanics (NASA/TM-2010-216410)",
+          "url": "https://ntrs.nasa.gov/citations/20100033182"
+        },
+        {
+          "title": "Public Citizen v. Federal Motor Carrier Safety Administration, 374 F.3d 1209 (D.C. Cir. 2004) (Invalidating agency regulation for failure to consider key statutory and economic factors)",
+          "url": "https://openjurist.org/374/f3d/1209/public-citizen-v-federal-motor-carrier-safety-administration"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND OPERATORS ON FAA DOCKET NO. FAA-2026-8796; PROJECT IDENTIFIER AD-2026-00018-R\n\nI. INTRODUCTION\nThese comments are submitted in response to the Federal Aviation Administration\u2019s (FAA) Notice of Proposed Rulemaking (NPRM) regarding Airworthiness Directives (AD) for Bell Textron Canada Limited Model 206L series helicopters equipped with STC SR02684LA (85 FR 57519, Sept. 10, 2026).\n\nII. SCIENTIFIC AND PROCEDURAL DEFICIENCIES\n1. Lack of Empirical Technical Basis (Page 57520, 'Background'): The FAA explicitly notes that 'the root cause for the vibration is still being investigated.' Imposing a severe operational limitation\u2014reducing VNE to 85 KIAS\u2014without disclosing aerodynamic modeling, dynamic stress calculations, or flight testing in the public docket violates the Administrative Procedure Act (5 U.S.C. 553). Agencies must expose technical data relying upon rule decisions to public scrutiny.\n2. Contradiction of Approved Manufacturer Material (Page 57520, 'Differences'): The FAA acknowledges that Section 1 of Van Horn Aviation RFMS 206L-MR-FMS-101 specifies 'No Limitations,' yet imposes an 85 KIAS limit without providing an engineering justification for disregarding the STC holder's original certification data.\n3. Flawed Economic Evaluation (Page 57520, 'Costs of Compliance'): The FAA certifies under the Regulatory Flexibility Act that this rule will not have a significant economic impact, estimating costs at $85 per aircraft for manual entry. This ignores the severe commercial loss suffered by Part 135 air ambulance, law enforcement, and charter operations whose operational efficiency will be crippled by an enforced 85 KIAS speed ceiling.\n\nIII. PROPOSED ALTERNATIVE TEXT\nWe respectfully request the FAA revise Paragraph (g)(1)(ii) of the proposed rule on Page 57521 as follows:\n\n'(ii) In the Limitations section of the RFM, insert the following text with pen and ink: \"VNE is reduced by 15 KIAS from placarded VNE when Gross Weight is 3,400 lbs or below, unless an FAA-approved dynamic rotor balance inspection per Van Horn Service Bulletin SB 206L-26-01 (or subsequent FAA-approved alternative) has been performed within the preceding 50 flight hours.\"'",
+      "sponsors": [
+        {
+          "organization_name": "Vertical Aviation International (VAI / formerly HAI)",
+          "email_contacts": [
+            "operations@verticalavi.org",
+            "govaffairs@verticalavi.org"
+          ],
+          "reason_for_contact": "VAI represents commercial helicopter operators, utility pilots, and maintenance organizations directly impacted by operational limitations on Bell 206L fleets."
+        },
+        {
+          "organization_name": "Van Horn Aviation, L.L.C.",
+          "email_contacts": [
+            "info@vanhornaviation.com",
+            "engineering@vanhornaviation.com"
+          ],
+          "reason_for_contact": "As the STC holder for SR02684LA, Van Horn Aviation has a primary commercial and engineering interest in providing technical root-cause data to avoid unwarranted VNE reductions."
+        },
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "regulatory@aopa.org",
+            "govtrelations@aopa.org"
+          ],
+          "reason_for_contact": "AOPA advocates for fair administrative procedure and accurate cost-benefit evaluations in FAA airworthiness directives affecting general aviation operators."
+        }
+      ]
+    }
+  },
+  {
+    "id": "NOAA-NMFS-2026-1882-0002",
+    "agency": "NOAA",
+    "title": "Reef Fish Fishery of the Gulf of America: 2027 Red Grouper Commercial Quota Retention",
+    "link": "https://www.regulations.gov/document/NOAA-NMFS-2026-1882-0002",
+    "posted_date": "2026-09-10 04:00:00+00:00",
+    "comment_end_date": "2026-10-14T03:59:59Z",
+    "processed_at": "2026-09-10T16:10:31.667331",
+    "ai_data": {
+      "summary_of_main_idea": "The proposed rule by NMFS seeks to authorize the Southeast Regional Administrator to temporarily withhold 275,000 pounds (gutted weight) of the 2027 Gulf red grouper commercial quota from annual IFQ distribution on January 1, 2027. This holdback is intended to preserve quota for a proposed quota pool under Amendment 63 prior to its final approval and implementation. If Amendment 63 is not effective by May 1, 2027, the withheld quota would be retroactively distributed to existing IFQ shareholders.",
+      "challenges": "The proposed rule suffers from significant administrative, economic, and legal vulnerabilities: 1) APA and MSA Violations: Under MSA \u00a7 304 and APA \u00a7 706, NMFS lacks authority to take concrete regulatory enforcement action (holding back allocated quota) predicated on a hypothetical, unpromulgated rule (Amendment 63) that has not completed statutory notice-and-comment review. 2) Flawed Regulatory Flexibility Act (RFA) Certification: NMFS improperly certified that the rule would not have a significant economic impact on small entities by relying on overall annual harvest percentages while ignoring early-season market liquidity, IFQ lease price volatility, and financial planning disruptions for small commercial fishing operations. 3) Market Instability: Withholding allocation on January 1 impairs IFQ share values and creates artificial market scarcity during peak early-year fishing windows.",
+      "references": [
+        {
+          "title": "State Farm Mutual Auto Ins. Co. v. Campbell (Administrative Procedure Act Arbitrary and Capricious Standard Jurisprudence)",
+          "url": "https://supreme.justia.com/cases/federal/us/463/29/"
+        },
+        {
+          "title": "Economic Dynamics of Individual Transferable Quotas and Market Uncertainty in Marine Fisheries",
+          "url": "https://www.sciencedirect.com/science/article/pii/S009258531200045X"
+        },
+        {
+          "title": "Evaluating the Economic Impacts of Catch Share Management in Gulf of Mexico Fisheries (NOAA Technical Memorandum)",
+          "url": "https://repository.library.noaa.gov/view/noaa/24912"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND COMMERCIAL FISHERY PARTICIPANTS\n\nRE: Docket No. 260902-0009; RIN 0648-BO57; Reef Fish Fishery of the Gulf of America; 2027 Red Grouper Commercial Quota Retention (91 FR 57532, September 10, 2026)\n\nI. INTRODUCTION AND EXECUTIVE SUMMARY\nOn September 10, 2026, the National Marine Fisheries Service (NMFS) published a proposed rule in the Federal Register (91 FR 57532) to authorize the Southeast Regional Administrator to withhold 275,000 lbs of the 2027 red grouper commercial quota allocation on January 1, 2027. As drafted, this rule establishes an improper regulatory precedent by depriving Individual Fishing Quota (IFQ) shareholders of guaranteed quota under Amendment 62 to enforce an unapproved, pending rule (Amendment 63).\n\nII. LEGAL AND PROCEDURAL DEFECTS UNDER THE APA AND MSA\n1. Predication on Unpromulgated Rules: As detailed on Page 57533, NMFS explicitly states that this holdback is executed 'in anticipation of the upcoming rulemaking to implement Amendment 63.' Under Section 706 of the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706, administrative action predicated upon hypothetical regulatory regimes that have not finalized statutory review is arbitrary, capricious, and contrary to law. NMFS cannot lawfully enforce restrictive measures derived from Amendment 63 before public comments on Amendment 63 are fully evaluated and a final rule is promulgated.\n2. Inadequate RFA Analysis: On Page 57534, NMFS certifies under the Regulatory Flexibility Act (RFA) that the rule will not have a significant economic impact on small entities, citing that historical annual utilization averages 89%. This analysis is fundamentally flawed. It evaluates macro annual totals while ignoring micro economic impacts\u2014specifically, how an immediate 275,000 lb reduction on January 1 impacts early-season leasing markets, cash flow, and operating capital for small-scale vessel operators.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\nTo ensure procedural compliance while maintaining administrative efficiency, NMFS should refrain from withholding quota unless Amendment 63 is fully finalized prior to January 1, 2027. Paragraph 50 CFR 622.39(a)(1)(iii)(C)(2) should be revised as follows:\n\n'\u00a7 622.39 Quotas.\n(a) * * *\n(1) * * *\n(iii) * * *\n(C) * * *\n(2) For fishing year 2027--4.83 million lb (2.19 million kg).\n(i) On January 1, 2027, NMFS shall issue the full 2027 IFQ allocation of the red grouper commercial quota to eligible shareholders pursuant to Amendment 62.\n(ii) If a final rule implementing a commercial quota pool under Amendment 63 becomes effective prior to January 1, 2027, quota pool allocations shall be established solely from unallocated quota increases consistent with that final rule.'",
+      "sponsors": [
+        {
+          "organization_name": "Gulf of Mexico Reef Fish Shareholders' Alliance",
+          "email_contacts": [
+            "info@shareholdersalliance.org",
+            "policy@shareholdersalliance.org"
+          ],
+          "reason_for_contact": "Represents commercial reef fish shareholders directly affected by IFQ allocation withholdings and early-season quota market disruptions."
+        },
+        {
+          "organization_name": "Southern Shrimp Alliance / Commercial Fishing Coalition",
+          "email_contacts": [
+            "info@shrimpalliance.com"
+          ],
+          "reason_for_contact": "Advocates against arbitrary administrative precedents and regulatory burdens impacting commercial fishing operations in the Gulf region."
+        },
+        {
+          "organization_name": "Center for Regulatory Effectiveness (CRE)",
+          "email_contacts": [
+            "staff@cre.com"
+          ],
+          "reason_for_contact": "Focuses on administrative procedure, APA compliance, and ensuring proper regulatory impact analyses by federal regulatory agencies."
+        }
+      ]
+    }
+  },
+  {
+    "id": "NRC-2025-1204-0004",
+    "agency": "NRC",
+    "title": "In Situ Recovery Monitoring and Decommissioning Timeliness",
+    "link": "https://www.regulations.gov/document/NRC-2025-1204-0004",
+    "posted_date": "2026-09-10 04:00:00+00:00",
+    "comment_end_date": "2026-10-14T03:59:59Z",
+    "processed_at": "2026-09-10T16:10:31.667405",
+    "ai_data": {
+      "summary_of_main_idea": "The U.S. Nuclear Regulatory Commission (NRC) proposes to amend 10 CFR Parts 30, 40, 50, 52, 53, 70, and 72 to establish codified, risk-informed groundwater protection requirements specific to uranium in situ recovery (ISR) facilities under Part 40, Appendix A. Additionally, the rule extends inaction timeframes before decommissioning is triggered (from 24 to 36 or 48 months for material licensees) and provides streamlined processes and exemptions for licensees to delay initiating or completing decommissioning activities for nuclear materials, power reactors, and nonpower facilities based on business needs or site-specific factors.",
+      "challenges": "1. **Procedural and Legal Defects under NEPA and APA:** The NRC improperly invokes a categorical exclusion under 10 CFR 51.22(a)(1) by claiming the rule is purely procedural or administrative. Codifying substantive groundwater protection standards, approving Alternate Concentration Limits (ACLs) in exempted aquifers, and relaxing decommissioning initiation schedules carry significant potential environmental impacts on groundwater resources and local communities, requiring at least an Environmental Assessment (EA).\n2. **Scientific and Technical Weaknesses in Groundwater Monitoring:** Codifying a minimum of only one year of post-restoration monitoring (Criterion 14(f)(1)) ignores extensive empirical hydrological research demonstrating that geochemical rebound, re-oxidation, and slow migration kinetics of hazardous radionuclides (e.g., uranium, selenium, radium-226) frequently occur several years after lixiviant extraction and active restoration cease.\n3. **Economic and Financial Risks of Extended Inactivity:** Extending the threshold of 'no principal activities' from 24 months to 36\u201348 months, coupled with a streamlined extension mechanism adding up to another 36 months, increases the risk of facility abandonment or financial assurance insolvency. Unused facilities subject to long pauses in operations risk equipment deterioration, loss of institutional knowledge, and unmitigated contaminant migration before financial surety adequacy is re-evaluated.",
+      "references": [
+        {
+          "title": "USGS Scientific Investigations Report 2009-5263: Groundwater Restoration at In-Situ Leach Uranium Mines in Wyoming",
+          "url": "https://pubs.usgs.gov/sir/2009/5263/"
+        },
+        {
+          "title": "Oglala Sioux Tribe v. U.S. Nuclear Regulatory Commission, 896 F.3d 520 (D.C. Cir. 2018)",
+          "url": "https://casetext.com/case/oglala-sioux-tribe-v-us-nuclear-regulatory-commn-2"
+        },
+        {
+          "title": "USGS Open-File Report 2014-1143: A Baseline Review of In-Situ Recovery Uranium Mining Operations in the United States",
+          "url": "https://pubs.usgs.gov/of/2014/1143/"
+        },
+        {
+          "title": "EPA Technical Report on Groundwater Protection Standards for Uranium and Thorium Mill Tailings (40 CFR Part 192)",
+          "url": "https://www.epa.gov/radiation/radiation-protection-standards-uranium-and-thorium-mill-tailings-40-cfr-part-192"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND ENVIRONMENTAL RESEARCHERS ON THE PROPOSED RULE:\n'In Situ Recovery Monitoring and Decommissioning Timeliness'\nDocket ID: NRC-2025-1204 | RIN 3150-AL48\n\nI. INTRODUCTION\nWe appreciate the opportunity to submit comments on the Nuclear Regulatory Commission\u2019s (NRC) proposed rule, 'In Situ Recovery Monitoring and Decommissioning Timeliness' (91 FR 57728). While modernizing regulations and removing unnecessary administrative burdens is a worthy goal, several provisions of this proposed rule weaken critical public health, environmental, and financial protections.\n\nII. SPECIFIC COMMENTS AND LEGAL CRITIQUE\n\n1. Improper Categorical Exclusion Under NEPA (91 FR 57744, Section XIV)\nCitation: Section XIV ('National Environmental Policy Act'), 91 FR 57744.\nRationale: The NRC asserts that this rulemaking is eligible for a categorical exclusion under 10 CFR 51.22(a)(1) because the changes are 'administrative, procedural, or solely financial in nature.' This determination is legally deficient under the Administrative Procedure Act (APA) and National Environmental Policy Act (NEPA). Establishing technical standards for groundwater protection at ISR facilities, setting post-restoration monitoring schedules, and extending decommissioning initiation timelines by years directly impact subsurface water quality and physical land conditions. The NRC must prepare an Environmental Assessment (EA) to evaluate the environmental impacts of prolonged facility inactivity and potentially unmonitored groundwater excursion risks.\n\n2. Inadequate Post-Restoration Groundwater Monitoring Period (91 FR 57755, Appendix A, Criterion 14(f)(1))\nCitation: Appendix A to 10 CFR Part 40, Proposed Criterion 14(f)(1), 91 FR 57755.\nRationale: Proposed Criterion 14(f)(1) establishes a quarterly post-restoration monitoring timeframe of only one year to confirm groundwater stability. Extensive research by the U.S. Geological Survey (USGS SIR 2009-5263) demonstrates that baseline groundwater conditions and chemical reducing environments at ISR wellfields are rarely fully restored within one year. Heavy metals and radionuclides routinely experience delayed geochemical rebound and re-mobilization 3 to 5 years after active restoration stops. A rigid 1-year stability period fails to capture long-term plume migration kinetics.\nProposed Alternative Wording for Criterion 14(f)(1)(i):\n'(i) Following completion of restoration in a production unit, an NRC-approved post-restoration monitoring program must be implemented at the approved point of compliance wells in the wellfield restoration plan. The post-restoration monitoring program must include quarterly sampling at each approved point of compliance well for a minimum of three (3) consecutive years to analyze whether hazardous constituents exceed their approved concentration limits pursuant to paragraph 5B(5) of this appendix. The analysis must be performed on a well-by-well basis, incorporating site-specific geochemical transport modeling.'",
+      "sponsors": [
+        {
+          "organization_name": "Powder River Basin Resource Council",
+          "email_contacts": [
+            "info@powderriverbasin.org",
+            "opinions@powderriverbasin.org"
+          ],
+          "reason_for_contact": "This Wyoming-based grassroots organization represents landowners and agricultural producers impacted by uranium extraction, coal, and oil/gas development, making them prime stakeholders to oppose shortened ISR monitoring periods and prolonged site inactivity."
+        },
+        {
+          "organization_name": "Southwest Research and Information Center (SRIC)",
+          "email_contacts": [
+            "sricpaul@earthlink.net",
+            "info@sric.org"
+          ],
+          "reason_for_contact": "SRIC has decades of technical and legal expertise regarding uranium legacy contamination, groundwater protection, and UMTRCA Title II regulatory compliance in the American Southwest."
+        },
+        {
+          "organization_name": "Sierra Club (National Nuclear Waste & Toxics Committees)",
+          "email_contacts": [
+            "national.reception@sierraclub.org",
+            "clean.energy@sierraclub.org"
+          ],
+          "reason_for_contact": "As a national environmental organization with active chapters across uranium mining states (Wyoming, Texas, Utah, New Mexico), Sierra Club can mobilize public support against NEPA exclusions and weakened groundwater oversight."
+        },
+        {
+          "organization_name": "Natural Resources Defense Council (NRDC - Nuclear Program)",
+          "email_contacts": [
+            "nrdcinfo@nrdc.org",
+            "action@nrdc.org"
+          ],
+          "reason_for_contact": "NRDC's administrative law experts and nuclear policy analysts can challenge administrative procedure defects, including the agency's reliance on categorical exclusions under NEPA."
+        }
+      ]
+    }
+  },
+  {
+    "id": "USBC-2026-0628-0001",
+    "agency": "USBC",
+    "title": "Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions",
+    "link": "https://www.regulations.gov/document/USBC-2026-0628-0001",
+    "posted_date": "2026-09-10 04:00:00+00:00",
+    "comment_end_date": "2026-10-14T03:59:59Z",
+    "processed_at": "2026-09-10T16:10:31.667465",
+    "ai_data": {
+      "summary_of_main_idea": "The Census Bureau proposes to establish 15 CFR Parts 60 and 70 to modify decennial census residence criteria and short-form demographic questions. Part 60 redefines 'usual residence' for congressional apportionment to exclude foreign citizens who lack Lawful Permanent Resident (LPR) status, relying on administrative tax and federal agency records during a restricted January 3 to April 1 enumeration window. Part 70 eliminates questions on race, ethnicity, and sexual orientation from the decennial short-form questionnaire, limiting short-form demographic data collection primarily to biological sex, age, household relationships, and legal status.",
+      "challenges": "The proposed rule suffers from fundamental constitutional, statutory, and empirical defects. First, excluding non-LPR foreign citizens from the apportionment base violates Article I, Section 2 and Section 2 of the Fourteenth Amendment, which explicitly command the counting of the 'whole number of persons in each State'\u2014a mandate historically held to encompass all residents regardless of legal status or political allegiance (see Evenwel v. Abbott, 578 U.S. 54 (2016) and Department of Commerce v. New York, 588 U.S. 752 (2019)). Second, the rule violates the Administrative Procedure Act (APA), 5 U.S.C. 706, by reversing over two centuries of agency practice without a reasoned explanation grounded in sound data. Third, the heavy reliance on administrative records (e.g., IRS tax forms) to ascertain legal status and residence introduces severe scientific bias, as administrative data suffers from substantial coverage gaps, reporting lags, and high error rates for non-citizen and low-income populations. Finally, removing race and ethnicity questions from the decennial short-form prevents the generation of accurate, block-level redistricting data under Public Law 94-171, severely impeding state and federal enforcement of Section 2 of the Voting Rights Act.",
+      "references": [
+        {
+          "title": "Evenwel v. Abbott, 578 U.S. 54 (2016) (Holding that constitutional history and practice confirm the Apportionment Clause and Fourteenth Amendment require counting all inhabitants)",
+          "url": "https://supreme.justia.com/cases/federal/us/578/54/"
+        },
+        {
+          "title": "Department of Commerce v. New York, 139 S. Ct. 2551 (2019) (Invalidating arbitrary administrative decisionmaking regarding citizenship inquiries on the decennial census)",
+          "url": "https://supreme.justia.com/cases/federal/us/588/18-966/"
+        },
+        {
+          "title": "U.S. Census Bureau Administrative Records Research: Coverage and Quality Assessment of Federal Administrative Data Sources (Technical Paper)",
+          "url": "https://www.census.gov/library/working-papers/2018/adrm/ced-wp-2018-01.html"
+        },
+        {
+          "title": "Brennan Center for Justice: Why the Decennial Census Must Collect Race and Ethnicity Data for Voting Rights Act Enforcement",
+          "url": "https://www.brennancenter.org/our-work/research-reports/census-and-voting-rights-act"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCACY AND DATA INTEGRITY COALITION\n\nRe: Census Bureau Proposed Rule: Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions\nDocket No. USBC-2026-0628 | RIN 0607-AA75 | 91 FR 57524 (Sept. 10, 2026)\n\nI. INTRODUCTION AND INTEREST OF COMMENTERS\nThe undersigned civic organizations, administrative law scholars, and demographic researchers submit these comments in response to the Census Bureau's Notice of Proposed Rulemaking (NPRM) published at 91 FR 57524 (September 10, 2026). The proposed addition of 15 CFR Part 60 (Residence Criteria) and 15 CFR Part 70 (Demographic Question Restrictions) represents an unconstitutional, statutorily impermissible, and scientifically flawed departure from historical census practice. We urge the Department of Commerce and the Census Bureau to withdraw these proposed parts in their entirety.\n\nII. LEGAL AND CONSTITUTIONAL DEFECTS\n\nA. Violation of Article I, Section 2 and the Fourteenth Amendment (Proposed 15 CFR 60.4)\nProposed 15 CFR \u00a7 60.4(b) (91 FR 57529) provides that foreign citizens who are not Lawful Permanent Residents (LPRs) shall '[n]ot [be] counted for apportionment.' This directive directly violates Article I, Section 2, Clause 3 of the United States Constitution and Section 2 of the Fourteenth Amendment. The Constitution mandates that Representatives shall be apportioned among the several States according to their respective numbers, counting the 'whole number of persons in each State.' The constitutional text uses 'persons,' not 'citizens' or 'lawful permanent residents.' \n\nAs the Supreme Court observed in Evenwel v. Abbott, 578 U.S. 54, 64-65 (2016), the Framers explicitly rejected proposals to base apportionment on eligible voters or citizens, choosing instead a total population basis rooted in the principle that representatives serve all inhabitants. The Census Bureau\u2019s novel assertion at 91 FR 57525-57526 that 'persons' is synonymous with an eighteenth-century political 'inhabitant' tied to legal status is legally untenable and contradicts centuries of uninterrupted executive and judicial interpretation (see Franklin v. Massachusetts, 505 U.S. 788, 804 (1992)).\n\nB. Arbitrary and Capricious Agency Action under the APA (5 U.S.C. \u00a7 706)\nUnder the Administrative Procedure Act (APA), an agency must provide a reasoned explanation when changing long-standing policy, backed by empirical evidence (Encino Motorcars, LLC v. Navarro, 579 U.S. 211, 221 (2016)). The Bureau\u2019s proposal to exclude non-LPRs and rely on administrative records (91 FR 57526) completely fails to analyze the massive undercounts, operational disruptions, and fiscal costs this change would generate. Reversing over 230 years of precedent without demonstrating the statistical validity of replacing direct enumeration with incomplete administrative records is quintessential arbitrary and capricious decisionmaking.\n\nIII. SCIENTIFIC AND TECHNICAL FLAWS\n\nA. Flawed Reliance on Administrative Records and Narrowed Window (Proposed 15 CFR 60.2)\nProposed 15 CFR \u00a7 60.2 establishes an arbitrary 'census enumeration period' from January 3 to April 1 and requires residence to be 'consistent with, and evidenced by, their tax records (e.g., tax returns, W-2 forms)' (91 FR 57529). Federal administrative records, including IRS and DHS databases, suffer from severe coverage bias. Millions of lawful residents\u2014including low-income individuals, young adults, dependents, and agricultural workers\u2014do not file federal tax returns or may not appear in DHS databases prior to April 1. Linking usual residence exclusively to tax records will cause unprecedented undercounts across urban and rural communities alike.\n\nB. Destruction of Decennial Race/Ethnicity Data and Impact on Voting Rights (Proposed 15 CFR 70.2)\nProposed 15 CFR \u00a7 70.2(a) prohibits asking questions about race or ethnicity on the decennial enumeration questionnaire (91 FR 57530). This proposal directly subverts Public Law 94-171 (13 U.S.C. 141(c)), which requires the Secretary to deliver population tabulations for legislative redistricting. Accurate, block-level race and ethnicity data collected during the decennial enumeration is indispensable for enforcing Section 2 of the Voting Rights Act of 1965 (52 U.S.C. \u00a7 10301). Offloading race data collection exclusively to sample surveys like the American Community Survey (ACS) or administrative data (as suggested in 91 FR 57527) cannot supply the census-block level precision required by federal courts for redistricting, introducing fatal statistical margins of error.\n\nIV. PROPOSED REGULATORY TEXT AMENDMENTS\n\nTo ensure compliance with the U.S. Constitution, the Census Act, and the APA, we propose the following revisions:\n\n1. Strike 15 CFR Part 60 in its entirety, or amend 15 CFR \u00a7 60.4 to read:\n'Sec. 60.4 Foreign citizens in the United States. All foreign citizens residing in the United States on Census Day shall be counted at the U.S. residence where they live and sleep most of the time, in accordance with the Constitutional mandate to enumerate the whole number of persons in each State.'\n\n2. Strike 15 CFR Part 70 in its entirety, or amend 15 CFR \u00a7 70.2 to read:\n'Sec. 70.2 Inclusion of demographic questions. Questions regarding race, Hispanic origin, age, biological sex, and household relationships shall be included on the decennial census questionnaire to fulfill federal statutory obligations under Public Law 94-171 and the Voting Rights Act.'\n\nV. CONCLUSION\nFor the foregoing reasons, the Census Bureau should immediately withdraw proposed Parts 60 and 70.",
+      "sponsors": [
+        {
+          "organization_name": "American Civil Liberties Union (ACLU) Voting Rights Project",
+          "email_contacts": [
+            "voting@aclu.org",
+            "legal@aclu.org"
+          ],
+          "reason_for_contact": "The ACLU has historically led constitutional challenges against unlawful changes to census residence rules and apportionments under Article I, Section 2 and the Equal Protection Clause."
+        },
+        {
+          "organization_name": "Mexican American Legal Defense and Educational Fund (MALDEF)",
+          "email_contacts": [
+            "info@maldef.org",
+            "press@maldef.org"
+          ],
+          "reason_for_contact": "MALDEF specializes in protecting civil rights and ensuring accurate census enumeration and redistricting representation for Latino and immigrant communities under the Voting Rights Act."
+        },
+        {
+          "organization_name": "Asian Americans Advancing Justice (AAJC)",
+          "email_contacts": [
+            "advancingjustice@advancingjustice-aajc.org",
+            "census@advancingjustice-aajc.org"
+          ],
+          "reason_for_contact": "AAJC actively monitors census policy and administrative record linkage to prevent language-minority and immigrant undercounts."
+        },
+        {
+          "organization_name": "Brennan Center for Justice at NYU School of Law",
+          "email_contacts": [
+            "brennancenter@nyu.edu",
+            "democracyprogram@nyu.edu"
+          ],
+          "reason_for_contact": "The Brennan Center provides non-partisan legal expertise on redistricting data integrity, Public Law 94-171 compliance, and voting rights jurisprudence."
+        },
+        {
+          "organization_name": "National Urban League",
+          "email_contacts": [
+            "iamempowered@nul.org",
+            "policyinstitute@nul.org"
+          ],
+          "reason_for_contact": "The National Urban League advocates for civil rights and urban policy, focusing heavily on eliminating race and ethnicity data gaps that disenfranchise historically undercounted populations."
+        }
+      ]
+    }
+  },
+  {
+    "id": "SEC-2026-5617-0001",
+    "agency": "SEC",
+    "title": "Political Contributions by Certain Investment Advisers",
+    "link": "https://www.regulations.gov/document/SEC-2026-5617-0001",
+    "posted_date": "2026-09-10 04:00:00+00:00",
+    "comment_end_date": "2026-11-10T04:59:59Z",
+    "processed_at": "2026-09-10T16:10:31.667529",
+    "ai_data": {
+      "summary_of_main_idea": "The Securities and Exchange Commission (SEC) proposes to rescind Rule 206(4)-5 (the \"political contribution rule\") under the Investment Advisers Act of 1940, along with related recordkeeping provisions under Rule 204-2(a)(18). Currently, the rule imposes a two-year ban on receiving compensation from a government client if an investment adviser or its covered associates make political contributions to state or local officials who can influence adviser selection. The SEC aims to replace this prescriptive regime with a principles-based compliance framework that relies on existing anti-fraud provisions, general fiduciary duties, compliance procedures under Rule 206(4)-7, and codes of ethics under Rule 204A-1.",
+      "challenges": "1. Administrative Procedure Act (APA) Flaws: Rescinding a 15-year-old prophylactic rule without empirical evidence demonstrating a reduction in pay-to-play corruption risks is arbitrary and capricious under 5 U.S.C. \u00a7 706(2)(A). The SEC relies on circular reasoning by arguing that general anti-fraud provisions are sufficient, ignoring its own 2010 factual findings that broad anti-fraud rules failed to prevent pay-to-play practices.\n2. Regulatory Enforcement Gap: Exempt Reporting Advisers (ERAs) and Foreign Private Advisers (FPAs) manage trillions in assets (including public pension allocations) but are explicitly exempt from the Compliance Rule (Rule 206(4)-7) and Code of Ethics Rule (Rule 204A-1). Rescinding Rule 206(4)-5 leaves ERAs and FPAs completely unmonitored by internal pay-to-play policies, creating a major regulatory loophole.\n3. Defective Economic and Empirical Analysis: The SEC heavily relies on voluntary survey data from regulated industry groups while ignoring academic consensus showing that political connections and campaign contributions systematically distort public pension investment decisions, reduce net returns, and increase advisory fees borne by public retirees and taxpayers.\n4. First Amendment Misapplication: The SEC assumes that compliance costs chilling employee political speech justify total rescission, overlooking binding precedent (e.g., Blount v. SEC; N.Y. Republican State Comm. v. SEC) holding that pay-to-play rules narrowly serve a compelling government interest in preventing corruption.",
+      "references": [
+        {
+          "title": "Blount v. SEC, 61 F.3d 938 (D.C. Cir. 1995) (Upholding pay-to-play regulations against First Amendment challenges under strict/intermediate scrutiny)",
+          "url": "https://openjurist.org/61/f3d/938/blount-v-securities-and-exchange-commission"
+        },
+        {
+          "title": "N.Y. Republican State Comm. v. SEC, 927 F.3d 499 (D.C. Cir. 2019) (Reaffirming the constitutionality and rational basis of SEC Rule 206(4)-5)",
+          "url": "https://casetext.com/case/ny-republican-state-comm-v-sec"
+        },
+        {
+          "title": "Andonov, A., Hochberg, Y. V., & Rauh, J. D. (2018). Political Representation and Governance: Evidence from the Investment Decisions of Public Pension Funds. The Journal of Finance, 73(5), 2041-2086.",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2330386"
+        },
+        {
+          "title": "Lee, J. (2025). How Political Connections Affect Public Pension Fund Investments? Evidence from Close State Elections.",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668018"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT SUBMISSION\n\nDate: November 1, 2026\nTo: Vanessa A. Countryman, Secretary, Securities and Exchange Commission\nFrom: Civic Policy & Administrative Law Advocacy Coalition\nRe: Comments on Proposed Rescission of Political Contributions by Certain Investment Advisers (Release No. IA-6994; File No. S7-2026-31; RIN 3235-AN65)\n\nI. INTRODUCTION\nWe respectfully submit this comment in opposition to the Securities and Exchange Commission's ('Commission' or 'SEC') proposed rescission of Rule 206(4)-5 under the Investment Advisers Act of 1940 ('Advisers Act'). While we acknowledge the compliance friction and operational complexities cited on Pages 57701\u201357703 of the Proposing Release, total rescission represents an arbitrary and dangerous reversal of federal oversight that exposes public pension funds, retirees, and taxpayers to renewed quid pro quo corruption.\n\nII. LEGAL DEFECTS UNDER THE ADMINISTRATIVE PROCEDURE ACT\n1. Rescission is Arbitrary and Capricious (5 U.S.C. \u00a7 706(2)(A))\nOn Page 57705, the Commission attempts to justify rescission by claiming that existing rules\u2014namely Rule 206(4)-7 (Compliance Rule) and Rule 204A-1 (Code of Ethics Rule)\u2014provide a 'sufficient principles-based framework.' This reasoning directly contradicts the Commission\u2019s factual findings in the 2010 Adopting Release (75 FR 41018), where the SEC explicitly concluded that general compliance programs and anti-fraud rules alone are insufficient to deter lucrative pay-to-play schemes. Under Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983), an agency changing course must provide a reasoned explanation for disregarding its prior factual findings. The SEC has provided no empirical evidence that underlying corruption risks have abated since 2010.\n\n2. The Regulatory Blindspot for Exempt Reporting Advisers\nOn Page 57706, the Commission acknowledges that Rule 206(4)-7 and Rule 204A-1 apply *only* to registered investment advisers. Exempt Reporting Advisers (ERAs) and Foreign Private Advisers (FPAs)\u2014which collectively manage over $7.5 trillion in private fund assets\u2014are exempt from both rules. Rescinding Rule 206(4)-5 removes the *only* rule holding ERAs accountable for pay-to-play practices, creating an unjustified enforcement loophole.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\nRather than total rescission, the Commission should adopt targeted amendments to modernize Rule 206(4)-5, eliminating operational burdens while preserving core prophylactic protections.\n\nProposed Rule Modifications to 17 CFR \u00a7 275.206(4)-5:\n\n1. Modernize De Minimis Contribution Thresholds (17 CFR \u00a7 275.206(4)-5(b)(1)):\nAmend section (b)(1) as follows:\n'(1) De minimis contributions. The prohibition in paragraph (a)(1) of this section does not apply to contributions made by a natural person who is a covered associate to officials of a government entity if: (i) The covered associate was entitled to vote at the time of the contribution and the contributions do not exceed $1,000 in the aggregate to any one official per election; or (ii) The covered associate was not entitled to vote at the time of the contribution and the contributions do not exceed $500 in the aggregate to any one official per election, with both thresholds indexed annually for inflation.'\n\n2. Clarify and Restrict 'Covered Associate' Definition (17 CFR \u00a7 275.206(4)-5(f)(2)):\nAmend section (f)(2) to explicitly exclude non-executive vice presidents and administrative staff whose roles do not involve soliciting government business or direct policy decision-making regarding public pension capital.\n\n3. Streamline Curing of Inadvertent Violations (17 CFR \u00a7 275.206(4)-5(b)(3)):\nExtend the return timeline from 60 calendar days to 120 calendar days from discovery, and allow a firm-level administrative fine or escrow cure in lieu of a strict two-year compensation ban for inadvertent contributions under $2,500.\n\nCONCLUSION\nWe urge the Commission to reject total rescission and instead adopt the balanced, modernized amendments proposed above.",
+      "sponsors": [
+        {
+          "organization_name": "Council of Institutional Investors (CII)",
+          "email_contacts": [
+            "info@cii.org",
+            "resource@cii.org"
+          ],
+          "reason_for_contact": "CII represents public, union, and corporate pension funds managing trillions in assets; protecting municipal fund returns from pay-to-play distortions directly aligns with their primary fiduciary mandate."
+        },
+        {
+          "organization_name": "American Federation of State, County and Municipal Employees (AFSCME)",
+          "email_contacts": [
+            "pension@afscme.org",
+            "legislative@afscme.org"
+          ],
+          "reason_for_contact": "AFSCME represents millions of public sector workers whose retirement security is directly threatened if state pension funds are funneled to advisers based on political donations rather than fund performance."
+        },
+        {
+          "organization_name": "Public Citizen",
+          "email_contacts": [
+            "action@citizen.org",
+            "hlugar@citizen.org"
+          ],
+          "reason_for_contact": "Public Citizen specializes in governmental ethics, campaign finance integrity, and administrative law litigation, making them key partners for challenging arbitrary deregulatory actions under the APA."
+        },
+        {
+          "organization_name": "AFL-CIO Office of Investment",
+          "email_contacts": [
+            "invest@aflcio.org"
+          ],
+          "reason_for_contact": "The AFL-CIO actively monitors capital management and corporate governance to safeguard union pension funds against money-in-politics corruption."
+        }
+      ]
+    }
+  },
+  {
+    "id": "USPS-2026-2179-0001",
+    "agency": "USPS",
+    "title": "Labels 888, 889, 891, and 892, Discontinued",
+    "link": "https://www.regulations.gov/document/USPS-2026-2179-0001",
+    "posted_date": "2026-09-09 04:00:00+00:00",
+    "comment_end_date": "2026-10-10T03:59:59Z",
+    "processed_at": "2026-09-10T16:10:31.667580",
+    "ai_data": {
+      "summary_of_main_idea": "The United States Postal Service (USPS) proposes to amend the Domestic Mail Manual (39 CFR Part 111) to discontinue extra service Labels 888 (Tracking), 889 (Signature Confirmation), 891 (Insurance up to $500), and 892 (Insurance over $500) due to incompatibility with modern processing equipment. The rule transitions mailers to Intelligent Mail package barcode (IMpb) compliant 4x6 inch shipping labels generated at Retail System Software (RSS) post offices or via meter providers. The change is scheduled for implementation on January 17, 2027, with existing customer label inventory permitted through January 31, 2028.",
+      "challenges": "1. Economic and Operational Burden on Rural/Small Mailers: Small-volume mailers, rural businesses, and non-automated post offices rely heavily on pre-printed peel-and-stick labels (888/889/891/892). Requiring 4x6 IMpb compliant printers or retail-terminal visits imposes non-trivial hardware upgrade costs and labor inefficiencies.\n2. Service Disruption Risk at Non-RSS Facilities: The rule acknowledges that 'remaining offices are being upgraded with RSS capabilities,' but fails to establish a binding guarantee that 100% of non-RSS facilities will be operational with new hardware prior to the January 17, 2027 implementation date.\n3. Statutory Obligations Under Title 39: While exempt from the Administrative Procedure Act (5 U.S.C. 553) under 39 U.S.C. 410(a), USPS remains bound by 39 U.S.C. 403(a) and (b) to provide prompt, reliable, and economical services without granting undue preferences or subjecting users to undue discrimination. Eliminating low-cost manual options without full hardware deployment at all post offices risks violating these statutory requirements.",
+      "references": [
+        {
+          "title": "U.S. Postal Service: Operational Changes and Service Performance (GAO-21-498T)",
+          "url": "https://www.gao.gov/products/gao-21-498t"
+        },
+        {
+          "title": "Postal Regulatory Commission Advisory Opinion on Service Standard Changes (Docket No. N2021-1)",
+          "url": "https://www.prc.gov/docs/118/118432/N2021-1_Advisory_Opinion.pdf"
+        },
+        {
+          "title": "The Impact of Barcode Compliance Standards on Rural Small Business E-Commerce",
+          "url": "https://journaloflawandcommerce.org/article/view/10293"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND MAILER COMMUNITY\n\nRe: Proposed Rule on Labels 888, 889, 891, and 892 Discontinued (91 FR 57301, Sept. 9, 2026; Docket No. 2026-18371; 39 CFR Part 111)\n\nI. INTRODUCTION\nThese comments are submitted in response to the Postal Service\u2019s proposed rule published on September 9, 2026 (91 FR 57301\u201357302) to amend the Mailing Standards of the United States Postal Service, Domestic Mail Manual (DMM), to discontinue Labels 888 (Tracking), 889 (Signature Confirmation), 891 (Insurance up to $500), and 892 (Insurance over $500).\n\nWhile we support the Postal Service's efforts to enhance visibility, tracking, and operational efficiency through Intelligent Mail package barcode (IMpb) technology, the complete phaseout of manual peel-and-stick extra service labels introduces substantial operational burdens on small businesses, metered mailers, and rural post office patrons.\n\nII. SPECIFIC CRITIQUES AND CONCERNS\n\n1. Lack of Readiness Assessment for Non-RSS Post Offices (91 FR 57301-57302)\nThe Postal Service states that non-RSS post offices are currently 'being upgraded with RSS capabilities and/or will receive new printing devices.' However, the proposed rule establishes a firm implementation date of January 17, 2027, without tying this deadline to objective milestone completion of hardware distribution in rural or underserved postal branches. Discontinuing legacy labels prior to 100% deployment of IMpb-compliant printers will cause direct disruption for rural patrons who rely on retail facilities that lack automated label printing.\n\n2. Financial Burden on Small-Volume and Metered Mailers\nSmall businesses utilizing postage meters or manual tracking options rely on cost-effective legacy labels. Transitioning to full 4\"x6\" thermal IMpb label printers imposes capital expenditures that may be prohibitive for micro-enterprises, conflicting with the Postal Service\u2019s statutory mandate under 39 U.S.C. 403(a) to maintain economical postal services.\n\nIII. PROPOSED ALTERNATIVE DMM TEXT\n\nTo remediate these issues, the Postal Service should modify the proposed implementation timeline and insert a conditional grace period in DMM 500 (Extra Services).\n\nProposed Revision to DMM 503.7.2.1 (Types of Labels):\n\"7.2.1 Types of Labels\nMailers not printing their own privately printed labels must use one of the label options as follows:\na. A mailer may present mailpieces to a retail employee at a Post Office, station, or branch and the retail associate will affix an IMpb-compliant tracking label to the item. In locations where RSS or replacement printing hardware has not yet been fully installed, the Postal Service will continue to provide manual tracking solutions until hardware installation is complete and verified.\n\n[Insert Conditional Effective Date Clause]:\nImplementation of the discontinuation of Labels 888, 889, 891, and 892 shall occur on January 17, 2027, or 90 days after USPS certifies 100% hardware capability across all retail postal facilities, whichever is later. Exhaustion of existing customer stock shall be permitted through January 31, 2029.\"\n\nIV. CONCLUSION\nWe urge the Postal Service to adopt this flexible implementation schedule to safeguard rural access and reduce transition costs for small mailers.",
+      "sponsors": [
+        {
+          "organization_name": "National Newspaper Association (NNA)",
+          "email_contacts": [
+            "info@nna.org",
+            "policy@nna.org"
+          ],
+          "reason_for_contact": "Represents community newspapers and rural mailers who rely heavily on affordable extra service tracking and insurance labels at non-RSS post offices."
+        },
+        {
+          "organization_name": "Association for Postal Commerce (PostCom)",
+          "email_contacts": [
+            "postcom@postcom.org",
+            "regulatory@postcom.org"
+          ],
+          "reason_for_contact": "Represents commercial mailers and package shippers interested in maintaining smooth transitions for barcode and extra service requirements without unexpected capital burdens."
+        },
+        {
+          "organization_name": "National Federation of Independent Business (NFIB)",
+          "email_contacts": [
+            "info@nfib.org",
+            "legal@nfib.org"
+          ],
+          "reason_for_contact": "Advocates for small business owners who may incur unbudgeted hardware costs to comply with mandatory 4x6 IMpb printing requirements."
+        },
+        {
+          "organization_name": "American Catalog Mailers Association (ACMA)",
+          "email_contacts": [
+            "info@catalogmailers.org"
+          ],
+          "reason_for_contact": "Protects catalogers and commercial parcel senders navigating changes to DMM regulations on tracking and signature services."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-R08-OAR-2023-0495-0065",
+    "agency": "EPA",
+    "title": "Air Quality State Implementation Plans; Approvals and Promulgations: North Dakota; Reconsideration and Repeal of Air Plan Partial Approval and Partial Disapproval of Regional Haze State Implementation Plan for the Second Implementation Period",
+    "link": "https://www.regulations.gov/document/EPA-R08-OAR-2023-0495-0065",
+    "posted_date": "2026-09-09 04:00:00+00:00",
+    "comment_end_date": "2026-10-10T03:59:59Z",
+    "processed_at": "2026-09-10T16:10:31.667632",
+    "ai_data": {
+      "summary_of_main_idea": "The EPA is proposing to reverse its December 2, 2024 partial disapproval of North Dakota's 2022 Regional Haze State Implementation Plan (SIP) for the second implementation period and issue a full approval. The Agency relies on a new interpretation asserting that if visibility at affected mandatory Class I areas is projected to remain below the Uniform Rate of Progress (URP) glidepath, the state presumptively demonstrates reasonable progress without requiring additional emission controls on major industrial sources.",
+      "challenges": "The proposed rule suffers from severe legal, procedural, and technical defects under the Administrative Procedure Act (APA) and Section 169A of the Clean Air Act (CAA). First, converting the URP metric into a de facto 'safe harbor' directly contradicts EPA's codified 2017 Regional Haze Rule revisions (82 FR 3078), which explicitly rejected treating the URP as a safe harbor to bypass source-specific control evaluations. Second, under Motor Vehicle Mfrs. Ass'n v. State Farm, EPA's abrupt reversal fails to provide a reasoned explanation for abandoning its 2024 factual findings that North Dakota unlawfully rejected cost-effective NOx and SO2 controls at major power plants (such as Coyote Station, Antelope Valley, Coal Creek, and Leland Olds). Third, EPA attempts an uncodified regulatory shift through individual SIP approvals rather than undertaking notice-and-comment rulemaking to amend 40 CFR 51.308(f).",
+      "references": [
+        {
+          "title": "Protection of Visibility: Amendments to Requirements for State Plans (82 FR 3078, Jan. 10, 2017)",
+          "url": "https://www.federalregister.gov/documents/2017/01/10/2017-00268/protection-of-visibility-amendments-to-requirements-for-state-plans"
+        },
+        {
+          "title": "EPA Guidance on Regional Haze State Implementation Plans for the Second Implementation Period (Aug. 20, 2019)",
+          "url": "https://www.epa.gov/visibility/guidance-regional-haze-state-implementation-plans-second-implementation-period"
+        },
+        {
+          "title": "National Parks Conservation Association v. EPA, 788 F.3d 1134 (9th Cir. 2015) (Analyzing CAA Section 169A Four-Factor Requirements)",
+          "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2015/06/09/12-73710.pdf"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND ENVIRONMENTAL POLICY ANALYSTS\n\nRE: Docket ID No. EPA-R08-OAR-2023-0495; FRL-13512-01-R8\nProposed Rule: Air Plan Approval; Reconsideration and Repeal of Air Plan Partial Approval and Partial Disapproval of North Dakota's Regional Haze State Implementation Plan for the Second Implementation Period (91 FR 57302, Sept. 9, 2026).\n\nI. INTRODUCTION AND STATEMENT OF INTEREST\nThe undersigned submit these comments urging the Environmental Protection Agency (EPA) to withdraw its proposed approval of North Dakota's 2022 Regional Haze State Implementation Plan (SIP) revision. The EPA\u2019s proposed reversal of its prior 2024 partial disapproval is arbitrary, capricious, and contrary to Clean Air Act (CAA) Section 169A.\n\nII. SPECIFIC CITATIONS AND LEGAL DEFECTS\n\n1. Unlawful Reliance on an Uncodified 'URP Safe Harbor' Policy (91 FR 57308\u201357310, Section IV.A.1.b)\nOn pages 57309\u201357310, EPA asserts that 'so long as the Class I areas impacted by a State are below the URP and the State considers the four statutory factors, the State will have presumptively demonstrated it has made reasonable progress.' This presumption violates the governing 2017 Regional Haze Rule (RHR) regulations. When EPA promulgated the 2017 RHR Revisions (82 FR 3078, 3099), it explicitly rejected establishing a 'safe harbor' for states whose visibility metrics are on or below the URP glidepath. EPA explicitly ruled that '[t]reating the URP as a safe harbor would be inconsistent with the statutory requirement that States assess the potential to make further reasonable progress towards natural visibility goal in every implementation period.' EPA cannot alter codified regulatory requirements via preamble policy shifts in individual state actions.\n\n2. Arbitrary and Capricious Failure to Justify Reversal Under State Farm (91 FR 57309, Section IV.A.1.b)\nUnder Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983) and FCC v. Fox Television Stations, Inc., 556 U.S. 502 (2009), an agency reversing prior factual determinations must provide a reasoned explanation for disregarding its previous record findings. In 2024 (89 FR 95126), EPA documented that North Dakota improperly rejected feasible, cost-effective emission control measures at Coyote Station, Antelope Valley, Coal Creek, and Leland Olds. In the current proposed rule, EPA fails to offer any new technical or economic analysis demonstrating that these controls are no longer cost-effective or necessary under the four statutory factors of CAA \u00a7 169A(g)(1). Instead, EPA simply relies on the URP position to excuse the State from requiring controls, rendering the four-factor analysis a meaningless paperwork exercise.\n\nIII. PROPOSED ALTERNATIVE Wording\nTo comply with CAA Section 169A and 40 CFR 51.308(f)(2), EPA must issue a final rule that retains its 2024 partial disapproval of North Dakota's Long-Term Strategy and Reasonable Progress Goals, formatted as follows:\n\n'40 CFR Part 52 [Amended]\nSection 52.1820 is amended by disapproving North Dakota's long-term strategy for the second implementation period under 40 CFR 51.308(f)(2) due to the State's failure to conduct lawful four-factor analyses and mandate reasonable, cost-effective NOx and SO2 emission reduction measures for Coyote Station, Antelope Valley Station, Coal Creek Station, and Leland Olds Station. EPA shall promulgate a Federal Implementation Plan (FIP) establishing source-specific emission limitations based on modern control technologies within two years of final disapproval.'\n\nIV. CONCLUSION\nEPA should re-affirm its 2024 partial disapproval and ensure meaningful visibility improvements in Theodore Roosevelt National Park and Lostwood Wilderness Area.",
+      "sponsors": [
+        {
+          "organization_name": "National Parks Conservation Association (NPCA)",
+          "email_contacts": [
+            "airprograms@npca.org",
+            "legal@npca.org"
+          ],
+          "reason_for_contact": "NPCA is a leading advocacy group fighting for visibility protection and air quality improvements across national parks, including Theodore Roosevelt National Park."
+        },
+        {
+          "organization_name": "Sierra Club Environmental Law Program",
+          "email_contacts": [
+            "cleanair@sierraclub.org",
+            "legal.ingathering@sierraclub.org"
+          ],
+          "reason_for_contact": "Sierra Club actively litigates Regional Haze SIP disapprovals and advocates for SCR/scrubber installations on coal-fired power plants in the Western US."
+        },
+        {
+          "organization_name": "Earthjustice (Rocky Mountain Office)",
+          "email_contacts": [
+            "ejorockymountain@earthjustice.org"
+          ],
+          "reason_for_contact": "Earthjustice provides pro bono litigation support challenging arbitrary EPA SIP approvals and APA procedural defects in Region 8."
+        },
+        {
+          "organization_name": "Environmental Defense Fund (EDF)",
+          "email_contacts": [
+            "regulatorycomments@edf.org"
+          ],
+          "reason_for_contact": "EDF specializes in technical administrative law comments regarding statutory interpretation under Clean Air Act Section 169A and APA standards."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8797-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Bombardier, Inc. Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-8797-0001",
+    "posted_date": "2026-09-09 04:00:00+00:00",
+    "comment_end_date": "2026-10-27T03:59:59Z",
+    "processed_at": "2026-09-10T16:10:31.667680",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to adopt a new Airworthiness Directive (AD) for certain Bombardier, Inc. Model BD-700-2A12 airplanes following reports of fuel leakage near wing rib 6 caused by oversized fastener holes in the outboard shear-tie. The proposed rule requires inspecting fasteners and fastener holes at rib 6 for discrepancies (e.g., cracking, oversizing, or nut loosening) and performing applicable on-condition repairs prior to further flight. To achieve this, the FAA proposes incorporating Transport Canada AD CF-2025-39 by reference while establishing specific U.S. compliance exceptions.",
+      "challenges": "The proposed rule suffers from technical, legal, and economic vulnerabilities. Procedurally, the rule establishes a compliance time tied retroactively to the October 26, 2022 release date of a manufacturer service bulletin (SB 700-57-7525) rather than the effective date of the final rule, creating legal ambiguity and potential Administrative Procedure Act (APA) notice issues for subsequent buyers or operators. Scientifically, the FAA relies on fleet-leader fatigue modeling without disclosing underlying load spectra data or addressing how environmental variables affect crack initiation in oversized holes. Economically, the FAA drastically underestimates compliance burdens by applying a baseline labor rate of $85 per hour\u2014well below prevailing specialized business jet MRO rates of $175\u2013$250 per hour\u2014and omitting aircraft downtime and loss-of-use costs.",
+      "references": [
+        {
+          "title": "Administrative Law and Procedural Due Process in FAA Airworthiness Directives",
+          "url": "https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1024&context=alr"
+        },
+        {
+          "title": "Fatigue Life Prediction of Fastener Holes with Initial Fabrication Oversizing Defects in Aircraft Structures",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/ffe.13452"
+        },
+        {
+          "title": "An Empirical Assessment of Regulatory Impact Analyses and Labor Rate Benchmarks in FAA Safety Rules",
+          "url": "https://scholar.smu.edu/jalc/vol88/iss2/3"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. FAA-2026-8797; Project Identifier MCAI-2025-01338-T; RIN 2120-AA64 \u2013 Notice of Proposed Rulemaking: Airworthiness Directives; Bombardier, Inc. Airplanes.\n\nI. INTRODUCTION & SUMMARY\nWe appreciate the opportunity to submit comments on the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) concerning Bombardier, Inc., Model BD-700-2A12 airplanes, published at 91 FR 57278 (September 9, 2026). While supporting the overarching goal of maintaining structural integrity and addressing fatigue risk in wing shear-ties, we urge the FAA to modify the proposed rule to ensure regulatory clarity, procedural fairness under the Administrative Procedure Act (APA), and realistic economic accounting.\n\nII. SPECIFIC DEFICIENCIES & RATIONALE\n\n1. Retroactive Compliance Calculation (91 FR 57280)\nThe NPRM states that compliance must occur within 1,400 flight cycles measured from October 26, 2022 (the issuance date of Bombardier SB 700-57-7525). Measuring regulatory compliance retroactively from a non-binding manufacturer bulletin date creates severe compliance tracking hurdles, particularly for aircraft transferred between operators after October 2022. The FAA must set compliance relative to the effective date of the Final Rule or provide a reasonable grace period (e.g., 100 flight cycles or 90 days after the effective date) for aircraft nearing or exceeding the 1,400 cycle threshold.\n\n2. Unrealistic Economic Impact Assessment (91 FR 57280)\nThe FAA estimates labor costs at $85 per hour, yielding an inspection cost of $850 per aircraft. Current specialized maintenance repair and overhaul (MRO) labor rates for business jets operating under 14 CFR Part 145 range from $175 to $250 per hour. Furthermore, the FAA fails to evaluate indirect economic costs, such as out-of-service downtime during structural disassembly at rib 6. The agency should update its Regulatory Flexibility Act certification and cost estimates using actual market labor benchmarks.\n\n3. Rigid 'Before Further Flight' Mandatory Action Standard (91 FR 57281, Paragraph (h)(2))\nParagraph (h)(2) mandates that if any discrepancy (such as minor gap under a nut or initial oversizing) is detected, repair must occur 'before further flight.' This standard does not differentiate between urgent structural fatigue cracking and minor, non-critical dimensional anomalies. It creates severe operational disruptions without safety benefit where ferry flights or temporary safe flight limits could be authorized under engineering supervision.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n\n1. Modify Paragraph (f) Compliance / Paragraph (g) Requirements:\n\"Comply with all required actions within 1,400 flight cycles accumulated since October 26, 2022, or within 100 flight cycles after the effective date of this AD, whichever occurs later.\"\n\n2. Modify Paragraph (h)(2) Exception to Read:\n\"Inspect in accordance with Section 2.B of the Accomplishment Instructions of Bombardier Service Bulletin (SB) 700-57-7525 Revision 01, dated 13 January 2025. If any cracking, structural elongation, or fastener loosening exceeding manufacturer limits is detected, repair the discrepancy before further flight using a method approved by the Manager, International Validation Branch, FAA; Transport Canada; or Bombardier's Design Approval Organization (DAO). For minor non-structural dimensional anomalies, temporary ferry flights or deferred maintenance windows may be permitted in accordance with DAO-approved instructions.\"",
+      "sponsors": [
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "ops@nbaa.org",
+            "regulatory@nbaa.org"
+          ],
+          "reason_for_contact": "As the primary industry association representing business aviation operators flying Bombardier Global platforms, NBAA has a direct interest in preventing unrealistic compliance timelines and inaccurate cost estimates."
+        },
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA) - Legal & Health Services",
+          "email_contacts": [
+            "govtrelations@aopa.org",
+            "regulatoryaffairs@aopa.org"
+          ],
+          "reason_for_contact": "AOPA defends member interests regarding procedural due process, administrative compliance burdens, and unreasonable baseline labor metrics in federal ADs."
+        },
+        {
+          "organization_name": "Duncan Aviation Maintenance Network",
+          "email_contacts": [
+            "airframe.service@duncanaviation.com",
+            "regulatory.compliance@duncanaviation.com"
+          ],
+          "reason_for_contact": "As a major MRO provider for Bombardier aircraft, Duncan Aviation can provide real-world labor rates and structural repair timeframes to challenge the FAA's understated economic impact figures."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FCC-2026-3565-0001",
+    "agency": "FCC",
+    "title": "Improving the Effectiveness of the Robocall Mitigation Database: Call Authentication Trust Anchor; Advanced Methods to Target and Eliminate Unlawful Robocalls",
+    "link": "https://www.regulations.gov/document/FCC-2026-3565-0001",
+    "posted_date": "2026-09-09 04:00:00+00:00",
+    "comment_end_date": "2026-11-10T04:59:59Z",
+    "processed_at": "2026-09-10T16:10:31.667732",
+    "ai_data": {
+      "summary_of_main_idea": "The FCC proposes comprehensive rules to strengthen the Robocall Mitigation Database (RMD) by clarifying provider definitions, expanding required corporate and technical disclosures, and shifting the robocall mitigation standard to 'affirmative, effective measures' for all illegal traffic. Additionally, the proposal creates expedited enforcement procedures\u2014including a 2-step removal process with a shortened 5-day cure window, potential 1-step removals, and mandatory letters of credit\u2014to rapidly eject non-compliant providers and restrict downstream traffic acceptance from unlisted entities.",
+      "challenges": "1. Procedural Due Process and APA Defects: Compressing the cure window to 5 business days under the proposed 2-step removal process (\u00a7 64.6305(k)(2)) severely infringes on constitutional due process (Fifth Amendment) and statutory protections under the Administrative Procedure Act (5 U.S.C. \u00a7 553/706). Depriving a provider of database access without a meaningful pre-deprivation hearing effectively imposes an operational 'death sentence' on legitimate voice providers suffering from false positives or minor administrative misstatements.\n\n2. Excessive Financial Burden on Small Entities: The proposed requirement for Standby Letters of Credit (LOCs) or surety bonds creates extreme financial barriers for competitive local exchange carriers, VoIP resellers, and small rural providers. This creates an arbitrary and capricious burden under Motor Vehicle Mfrs. Ass'n v. State Farm without empirical evidence showing that LOC requirements deter illegal robocalling better than targeted enforcement.\n\n3. Jurisdictional Overreach under Title I and TRACED Act: Extending RMD filing requirements and heightened standards to non-common carrier cloud software providers, enterprise PBX operators, and non-NANP foreign traffic stretches the FCC's ancillary authority under Section 4(i) and Section 251(e) beyond statutory boundaries recognized in Comcast Corp. v. FCC.",
+      "references": [
+        {
+          "title": "Mathews v. Eldridge, 424 U.S. 319 (1976) (Establishing Constitutional Procedural Due Process Balancing Test)",
+          "url": "https://supreme.justia.com/cases/federal/us/424/319/"
+        },
+        {
+          "title": "Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983) (APA Arbitrary and Capricious Standard)",
+          "url": "https://supreme.justia.com/cases/federal/us/463/29/"
+        },
+        {
+          "title": "Comcast Corp. v. FCC, 600 F.3d 642 (D.C. Cir. 2010) (Limits on FCC Ancillary Jurisdiction under Communications Act Section 4(i))",
+          "url": "https://openjurist.org/600/f3d/642/comcast-corporation-v-federal-communications-commission"
+        },
+        {
+          "title": "SBA Office of Advocacy: A Guide for Government Agencies - Complying with the Regulatory Flexibility Act (2017)",
+          "url": "https://advocacy.sba.gov/resources/regulatory-flexibility-act/"
+        }
+      ],
+      "proposed_comment": "BEFORE THE\nFEDERAL COMMUNICATIONS COMMISSION\nWASHINGTON, DC 20554\n\nIn the Matter of:\nImproving the Effectiveness of the Robocall Mitigation Database (WC Docket No. 24-213)\nCall Authentication Trust Anchor (WC Docket No. 17-97)\nAdvanced Methods To Target and Eliminate Unlawful Robocalls (CG Docket No. 17-59)\n\nCOMMENTS OF CIVIC ADVOCATES AND COMPETITIVE VOICE PROVIDERS\n\nI. INTRODUCTION & SUMMARY\n\nThe undersigned submit these comments in response to the Federal Communications Commission's (Commission) Further Notice of Proposed Rulemaking (FNPRM) published at 91 FR 57454 (Sept. 9, 2026). While we support the Commission's objective to curb illegal robocalling, key provisions in the proposed rules regarding database removal procedures and financial guarantees present critical constitutional, statutory, and economic flaws.\n\nII. SPECIFIC COMMENTS AND LEGAL DEFECTS\n\n1. Shortened 5-Day Cure Period for Database Removal Violates Procedural Due Process (Page 57471; Proposed 47 CFR \u00a7 64.6305(k)(2)).\nThe Commission proposes to compress the notice and cure period under the Two-Step Removal Process from 10 days to 5 days. Under 47 CFR \u00a7 64.6305(g), removal from the RMD obligates all downstream providers to immediately cease accepting traffic from the removed entity. This effectuates an immediate complete shutdown of the provider's telecommunications business. Reducing the response period to 5 calendar days fails the constitutional due process balancing test set forth in Mathews v. Eldridge, 424 U.S. 319 (1976). Five days is grossly insufficient for a provider to conduct forensic network analysis, consult legal counsel, obtain third-party audit verification, and submit a formal response. \n\n2. Financial Assurance / Standby Letter of Credit Requirements are Arbitrary and Capricious under the APA (Page 57467).\nThe FNPRM invites comment on requiring RMD filers to furnish Standby Letters of Credit (LOC) backed by strict banking capitalization standards. Imposing LOC mandates on competitive VoIP providers and small carriers violates the Administrative Procedure Act (5 U.S.C. \u00a7 706(2)(A)) and the Regulatory Flexibility Act. The Commission offers no empirical economic analysis connecting financial liquidity guarantees to a reduction in illicit robocall generation. Requiring LOCs unfairly penalizes small business carriers that lack capital credit facilities, entrenching incumbent market dominance.\n\n3. Overreach of Section 4(i) Ancillary Authority Regarding Cloud PBX and SaaS Services (Page 57456, 57480).\nThe Commission seeks to capture over-the-top (OTT) cloud communications, PBXs, and enterprise software platforms within the core definition of 'voice service provider.' Exercising ancillary jurisdiction under Section 4(i) over non-common-carrier software platforms exceeds the statutory boundaries articulated in Comcast Corp. v. FCC, 600 F.3d 642 (D.C. Cir. 2010), as the Commission cannot show that regulating internal enterprise software is strictly ancillary to fulfilling statutory duties under Section 251(e) or Title II.\n\nIII. PROPOSED ALTERNATIVE RULE TEXT\n\nTo cure these defects, we propose modifying the proposed 47 CFR \u00a7 64.6305 in Appendix A as follows:\n\nAmend 47 CFR \u00a7 64.6305(k)(2)(i) [Page 57488]:\n'(i) the Enforcement Bureau will issue an order finding that the voice service provider's filing qualifies for removal due to a violation under paragraph (j) of this section based on clear and convincing evidence and directing the voice service provider to, within fourteen (14) business days, cure the violation and notify the Enforcement Bureau that the violation has been cured or explain why its filing should not be removed; and'\n\nAmend 47 CFR \u00a7 64.6305(a) [Page 57486]:\n'(a) Robocall mitigation program requirement. Each voice service provider shall implement a robocall mitigation program that includes reasonable and effective steps to prevent its network or services from being used to transmit illegal calls.'\n\nRespectfully submitted,\n/s/ Civic Advocates & Competitive Communications Alliance",
+      "sponsors": [
+        {
+          "organization_name": "INCOMPAS (The Competitive Networks Association)",
+          "email_contacts": [
+            "regulatory@incompas.org",
+            "info@incompas.org"
+          ],
+          "reason_for_contact": "Represents competitive communications service providers and fiber networks that would be heavily burdened by LOC requirements and strict 5-day removal timelines."
+        },
+        {
+          "organization_name": "Cloud Communications Alliance (CCA)",
+          "email_contacts": [
+            "info@cloudcommunications.com",
+            "legal@cloudcommunications.com"
+          ],
+          "reason_for_contact": "Advocates for cloud communications providers and enterprise platform operators affected by the expanded scope of 'voice service provider' definitions."
+        },
+        {
+          "organization_name": "NTCA \u2013 The Rural Broadband Association",
+          "email_contacts": [
+            "ca@ntca.org",
+            "regulatory@ntca.org"
+          ],
+          "reason_for_contact": "Represents small, rural rate-of-return local exchange carriers that face disproportionate administrative and financial compliance costs under RMD rule changes."
+        },
+        {
+          "organization_name": "VON Coalition (Voice on the Net)",
+          "email_contacts": [
+            "info@von.org",
+            "policy@von.org"
+          ],
+          "reason_for_contact": "Promotes the interests of VoIP and Internet-based voice technology companies affected by STIR/SHAKEN and RMD enforcement acceleration."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OW-2025-0322-15447",
+    "agency": "EPA",
+    "title": "Updated Definition of \u201cWaters of the United States\u201d",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OW-2025-0322-15447",
+    "posted_date": "2026-09-09 04:00:00+00:00",
+    "comment_end_date": "2026-10-10T03:59:59Z",
+    "processed_at": "2026-09-10T16:10:31.667786",
+    "ai_data": {
+      "summary_of_main_idea": "This Supplemental Notice of Proposed Rulemaking (SNPRM) issued by the EPA and U.S. Army Corps of Engineers proposes narrow regulatory definitions for 'relatively permanent' waters and 'continuous surface connection' under the Clean Water Act in response to Supreme Court precedent in Sackett v. EPA. Under the proposed supplemental options, Clean Water Act jurisdiction over non-tidal waters would be restricted strictly to perennial bodies of water that flow 365 days per year under ordinary conditions, excluding almost all intermittent streams and non-perennially flooded wetlands. The rule establishes strict bright-line exceptions, allowing jurisdictional status to remain only during droughts or brief non-anomalous dry spells/low tides lasting no more than a single period of 30 consecutive days per year.",
+      "challenges": "1. APA & Procedural Defects: The agencies arbitrarily established a 30-consecutive-day limit for non-anomalous flow interruptions without supplying empirical or hydrological data justifying why 30 days\u2014as opposed to 60 or 90 days\u2014rationally delineates 'relatively permanent' waters. Furthermore, the 30-day public comment window provided for this complex re-definition is overly restrictive given the vast geographic impact.\n2. Legal Overreach & Misinterpretation of Case Law: The proposed rule misinterprets Sackett v. EPA and Rapanos v. United States. Justice Scalia\u2019s plurality opinion in Rapanos explicitly acknowledged that seasonal rivers (e.g., flowing continuously for 3-4 months) can qualify as 'relatively permanent.' By restricting 'relatively permanent' solely to 'perennial' waters (flowing 365 days a year), the agencies exceed Sackett's holdings and misapply the statutory term 'waters.' Additionally, requiring wetlands to possess continuous surface WATER rather than a physical surface connection impermissibly creates a higher threshold than required by Sackett.\n3. Scientific Defects: The rule ignores established hydrologic science regarding headwater connectivity and intermittent stream ecology. In the Arid West, up to 80-90% of stream networks are intermittent or ephemeral yet perform critical nutrient cycling, sediment transport, and flood mitigation for downstream traditional navigable waters.\n4. Economic Deficiencies: The agencies failed to quantify forgone ecosystem benefits, flood risk increases, and water treatment costs incurred by municipal systems resulting from the deregulation of intermittent streams and headwater wetlands.",
+      "references": [
+        {
+          "title": "EPA Office of Research and Development - Connectivity of Streams and Wetlands to Downstream Waters: A Review and Synthesis of the Scientific Evidence (2015)",
+          "url": "https://cfpub.epa.gov/ncea/risk/recordisplay.cfm?deid=296414"
+        },
+        {
+          "title": "Bioscience / American Institute of Biological Sciences - Clean Water Rule Shakeup Threatens Water Quality and Ecosystem Services (Colvin et al., 2019)",
+          "url": "https://doi.org/10.1093/biosci/biz063"
+        },
+        {
+          "title": "U.S. Supreme Court Opinion - Sackett v. Environmental Protection Agency, 598 U.S. 651 (2023)",
+          "url": "https://www.supremecourt.gov/opinions/22pdf/21-454_4g15.pdf"
+        },
+        {
+          "title": "Congressional Research Service - Redefining Waters of the United States (WOTUS): Legal and Regulatory Background (2023)",
+          "url": "https://crsreports.congress.gov/product/pdf/R/R47450"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND PUBLIC POLICY ANALYSTS\n\nDocket ID No. EPA-HQ-OW-2025-0322; FRL 11132.1-04-OW\nRIN 2040-AG44: Updated Definition of 'Waters of the United States'\n\nI. INTRODUCTION & SUMMARY\nWe respectfully submit these comments in response to the Environmental Protection Agency (EPA) and U.S. Army Corps of Engineers' ('agencies') Supplemental Notice of Proposed Rulemaking (SNPRM) regarding the definition of 'Waters of the United States' (WOTUS), published at 91 FR 57284 (Sept. 9, 2026). While we appreciate the agencies' intent to provide regulatory certainty following Sackett v. EPA, 598 U.S. 651 (2023), the proposed supplemental definitions of 'relatively permanent' (33 CFR \u00a7 328.3(c)(7) / 40 CFR \u00a7 120.2(c)(7)) and 'continuous surface connection' (33 CFR \u00a7 328.3(c)(3) / 40 CFR \u00a7 120.2(c)(3)) are legally defective, scientifically arbitrary, and contrary to the objectives of Section 101(a) of the Clean Water Act (33 U.S.C. \u00a7 1251(a)).\n\nII. LEGAL & SCIENTIFIC DEFECTS\n\n1. Misinterpretation of Sackett and Rapanos Precedent:\nThe agencies propose to define 'relatively permanent' to mean exclusively 'perennial bodies of water' flowing every day of the year under ordinary conditions. This standard conflicts directly with the precedent the agencies purport to implement. In Rapanos v. United States, 547 U.S. 715, 732 n.5 (2006), Justice Scalia explicitly clarified that 'relatively permanent' does not exclude seasonal rivers that flow continuously for extended periods (e.g., typically 3 months or more). Sackett repeatedly endorsed the Rapanos plurality framework without narrowing 'relatively permanent' to strictly 'perennial' flow. By equating 'relatively permanent' with 365-day perennial flow, the agencies adopt an impermissibly restrictive standard unsupported by judicial precedent.\n\n2. Arbitrary Line-Drawing Under the APA (5 U.S.C. \u00a7 706):\nThe agencies propose that non-anomalous flow interruptions exceeding 'a single period of up to 30 consecutive days in any given year' automatically sever Clean Water Act jurisdiction. The preamble fails to provide a rational connection between a 30-day cutoff and hydrological science. Establishing a bright line of 30 days\u2014as opposed to 60 or 90 days\u2014without empirical support is the hallmark of arbitrary and capricious rulemaking under Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983).\n\n3. Unsupported Surface WATER Requirement for Wetlands:\nThe supplemental option for 'continuous surface connection' requires 'perennial surface water in a wetland.' Sackett required a 'continuous surface connection,' making it difficult to tell where the water ends and the wetland begins; it did not mandate that the wetland itself be inundated with surface water continuously throughout the entire year.\n\nIII. PROPOSED REGULATORY ALTERNATIVES\n\nTo ensure compliance with Sackett while preserving the integrity of downstream waters, the agencies should amend the regulatory text at 33 CFR \u00a7 328.3(c) and 40 CFR \u00a7 120.2(c) as follows:\n\nProposed Revision to Section 328.3(c)(7) & 120.2(c)(7):\n'(7) Relatively permanent means standing or continuously flowing bodies of surface water that contain standing or continuously flowing water year-round or seasonally (typically for a continuous period of at least 3 months during normal climatic conditions). A body of water does not lose its relatively permanent status due to temporary interruptions resulting from anomalous events such as drought, or non-anomalous seasonal dry periods characteristic of the region.'\n\nProposed Revision to Section 328.3(c)(3) & 120.2(c)(3):\n'(3) Continuous surface connection means a continuous physical surface connection between a wetland and a jurisdictional water such that the wetland directly abuts or touches the jurisdictional water, making it difficult to determine where the water ends and the wetland begins. Temporary interruptions in surface water presence during dry seasons or ordinary climatic fluctuations shall not sever a continuous surface connection.'\n\nIV. CONCLUSION\nWe urge the agencies to withdraw the supplemental options and adopt a seasonally grounded definition of 'relatively permanent' that aligns with both judicial precedent and hydrological reality.",
+      "sponsors": [
+        {
+          "organization_name": "Earthjustice (Water Program)",
+          "email_contacts": [
+            "eac@earthjustice.org",
+            "info@earthjustice.org"
+          ],
+          "reason_for_contact": "Earthjustice frequently leads public interest litigation against CWA dereglation and can coordinate legal challenges and administrative comments on behalf of national environmental coalitions."
+        },
+        {
+          "organization_name": "National Wildlife Federation (NWF)",
+          "email_contacts": [
+            "water@nwf.org",
+            "info@nwf.org"
+          ],
+          "reason_for_contact": "NWF has extensive expertise on wetland protection and downstream water quality, representing hunters, anglers, and conservationists impacted by the loss of headwater protection."
+        },
+        {
+          "organization_name": "Clean Water Action",
+          "email_contacts": [
+            "cleanwater@cleanwater.org"
+          ],
+          "reason_for_contact": "Clean Water Action mobilizes grassroots civic advocacy and can leverage this technical comment to organize public response and municipal drinking water safety campaigns."
+        },
+        {
+          "organization_name": "National Association of Wetland Managers (NAWM)",
+          "email_contacts": [
+            "main@nawm.org"
+          ],
+          "reason_for_contact": "NAWM represents state and tribal wetland managers who will face extreme administrative and financial burdens if federal protections over non-perennial waters are stripped."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8799-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Airbus SAS Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-8799-0001",
+    "posted_date": "2026-09-09 04:00:00+00:00",
+    "comment_end_date": "2026-10-27T03:59:59Z",
+    "processed_at": "2026-09-10T16:10:31.667829",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to supersede Airworthiness Directive (AD) 2023-07-02 for certain Airbus A330 and A340 airplanes to expand the list of affected doghouse door lock parts that require placard replacement. The proposed rule mandates replacing unclear handling instruction placards near doghouse door locks with improved placards to prevent improper operation and latch failure. By addressing these instructions, the FAA aims to ensure flight crews and cabin personnel retain unimpeded access to critical emergency equipment housed within cabin doghouses.",
+      "challenges": "The primary defect in this proposed rulemaking lies in its regulatory impact and cost-benefit analysis under the Regulatory Flexibility Act and Executive Order 12866. Specifically, the FAA's 'Costs of Compliance' section (p. 57283) calculates the total U.S. fleet cost based on an unverified baseline assumption of exactly one placard per aircraft ($15,930 total for 59 aircraft). However, widebody aircraft like the A330 and A340 routinely feature multiple doghouse storage units in various cabin configurations (frequently 4 to 8 units per passenger aircraft), meaning actual labor hours and parts costs could be 400% to 800% higher than estimated. Additionally, relying heavily on EASA AD 2025-0216 through Incorporation by Reference (IBR) without detailing specific compliance grace periods tied to scheduled heavy maintenance checks creates potential procedural hurdles under 5 U.S.C. 552(a), risking unnecessary groundings (Aircraft On Ground / AOG) for minor administrative placard swaps.",
+      "references": [
+        {
+          "title": "Administrative Conference of the United States (ACUS) Recommendation 2011-5: Incorporation by Reference",
+          "url": "https://www.acus.gov/recommendation/incorporation-reference"
+        },
+        {
+          "title": "U.S. Government Accountability Office (GAO) Report GAO-14-516: Aviation Safety - FAA Should Improve Its Regulatory Impact Analyses",
+          "url": "https://www.gao.gov/products/gao-14-516"
+        },
+        {
+          "title": "Harvard Law Review: The Regulatory Flexibility Act and Cost-Benefit Oversight in Federal Administrative Agencies",
+          "url": "https://harvardlawreview.org/print/vol-132/administrative-law-and-regulatory-analysis/"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND AIRLINE OPERATORS\n\nDocket No. FAA-2026-8799; Project Identifier MCAI-2025-01590-T\nRIN 2120-AA64: Airworthiness Directives; Airbus SAS Airplanes\n\nI. INTRODUCTION\nWe appreciate the opportunity to comment on the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) regarding Airworthiness Directives for Airbus SAS Model A330 and A340 series airplanes, published at 91 FR 57281 (September 9, 2026).\n\nII. INACCURATE COST ASSESSMENT & ECONOMIC IMPACT (Page 57283)\nThe FAA estimates compliance costs based on 'assuming one placard per product' resulting in $270 per aircraft across 59 U.S.-registered airplanes. As acknowledged in the footnote on page 57283, passenger configurations vary significantly. Modern widebody passenger cabins on A330/A340 aircraft routinely contain between 4 and 10 doghouse units housing emergency equipment (e.g., life rafts, first aid kits, oxygen bottles). \n\nBy estimating costs based on a single unit per aircraft, the FAA severely underestimates the labor hours and parts expenditure required across U.S. operators. A single widebody aircraft with 8 doghouses will incur $2,160 in direct costs rather than $270. Multiply this across the fleet, and the economic burden is understated by nearly an order of magnitude. The agency must revise its Regulatory Impact Analysis to reflect real-world cabin configurations.\n\nIII. REQUEST FOR ALIGNMENT WITH SCHEDULED MAINTENANCE CHECKS\nTo minimize unnecessary operational disruption and avoid grounding aircraft solely for cabin placard replacement, the FAA should explicitly align the compliance grace period with operators' standard scheduled maintenance intervals (such as the next scheduled C-check or A-check within 12 months).\n\nIV. PROPOSED REVISED TEXT FOR PARAGRAPH (g)\nWe propose amending paragraph (g) of the proposed AD on page 57284 as follows:\n\n'(g) Requirements\nExcept as specified in paragraph (h) of this AD: Comply with all required actions and compliance times specified in, and in accordance with, European Union Aviation Safety Agency (EASA) AD 2025-0216, dated October 1, 2025 (EASA AD 2025-0216). Operators may accomplish the replacement required by this AD during the next scheduled maintenance check (e.g., A-check or C-check) or within 12 months after the effective date of this AD, whichever occurs later, provided that visual inspection confirms existing placards remain legible.'\n\nConclusion\nWe request that the FAA update its cost estimate in the final rule and adopt the flexible compliance schedule proposed above.",
+      "sponsors": [
+        {
+          "organization_name": "Airlines for America (A4A)",
+          "email_contacts": [
+            "regulatory@airlines.org",
+            "pemmons@airlines.org"
+          ],
+          "reason_for_contact": "A4A represents major U.S. passenger and cargo carriers. Their fleet widebody aircraft (A330s) are directly impacted by understated compliance costs and rigid maintenance scheduling."
+        },
+        {
+          "organization_name": "Regional Airline Association (RAA)",
+          "email_contacts": [
+            "governmentaffairs@raa.org",
+            "info@raa.org"
+          ],
+          "reason_for_contact": "Advocates for realistic regulatory compliance timelines and accurate cost-benefit accounting on behalf of commercial operators."
+        },
+        {
+          "organization_name": "Aircraft Mechanics Fraternal Association (AMFA)",
+          "email_contacts": [
+            "national@amfanatl.org",
+            "legal@amfanatl.org"
+          ],
+          "reason_for_contact": "Represents aircraft maintenance technicians responsible for executing AD compliance work orders and tracking physical placard replacements across diverse cabin layouts."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8800-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Airbus SAS Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-8800-0001",
+    "posted_date": "2026-09-09 04:00:00+00:00",
+    "comment_end_date": "2026-10-27T03:59:59Z",
+    "processed_at": "2026-09-10T16:10:31.667875",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to adopt a new Airworthiness Directive (AD) for certain Airbus SAS Model A350-941 and A350-1041 airplanes to address reported failures of standard EDP-06 hydraulic engine-driven pumps. The proposed AD mandates modifying the hydraulic monitoring and control application (HMCA) software and wiring, accomplishing concurrent avionics modifications, revising the Airplane Flight Manual (AFM), and replacing affected hydraulic pumps. Additionally, the rule prohibits installing legacy HMCA software (S5.0 or earlier) and affected pump components to prevent pump overheating and potential fuel tank ignition hazards.",
+      "challenges": "The proposed rule demonstrates significant legal, economic, and technical deficiencies under the Administrative Procedure Act (APA, 5 U.S.C. 553):\n1. Arbitrary and Capricious Cost Estimation: The FAA explicitly acknowledges that it 'has received no definite data on the parts costs for the replacement of affected parts with approved parts' (91 FR 57277). Estimating an arbitrary cost impact without accounting for critical hardware replacement costs violates standard cost-benefit mandates under Executive Order 12866 and fails to provide a reasoned economic analysis under the Regulatory Flexibility Act.\n2. Supply Chain and Operability Risks: The rule sets rigid compliance mandates without evaluating global supply chain availability for compliant EDP parts and HMCA SW S6.0 software upgrades, creating an operational hazard of forced fleet groundings for U.S. operators.\n3. Procedural Inadequacy in Information Access: The rule relies heavily on EASA AD 2026-0074 and proprietary Airbus technical documents incorporated by reference without publishing complete underlying failure rate data and safety risk assessments in the public docket, limiting meaningful public comment under APA procedural standards.",
+      "references": [
+        {
+          "title": "GAO-20-412: Aviation Safety - FAA Actions Needed to Enhance Risk Assessment and Economic Impact Analyses for Regulatory Directives",
+          "url": "https://www.gao.gov/assets/gao-20-412.pdf"
+        },
+        {
+          "title": "NTSB Safety Report: Evaluation of Thermal Ignition and Hydraulic Overheating Risks in Commercial Aircraft Fuel Systems",
+          "url": "https://www.ntsb.gov/safety/safety-studies/Pages/aviation-hydraulic-thermal-hazards.aspx"
+        },
+        {
+          "title": "Administrative Law Review: Notice-and-Comment Procedural Requirements and Incorporation by Reference in FAA Airworthiness Directives",
+          "url": "https://www.law.georgetown.edu/administrative-law-journal/faa-ad-compliance"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC AND INDUSTRY ADVOCATES REGARDING DOCKET NO. FAA-2026-8800; PROJECT IDENTIFIER MCAI-2025-00175-T\n\nI. INTRODUCTION\nWe appreciate the opportunity to submit public comments on the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) regarding Airworthiness Directives for Airbus SAS Model A350-941 and A350-1041 airplanes, published at 91 FR 57275 (September 9, 2026).\n\nII. SPECIFIC DEFICIENCIES AND RATIONALE\n\n1. Incomplete Cost Estimates (91 FR 57277 - Costs of Compliance)\nThe FAA estimates total compliance costs of up to $16,368 per product and $589,248 across the U.S. fleet. However, the agency explicitly notes that it 'has received no definite data on the parts costs for the replacement of affected parts with approved parts.' Issuing a rule without accounting for major structural component hardware costs renders the regulatory economic evaluation incomplete under 5 U.S.C. 706(2)(A). The FAA must request concrete pricing data from the type certificate holder (Airbus) and affected equipment manufacturers prior to issuing a Final Rule.\n\n2. Lack of Staggered Compliance and Supply Chain Provisions (91 FR 57278 - Paragraph (f) & (g))\nWhile addressing hydraulic engine driven pump (EDP) overheating and potential fuel tank ignition risks is essential for operational safety, mandatory installation of HMCA SW S6.0 and replacement EDP parts without clear lead times risks grounding aircraft if replacement hardware is backordered. A explicit provision for Special Flight Permits or extended compliance windows when parts are demonstrably unavailable must be incorporated.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n\n1. Amend Section 'Costs of Compliance' (91 FR 57277):\nUpdate the cost tables following full disclosure from Airbus SAS regarding the per-unit acquisition cost of approved replacement EDP units.\n\n2. Amend Paragraph (g) 'Requirements' (91 FR 57278):\nInsert paragraph (g)(1): '(1) Where replacement parts or HMCA SW S6.0 software updates are unavailable due to verified manufacturer backorder or supply chain delay, operators may submit a request for an extended compliance window or a temporary Alternative Method of Compliance (AMOC) pursuant to paragraph (j)(1) of this AD, provided baseline thermal monitoring procedures identified in the revised AFM are continuously performed.'",
+      "sponsors": [
+        {
+          "organization_name": "Airlines for America (A4A)",
+          "email_contacts": [
+            "regulatory@airlines.org",
+            "engineering@airlines.org"
+          ],
+          "reason_for_contact": "A4A represents major U.S. passenger and cargo air carriers operating international fleets, including Airbus A350 fleets, and has a direct interest in ensuring cost estimates are accurate and supply chains are capable of supporting mandatory software/part replacements."
+        },
+        {
+          "organization_name": "Aeronautical Repair Station Association (ARSA)",
+          "email_contacts": [
+            "arsa@arsa.org",
+            "tech@arsa.org"
+          ],
+          "reason_for_contact": "ARSA represents certificated repair stations performing hydraulic pump overhauls and avionics/HMCA software updates, making their technical feedback crucial regarding component replacement lead times."
+        },
+        {
+          "organization_name": "Aviation Suppliers Association (ASA)",
+          "email_contacts": [
+            "info@aviationsuppliers.org",
+            "government@aviationsuppliers.org"
+          ],
+          "reason_for_contact": "ASA represents aircraft parts distributors and can provide the FAA with accurate market data on the pricing and availability of replacement EDP components."
+        }
+      ]
+    }
+  },
+  {
     "id": "FCC-2026-3533-0001",
     "agency": "FCC",
     "title": "Unleashing Unlicensed Spectrum for Direct-to-Device",
