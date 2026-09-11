@@ -1,5 +1,258 @@
 [
   {
+    "id": "USDA_FRDOC_0001-3365",
+    "agency": "USDA",
+    "title": "Request for Information: Modernization of Regulations",
+    "link": "https://www.regulations.gov/document/USDA_FRDOC_0001-3365",
+    "posted_date": "2026-09-11 04:00:00+00:00",
+    "comment_end_date": "2026-10-14T03:59:59Z",
+    "processed_at": "2026-09-11T16:04:57.694789",
+    "ai_data": {
+      "summary_of_main_idea": "The United States Department of Agriculture (USDA) Center for Veterinary Biologics (CVB) is issuing a Request for Information (RFI) to solicit public input on modernizing the regulations under 9 CFR parts 101\u2013118, 123, and 124, which implement the Virus-Serum-Toxin Act (VSTA). The initiative aims to update decades of incremental amendments to create a coherent framework that accommodates modern biotechnology, streamlines licensing and facility approvals, reduces unnecessary animal testing, and aligns U.S. standards with international frameworks while maintaining product safety and efficacy.",
+      "challenges": "The primary legal, technical, and economic challenges include: (1) Procedural Defects under the Administrative Procedure Act (APA): Providing a brief 30-day comment period for a comprehensive overhaul across nearly 20 complex CFR parts fails to provide stakeholders with a meaningful opportunity to comment under 5 U.S.C. \u00a7 553, rendering premature rulemaking vulnerable to arbitrary and capricious challenges under 5 U.S.C. \u00a7 706(2)(A). (2) Scientific Weaknesses: The current framework relies excessively on outdated, in vivo animal testing standards codified in Part 113 (e.g., target species safety and batch potency assays) rather than validating modern in vitro alternative assays (e.g., ELISA, qPCR, immunoassay platforms) and accepting platform technology data. (3) Regulatory & Economic Rigidities: Part 108 (Facility Requirements) and Part 114 (Production Requirements) impose inflexible brick-and-mortar facility approvals and static Master Seed/Outline of Production rules, which delay rapid response strain updates (e.g., for avian influenza or swine pathogens) and disincentivize single-use, flexible bio-manufacturing technologies.",
+      "references": [
+        {
+          "title": "Implementation of the 3Rs in Veterinary Vaccine Quality Control: Progress and Barriers in In Vitro Potency Assay Validation",
+          "url": "https://www.frontiersin.org/articles/10.3389/fvets.2021.666144/full"
+        },
+        {
+          "title": "Streamlining Regulatory Approvals for Platform Technologies in Animal Health Biologics",
+          "url": "https://academic.oup.com/jas/article/99/3/skab045/6146608"
+        },
+        {
+          "title": "Harmonization of International Standards for Veterinary Vaccines: VICH Recommendations and Implementation Challenges",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7128795/"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND VETERINARY BIOLOGICS STAKEHOLDERS\n\nRe: Docket No. USDA-2026-0298; Request for Information on Modernization of Regulations Under 9 CFR Parts 101-118 and 123-124 (91 FR 57828\u201357829, Sept. 11, 2026)\n\nI. INTRODUCTION & PROCEDURAL DEFECT\nWe appreciate the opportunity to submit comments regarding the U.S. Department of Agriculture (USDA) Animal and Plant Health Inspection Service (APHIS) Center for Veterinary Biologics (CVB) Request for Information (RFI) on modernizing 9 CFR parts 101\u2013118, 123, and 124. As noted on 91 FR 57828, the regulations governing the Virus-Serum-Toxin Act (VSTA) have not undergone a holistic reform in recent history. However, establishing a mere 30-day comment period (ending October 13, 2026) for a comprehensive review of 20 distinct regulatory parts poses a severe procedural barrier under the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 553, depriving regulated entities, animal welfare organizations, and scientific researchers of a meaningful opportunity to analyze technical data and submit detailed feedback.\n\nII. TECHNICAL & REGULATORY MODIFICATIONS REQUIRED\nTo align 9 CFR parts 101\u2013118 with modern scientific capabilities and the VSTA mandate to prohibit harmful or ineffective products, CVB must prioritize three core structural modernizations:\n\n1. Modernization of 9 CFR Part 113 (Standard Requirements for Animal Testing):\nCurrent provisions in Part 113 frequently mandate live animal batch safety and potency testing. CVB should formally incorporate International Cooperation on Harmonisation of Technical Requirements for Registration of Veterinary Medicinal Products (VICH) guidelines (e.g., VICH GL41 and GL50) to allow for the replacement, reduction, and refinement (3Rs) of animal testing. Modern in vitro analytical assays (e.g., mass spectrometry, ELISA, genomic sequencing) provide superior precision and significantly lower regulatory lead times.\n\n2. Flexible Regulatory Framework for Platform Technologies (9 CFR Parts 102 & 114):\nLegacy rules treat every recombinant or platform-based vaccine (e.g., mRNA, viral vector platforms) as a completely novel entity, requiring redundant Master Seed and serial release testing. CVB should establish a streamlined platform technology framework wherein a validated baseline delivery system can undergo rapid antigen updates (e.g., emerging swine or avian influenza strains) without requiring full, redundant licensing protocols.\n\n3. Modernization of Facility Design & Production Infrastructure (9 CFR Parts 108 & 109):\nPart 108 currently reflects rigid brick-and-mortar facility designs. Regulatory language must be updated to explicitly permit single-use, modular, and multi-product automated manufacturing technologies, reducing regulatory delays for facility expansion and modification.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n\nProposed Revision to 9 CFR \u00a7 113.5 (General Testing Requirements):\n\"(a) In vitro alternatives to animal testing for safety, potency, and purity shall be accepted by the Center for Veterinary Biologics provided that such assays have been validated in accordance with international consensus standards (e.g., VICH guidelines). Where an approved in vitro potency or safety test exists, no live animal batch release testing shall be required.\"\n\nProposed Addition of 9 CFR \u00a7 102.7 (Platform Technology Authorization):\n\"(a) The Center for Veterinary Biologics shall establish an expedited licensing process for veterinary biological products derived from an established platform technology. Applicants utilizing an approved platform may submit modified antigen sequences via an expedited Outline of Production amendment, provided safety and core platform specifications remain consistent with the baseline product authorization.\"\n\nIV. CONCLUSION\nWe urge USDA-CVB to extend the comment period by at least 60 days to allow comprehensive stakeholder input, and to adopt the structural updates outlined above in any subsequent Notice of Proposed Rulemaking (NPRM).",
+      "sponsors": [
+        {
+          "organization_name": "Animal Health Institute (AHI)",
+          "email_contacts": [
+            "info@ahi.org",
+            "regulatory@ahi.org"
+          ],
+          "reason_for_contact": "Represents leading manufacturers of animal biologicals and pharmaceuticals who directly navigate 9 CFR compliance and have a strong interest in streamlining licensing, facility approvals, and international harmonization."
+        },
+        {
+          "organization_name": "Biotechnology Innovation Organization (BIO)",
+          "email_contacts": [
+            "info@bio.org",
+            "agriculture@bio.org"
+          ],
+          "reason_for_contact": "Advocates for innovative biotechnology companies developing modern platform-based veterinary biologics (e.g., mRNA, recombinant vaccines) that require modernized platform approval pathways."
+        },
+        {
+          "organization_name": "Johns Hopkins Center for Alternatives to Animal Testing (CAAT)",
+          "email_contacts": [
+            "caat@jhu.edu"
+          ],
+          "reason_for_contact": "Leading academic research center focused on implementing the 3Rs (replacement, reduction, refinement) in regulatory testing, highly aligned with updating 9 CFR Part 113 in vitro testing methods."
+        },
+        {
+          "organization_name": "American Veterinary Medical Association (AVMA)",
+          "email_contacts": [
+            "avmainfo@avma.org",
+            "governmentalrelations@avma.org"
+          ],
+          "reason_for_contact": "Represents practicing veterinarians nationwide who rely on rapid access to novel, safe, and effective veterinary biologics to treat livestock and domestic animal diseases."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8806-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Airbus SAS Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-8806-0001",
+    "posted_date": "2026-09-11 04:00:00+00:00",
+    "comment_end_date": "2026-10-27T03:59:59Z",
+    "processed_at": "2026-09-11T16:04:57.694874",
+    "ai_data": {
+      "summary_of_main_idea": "The FAA proposes to adopt a new Airworthiness Directive (AD) for all Airbus SAS Model A300-600 series airplanes to address potential fatigue cracking in principal structural elements. The proposed rule mandates that U.S. operators revise their existing aircraft maintenance or inspection programs to incorporate new or more restrictive airworthiness limitations by incorporating European Union Aviation Safety Agency (EASA) AD 2025-0214 by reference. However, the FAA specifically proposes an exception that drastically reduces the compliance timeframe for updating the maintenance program from EASA's 12-month standard down to 90 days.",
+      "challenges": "1. Administrative Procedure Act (APA) Arbitrary and Capricious Defect: The FAA fails to provide scientific, technical, or risk-analysis data justifying its decision under paragraph (h)(2) to shorten the compliance window from 12 months (established by the State of Design Authority, EASA) to 90 days. Under APA standards (5 U.S.C. 706), an agency must articulate a rational connection between facts found and choices made.\n2. Economic & Operational Feasibility Issues: U.S. operators of A300-600 aircraft (predominantly major cargo and freight carriers) face compressed timelines to update customized Aircraft Maintenance Programs (AMPs) across fleets, draft engineering orders, and secure Alternative Method of Compliance (AMOC) approvals for previously modified or repaired aircraft under paragraph (k)(1), potentially leading to ungrounded compliance bottlenecks without demonstrable safety benefit.\n3. Procedural AMOC Strain: The rule mandates that modified aircraft obtain FAA AMOC approval under 14 CFR 39.19 within the truncated 90-day window, creating administrative backlogs at the FAA Continued Operational Safety Branch (AIR-520) that could unfairly ground operational aircraft.",
+      "references": [
+        {
+          "title": "Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983) (Establishing standard for arbitrary and capricious agency action)",
+          "url": "https://supreme.justia.com/cases/federal/us/463/29/"
+        },
+        {
+          "title": "5 U.S. Code \u00a7 553 - Administrative Procedure Act: Rulemaking",
+          "url": "https://www.law.cornell.edu/uscode/text/5/553"
+        },
+        {
+          "title": "14 CFR Part 39 - Airworthiness Directives (Code of Federal Regulations)",
+          "url": "https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-39"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF AFFECTED STAKEHOLDERS\n\nDocket No. FAA-2026-8806; Project Identifier MCAI-2025-01580-T\nRIN 2120-AA64: Airworthiness Directives; Airbus SAS Airplanes\n\nI. INTRODUCTION & EXECUTIVE SUMMARY\nWe appreciate the opportunity to comment on the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) regarding Airworthiness Directives for Airbus SAS Model A300-600 series airplanes, published at 91 FR 57829 (September 11, 2026). While we support the agency's goal of maintaining structural integrity and preventing fatigue cracking in principal structural elements, we strongly object to the unreasoned departure from the State of Design Authority\u2019s compliance timeline set forth in paragraph (h)(2) of the proposed rule.\n\nII. SPECIFIC LEGAL AND TECHNICAL OBJECTIONS\n\n1. Unjustified Deviation from EASA Compliance Timelines (Page 57832, Paragraph (h)(2))\nParagraph (h)(2) of the proposed rule (91 FR 57832) specifies that operators must revise their existing maintenance or inspection program within 90 days after the effective date of the AD, rejecting Paragraph (3) of EASA AD 2025-0214, which grants a 12-month compliance window.\n\nThe FAA provides zero empirical data, service history analysis, or engineering rationale in the preamble to justify why EASA's 12-month timeline is unsafe or why a 90-day limitation is necessary. Under the Administrative Procedure Act (5 U.S.C. 706(2)(A)), agency action is arbitrary and capricious if the agency fails to articulate a satisfactory explanation for its action including a rational connection between the facts found and the choice made. Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983).\n\n2. Operational Hardship and AMOC Administrative Bottlenecks\nRevising an Aircraft Maintenance Program (AMP) across air carrier fleets requires multi-departmental coordination, software updates, and engineering reviews. Furthermore, for aircraft with prior structural repairs or modifications, operators must obtain an Alternative Method of Compliance (AMOC) pursuant to paragraph (k)(1) before the maintenance program revision deadline. Restricting this total workflow to 90 days creates severe operational strain and threatens administrative gridlock at FAA AIR-520, without providing any measurable enhancement to aviation safety.\n\nIII. PROPOSED REGULATORY ALTERNATIVES\n\nWe respectfully request that the FAA amend Paragraph (h)(2) and (h)(3) on page 57832 of the proposed rule to align with EASA's established 12-month compliance timeframe or, at minimum, adopt a 180-day transition period.\n\nProposed Alternative Wording for Paragraph (h)(2):\n\"(2) Paragraph (3) of EASA AD 2025-0214 specifies revising the approved aircraft maintenance program (AMP) within 12 months after its effective date. This AD requires revising the existing maintenance or inspection program, as applicable, within 12 months (or 365 days) after the effective date of this AD.\"\n\nProposed Alternative Wording for Paragraph (h)(3):\n\"(3) The initial compliance time for doing the tasks specified in paragraph (3) of EASA AD 2025-0214 is at the applicable associated thresholds as incorporated by the requirements of paragraph (3) of EASA AD 2025-0214, or within 12 months after the effective date of this AD, whichever occurs later.\"\n\nIV. CONCLUSION\nAligning the FAA AD compliance window with EASA AD 2025-0214 maintains harmonization across international regulatory bodies and ensures safe, orderly compliance without imposing arbitrary administrative burdens on U.S. operators.",
+      "sponsors": [
+        {
+          "organization_name": "Cargo Airline Association (CAA)",
+          "email_contacts": [
+            "info@cargoair.org",
+            "regulatory@cargoair.org"
+          ],
+          "reason_for_contact": "The CAA represents major all-cargo air carriers (such as FedEx and UPS) that operate the vast majority of active U.S.-registered Airbus A300-600 freighter aircraft affected by this rule."
+        },
+        {
+          "organization_name": "FedEx Express Regulatory Affairs",
+          "email_contacts": [
+            "regulatoryaffairs@fedex.com",
+            "legal@fedex.com"
+          ],
+          "reason_for_contact": "FedEx is the largest global fleet operator of Airbus A300-600 cargo aircraft and will directly bear the operational costs and compliance burdens of the 90-day maintenance program revision mandate."
+        },
+        {
+          "organization_name": "UPS Airlines Regulatory & Industry Affairs",
+          "email_contacts": [
+            "governmentaffairs@ups.com",
+            "fleetcompliance@ups.com"
+          ],
+          "reason_for_contact": "UPS operates a substantial fleet of A300-600 airplanes and has a direct financial and operational interest in extending the compliance window from 90 days to 12 months."
+        },
+        {
+          "organization_name": "Aeronautical Repair Station Association (ARSA)",
+          "email_contacts": [
+            "arsa@arsa.org",
+            "info@arsa.org"
+          ],
+          "reason_for_contact": "ARSA represents aircraft maintenance facilities and repair stations responsible for implementing structural inspection program changes and submitting AMOC requests."
+        }
+      ]
+    }
+  },
+  {
+    "id": "USCIS-2026-0364-0001",
+    "agency": "USCIS",
+    "title": "Eliminating the Discretionary 60-Day Grace Period",
+    "link": "https://www.regulations.gov/document/USCIS-2026-0364-0001",
+    "posted_date": "2026-09-11 04:00:00+00:00",
+    "comment_end_date": "2026-11-11T04:59:59Z",
+    "processed_at": "2026-09-11T16:04:57.694941",
+    "ai_data": {
+      "summary_of_main_idea": "The Department of Homeland Security (DHS) proposes to repeal 8 CFR 214.1(l)(2), thereby eliminating the up to 60-day discretionary grace period following employment cessation for high-skilled nonimmigrants in E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1, and TN classifications and their dependents. The rule aims to strictly connect nonimmigrant status directly to active qualifying employment or activity and reduce administrative burdens associated with USCIS grace period adjudications. If finalized, nonimmigrants whose qualifying employment ends prior to the expiration of their authorized period of stay will be considered out-of-status immediately the following day and required to depart the United States.",
+      "challenges": "The proposed rule suffers from key legal, economic, and administrative defects under the Administrative Procedure Act (APA), 5 U.S.C. 706(2)(A). First, DHS fails to provide a reasoned explanation for reversing its decade-long position established in the 2016 AC21 Final Rule (81 FR 82398), arbitrarily dismissing serious reliance interests of workers, families, and U.S. employers (e.g., real estate commitments, local tax contributions, child education, and hiring plans) in violation of DHS v. Regents of the University of California, 140 S. Ct. 1891 (2020). Second, DHS's core justification\u2014that eliminating the grace period reduces administrative burden\u2014is arbitrary and contradictory; the NPRM explicitly acknowledges that the rule will increase Notice to Appear (NTA) issuances, referrals to the Department of Justice Executive Office for Immigration Review (EOIR), and ICE enforcement workloads (91 FR 57823-57824). Third, the economic analysis fails to quantify the significant drag on U.S. talent retention, supply chain disruptions, and forced return-transportation liabilities imposed on employers under INA \u00a7 214(c)(5).",
+      "references": [
+        {
+          "title": "Motor Vehicle Manufacturers Ass'n v. State Farm Mutual Automobile Ins. Co., 463 U.S. 29 (1983)",
+          "url": "https://supreme.justia.com/cases/federal/us/463/29/"
+        },
+        {
+          "title": "Department of Homeland Security v. Regents of the University of California, 140 S. Ct. 1891 (2020)",
+          "url": "https://supreme.justia.com/cases/federal/us/591/18-587/"
+        },
+        {
+          "title": "National Bureau of Economic Research (NBER): High-Skilled Immigration and the Structure of U.S. Innovation (Working Paper 14593)",
+          "url": "https://www.nber.org/papers/w14593"
+        },
+        {
+          "title": "American Immigration Council: Foreign-Born STEM Workers and U.S. Economic Competitiveness",
+          "url": "https://www.americanimmigrationcouncil.org/research/h1b-visa-program-facts"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT SUBMISSION\n\nDate: November 10, 2026\nAgency: U.S. Citizenship and Immigration Services, DHS\nDocket No.: USCIS-2026-0364\nRIN: 1615-AD22\nRule Title: Eliminating the Discretionary 60-Day Grace Period (91 FR 57807\u201357828)\n\nI. INTRODUCTION AND INTEREST OF COMMENTER\nThis public comment is submitted in response to the Department of Homeland Security\u2019s (DHS) Notice of Proposed Rulemaking (NPRM) published at 91 FR 57807 on September 11, 2026. The proposed rule seeks to eliminate 8 CFR 214.1(l)(2), stripping high-skilled nonimmigrants (E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1, and TN) and their dependents of the up to 60-day discretionary grace period upon cessation of employment. We strongly oppose this proposed rule because it is arbitrary and capricious under the Administrative Procedure Act (APA), fundamentally miscalculates administrative efficiency, harms U.S. business competitiveness, and unlawfully disregards substantial reliance interests.\n\nII. LEGAL DEFECTS UNDER THE ADMINISTRATIVE PROCEDURE ACT\n1. Arbitrary and Capricious Policy Reversal Without Adequate Justification:\nUnder FCC v. Fox Television Stations, Inc., 556 U.S. 502 (2009), and Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983), an agency reversing policy must supply a reasoned explanation for disregarding its prior findings. In 2016, DHS determined that a 60-day grace period was necessary to enhance job portability, stability, and workforce flexibility for U.S. employers (81 FR 82398). DHS now asserts at 91 FR 57812 that the rule \"did not sufficiently consider\" statutory misalignment. However, Congress granted the Secretary broad discretionary authority under INA \u00a7 214(a)(1) to establish periods of admission. Declaring a 10-year success to be a \"misalignment\" without empirical evidence of program abuse is legally deficient.\n\n2. Unlawful Failure to Account for Serious Reliance Interests:\nIn DHS v. Regents of the University of California, 140 S. Ct. 1891 (2020), the Supreme Court made clear that when an agency changes course, APA \u00a7 706(2)(A) requires it to be cognizant of how its prior actions engendered reliance interests and systematically weigh those interests against competing policy concerns. On pages 57815-57816, DHS acknowledges that nonimmigrants and employers have formed deep reliance interests\u2014purchasing homes, enrolling children in schools, contributing to local tax bases, and executing recruitment pipelines. Yet DHS summarily dismisses these life-altering interests in two paragraphs, claiming they are \"outweighed by the government's competing interests.\" Under Regents, this perfunctory treatment constitutes a failure to consider an important aspect of the problem.\n\nIII. FLAWED EFFICIENCY ARGUMENTS AND UNCOUNTED COSTS\nDHS asserts that removing the grace period will reduce administrative burdens on USCIS adjudicators (91 FR 57814). This reasoning is contradictory and illogical. On pages 57823-57824, DHS admits that eliminating the grace period will increase the volume of Notices to Appear (NTAs), increase immigration court proceedings before EOIR, and add enforcement burdens to ICE. Offloading administrative verification from USCIS benefit adjudications onto the federal removal system creates a net loss in administrative efficiency across DHS and DOJ.\n\nFurthermore, the rule creates immediate friction costs for U.S. businesses. Under INA \u00a7 214(c)(5) and 8 CFR 214.2(h)(4)(iii)(E), U.S. employers dismissing H-1B or O-1 workers must pay return transportation costs abroad. By removing the 60-day window during which workers could transition to new domestic employers, DHS shifts severe financial liabilities onto American businesses (91 FR 57822).\n\nIV. PROPOSED ALTERNATIVE REGULATORY TEXT\nInstead of completely repealing 8 CFR 214.1(l)(2), DHS should retain a standardized, non-discretionary grace period to promote market flexibility while offering certainty to adjudicators and visa holders.\n\nProposed Revision to 8 CFR 214.1(l)(2):\n\"8 CFR 214.1(l)(2) Grace Period Upon Cessation of Employment. An alien admitted or otherwise provided status in E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 or TN classification, and his or her dependents, shall not be considered to have failed to maintain nonimmigrant status solely on the basis of a cessation of the employment on which the alien's classification was based, for a period of up to 60 consecutive days or until the end of the authorized validity period, whichever is shorter. This period shall apply once during each authorized validity period and shall be granted automatically unless DHS determines that the alien committed fraud, engaged in unauthorized employment, or presents a threat to public safety or national security.\"\n\nV. CONCLUSION\nFor the foregoing reasons, USCIS should withdraw the proposed rule or adopt the non-discretionary alternative language provided above.",
+      "sponsors": [
+        {
+          "organization_name": "Compete America Coalition",
+          "email_contacts": [
+            "info@competeamerica.org",
+            "policy@competeamerica.org"
+          ],
+          "reason_for_contact": "Compete America is a leading coalition of U.S. corporations, universities, and research institutions dedicated to ensuring high-skilled workforce availability. They are directly impacted by job-portability restrictions on H-1B and L-1 employees."
+        },
+        {
+          "organization_name": "American Immigration Lawyers Association (AILA)",
+          "email_contacts": [
+            "policy@aila.org",
+            "advocacy@aila.org"
+          ],
+          "reason_for_contact": "AILA represents over 16,000 immigration attorneys whose clients (both U.S. employers and nonimmigrant workers) will face immediate deportation risks, NTA issuances, and compliance confusion without the 60-day grace period."
+        },
+        {
+          "organization_name": "Information Technology Industry Council (ITI)",
+          "email_contacts": [
+            "info@itic.org",
+            "governmentaffairs@itic.org"
+          ],
+          "reason_for_contact": "ITI represents the global tech sector's leading companies. Removing high-skilled worker flexibilities harms recruitment, innovation, and retention in critical sectors like AI, semiconductors, and software development."
+        },
+        {
+          "organization_name": "National Association of Manufacturers (NAM)",
+          "email_contacts": [
+            "legal@nam.org",
+            "advocacy@nam.org"
+          ],
+          "reason_for_contact": "NAM represents industrial manufacturers reliant on specialized engineering and managerial talent under TN, L-1, and H-1B classifications, who will incur mandatory return transportation costs and talent loss under the proposed rule."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OLEM-2026-4324-0001",
+    "agency": "EPA",
+    "title": "Wisconsin: Approval of State Coal Combustion Residuals Permit Program",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OLEM-2026-4324-0001",
+    "posted_date": "2026-09-11 04:00:00+00:00",
+    "comment_end_date": "2026-11-11T04:59:59Z",
+    "processed_at": "2026-09-11T16:04:57.695000",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) is proposing to approve the Wisconsin Department of Natural Resources' (WDNR) partial Coal Combustion Residuals (CCR) permit program under Section 4005(d) of the Resource Conservation and Recovery Act (RCRA). If finalized, Wisconsin's approved state regulations will operate in lieu of the federal CCR program for CCR landfills, while federal rules remain directly applicable for CCR surface impoundments, legacy units, CCR management units, and updated federal standards. The proposed action explicitly excludes previously issued state permits from immediate approval, requiring WDNR to review and modify them post-approval before facilities can obtain a federal permit shield.",
+      "challenges": "The proposed partial program approval suffers from legal, procedural, and environmental protection defects under RCRA and the Administrative Procedure Act (APA). First, approving a piecemeal state program that ignores the 2024 Legacy CCR Rule (89 FR 38950) creates a fragmented regulatory structure where CCR Management Units (CCRMUs) and legacy impoundments remain under direct federal oversight, while landfills are under state oversight, creating enforcement gaps and public confusion. Second, Wisconsin's permitting framework severely restricts public participation under RCRA \u00a7 7004(b)(1) by barring administrative contested case hearings for Plan of Operation modifications\u2014the primary vehicle for updating CCR operating parameters. Third, EPA's proposed mechanism of approving a state program while excluding previously issued state permits under Section V creates an unlawful regulatory shield gap where facilities operate under unapproved state terms while attempting to claim immunity from direct federal enforcement. Finally, WDNR's state-level groundwater monitoring exemptions and lack of explicit coverage for multi-unit interactions compromise environmental protection in sensitive hydrologic settings.",
+      "references": [
+        {
+          "title": "Utility Solid Waste Activities Group (USWAG) v. EPA, 901 F.3d 414 (D.C. Cir. 2018)",
+          "url": "https://openjurist.org/901/f3d/414/utility-solid-waste-activities-group-v-environmental-protection-agency"
+        },
+        {
+          "title": "Environmental Integrity Project & Earthjustice - Coal's Poisonous Legacy: Groundwater Contamination at Coal Ash Sites",
+          "url": "https://environmentalintegrity.org/reports/coals-poisonous-legacy/"
+        },
+        {
+          "title": "Waterkeeper Alliance, Inc. v. EPA, 399 F.3d 486 (2d Cir. 2005) (Public Participation and Permitting Integrity)",
+          "url": "https://casetext.com/case/waterkeeper-alliance-inc-v-environmental-protection-agency"
+        },
+        {
+          "title": "US EPA Technical Support Document for the Approval of Wisconsin's Coal Combustion Residuals Permit Program (Docket EPA-HQ-OLEM-2026-4324)",
+          "url": "https://www.regulations.gov/docket/EPA-HQ-OLEM-2026-4324"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND ENVIRONMENTAL ORGANIZATIONS\n\nRE: Docket ID No. EPA-HQ-OLEM-2026-4324; FRL-13374-01-OLEM\nProposed Approval of Wisconsin State Coal Combustion Residuals Partial Permit Program\n91 Fed. Reg. 57842 (September 11, 2026)\n\nI. INTRODUCTION\nThese comments are submitted regarding the Environmental Protection Agency's (EPA) proposed partial approval of the Wisconsin Department of Natural Resources (WDNR) Coal Combustion Residuals (CCR) permit program under Section 4005(d) of the Resource Conservation and Recovery Act (RCRA), 42 U.S.C. \u00a7 6945(d).\n\nII. SPECIFIC LEGAL AND TECHNICAL DEFECTS\n\n1. Impermissible Regulatory Fragmentation Regarding 2024 Legacy CCR Standards (91 FR at 57852\u201357853)\nEPA notes on pages 57852-57853 that WDNR has not adopted amendments from the 2024 Legacy CCR Rule (89 FR 38950), including definitions and criteria for CCR Management Units (CCRMUs), legacy impoundments, and extended retention/closure standards. Approving a partial landfill program while leaving adjacent CCRMUs and legacy contamination under direct federal regulation violates RCRA \u00a7 4005(d)(1)(B), which requires state programs to ensure that *each* CCR unit in the state complies with criteria that are 'at least as protective as' federal standards. Creating a jurisdictional split on the same physical facility site severely degrades enforcement efficiency.\n\n2. Public Participation Violations Under RCRA \u00a7 7004(b)(1) (91 FR at 57846\u201357847)\nUnder Wis. Stat. \u00a7\u00a7 227.52 and 227.53, WDNR plan of operation modifications\u2014which serve as the substantive operating permits for CCR landfills\u2014are exempt from administrative contested case hearings. RCRA \u00a7 7004(b)(1) mandates that public participation must be provided for and encouraged in the implementation and enforcement of any program. Denying affected community members an administrative evidentiary hearing on major plan modifications undermines statutory public participation mandates.\n\n3. Procedural Vacuum Created by Section V Concerning Existing Permits (91 FR at 57854)\nEPA explicitly acknowledges in Section V.A that state permits previously issued by WDNR are *not* part of the program evidence under review and will not confer a federal permit shield under RCRA \u00a7 4005(d)(3). However, allowing WDNR up to one year post-approval to review and modify these permits creates an impermissible regulatory gap during which facilities may operate without an approved state permit while resisting federal direct enforcement under 40 CFR Part 257.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT / ACTION\nEPA should revise its proposed action at 91 Fed. Reg. 57854 to issue a CONDITIONAL APPROVAL, subject to the following required revisions:\n\n\"Proposed Action Revision:\nEPA grants conditional approval to the Wisconsin partial CCR permit program, effective only upon WDNR's completion of the following conditions within 180 days:\n1. WDNR must promulgate administrative rules adopting the 2024 Legacy CCR Rule standards (89 FR 38950) for CCRMUs and extended facility closure terms;\n2. WDNR must amend Wis. Admin. Code Ch. NR 514 to provide an administrative contested case hearing opportunity under Wis. Stat. Ch. 227 for all plan of operation modifications for CCR units;\n3. No federal permit shield under RCRA section 4005(d)(3) shall attach to any CCR landfill in Wisconsin until EPA conducts an individual review and issues a written concurrence on each modified WDNR Plan of Operation approval.\"",
+      "sponsors": [
+        {
+          "organization_name": "Midwest Environmental Advocates (MEA)",
+          "email_contacts": [
+            "info@midwestadvocates.org",
+            "legal@midwestadvocates.org"
+          ],
+          "reason_for_contact": "MEA is a non-profit environmental law center devoted to protecting Wisconsin's water and public participation rights; highly relevant for challenging WDNR administrative hearing limitations."
+        },
+        {
+          "organization_name": "Clean Wisconsin",
+          "email_contacts": [
+            "info@cleanwisconsin.org",
+            "action@cleanwisconsin.org"
+          ],
+          "reason_for_contact": "Leading state environmental advocacy group focused on clean water, groundwater protection, and fossil fuel waste management across Wisconsin."
+        },
+        {
+          "organization_name": "Sierra Club Wisconsin Chapter",
+          "email_contacts": [
+            "wisconsin.chapter@sierraclub.org"
+          ],
+          "reason_for_contact": "Active grass-roots involvement in monitoring coal plant closures, coal ash landfill operations, and public health protection in Wisconsin utility communities."
+        },
+        {
+          "organization_name": "Environmental Integrity Project (EIP)",
+          "email_contacts": [
+            "contact@environmentalintegrity.org"
+          ],
+          "reason_for_contact": "National legal non-profit specializing in coal ash groundwater monitoring data, federal RCRA compliance, and state delegation oversight."
+        }
+      ]
+    }
+  },
+  {
     "id": "FWS-R2-ES-2022-0001-0033",
     "agency": "FWS",
     "title": "Endangered and Threatened Species: Removal of Gila Chub From the List of Endangered and Threatened Wildlife",
