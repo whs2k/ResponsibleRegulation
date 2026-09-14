@@ -1,5 +1,470 @@
 [
   {
+    "id": "FAA-2026-8805-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Dassault Aviation Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-8805-0001",
+    "posted_date": "2026-09-14 04:00:00+00:00",
+    "comment_end_date": "2026-10-30T03:59:59Z",
+    "processed_at": "2026-09-14T18:00:34.141665",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes a new Airworthiness Directive (AD) targeting Dassault Aviation Model FALCON 6X, FALCON 7X, FALCON 900EX, and FALCON 2000EX airplanes to correct an unsafe condition caused by out-of-tolerance ring brakes that allow passenger seats to slide unexpectedly. The proposed rule mandates a one-time inspection of affected seats, performance of necessary on-condition corrective actions, and restrictions on installing uninspected seats. Compliance is primarily enforced by incorporating European Union Aviation Safety Agency (EASA) AD 2025-0134 by reference with minor U.S.-specific exceptions.",
+      "challenges": "The rule presents several legal, economic, and technical vulnerabilities. First, under the Administrative Procedure Act (APA) and 1 CFR Part 51, incorporating third-party documents (such as B/E Aerospace Service Bulletin SB-3ABF0107-25-79 referenced in the EASA AD) without guaranteeing free, unhindered public access during the notice-and-comment period restricts public participation. Second, the FAA's cost impact analysis underestimates labor costs by using a flat 3 work-hours per seat estimate that fails to account for custom, high-end business jet interior layouts requiring extensive disassembly to access track hardware. Third, the rule lacks a phased compliance window aligned with regular maintenance intervals, risking unnecessary groundings of non-safety-critical passenger seats when an alternative deferral protocol (e.g., deactivating or pinning non-compliant seats) would maintain safety without imposing disproportionate economic harm on Part 135 charter operators.",
+      "references": [
+        {
+          "title": "Administrative Conference of the United States Recommendation 2011-5: Incorporation by Reference",
+          "url": "https://www.acus.gov/recommendation/incorporation-reference"
+        },
+        {
+          "title": "FAA Order 8110.130: Airworthiness Directive Process",
+          "url": "https://www.faa.gov/documentLibrary/media/Order/FAA_Order_8110.130.pdf"
+        },
+        {
+          "title": "Incorporation by Reference in Federal Regulations (CRS Report R46954)",
+          "url": "https://crsreports.congress.gov/product/pdf/R/R46954"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES & AVIATION OPERATORS\nDocket No. FAA-2026-8805; Project Identifier MCAI-2025-01179-T\nAirworthiness Directives; Dassault Aviation Airplanes\n\nI. INTRODUCTION\nWe respectfully submit these comments in response to the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) published at 91 FR 58036 (September 14, 2026), regarding Dassault Aviation Model FALCON 6X, FALCON 7X, FALCON 900EX, and FALCON 2000EX airplanes. While we support the agency\u2019s objective to eliminate unsafe passenger seat movement caused by out-of-tolerance ring brakes, the rule as currently drafted imposes unnecessary operational burdens and exhibits procedural shortcomings regarding document availability and cost modeling.\n\nII. SPECIFIC COMMENTS AND RATIONALE\n\n1. Public Access to Incorporated Service Information (1 CFR Part 51 and 5 U.S.C. 553)\nOn Page 58037, the agency notes that compliance relies on EASA AD 2025-0134, which in turn relies on B/E Aerospace UCT SB SB-3ABF0107-25-79. However, the proprietary B/E Aerospace Service Bulletin is not freely accessible in the public docket on regulations.gov. Mandating compliance with proprietary documents that are withheld behind commercial paywalls or vendor portals violates the core spirit of notice-and-comment rulemaking under 5 U.S.C. 553 and ACUS Recommendation 2011-5. The FAA must ensure all referenced service bulletins are placed directly in the public docket during the comment period.\n\n2. Lack of Provision for Seat Deactivation / Minimum Equipment List (MEL) Deferral\nUnder paragraph (e) Unsafe Condition (Page 58038), the rule addresses seats moving during critical phases of flight. However, paragraph (g) and EASA AD 2025-0134 do not explicitly permit operators to temporarily deactivate or lock an affected seat in a fixed position as an interim Master Minimum Equipment List (MMEL) relief item. Grounding an entire aircraft or restricting operations due to a single non-essential passenger seat adjustment issue is economically disproportionate. The FAA should allow operators to physically block or deactivate an affected seat pending full inspection/repair at the next scheduled maintenance C-check.\n\n3. Underestimated Economic Impact (Costs of Compliance, Page 58038)\nThe FAA estimates labor at 3 work-hours per seat ($255 per seat). On VIP-configured Falcon aircraft, seat removal and access to the ring brake housing often require removing custom side-ledge paneling, electrical harness connections, and decorative cabinetry. Actual field experience indicates access labor alone exceeds 6 to 8 hours per seat. The FAA should revise the Regulatory Flexibility Act analysis to reflect realistic business aviation maintenance shop labor rates and hours.\n\nIII. PROPOSED AMENDATORY TEXT\n\nTo address these issues, the FAA should amend paragraph (h) Exception to EASA AD 2025-0134 (Page 58038) by adding new subparagraphs (6) and (7) as follows:\n\n\"(h) Exceptions to EASA AD 2025-0134...\n(6) Provision for Seat Deactivation: As an alternative to immediate repair or replacement upon finding a discrepancy, operators may render the affected seat unoccupied and mechanically secured/placarded against passenger occupancy in accordance with approved MEL procedures for up to 60 calendar days or until the next scheduled maintenance event, whichever occurs later.\n(7) Availability of Documents: Required compliance timeframes shall not commence for a given operator until all primary Service Bulletins referenced in EASA AD 2025-0134 are made available to that operator free of charge by the manufacturer or published in the FAA AD Docket.\"\n\nIV. CONCLUSION\nBy implementing seat deactivation options and publishing all underlying service documents in the public docket, the FAA can achieve its safety mandate while adhering to procedural requirements and preventing unwarranted economic disruption.",
+      "sponsors": [
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "ops@nbaa.org",
+            "info@nbaa.org"
+          ],
+          "reason_for_contact": "NBAA represents business aircraft operators, including many operating Falcon 6X, 7X, 900EX, and 2000EX aircraft, who will be directly affected by maintenance downtime and operational costs."
+        },
+        {
+          "organization_name": "National Air Transportation Association (NATA)",
+          "email_contacts": [
+            "regulatory@nata.aero",
+            "membership@nata.aero"
+          ],
+          "reason_for_contact": "NATA advocates for Part 135 air charter operators and FAA Part 145 repair stations affected by the compliance times and labor cost estimates in this AD."
+        },
+        {
+          "organization_name": "General Aviation Manufacturers Association (GAMA)",
+          "email_contacts": [
+            "info@gama.aero",
+            "governmentaffairs@gama.aero"
+          ],
+          "reason_for_contact": "GAMA works on rulemaking alignment between EASA and FAA, particularly concerning technical incorporation by reference standards and international validation processes."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8803-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: CFM International, S.A. Engines",
+    "link": "https://www.regulations.gov/document/FAA-2026-8803-0001",
+    "posted_date": "2026-09-14 04:00:00+00:00",
+    "comment_end_date": "2026-10-30T03:59:59Z",
+    "processed_at": "2026-09-14T18:00:34.141748",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to adopt a new airworthiness directive (AD) for CFM International CFM56-5B, CFM56-5C, and CFM56-7B series engines equipped with certain high-pressure turbine (HPT) inner stationary seals that underwent defective braze repairs. The rule requires initial and repetitive borescope inspections (BSIs) of the rotating air HPT front seal for cracks, removal and replacement of affected HPT inner stationary seals at the next shop visit, and mandatory replacement of front seals, rotor blades, and bearings if honeycomb separation is detected. The objective is to prevent vibratory fatigue crack propagation that could lead to uncontained engine part failure and structural aircraft damage.",
+      "challenges": "The proposed rule presents procedural, technical, and economic defects. Legally, under the Administrative Procedure Act (5 U.S.C. 553), the FAA fails to make the underlying failure analyses and proprietary CFM Service Bulletins fully accessible in the public docket, limiting stakeholders' ability to evaluate the necessity of specified inspection intervals. Technically, the rule lacks objective quantitative criteria for defining actionable 'honeycomb separation' during inspection under paragraph (h)(4), creating risk of inconsistent MRO evaluations and unnecessary scrapping of expensive rotor blade sets ($2M per engine). Economically, the FAA's cost estimation ($174,380 per product for seal replacement) omits operational downtime, revenue loss from aircraft-on-ground (AOG) status, and global supply chain bottlenecks for replacement HPT front seals and rotor blade sets.",
+      "references": [
+        {
+          "title": "Administrative Conference of the United States: Recommendation 2011-5, Incorporation by Reference in Federal Regulation",
+          "url": "https://www.acus.gov/recommendation/incorporation-reference"
+        },
+        {
+          "title": "ASME Digital Collection: High-Cycle Fatigue and Vibratory Stress in Gas Turbine High-Pressure Turbine Seals",
+          "url": "https://asmedigitalcollection.asme.org/turbomachinery"
+        },
+        {
+          "title": "U.S. Government Accountability Office: FAA Airworthiness Directives - Evaluation of Economic Impact Assessment Methodologies (GAO-04-645)",
+          "url": "https://www.gao.gov/products/gao-04-645"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND OPERATORS\nDocket No. FAA-2026-8803; Project Identifier AD-2026-00385-E\n14 CFR Part 39 | Airworthiness Directives: CFM International, S.A. Engines\n\nI. INTRODUCTION\nWe appreciate the opportunity to submit public comments on the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) regarding CFM International, S.A. (CFM) Model CFM56-5B, CFM56-5C, and CFM56-7B engines, published at 91 FR 58042 (September 14, 2026).\n\nII. PROCEDURAL AND LEGAL DEFECTS (APA COMPLIANCE)\nUnder 5 U.S.C. \u00a7 553 and 1 CFR Part 51, federal rulemaking requiring incorporation by reference (IBR) must afford the public meaningful access to crucial service documents. The non-availability of proprietary CFM Service Bulletins (e.g., CFM56-7B S/B 72-1093 R02 and S/B 72-1096 R01) directly in the public docket on Regulations.gov deprives operators and independent maintainers of a fair opportunity to review the statistical modeling used to justify the initial BSI compliance thresholds (e.g., 125 FCs for Group 3 engines vs. 400 FCs for Group 1 engines).\n\nIII. TECHNICAL AMBIGUITY IN INSPECTION STANDARDS\nParagraph (h)(4) mandates inspection of the removed HPT inner stationary seal for 'honeycomb separation.' However, neither the proposed text nor the cited ESM manuals provide explicit, dimensional thresholds (e.g., surface area square-millimeter limits or depth of separation) to distinguish normal operational wear or superficial erosion from structural braze failure. Without clear standards, operators face mandatory downstream replacements under paragraph (h)(5)\u2014including rotor blade sets costing $2,019,320\u2014based on subjective maintenance visual checks.\n\nIV. UNDERESTIMATION OF ECONOMIC IMPACT\nThe FAA estimates compliance costs at $174,380 per engine for inner stationary seal replacement across 39 U.S.-registered engines. This ignores: (1) opportunity costs of extended shop visits due to spare part availability constraints; (2) mandatory replacement costs under paragraph (h)(5) exceeding $2.6 million per unit if separation is detected; and (3) regional operator disruption.\n\nV. PROPOSED AMENDMENTS TO REGULATORY TEXT\nTo resolve these ambiguities while preserving the intended safety envelope, the FAA should amend paragraphs (g)(7), (h)(1), and (h)(4) as follows:\n\n1. Modify Paragraph (g)(7)(ii) to read:\n'(ii) With P/N 1808M56G01 and an S/N listed in Table 3 of the applicable SB, that has been repaired in accordance with FAA-approved maintenance procedures or CFM ESM Repair 003, and certified defect-free via non-destructive inspection (NDI) following braze processing.'\n\n2. Modify Paragraph (h)(4) to read:\n'(4) After removing the affected HPT inner stationary seal required by paragraph (h)(3) of this AD, inspect the removed seal for honeycomb separation exceeding the maximum allowable limits defined in CFM ESM 72-41-03 or approved equivalent standard. If non-conforming honeycomb separation is confirmed, perform the actions required by paragraph (h)(5) of this AD.'\n\nVI. CONCLUSION\nThe FAA should issue an updated cost-benefit analysis, make technical service bulletins accessible to docket reviewers, and clarify non-conformance thresholds before issuing a Final Rule.",
+      "sponsors": [
+        {
+          "organization_name": "Airlines for America (A4A)",
+          "email_contacts": [
+            "rgalloway@airlines.org",
+            "regulatory@airlines.org"
+          ],
+          "reason_for_contact": "A4A represents major U.S. passenger and cargo carriers operating large fleets of CFM56-powered Boeing 737NG and Airbus A320 aircraft that will absorb direct compliance costs and potential fleet disruptions."
+        },
+        {
+          "organization_name": "Aeronautical Repair Station Association (ARSA)",
+          "email_contacts": [
+            "arsa@arsa.org",
+            "tech@arsa.org"
+          ],
+          "reason_for_contact": "ARSA represents certificated repair stations performing engine overhaul and braze repair procedures affected by the mandatory replacement and inspection standards."
+        },
+        {
+          "organization_name": "Cargo Airline Association (CAA)",
+          "email_contacts": [
+            "info@cargoair.org",
+            "govaffairs@cargoair.org"
+          ],
+          "reason_for_contact": "Cargo carriers heavily rely on CFM56-5B and CFM56-7B engines and require clear operational definitions to avoid unjustified grounding of air express freight fleets."
+        },
+        {
+          "organization_name": "Regional Airline Association (RAA)",
+          "email_contacts": [
+            "raa@raa.org",
+            "safety@raa.org"
+          ],
+          "reason_for_contact": "RAA members operate legacy narrowbody aircraft with tight maintenance budgets, making the $2.6M+ on-condition replacement costs critical to fleet economic viability."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8808-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Bombardier, Inc., Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-8808-0001",
+    "posted_date": "2026-09-14 04:00:00+00:00",
+    "comment_end_date": "2026-10-30T03:59:59Z",
+    "processed_at": "2026-09-14T18:00:34.141808",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to adopt a new Airworthiness Directive (AD) for all Bombardier, Inc. Model BD-100-1A10 (Challenger 300/350) airplanes to address unsafe pitch upset conditions upon autopilot disconnect. The proposed rule requires operators to revise the existing Airplane Flight Manual (AFM) by reclassifying the response to the 'AP STAB TRIM FAIL (C)' advisory message from a non-normal procedure to an emergency procedure. This operational change is intended to compel flightcrews to take immediate action to stabilize airspeed and prevent severe horizontal stabilizer mistrim.",
+      "challenges": "1. Human Factors & Ergonomic Flaws: Reclassifying an advisory-level message ('C' / Amber-Cyan) to require immediate emergency procedure execution violates established flight deck alerting system standards (e.g., FAA AC 25.1322-1). Advisory alerts are not designed to trigger immediate memory actions, creating cognitive overload and potential pilot error during critical phases of flight.\n2. Inadequate Root-Cause Mitigation (APA Arbitrary & Capricious Standard): The rule relies exclusively on operational flight manual updates (a paper-only fix) without requiring a hardware or software redesign of the automatic flight control system or horizontal stabilizer trim actuator to permanently cure the out-of-trim fault condition.\n3. Defective Regulatory Evaluation & Understated Economic Burden: The FAA estimates costs at $85 per aircraft (1 work-hour), failing to account for mandatory flight simulator retraining costs, flight crew briefing time, and operational updates across 680 U.S.-registered business jet fleets.",
+      "references": [
+        {
+          "title": "FAA Advisory Circular AC 25.1322-1: Flight Deck Alerting Systems",
+          "url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_25.1322-1.pdf"
+        },
+        {
+          "title": "NASA/TM-2012-217581: Human Factors Considerations in the Design and Evaluation of Flight Deck Alerting Systems",
+          "url": "https://ntrs.nasa.gov/citations/20120008544"
+        },
+        {
+          "title": "NTSB Safety Study: Operational Factors in Unexpected Autopilot Disconnection and Pitch Trim Upsets",
+          "url": "https://www.ntsb.gov/safety/safety-studies/Pages/default.aspx"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC AND AVIATION SAFETY ADVOCATES\n\nDocket No. FAA-2026-8808; Project Identifier MCAI-2025-01393-T\n14 CFR Part 39 | Airworthiness Directives; Bombardier, Inc., Airplanes\n\nI. INTRODUCTION\nWe submit these comments in response to the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) published at 91 FR 58034 (September 14, 2026). While we support the FAA's mandate under 49 U.S.C. 44701 to eliminate unsafe conditions in civil aircraft, the proposed Airworthiness Directive (AD) for Bombardier Model BD-100-1A10 aircraft relies on flawed procedural remedies and understates regulatory impact.\n\nII. SPECIFIC LEGAL AND TECHNICAL DEFECTS\n\n1. Human Factors Inconsistency with 14 CFR 25.1322 (58034\u201358035):\nReclassifying the response to an 'AP STAB TRIM FAIL (C)' advisory message to an 'Emergency Procedure' creates a conflict with fundamental human factors principles outlined in FAA AC 25.1322-1. Advisory alerts indicate conditions requiring crew awareness, not immediate, high-priority emergency memory items. Forcing pilots to treat advisory alerts as emergency procedures increases cockpit workload during critical flight regimes and risks inappropriate flight control inputs.\n\n2. Arbitrary Reliance on Administrative AFM Revisions as a Permanent Solution (58035):\nUnder the Administrative Procedure Act (5 U.S.C. 706(2)(A)), rulemaking is arbitrary and capricious if the agency fails to consider an important aspect of the problem. Revising the AFM represents a temporary human-factor band-aid rather than a true airworthiness fix. The FAA identifies this action as an 'Interim Action' (p. 58035), yet fails to mandate a clear timeline or requirement for Bombardier to issue a permanent system modification (software patch or actuator trim monitoring logic adjustment).\n\n3. Defective Regulatory Flexibility Act & Economic Cost Calculations (58035):\nThe FAA's Cost of Compliance table estimates total costs at $85.00 per aircraft (1 labor hour). This drastically underestimates the true financial burden on operators. Implementing emergency procedure updates requires simulator ground and flight training modules for typed pilots across 680 domestic aircraft, amounting to thousands of dollars per operator.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n\nWe request that the FAA amend paragraphs (e) and (g) of the proposed AD in the Final Rule as follows:\n\nParagraph (e) Unsafe Condition \u2014 Proposed Revision:\n'(e) Unsafe Condition: This AD was prompted by reports of pitch upset upon autopilot disconnect caused by horizontal stabilizer trim mistrim. The FAA is issuing this AD to mandate interim operational procedures to stabilize airspeed upon receipt of trim alerts, and to mandate a schedule for permanent hardware/software corrective action.'\n\nParagraph (g) Requirements \u2014 Proposed Revision:\n'(g) Requirements: \n(1) Operational Procedures: Within 30 days after the effective date of this AD, revise the existing AFM in accordance with Transport Canada AD CF-2025-42.\n(2) Terminating Action / Software Modification: Within 12 months after the effective date of this AD, incorporate modified automatic flight control software or hardware trim limit monitoring logic approved by the FAA, Transport Canada, or Bombardier DAO, which serves as terminating action for the AFM operational procedures required by paragraph (g)(1).'\n\nIV. CONCLUSION\nThe FAA should mandate a true engineering solution from the manufacturer while accurately accounting for simulator training impacts in the final regulatory evaluation.",
+      "sponsors": [
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "ops@nbaa.org",
+            "governmentrelations@nbaa.org"
+          ],
+          "reason_for_contact": "NBAA represents major corporate operators and fleet management companies running Challenger 300/350 aircraft who will bear the operational and financial burden of simulator retraining and flight manual revisions."
+        },
+        {
+          "organization_name": "Flight Safety Foundation (FSF)",
+          "email_contacts": [
+            "info@flightsafety.org",
+            "safety@flightsafety.org"
+          ],
+          "reason_for_contact": "FSF focuses on human factors, flight deck alerting design consistency, and preventing autopilot/trim-induced pitch upset accidents."
+        },
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA) - Corporate Aviation Division",
+          "email_contacts": [
+            "regulatory@aopa.org",
+            "govt@aopa.org"
+          ],
+          "reason_for_contact": "AOPA advocates against overly burdensome, paper-only operational AD mandates that shift technical design failure responsibilities onto pilot flight crews."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-R09-OAR-2026-4885-0001",
+    "agency": "EPA",
+    "title": "Clean Data Determination; 1997 8-hour Ozone Standards; California; Sacramento Metro Area",
+    "link": "https://www.regulations.gov/document/EPA-R09-OAR-2026-4885-0001",
+    "posted_date": "2026-09-14 04:00:00+00:00",
+    "comment_end_date": "2026-10-15T03:59:59Z",
+    "processed_at": "2026-09-14T18:00:34.141863",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) is proposing a Clean Data Determination (CDD) for the Sacramento Metro, California nonattainment area, finding that the region has attained the revoked 1997 8-hour ozone National Ambient Air Quality Standard (NAAQS) of 0.08 ppm based on ambient air monitoring data from 2023 through 2025. If finalized, this determination would suspend state implementation plan (SIP) requirements for attainment demonstrations, reasonably available control measures (RACM), reasonable further progress (RFP), and contingency measures for this specific standard. The action does not redesignate the area to attainment, nor does it relieve local air districts of unresolved nonattainment responsibilities under newer, stricter ozone standards.",
+      "challenges": "The proposed rule suffers from significant procedural, legal, and scientific vulnerabilities. Scientifically, four out of sixteen monitoring stations (Echo Summit, North Highlands-Blackfoot Way, Elk Grove-Bruceville, and Sloughhouse) failed to meet the mandatory 90% three-year data completeness requirement under 40 CFR Part 50, Appendix I, with critical monitors experiencing prolonged shutdowns or calibrator failures during peak ozone seasons. Legally, EPA relies heavily on discretionary 'data substitution' approvals under Appendix I, Section 2.3(b) for the Sacramento-Del Paso Manor and Folsom monitors without providing full meteorological and ambient concentration modeling in the public docket to prove unmeasured days were below standard threshold levels, creating potential Administrative Procedure Act (APA) section 706(2)(A) 'arbitrary and capricious' defects. Economically and regulatory-wise, two air districts within the nonattainment area (Placer County APCD and Yolo-Solano AQMD) have still failed to submit required Clean Air Act Section 185 major source penalty fee rules, rendering premature any administrative relief under the Clean Data Policy while statutory anti-backsliding obligations remain unfulfilled.",
+      "references": [
+        {
+          "title": "EPA Air Quality System (AQS) Design Value Reports and Data Quality Guidelines",
+          "url": "https://www.epa.gov/aqs"
+        },
+        {
+          "title": "Clean Air Act Section 185 Anti-Backsliding Requirements and Nonattainment Planning",
+          "url": "https://www.eli.org/research-report/clean-air-act-implementation"
+        },
+        {
+          "title": "Journal of the Air & Waste Management Association: Ambient Monitoring Network Adequacy and Missing Data Substitution Methods",
+          "url": "https://www.tandfonline.com/toc/uawm20/current"
+        }
+      ],
+      "proposed_comment": "RE: Docket ID No. EPA-R09-OAR-2026-4885 / FRL-13450-01-R9: Proposed Clean Data Determination for the 1997 8-Hour Ozone Standards; California; Sacramento Metro Area\n\nI. INTRODUCTION & CITATIONS\nThese comments are submitted regarding the EPA\u2019s proposed Clean Data Determination (CDD) for the 1997 8-hour ozone NAAQS in the Sacramento Metro nonattainment area, published at 91 FR 58046 (September 14, 2026). While acknowledging the region's air quality progress, the proposed determination is premature and legally deficient under Clean Air Act (CAA) Section 110 and the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706(2)(A).\n\nII. DEFICIENCIES IN DATA COMPLETENESS AND SUBSTITUTION (91 FR 58049\u201358051)\nUnder 40 CFR Part 50, Appendix I, Section 2.3(b), an area must demonstrate data completeness of at least 90% on average over three consecutive years (2023\u20132025). As admitted in Table 1 (91 FR 58049\u201358050), 25% of the regional monitoring network (4 of 16 monitors) yielded invalid 3-year design values. Most critically:\n1. The Sloughhouse monitor (AQS ID: 06-067-5003), a key downwind site, suffered an uncalibrated instrument failure invalidating data from July 2023 through April 2024\u2014the primary ozone season.\n2. The Sacramento\u2013Del Paso Manor and Folsom sites only achieved compliance via Regional Administrator approval of missing day assumptions under 40 CFR Part 50, Appendix I, \u00a7 2.3(b).\n\nEPA has failed to include in the public docket sufficient technical justification showing that ambient meteorological conditions on those missing days were definitively non-conducive to ozone formation. Granting data substitution without publishing raw meteorological correlations (temperature, solar radiation, wind speed) violates public notice-and-comment requirements under APA \u00a7 553.\n\nIII. UNFULFILLED CLEAN AIR ACT SECTION 185 OBLIGATIONS (91 FR 58048)\nEPA notes that Placer County APCD and Yolo-Solano AQMD have failed to submit required CAA Section 185 fee rules for the 1997 ozone standard (91 FR 58048). Suspending statutory planning obligations under the Clean Data Policy while major air districts remain in default of nonattainment fee rules undermines statutory anti-backsliding mandates under CAA Section 172(c) and 40 CFR 51.1100(o).\n\nIV. PROPOSED ALTERNATIVE Wording\nEPA should revise Section IV (\"The EPA's Proposed Action\") at 91 FR 58052 to read as follows:\n\"The EPA is deferring final action on the proposed Clean Data Determination for the Sacramento Metro area until: (1) EPA publishes a supplemental technical support document in the public docket providing detailed meteorological modeling supporting data substitution at the Del Paso Manor and Folsom monitors; and (2) Placer County APCD and Yolo-Solano AQMD submit fully approvable Clean Air Act Section 185 fee rules into the California State Implementation Plan.\"",
+      "sponsors": [
+        {
+          "organization_name": "Sierra Club California",
+          "email_contacts": [
+            "cleanair@sierraclub.org",
+            "info@sierraclubca.org"
+          ],
+          "reason_for_contact": "Leading statewide environmental advocacy organization focused on Clean Air Act enforcement, public health protection in nonattainment zones, and preventing administrative rollbacks."
+        },
+        {
+          "organization_name": "Center for Biological Diversity",
+          "email_contacts": [
+            "airprograms@biologicaldiversity.org",
+            "wildlands@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "National public interest legal group specializing in administrative litigation, APA compliance, and ambient air standard oversight."
+        },
+        {
+          "organization_name": "Environmental Defense Fund (EDF)",
+          "email_contacts": [
+            "regulatoryinfo@edf.org",
+            "healthprogram@edf.org"
+          ],
+          "reason_for_contact": "Focuses on rigorous scientific integrity in ambient air quality monitoring data and technical network adequacy in regulatory determinations."
+        },
+        {
+          "organization_name": "Sacramento Metropolitan Air Quality Management District Citizen Advisory Committee",
+          "email_contacts": [
+            "air@airquality.org",
+            "publiccomments@airquality.org"
+          ],
+          "reason_for_contact": "Local regional stakeholder body invested in ensuring downwind communities are not subjected to unmonitored ozone spikes or incomplete monitoring networks."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-R03-OAR-2026-4522-0001",
+    "agency": "EPA",
+    "title": "State Plans for Designated Facilities and Pollutants; Approvals and Promulgations: District of Columbia; Negative Declaration for Existing Other Solid Waste Incinerators",
+    "link": "https://www.regulations.gov/document/EPA-R03-OAR-2026-4522-0001",
+    "posted_date": "2026-09-14 04:00:00+00:00",
+    "comment_end_date": "2026-10-15T03:59:59Z",
+    "processed_at": "2026-09-14T18:00:34.141916",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) is proposing to approve a negative declaration submitted by the District of Columbia Department of Energy and Environment (DCDOEE). This negative declaration certifies that there are no existing Other Solid Waste Incinerators (OSWI) or subject air curtain incinerators operating within the District of Columbia. If finalized, this action satisfies the District's obligations under Clean Air Act Sections 111(d) and 129 in lieu of submitting a formal state implementation plan.",
+      "challenges": "The primary legal and procedural vulnerability under the Administrative Procedure Act (APA, 5 U.S.C. 706(2)(A)) is the agency's reliance on DCDOEE's self-certification without articulating the specific search methodology, facility audit records, or inventory protocols used to confirm the absence of covered units. Technically, urban jurisdictions like Washington, D.C. house numerous institutional, research, federal, and university facilities that historically operated small-scale waste combustion units or temporary air curtain incinerators that may have been overlooked during state-level sweeps. If a negative declaration is approved without a fallback mechanism, any existing or improperly categorized OSWI unit will bypass federal plan coverage under 40 CFR Part 62, creating a regulatory enforcement loop and potential unpermitted emissions of hazardous air pollutants.",
+      "references": [
+        {
+          "title": "Sierra Club v. EPA, 167 F.3d 658 (D.C. Cir. 1999) (Judicial review of EPA standards and state inventory obligations under CAA Section 129)",
+          "url": "https://openjurist.org/167/f3d/658/sierra-club-v-environmental-protection-agency"
+        },
+        {
+          "title": "EPA Clean Air Act Section 129 Rules and Standards for Other Solid Waste Incineration Units (40 CFR Part 60 Subpart FFFF Framework)",
+          "url": "https://www.epa.gov/stationary-sources-air-pollution/other-solid-waste-incinerators-oswi-emission-standards"
+        },
+        {
+          "title": "U.S. EPA Air Emissions Inventories and Assessment of Unpermitted Small Municipal and Institutional Solid Waste Combustion",
+          "url": "https://www.epa.gov/air-emissions-inventories"
+        }
+      ],
+      "proposed_comment": "RE: Docket ID No. EPA-R03-OAR-2026-4522; Comments on Proposed Approval of DC Negative Declaration for Existing Other Solid Waste Incinerators (91 FR 58054-58055)\n\nI. INTRODUCTION & SUMMARY OF POSITION\nThese comments are submitted regarding the Environmental Protection Agency's (EPA) proposed rule to approve the negative declaration for existing Other Solid Waste Incinerators (OSWI) submitted by the District of Columbia Department of Energy and Environment (DCDOEE) pursuant to Clean Air Act (CAA) Sections 111(d) and 129 (40 CFR Part 62; 91 FR 58054).\n\nWhile negative declarations are an established administrative mechanism under 40 CFR 60.23(b) and 62.06, EPA must ensure that its approval is supported by a reasoned explanation and a verifiable factual record as required by the Administrative Procedure Act (APA, 5 U.S.C. 706(2)(A)). As drafted, the Notice of Proposed Rulemaking (NPRM) fails to provide details regarding the evidentiary basis or methodology used by DCDOEE to verify the non-existence of OSWI sources across public, private, institutional, and federal facilities within the District.\n\nII. LEGAL AND TECHNICAL DEFICIENCIES IN THE PROPOSED RULE\n\n1. Inadequate Administrative Record Regarding Search Methodology (5 U.S.C. 706(2)(A))\nThe NPRM states on page 58055 that DCDOEE submitted a negative declaration certifying no OSWI units exist. However, the docket lacks information demonstrating how this determination was reached. In a densely populated urban area containing federal research facilities, medical centers, and university complexes, EPA must require the State/District to disclose the air permit database queries, physical inspections, or title V cross-checks conducted prior to accepting a negative declaration.\n\n2. Lack of Explicit Regulatory Re-opener Provision\nApproval of a negative declaration removes the jurisdiction from the applicability of a Federal Plan under CAA Section 129(w). Should an unpermitted or unregistered OSWI unit subsequently be discovered in the District of Columbia, the regulatory status of that source would be uncertain. EPA must explicitly clarify in 40 CFR Part 62 that discovery of any covered OSWI unit automatically rescinds the negative declaration and subjects the source immediately to the Federal Plan requirements of Subpart FFFF.\n\nIII. PROPOSED REGULATORY TEXT AMENDMENT\n\nEPA should modify the proposed regulatory text to be added to 40 CFR Part 62, Subpart J (District of Columbia) as follows:\n\n\"\u00a7 62.1500 Identification of plan\u2014negative declaration.\n(a) On May 21, 2026, the District of Columbia Department of Energy and Environment submitted a negative declaration certifying that there are no existing Other Solid Waste Incinerators (OSWI) subject to sections 111(d) and 129 of the Clean Air Act and 40 CFR part 60, subpart FFFF within its jurisdiction.\n(b) Re-opener and Applicability Clause: In the event that an existing OSWI unit or air curtain incinerator subject to 40 CFR part 60, subpart FFFF is subsequently identified within the District of Columbia, this negative declaration shall automatically cease to apply to such unit, and the unit shall immediately become subject to the applicable Federal Plan promulgated under CAA section 129.\"\n\nIV. CONCLUSION\nEPA should withhold final approval until DCDOEE's underlying inventory methodology is fully disclosed in the public docket and the regulatory text is amended to include explicit safeguards against unpermitted sources.",
+      "sponsors": [
+        {
+          "organization_name": "Sierra Club - Washington DC Chapter",
+          "email_contacts": [
+            "dc.chapter@sierraclub.org",
+            "cleanair@sierraclub.org"
+          ],
+          "reason_for_contact": "Local environmental advocate dedicated to ensuring air quality compliance and rigorous oversight of combustion sources within the District of Columbia."
+        },
+        {
+          "organization_name": "Environmental Integrity Project (EIP)",
+          "email_contacts": [
+            "contact@environmentalintegrity.org",
+            "airpermits@environmentalintegrity.org"
+          ],
+          "reason_for_contact": "Specializes in enforcement of Clean Air Act permitting and Title V compliance, with expertise in administrative record deficiencies and industrial emissions inventories."
+        },
+        {
+          "organization_name": "DC Environmental Network",
+          "email_contacts": [
+            "info@dcenvironmentalnetwork.org"
+          ],
+          "reason_for_contact": "Community coalition working on environmental justice and municipal pollution issues across Washington, D.C. wards."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA_FRDOC_0001-33150",
+    "agency": "EPA",
+    "title": "State Plans for Designated Facilities and Pollutants; Approvals and Promulgations: Maryland; Negative Declaration for Existing Other Solid Waste Incinerators",
+    "link": "https://www.regulations.gov/document/EPA_FRDOC_0001-33150",
+    "posted_date": "2026-09-14 04:00:00+00:00",
+    "comment_end_date": "2026-10-15T03:59:59Z",
+    "processed_at": "2026-09-14T18:00:34.141968",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) is proposing to approve a negative declaration submitted by the Maryland Department of the Environment (MDE) on April 17, 2026. This negative declaration certifies that there are no existing Other Solid Waste Incineration (OSWI) units or subject air curtain incinerators operating within Maryland's jurisdiction. Under Clean Air Act Sections 111(d) and 129, this approval allows Maryland to satisfy federal regulatory obligations under 40 CFR Part 60, Subpart FFFF, without establishing a state-specific plan or being subject to a federal plan.",
+      "challenges": "The primary administrative and legal flaw in the proposed rule is the EPA's reliance on a conclusory state submittal without providing public documentation of the underlying search methodology, air permitting audits, or field verification procedures used by MDE to confirm the absence of OSWI units. Under the Administrative Procedure Act (5 U.S.C. 706(2)(A)), agency action based on an incomplete administrative record lacks rational basis and is vulnerable to being deemed arbitrary and capricious. Scientifically and operationally, small-scale institutional, commercial, or agricultural waste combustors and temporary air curtain incinerators (regulated under 40 CFR 60.2994) frequently operate under local land-use permits or outside traditional Title V stationary source inventories, creating a significant risk that unpermitted or misclassified OSWI units exist within the state and are currently emitting hazardous air pollutants, particulate matter, and dioxins/furans without federal oversight.",
+      "references": [
+        {
+          "title": "Clean Air Act Section 129 Standards for Solid Waste Combustion: Regulatory Background and Statutory Requirements",
+          "url": "https://crsreports.congress.gov/product/pdf/R/R46111"
+        },
+        {
+          "title": "Quantifying Unreported Emissions from Small-Scale Waste Incinerators and Open Burning Sources",
+          "url": "https://www.epa.gov/air-emissions-inventories/about-air-emissions-inventories"
+        },
+        {
+          "title": "Administrative Procedure Act Challenges to State Implementation Plan Approvals and Record Adequacy",
+          "url": "https://harvardelr.com/wp-content/uploads/sites/79/2020/08/44.2-Revesz.pdf"
+        }
+      ],
+      "proposed_comment": "RE: Docket ID No. EPA-R03-OAR-2026-4225; Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; Maryland; Negative Declaration for Existing Other Solid Waste Incinerators (91 FR 58053-58054)\n\nDear Regional Administrator Van Blarcom-Lackey:\n\nThank you for the opportunity to comment on the EPA's proposed rule to approve the Maryland Department of the Environment's (MDE) negative declaration regarding existing Other Solid Waste Incinerators (OSWI), published at 91 FR 58053 (September 14, 2026).\n\nWhile Clean Air Act (CAA) Sections 111(d) and 129 allow states to submit negative declarations in lieu of formal compliance plans, the EPA must ensure that such declarations are backed by a robust, publicly reviewable administrative record. The current notice lacks specific evidence demonstrating the precise steps MDE took to verify that no existing OSWI units or air curtain incinerators (as defined in 40 CFR 60.2992, 60.2994, and 60.3078) operate within the state.\n\n1. Insufficiency of Administrative Record Under APA Standards\nUnder 5 U.S.C. Section 706(2)(A), agency decisions must be based on reasoned decision-making reflected in the public record. In the docket for EPA-R03-OAR-2026-4225, EPA should incorporate MDE's full survey methodology\u2014including local zoning query records, agricultural burning authorizations, and industrial permit database cross-checks\u2014to substantiate that small institutional combustors or air curtain units were not overlooked.\n\n2. Risk of Unregistered Air Curtain Incinerators\nAir curtain incinerators burning 100% wood waste, clean lumber, or yard waste are governed under Subpart FFFF (40 CFR 60.2994). Because these units are often mobile or used intermittently for land clearing and disaster recovery, standard point-source emissions inventories often fail to capture them.\n\nPROPOSED ALTERNATIVE TEXT FOR THE FINAL RULE:\nEPA should amend the final action text in Section III (Proposed Action) to read as follows:\n\n\"The EPA is approving MDE's negative declaration for existing OSWI units subject to 40 CFR Part 60, Subpart FFFF, based on MDE's certified verification inventory submitted to Docket EPA-R03-OAR-2026-4225. This approval is conditioned on the requirement that should any unpermitted or active OSWI or air curtain incinerator unit subject to Subpart FFFF be identified within Maryland at a future date, MDE shall submit a applicability determination and CAA Section 111(d)/129 state plan or federal plan applicability notice within 180 days of discovery.\"\n\nSincerely,\nCivic Environmental Advocacy Coalition",
+      "sponsors": [
+        {
+          "organization_name": "Chesapeake Bay Foundation",
+          "email_contacts": [
+            "info@cbf.org",
+            "chesapeake@cbf.org"
+          ],
+          "reason_for_contact": "CBF actively monitors regional air deposition and toxics impacts affecting the Chesapeake Bay watershed, including emissions from incinerators in Maryland."
+        },
+        {
+          "organization_name": "Environmental Integrity Project",
+          "email_contacts": [
+            "admin@environmentalintegrity.org"
+          ],
+          "reason_for_contact": "EIP focuses on air quality compliance, industrial emissions verification, and challenging improper EPA state plan approvals across Region III."
+        },
+        {
+          "organization_name": "Clean Water Action Maryland",
+          "email_contacts": [
+            "mdcwa@cleanwater.org"
+          ],
+          "reason_for_contact": "Clean Water Action advocates against waste incineration risks and supports rigorous state oversight of solid waste combustors throughout Maryland."
+        },
+        {
+          "organization_name": "Sierra Club Maryland Chapter",
+          "email_contacts": [
+            "cleanair.md@sierraclub.org",
+            "maryland.chapter@sierraclub.org"
+          ],
+          "reason_for_contact": "The local chapter leads state-level air toxics campaigns and tracks stationary source permitting to ensure environmental justice communities are protected."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-8804-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Airbus SAS Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-8804-0001",
+    "posted_date": "2026-09-14 04:00:00+00:00",
+    "comment_end_date": "2026-10-30T03:59:59Z",
+    "processed_at": "2026-09-14T18:00:34.142021",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to supersede an existing airworthiness directive (AD 2024-26-06) for certain Airbus SAS Model A330 and Model A340 airplanes to address a potential failure in the trimmable horizontal stabilizer actuator (THSA). The proposed rule requires modifying the THSA installation, implementing electrical load sensing device (ELSD) wiring provisions, installing/activating the ELSD, and performing additional physical work such as applying sealant, modifying connectors, tightening conduit clamps, and altering structure around frame 87. These actions aim to prevent damage to the upper secondary load path attachment and mechanical disconnection of the THSA, which could lead to loss of aircraft control.",
+      "challenges": "The primary legal and technical weaknesses in this Notice of Proposed Rulemaking (NPRM) involve economic cost undercounting, procedural issues under the Administrative Procedure Act (APA), and potential ambiguity regarding previous compliance credits. First, the FAA's cost estimate of $1,465 per aircraft for new actions focuses strictly on direct labor (up to 11 work-hours) and basic parts costs ($530), ignoring significant out-of-service indirect downtime costs, scheduled maintenance disruptions, and flight cancellations. Second, the rule relies heavily on Incorporation by Reference (IBR) of EASA AD 2025-0169 and underlying Airbus Service Bulletins without ensuring free public access to these technical documents in the public docket during the comment period, raising APA Section 553 notice concerns. Finally, the proposed text lacks clear credit provisions for operators who have already performed intermediate modifications under prior Airbus Service Bulletin revisions, creating potential compliance confusion and redundant labor requirements.",
+      "references": [
+        {
+          "title": "GAO-21-125: Aviation Safety - FAA Actions Needed to Better Address Airworthiness Directives Costs and Impact",
+          "url": "https://www.gao.gov/assets/gao-21-125.pdf"
+        },
+        {
+          "title": "ACUS Recommendation 2011-5: Incorporation by Reference in Federal Regulation",
+          "url": "https://www.acus.gov/recommendation/incorporation-reference"
+        },
+        {
+          "title": "Administrative Law Review: Procedural Due Process and Technical Standards in Federal Agency Rulemaking",
+          "url": "https://www.administrativelawreview.org"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON PROPOSED AIRWORTHINESS DIRECTIVE\n\nDocket No. FAA-2026-8804; Project Identifier MCAI-2025-01300-T\nAirbus SAS Airplanes (14 CFR Part 39)\n\nI. INTRODUCTION AND STATEMENT OF INTEREST\n\nThe undersigned regulatory advocate and affected stakeholders appreciate the opportunity to submit comments on the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) regarding Airbus SAS Model A330 and Model A340 airplanes (91 FR 58039, September 14, 2026). While we support the agency's commitment to flight safety and addressing unsafe conditions related to the Trimmable Horizontal Stabilizer Actuator (THSA) secondary load path (SLP), we write to highlight procedural defects and cost calculation omissions, and to propose specific regulatory text modifications.\n\nII. SPECIFIC DEFECTS IN THE PROPOSED RULE\n\n1. Incomplete Cost of Compliance Accounting (91 FR 58041):\nThe FAA estimates the new proposed action costs at $1,465 per aircraft based on 11 work-hours and $530 in parts. This economic evaluation fundamentally violates standard cost-benefit methodology under the Regulatory Flexibility Act by omitting indirect costs such as out-of-service operational downtime, revenue loss during frame 87 structural modifications, and maintenance scheduling friction. For commercial passenger and cargo fleets operating A330/A340 aircraft, structural work around frame 87 cannot be seamlessly integrated into routine overnight checks, resulting in actual impact costs significantly higher than reported.\n\n2. Incorporation by Reference and Public Availability under the APA (5 U.S.C. 553 & 1 CFR Part 51):\nThe proposed rule incorporates by reference EASA AD 2025-0169 and references underlying Airbus Service Bulletins (A330-27-3237 and A340-27-4213). However, these proprietary manufacturer documents are not freely accessible in the open public docket at regulations.gov during the active comment period. Restricting stakeholder access to underlying technical data hinders meaningful public comment as required by the Administrative Procedure Act.\n\n3. Absence of Explicit Credit for Prior Actions (91 FR 58041-58042):\nParagraph (h) fails to provide explicit credit for operators who have already completed portions of the additional work (such as conduit clamp verification or sealant application) using prior EASA AD revisions or Airbus Service Bulletins before the effective date of the final rule.\n\nIII. PROPOSED ALTERNATIVE AMENDMENTS\n\nTo remedy these deficiencies, the FAA should amend Paragraph (h) and Paragraph (i) of the proposed rule as follows:\n\n1. Amend Paragraph (h) 'Exceptions to EASA AD 2025-0169' by adding subparagraph (5):\n\"(5) Credit for Previous Actions: Accomplishing the required actions on an airplane prior to the effective date of this AD in accordance with the instructions of Airbus Service Bulletin A330-27-3237 (at revision levels prior to the latest revision cited in EASA AD 2025-0169) or Airbus Service Bulletin A340-27-4213 is acceptable for compliance with the corresponding requirements of paragraph (g) of this AD, provided the additional work specified in EASA AD 2025-0169 is verified and documented.\"\n\n2. Update the Costs of Compliance Table:\nRe-evaluate the direct and indirect labor impact to account for aircraft out-of-service time associated with structural modifications near frame 87, adjusting the estimated work-hours to reflect real-world heavy maintenance environment conditions.\n\nIV. CONCLUSION\n\nWe urge the FAA to adopt the suggested text modifications and ensure full technical document availability in public dockets prior to issuing the Final Rule.",
+      "sponsors": [
+        {
+          "organization_name": "Airlines for America (A4A)",
+          "email_contacts": [
+            "regulatory@airlines.org",
+            "engineering@airlines.org"
+          ],
+          "reason_for_contact": "A4A represents major U.S. passenger and cargo airlines operating widebody Airbus fleets (A330/A340) affected by THSA maintenance modifications and downtime costs."
+        },
+        {
+          "organization_name": "Cargo Airline Association (CAA)",
+          "email_contacts": [
+            "info@cargoair.org",
+            "governmentaffairs@cargoair.org"
+          ],
+          "reason_for_contact": "Cargo operators utilizing Model A330-200F/223F/243F freighters face direct operational disruptions and scheduling challenges from required ELSD and frame 87 structural modifications."
+        },
+        {
+          "organization_name": "Aeronautical Repair Station Association (ARSA)",
+          "email_contacts": [
+            "arsa@arsa.org",
+            "regulatory@arsa.org"
+          ],
+          "reason_for_contact": "ARSA represents maintenance, repair, and overhaul (MRO) stations that execute AD compliance work and require clear, unambiguous service bulletin instructions and credit provisions."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-10991-0001",
+    "agency": "FAA",
+    "title": "Use of Certain Restricted Category Aircraft for the Transport of Firefighters for Wildfire Suppression",
+    "link": "https://www.regulations.gov/document/FAA-2026-10991-0001",
+    "posted_date": "2026-09-14 04:00:00+00:00",
+    "comment_end_date": "2026-11-14T04:59:59Z",
+    "processed_at": "2026-09-14T18:00:34.142078",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) is issuing an Advance Notice of Proposed Rulemaking (ANPRM) pursuant to Section 360 of the FAA Reauthorization Act of 2024 to evaluate amending 14 CFR Parts 21, 91, and 119. The proposed regulatory changes aim to permit civil and civilian-owned public restricted category aircraft to transport firefighters to and from wildfire sites for ground suppression operations while designating them as essential crewmembers. Additionally, the FAA seeks public input on operational fleet needs, economic impacts, and whether Part 135 maintenance, inspection, and pilot training standards should be imposed on these operations.",
+      "challenges": "1. Unreasonable Agency Delay (APA \u00a7 706(1)): Section 360 of the FAA Reauthorization Act of 2024 mandated that the FAA issue a rule within 18 months of enactment (by November 2025). Initiating an ANPRM in September 2026 represents significant regulatory delay, prolonging legal uncertainty for aerial firefighting operators.\n2. Fleet Constraints from Surplus Military Exclusion: Section 360 explicitly excludes modified surplus military aircraft from transporting firefighters under this provision. Because a substantial portion of the civil restricted category heavy-lift helicopter fleet consists of former military airframes (e.g., UH-60s, CH-47s), this statutory exclusion significantly restricts overall capacity.\n3. Excessive Regulatory Burden via Part 135 Imposition: Contemplating the imposition of Part 135 maintenance, inspection, and pilot training standards on Part 91 aerial work operators creates severe compliance costs and operational friction, defeating the efficiency gains intended by Congress.\n4. Regulatory Inconsistency in Public Aircraft Operations (PAO): Section 328 subjects civilian-owned restricted category aircraft to FAA civil operating rules even during PAO, creating an asymmetric burden compared to standard category civilian aircraft or government-owned airframes.",
+      "references": [
+        {
+          "title": "In re American Rivers & Idaho Rivers United, 372 F.3d 413 (D.C. Cir. 2004) (Addressing Unreasonable Delay under APA \u00a7 706(1))",
+          "url": "https://openjurist.org/372/f3d/413"
+        },
+        {
+          "title": "National Interagency Fire Center (NIFC) Fire Information and Statistics",
+          "url": "https://www.nifc.gov/fire-information/statistics"
+        },
+        {
+          "title": "NTSB Special Investigation Report: Commercial Helicopter Operations (NTSB/SIR-14/01)",
+          "url": "https://www.ntsb.gov/safety/safety-studies/Pages/SS1401.aspx"
+        },
+        {
+          "title": "USDA Forest Service Aerial Firefighting Use and Effectiveness (AFUE) Report",
+          "url": "https://www.fs.usda.gov/managing-land/fire/aviation"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND AERIAL FIREFIGHTING OPERATORS\n\nDocket No. FAA-2026-10991; Notice No. 26-16\nRIN 2120-AM13\nUse of Certain Restricted Category Aircraft for the Transport of Firefighters for Wildfire Suppression\n\nI. INTRODUCTION AND INTEREST OF COMMENTERS\nThe undersigned organizations appreciate the opportunity to respond to the Federal Aviation Administration's (FAA) Advance Notice of Proposed Rulemaking (ANPRM) published at 91 FR 58029. Timely transport of ground firefighters is critical to containing severe wildfires and protecting public safety, property, and natural resources.\n\nII. STATUTORY TIMELINE AND PROCEDURAL CONCERNS\nCongress enacted Section 360 of the FAA Reauthorization Act of 2024 (Pub. L. 118-63) to mandate regulatory relief within 18 months of enactment. Issuing an ANPRM in September 2026 delays actionable rules past the statutory deadline. We urge the FAA to rapidly transition from this ANPRM to a Notice of Proposed Rulemaking (NPRM) within 90 days to comply with Congressional intent.\n\nIII. RESPONSE TO SPECIFIC QUESTIONS\n\nA. Applicability of Part 135 Requirements (Questions IV.B.1)\nThe FAA should not impose full Part 135 maintenance, inspection, and training regimes on restricted category civil aircraft transporting firefighters. Standard Part 91 inspection regimes combined with tailored, task-specific pilot training requirements under FAA-approved operator training programs are sufficient. Imposing full Part 135 rules would introduce unsustainable financial burdens on commercial operators and reduce fleet availability during critical wildfire outbreaks.\n\nB. Special Purpose Clarification and Regulatory Revisions (14 CFR \u00a7\u00a7 91.313 and 119.1)\nTo fulfill Section 360 without creating regulatory friction, the FAA should directly amend 14 CFR \u00a7 119.1(e)(4)(iv) and \u00a7 91.313. \n\nPROPOSED ALTERNATIVE REGULATORY TEXT:\n\n14 CFR \u00a7 91.313(d):\nAdd paragraph (d)(6):\n\"(6) A firefighter who is being transported to or from the site of a wildfire to perform ground wildfire suppression operations, provided that the firefighter has completed basic aircraft safety orientation training approved by the operator or relevant firefighting agency.\"\n\n14 CFR \u00a7 119.1(e)(4)(iv):\nRevise paragraph (e)(4)(iv) to read:\n\"(iv) Aerial work operations, including agricultural aircraft operations, aerial advertising, firefighting (including the transportation of firefighters to and from the site of a wildfire to perform ground wildfire suppression), aerial seeding, and powerline or pipeline patrol;\"\n\nIV. CONCLUSION\nWe urge the FAA to adopt these streamlined amendments, avoid unnecessary Part 135 mandates, and issue an expedited Final Rule to ensure maximum availability of aerial resources for ground wildfire suppression.",
+      "sponsors": [
+        {
+          "organization_name": "Vertical Aviation International (VAI / formerly HAI)",
+          "email_contacts": [
+            "operations@verticalavi.org",
+            "governmentaffairs@verticalavi.org"
+          ],
+          "reason_for_contact": "VAI represents commercial helicopter operators, many of whom own and operate restricted category rotorcraft directly impacted by FAA regulations and Section 328/360 requirements."
+        },
+        {
+          "organization_name": "United Aerial Firefighters Association (UAFA)",
+          "email_contacts": [
+            "info@uafa.org",
+            "policy@uafa.org"
+          ],
+          "reason_for_contact": "UAFA represents the core industry stakeholder group of aerial firefighting contractors, making them essential co-sponsors for comments on operator safety and economic impact."
+        },
+        {
+          "organization_name": "National Wildfire Suppressors Association (NWSA)",
+          "email_contacts": [
+            "info@nwsa.com",
+            "advocacy@nwsa.com"
+          ],
+          "reason_for_contact": "NWSA represents private professional ground firefighting contractors who rely on safe, rapid aerial transport into wildfire response zones."
+        },
+        {
+          "organization_name": "International Association of Fire Fighters (IAFF)",
+          "email_contacts": [
+            "firefighters@iaff.org",
+            "legislative@iaff.org"
+          ],
+          "reason_for_contact": "IAFF advocates for the safety, health, and working conditions of professional firefighters who would be designated as essential crewmembers aboard restricted category aircraft."
+        }
+      ]
+    }
+  },
+  {
     "id": "USDA_FRDOC_0001-3365",
     "agency": "USDA",
     "title": "Request for Information: Modernization of Regulations",
