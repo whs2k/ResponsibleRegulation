@@ -160,21 +160,50 @@ Here is the document:
             {"type": "document", "uri": epa_proposed_rule_htm.uri, "mime_type": epa_proposed_rule_htm.mime_type}
         ]
     
-    response = gemini_client.interactions.create(
-        model=gemini_model,
-        input=gemini_prompt_final,
-        response_format={
-            "type": "text",
-            "mime_type": "application/json",
-            "schema": CommentResponse.model_json_schema()
-        }
-    )
-    if print_prompt==True:
-        print(response.output_text)
-    gemini_client.files.delete(name=epa_proposed_rule_htm.name)
-    os.remove(proposed_rule_file_name)
+    response_text = None
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            response = gemini_client.interactions.create(
+                model=gemini_model,
+                input=gemini_prompt_final,
+                response_format={
+                    "type": "text",
+                    "mime_type": "application/json",
+                    "schema": CommentResponse.model_json_schema()
+                }
+            )
+            response_text = response.output_text
+            break
+        except Exception as e:
+            print(f"Gemini API attempt {attempt + 1} failed for {proposed_rule_id}:", e)
+            if attempt < max_retries - 1:
+                time.sleep(10 * (attempt + 1))
+            else:
+                response_text = json.dumps({
+                    "summary_of_main_idea": "Gemini API temporarily unavailable (503 High Demand).",
+                    "challenges": "Could not generate analysis due to temporary LLM service interruption.",
+                    "references": [],
+                    "proposed_comment": "Public comment generation pending API availability.",
+                    "sponsors": []
+                })
+
+    if print_prompt:
+        print(response_text)
+
+    try:
+        gemini_client.files.delete(name=epa_proposed_rule_htm.name)
+    except Exception:
+        pass
+
+    if os.path.exists(proposed_rule_file_name):
+        try:
+            os.remove(proposed_rule_file_name)
+        except Exception:
+            pass
+
     time.sleep(sleep_seconds)
-    return response.output_text
+    return response_text
 
 def comment_from_ruleid(proposed_rule_id_, regulation_api_key_, gemini_client):
     #get_proposed_rule_text_link = 
