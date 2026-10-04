@@ -4,6 +4,7 @@ import pandas as pd
 import time
 from datetime import datetime
 import os
+import json
 from pydantic import BaseModel, Field
 from typing import List
 
@@ -64,8 +65,9 @@ def generate_comment(proposed_rule_id_,  gemini_client, regulation_api_key_,
     proposed_rule_id = proposed_rule_id_
     print('proposed_rule_id: ', proposed_rule_id)
     proposed_rule_url = 'https://api.regulations.gov/v4/documents/{}?api_key={}'.format(proposed_rule_id,regulation_api_key_)
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
     try:
-        res_json = requests.get(proposed_rule_url).json()
+        res_json = requests.get(proposed_rule_url, headers=headers).json()
     except Exception as e:
         print(f"Error making API request for {proposed_rule_id}:", e)
         return json.dumps({
