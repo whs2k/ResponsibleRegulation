@@ -1,5 +1,82 @@
 [
   {
+    "id": "FAA-2026-8948-0001",
+    "agency": "FAA",
+    "title": "Airspace Designations and Reporting Points: Montgomery, AL",
+    "link": "https://www.regulations.gov/document/FAA-2026-8948-0001",
+    "posted_date": "2026-10-02 04:00:00+00:00",
+    "comment_end_date": "2026-11-17T04:59:59Z",
+    "processed_at": "2026-10-04T15:28:02.601674",
+    "ai_data": {
+      "summary_of_main_idea": "Gemini API temporarily unavailable (503 High Demand).",
+      "challenges": "Could not generate analysis due to temporary LLM service interruption.",
+      "references": [],
+      "proposed_comment": "Public comment generation pending API availability.",
+      "sponsors": []
+    }
+  },
+  {
+    "id": "NPS-2026-0199-0001",
+    "agency": "NPS",
+    "title": "Off-Road Motor Vehicles: Big Cypress National Preserve",
+    "link": "https://www.regulations.gov/document/NPS-2026-0199-0001",
+    "posted_date": "2026-10-02 04:00:00+00:00",
+    "comment_end_date": "2026-12-02T04:59:59Z",
+    "processed_at": "2026-10-04T15:28:02.601771",
+    "ai_data": {
+      "summary_of_main_idea": "The National Park Service (NPS) proposes to update special regulations for Big Cypress National Preserve at 36 CFR 7.86 by replacing references to an outdated 1975 boundary map with an updated 2026 map. This revision incorporates the 147,000-acre 'Addition' acquired by Congress in 1988 into the Preserve's off-road vehicle (ORV) management framework. By expanding the geographic scope of the regulation, the rule enables the Superintendent to open designated ORV trails across the entire Preserve via discretionary actions in the Superintendent's Compendium.",
+      "challenges": "The proposed rule suffers from significant administrative law defects, procedural oversights, and ecological risks. First, the agency relies on sub-regulatory Compendium updates under 36 CFR 1.7(b) to actually designate ORV routes, bypassing notice-and-comment requirements mandated by 36 CFR 4.10 and the Administrative Procedure Act (APA, 5 U.S.C. 553). Second, the agency paradoxically concludes under Executive Order 13175 that formal Tribal consultation is not required because the rule supposedly has 'no substantial direct effect' on Tribes, despite explicitly acknowledging 15 active traditional villages, ceremonial sites, and burial grounds within the Preserve. Third, opening 147,000 additional acres to ORVs threatens critical, highly fragmented habitat for the federally endangered Florida panther (Puma concolor coryi) without embedding mandatory, binding environmental criteria directly within the text of 36 CFR 7.86.",
+      "references": [
+        {
+          "title": "Southern Utah Wilderness Alliance v. Dabney, 222 F.3d 819 (10th Cir. 2000) (Addressing NPS obligations and limits on discretionary motorized vehicle management)",
+          "url": "https://law.justia.com/cases/federal/appellate-courts/F3/222/819/578278/"
+        },
+        {
+          "title": "Frakes et al. (2015) - Landscape Analysis of Adult Florida Panther Habitat (PLOS ONE empirical study on habitat loss and fragmentation)",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133044"
+        },
+        {
+          "title": "U.S. Fish and Wildlife Service Florida Panther Recovery Plan (3rd Revision, detailing threats from motorized access and fragmentation)",
+          "url": "https://www.fws.gov/species/florida-panther-puma-concolor-coryi"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND CONSERVATION ORGANIZATIONS\n\nRe: Proposed Rule on Big Cypress National Preserve Off-Road Motor Vehicles (36 CFR Part 7; RIN 1024-AE54; Docket No. NPS-BICY-NPS0042712; 91 FR 62682-62685)\n\nI. INTRODUCTION\nThese comments are submitted regarding the National Park Service's (NPS) proposed rule titled \"Big Cypress National Preserve; Off-Road Motor Vehicles,\" published at 91 FR 62682 (October 2, 2026). While updating the Preserve's map to reflect the 1988 Addition boundary is necessary, the proposed regulatory framework unlawfully delegates route designation authority to sub-regulatory compendiums, fails to fulfill federal trust responsibilities to Native American Tribes, and threatens endangered species habitat.\n\nII. SPECIFIC CITATIONS AND LEGAL DEFECTS\n\n1. Unlawful Sub-Regulatory Route Designation under 36 CFR 4.10 and APA 5 U.S.C. \u00a7 553 (91 FR 62683):\nUnder 36 CFR 4.10(b), motor vehicles off established roads are prohibited unless routes and areas are designated by special regulation. In the preamble (91 FR 62683), NPS states that actual trail opening in the Addition will occur through the \"Superintendent's Compendium\" pursuant to 36 CFR 1.7(b). Bypassing public notice-and-comment rulemaking for specific route designations within the newly integrated 147,000 acres violates 36 CFR 4.10 and the Administrative Procedure Act (5 U.S.C. \u00a7 553).\n\n2. Arbitrary Determination under Executive Order 13175 Regarding Tribal Impact (91 FR 62684):\nThe preamble asserts that \"Tribal consultation is not required because this rule will have no substantial direct effect on federally recognized Indian Tribes.\" This statement contradicts the agency's concurrent admission that the Preserve contains 15 active Miccosukee and Seminole traditional villages, active ceremonial grounds, and sacred burial sites. Expanding ORV access potential over 147,000 acres directly impacts Tribal cultural lands and subsistence resources.\n\n3. Inadequate Binding Safeguards for Endangered Species (91 FR 62682):\nBig Cypress provides primary habitat for the endangered Florida panther. Broadening ORV access authority without placing mandatory seasonal closures, noise thresholds, and vehicle limits into the regulatory text of 36 CFR 7.86 fails to satisfy the NPS Organic Act mandate (54 U.S.C. \u00a7 100101) to conserve wildlife unimpaired.\n\nIII. PROPOSED REGULATORY TEXT AMENDMENTS\n\nTo remedy these deficiencies, NPS should revise 36 CFR 7.86(a)(2) as follows (deletions in strikethrough, additions in bold):\n\n\"\u00a7 7.86 Big Cypress National Preserve.\n(a) * * *\n(2)(i) Unless closed or restricted by action of the Superintendent under paragraph (a)(2)(iii), the following areas, which are shown on a map numbered 26-001, dated May 1, 2026, and available for public inspection at the office of the Superintendent, are open to motorized vehicles, **provided that specific routes in the Addition area (1988 expansion) shall be designated exclusively through published special regulations subject to public notice and comment, and not solely via the Superintendent's Compendium**:\n(A) * * *\n(B) * * *\n(ii) The following areas which are shown on a map numbered 26-001, dated May 1, 2026, and available for public inspection at the office of the Superintendent, are closed to motorized vehicles:\n**(C) All traditional cultural properties, active ceremonial sites, and sacred grounds recognized by the Miccosukee Tribe of Indians of Florida and the Seminole Tribe of Florida, unless explicitly authorized by Tribal consent.**\n**(D) Critical habitat corridors identified for the Florida panther during peak crepuscular activity hours as established by scientific monitoring.**\"\n\nIV. CONCLUSION\nNPS must amend the proposed rule to ensure all future ORV route additions undergo formal APA notice-and-comment rulemaking and bind mandatory Tribal and ecological protection standards into the Code of Federal Regulations.",
+      "sponsors": [
+        {
+          "organization_name": "National Parks Conservation Association (NPCA)",
+          "email_contacts": [
+            "editor@npca.org",
+            "suncoast@npca.org"
+          ],
+          "reason_for_contact": "NPCA actively advocates for national preserve integrity and public lands protection in Florida, specifically monitoring off-road vehicle impacts in Big Cypress."
+        },
+        {
+          "organization_name": "Center for Biological Diversity (CBD)",
+          "email_contacts": [
+            "florida@biologicaldiversity.org",
+            "publiclands@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "CBD frequently litigates administrative rulemaking that impacts endangered species habitats, including the Florida panther and eastern indigo snake in southern Florida."
+        },
+        {
+          "organization_name": "South Florida Wildlands Association",
+          "email_contacts": [
+            "info@southfloridawild.org"
+          ],
+          "reason_for_contact": "A regional non-profit dedicated exclusively to protecting wildlife and ecosystems within the Greater Everglades and Big Cypress Watershed from ORV overuse."
+        },
+        {
+          "organization_name": "Miccosukee Tribe of Indians of Florida - Real Estate & Cultural Resources Dept.",
+          "email_contacts": [
+            "info@miccosukeetribe.com",
+            "pr@miccosukeetribe.com"
+          ],
+          "reason_for_contact": "The Tribe has direct sovereign interests, village sites, and ceremonial grounds within Big Cypress National Preserve that require formal government-to-government protection."
+        }
+      ]
+    }
+  },
+  {
     "id": "FAA-2026-8805-0001",
     "agency": "FAA",
     "title": "Airworthiness Directives: Dassault Aviation Airplanes",
