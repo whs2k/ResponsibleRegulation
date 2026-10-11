@@ -1,5 +1,21 @@
 [
   {
+    "id": "FDIC-2026-1981-0001",
+    "agency": "FDIC",
+    "title": "Extensions of Credit to Insiders",
+    "link": "https://www.regulations.gov/document/FDIC-2026-1981-0001",
+    "posted_date": "2026-10-09 04:00:00+00:00",
+    "comment_end_date": "2026-11-05T04:59:59Z",
+    "processed_at": "2026-10-11T17:32:36.673010",
+    "ai_data": {
+      "summary_of_main_idea": "Gemini API temporarily unavailable (503 High Demand).",
+      "challenges": "Could not generate analysis due to temporary LLM service interruption.",
+      "references": [],
+      "proposed_comment": "Public comment generation pending API availability.",
+      "sponsors": []
+    }
+  },
+  {
     "id": "FAA-2026-8948-0001",
     "agency": "FAA",
     "title": "Airspace Designations and Reporting Points: Montgomery, AL",
