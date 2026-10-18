@@ -1,5 +1,308 @@
 [
   {
+    "id": "CMS-2026-3533-0001",
+    "agency": "CMS",
+    "title": "Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, Medicare Cost Plan Program, and Programs of All-Inclusive Care for the Elderly (CMS-4214-P)",
+    "link": "https://www.regulations.gov/document/CMS-2026-3533-0001",
+    "posted_date": "2026-10-16 04:00:00+00:00",
+    "comment_end_date": "2026-12-16T04:59:59Z",
+    "processed_at": "2026-10-18T15:40:34.450086",
+    "ai_data": {
+      "summary_of_main_idea": "This proposed rule implements Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026, establishing significant structural regulations for Medicare Advantage (Part C) and Part D programs. Key measures include eliminating generic drug copayments for low-income dual-eligible beneficiaries, mandating 90-day provider directory verifications with public letter-grade accuracy scores (A-F) and a 10-year daily historical directory archiving requirement for MA plans, and restricting Pharmacy Benefit Manager (PBM) compensation strictly to flat-fee, cost-plus bona fide service fees alongside mandatory 100 percent rebate pass-through and extensive transparency reporting.",
+      "challenges": "1. Administrative Procedure Act (APA) procedural and substantive defects (5 U.S.C. \u00a7 706(2)(A)): CMS's proposal in 42 CFR \u00a7 423.2810(e)(1) to define Fair Market Value (FMV) strictly using a rigid 'cost-plus' formula (cost incurred plus reasonable markup) borrows federal procurement concepts (FAR/OMB) that are inapplicable to private commercial health plan contracting, while rejecting established market-based valuation methodologies without empirical justification or adequate explanation for departing from previous agency positions.\n2. Arbitrary sampling distortion in directory accuracy scoring (\u00a7 422.123(d)(2)): Mandating that 35 percent of the accuracy evaluation sample consist of behavioral health providers creates a statistically distorted quality rating (A-F grade) due to severe national behavioral health workforce shortages and high provider mobility, penalizing health plans for systemic market factors beyond their operational control.\n3. Unrealistic burden and underestimated costs under the Paperwork Reduction Act (PRA) and Regulatory Flexibility Act (RFA): The mandate in \u00a7 422.124(e) requiring MA organizations to build and maintain a daily online provider directory snapshot archive retained for 10 years, combined with 90-day verification outreach cycles, imposes immense software engineering and administrative costs on plans and independent provider practices that CMS grossly underestimates in its Regulatory Impact Analysis.",
+      "references": [
+        {
+          "title": "Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983) (APA Standard for Arbitrary and Capricious Agency Action)",
+          "url": "https://supreme.justia.com/cases/federal/us/463/29/"
+        },
+        {
+          "title": "HHS Office of Inspector General (2025), 'Many Medicare Advantage and Medicaid Managed Care Plans Have Limited Behavioral Health Provider Networks and Inactive Providers' (OEI-02-23-00540)",
+          "url": "https://oig.hhs.gov/documents/evaluation/11233/OEI-02-23-00540.pdf"
+        },
+        {
+          "title": "Milliman Research Report (2023), 'PBM Contracts: Understand, Then Optimize'",
+          "url": "https://us.milliman.com/en/insight/pbm-contracts-understand-then-optimize"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND HEALTHCARE POLICY ANALYSTS\n\nRE: CMS-4214-P (RIN 0938-AV88) \u2013 Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026\n\nI. INTRODUCTION AND EXECUTIVE SUMMARY\nWe appreciate the opportunity to submit comments on the Centers for Medicare & Medicaid Services' (CMS) Proposed Rule published for CMS-4214-P. While we strongly support the agency's efforts under Section 6219 to eliminate generic drug copayments for low-income dual-eligible beneficiaries, critical legal, operational, and procedural defects exist in the proposed regulations implementing Section 6220 (REAL Health Providers Act) and Section 6224 (PBM Accountability).\n\nSpecifically, CMS's proposed definition of Fair Market Value (FMV) for PBM bona fide service fees is arbitrary and capricious under the Administrative Procedure Act (APA); the 10-year daily provider directory archiving mandate creates severe technological and economic burdens; and the provider directory sampling methodology unfairly distorts public letter-grade scoring.\n\nII. SPECIFIC LEGAL AND POLICY OBJECTIONS\n\n1. Arbitrary and Capricious Definition of Fair Market Value for PBM Remuneration (\u00a7 423.2810(e)(1), Preamble Pages 129\u2013135)\nUnder proposed \u00a7 423.2810(e)(1), CMS defines Fair Market Value strictly as 'the cost incurred by the pharmacy benefit manager or affiliate... to provide the itemized service plus a reasonable markup.' CMS explicitly rejects traditional valuation methods (e.g., market-based, income-based, or independent third-party appraisals) and instead adopts concepts adapted from Federal Acquisition Regulation (FAR 31.201) and OMB Uniform Guidance (2 CFR 200).\n\nLegal Defect: Defining FMV exclusively through a cost-plus accounting model violates 5 U.S.C. \u00a7 706(2)(A). Federal cost accounting standards were created for federal procurement grants, not private-sector healthcare service contracts. CMS fails to provide empirical evidence showing that commercial PBM services can be accurately valued on a cost-plus basis without distorting market incentives. Furthermore, CMS previously withdrew a similar cost-plus FMV proposal under the CY 2026 Physician Fee Schedule due to widespread market disruption concerns (Preamble p. 131), yet fails to provide a reasoned explanation for why those same concerns are inapplicable here.\n\n2. Excessive Administrative and Operational Burden of 10-Year Daily Directory Archiving (\u00a7 422.124(e), Preamble Pages 66\u201367, 190)\nProposed \u00a7 422.124(e) requires MA organizations to maintain a daily online snapshot archive of provider directory data for at least 10 years and produce these records to CMS within 5 business days upon request.\n\nOperational & Economic Defect: CMS's cost estimate of 40 hours of software development per MA contract ($4,032,768 nationwide) is grossly flawed. Maintaining daily delta-archiving databases across multi-state networks covering hundreds of thousands of provider records requires enterprise data architecture, continuous cloud storage, automated query tools, and substantial audit compliance overhead. Moreover, requiring independent physician practices to retain appointment scheduling records for 10 years after contract termination (\u00a7 422.124(d)(2)) exceeds typical state medical record retention mandates and imposes unworkable administrative burdens on small businesses, in violation of the Regulatory Flexibility Act.\n\n3. Sampling Bias in Provider Directory Accuracy Scoring (\u00a7 422.123(d)(2), Preamble Pages 33, 41, 51\u201355)\nCMS proposes a weighted letter-grade system (A\u2013F) for plan directories under \u00a7 422.123(d)(4), mandating that 35 percent of the random sampling frame consist of behavioral health and substance use disorder providers (\u00a7 422.123(d)(2)(iv)(B)).\n\nStatistical & Policy Defect: While behavioral health directory accuracy is vital, heavily weighting a single specialty experiencing systemic national shortages, high turnover, and frequent practice setting changes skews the plan's overall composite grade. Assigning a letter grade based on a non-representative, heavily oversampled stratum fails to provide beneficiaries with an accurate depiction of overall network quality and misleadingly penalizes plans for broader workforce supply deficits.\n\nIII. PROPOSED REGULATORY TEXT AMENDMENTS\n\nTo address these defects, we urge CMS to adopt the following modifications in the Final Rule:\n\n1. Amend 42 CFR \u00a7 423.2810(e)(1) to allow standard commercial valuation methods:\n'\u00a7 423.2810(e) Fair market value has the following meaning:\n(1) For bona fide service fees, the fair market value shall be determined using standard, commercially reasonable valuation methodologies, including cost-based approaches (cost plus reasonable markup), comparable market transactions, or independent third-party appraisal, provided the fee is a flat dollar amount and not contingent upon drug prices or manufacturer rebates.'\n\n2. Amend 42 CFR \u00a7 422.124(e) regarding directory archiving:\n'\u00a7 422.124(e) Provider directory archiving and verification. The MA organization must verify whether the provider was listed as an in-network provider... by referencing monthly archived electronic provider directory data maintained online by the MA organization. Archived provider directory data maintained under this paragraph must be retained for not less than 6 years...'\n\n3. Amend 42 CFR \u00a7 422.123(d)(2)(iv) regarding sampling frame:\n'\u00a7 422.123(d)(2)(iv)(A) The random sample shall be drawn proportionately across all represented network specialties, with appropriate stratification to ensure statistically representative sampling across the entire plan network.'\n\nIV. CONCLUSION\nWe respectfully request that CMS modify the proposed rule prior to finalization to ensure legal compliance under the APA, prevent market disruption, and preserve accurate beneficiary transparency.",
+      "sponsors": [
+        {
+          "organization_name": "Pharmaceutical Care Management Association (PCMA)",
+          "email_contacts": [
+            "regulatory@pcmanet.org",
+            "policy@pcmanet.org"
+          ],
+          "reason_for_contact": "PCMA represents pharmacy benefit managers directly impacted by the proposed fair market value cost-plus compensation restrictions, rebate pass-through mandates, and extensive annual reporting obligations."
+        },
+        {
+          "organization_name": "America's Health Insurance Plans (AHIP)",
+          "email_contacts": [
+            "regulatory@ahip.org",
+            "medicare@ahip.org"
+          ],
+          "reason_for_contact": "AHIP represents Medicare Advantage organizations and Part D plan sponsors affected by the 10-year daily provider directory archiving mandate, 90-day verification cycles, and letter-grade scoring rules."
+        },
+        {
+          "organization_name": "Medical Group Management Association (MGMA)",
+          "email_contacts": [
+            "govcomp@mgma.org",
+            "policy@mgma.org"
+          ],
+          "reason_for_contact": "MGMA represents physician group practices that will face substantial administrative burdens associated with mandatory 90-day directory attestations and 10-year post-termination appointment record retention."
+        },
+        {
+          "organization_name": "American Medical Association (AMA)",
+          "email_contacts": [
+            "regulatory@ama-assn.org",
+            "federal.legislation@ama-assn.org"
+          ],
+          "reason_for_contact": "AMA advocates for physicians affected by health plan network directory verification contacts, contractual mandates, and out-of-network enrollee cost-sharing dispute processes."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OAR-2024-0505-0951",
+    "agency": "EPA",
+    "title": "Renewable Fuel Standard Program: Reallocation of Additional 2025 Small Refinery Exemptions",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OAR-2024-0505-0951",
+    "posted_date": "2026-10-16 04:00:00+00:00",
+    "comment_end_date": "2026-12-05T04:59:59Z",
+    "processed_at": "2026-10-18T15:40:34.450200",
+    "ai_data": {
+      "summary_of_main_idea": "The U.S. Environmental Protection Agency (EPA) is co-proposing two options to revise the 2026 and 2027 Renewable Fuel Standard (RFS) small refinery exemption (SRE) reallocation volumes. This action seeks to reallocate an additional 770 million Renewable Identification Numbers (RINs)\u2014reflecting a 100 percent reallocation of the higher-than-projected 2025 SRE volume granted in August 2026\u2014either divided equally between 2026 and 2027 or assigned entirely to the 2027 compliance year. Additionally, the proposal automatically triggers an extension of the 2026 compliance reporting deadline past March 31, 2027.",
+      "challenges": "The proposed rule suffers from key legal, economic, and procedural defects under the Administrative Procedure Act (APA) and Clean Air Act (CAA). Legally, the EPA explicitly stated in the Set 2 Rule (91 FR 16388, 16441) that it would not adjust 2026\u20132027 standards for subsequent SRE projection inaccuracies, creating strong reliance interests that the EPA now seeks to disturb through retroactive standard-setting long past the statutory deadlines of October 31, 2024 (for 2026) and October 31, 2025 (for 2027). Economically, forced retirement of carryover RINs artificially inflates compliance costs, driving up retail prices for gasoline (up to 8.0 cents/gal) and diesel (up to 21.8 cents/gal), while imposing retroactive RIN procurement burdens on refiners after production cycles are nearly completed.",
+      "references": [
+        {
+          "title": "Americans for Clean Energy v. EPA, 864 F.3d 691 (D.C. Cir. 2017) (Establishing limits on retroactive standard-setting and requirement for reasonable lead time under CAA \u00a7 211(o))",
+          "url": "https://casetext.com/case/americans-for-clean-energy-v-environmental-protection-agency"
+        },
+        {
+          "title": "Sinclair Wyoming Refining Co. LLC v. EPA, 101 F.4th 871 (D.C. Cir. 2024) (Evaluating EPA statutory authority and discretion regarding small refinery exemptions)",
+          "url": "https://cadc.uscourts.gov/internet/opinions.nsf"
+        },
+        {
+          "title": "U.S. Energy Information Administration (EIA) - Analysis of Renewable Identification Number (RIN) Dynamics and Refiner Compliance Costs",
+          "url": "https://www.eia.gov/outlooks/steo/special/supplements/2023/2023_sp_01.pdf"
+        }
+      ],
+      "proposed_comment": "BEFORE THE ENVIRONMENTAL PROTECTION AGENCY\nWASHINGTON, D.C. 20460\n\nDocket ID No. EPA-HQ-OAR-2024-0505; FRL-11947.2-01-OAR; RIN 2060-AX09\n\nCOMMENTS OF CIVIC ADVOCATES AND OBLIGATED PARTIES ON THE PROPOSED RULE: RENEWABLE FUEL STANDARD (RFS) PROGRAM: REALLOCATION OF ADDITIONAL 2025 SMALL REFINERY EXEMPTIONS (91 FR 65699, OCT. 16, 2026)\n\nI. INTRODUCTION AND STATEMENT OF INTEREST\n\nWe appreciate the opportunity to comment on the Environmental Protection Agency's (EPA) proposed rule regarding the reallocation of additional 2025 Small Refinery Exemptions (SREs). While we support administrative transparency and market stability in transportation fuel markets, the proposed reallocation of 770 million Renewable Identification Numbers (RINs) introduces severe procedural flaws, impermissible retroactivity, and unjustifiable consumer cost increases.\n\nII. SPECIFIC CITATIONS AND LEGAL DEFECTS\n\nA. Violation of EPA's Express Commitments and Regulated Reliance Interests (91 FR 65704, Section III.B)\nIn the Set 2 Rule, EPA explicitly assured regulated parties that it did 'not plan to revise the percentage standards for 2026 and 2027 to account for any subsequent changes to our approach to evaluating SRE petitions or other inaccuracies in the projection of exempt volumes' (91 FR 16441). Regulated refiners and fuel blenders relied directly on these fixed standard ratios to execute long-term supply contracts, manage RIN inventories, and set capital expenditure budgets for 2026. Reopening these volumes retroactively violates fundamental principles of administrative reliance recognized in Encino Motorcars, LLC v. Navarro, 579 U.S. 211 (2016).\n\nB. Impermissible Retroactivity and Lateness (91 FR 65705, Section III.B)\nClean Air Act section 211(o)(2)(B)(ii) required EPA to establish 2026 standards by October 31, 2024, and 2027 standards by October 31, 2025. Proposing modifications in late 2026 forces obligated parties to retroactively acquire RINs after compliance periods have closed or nearly closed. Under Americans for Clean Energy v. EPA, 864 F.3d 691 (D.C. Cir. 2017), late standards are only permissible if EPA mitigates hardship. Increasing percentage standards late in the compliance year severely penalizes non-integrated refiners who cannot pass through sudden RIN price surges.\n\nC. Unreasonable Economic Burden on Consumers (91 FR 65708, Table VI-1)\nAs acknowledged in Table VI-1, total RIN compliance costs will rise to 28.8 cents/gallon, raising diesel prices by up to 21.8 cents/gallon and gasoline by up to 8.0 cents/gallon. In an inflationary energy market, extracting an extra 770 million RINs from carryover reserves penalizes consumers without driving any additional net biofuel production in 2025 or 2026.\n\nIII. PROPOSED ALTERNATIVE REGULATORY WORDING\n\nTo preserve market stability, satisfy APA requirements, and adhere to statutory deadlines, EPA should reject both proposed reallocation approaches and maintain the established 2026 and 2027 standards set in the Set 2 Rule. If EPA proceeds with reallocation, it must decline any adjustment to 2026 standards and defer any reallocation strictly to 2027 or beyond with adequate prospective lead time.\n\nProposed Revision to 40 CFR 80.1405(a):\n'40 CFR 80.1405(a) [Amended]\nMaintain the existing percentage standards for 2026 and 2027 as promulgated on April 1, 2026 (91 FR 16388). Specifically, the SRE reallocation volume (SRERV) for compliance year 2026 shall remain 0.99 billion RINs and for 2027 shall remain 1.04 billion RINs. Any additional exempted volumes calculated from 2025 SRE determinations shall not alter the applicable percentage standards for 2026.'\n\nIV. CONCLUSION\n\nEPA should uphold its binding commitments in the Set 2 Rule, withdraw the proposed increase in 2026\u20132027 percentage standards, and avoid imposing retroactive compliance burdens on fuel suppliers and consumers.",
+      "sponsors": [
+        {
+          "organization_name": "American Fuel & Petrochemical Manufacturers (AFPM)",
+          "email_contacts": [
+            "policy@afpm.org",
+            "legal@afpm.org"
+          ],
+          "reason_for_contact": "AFPM represents independent refiners and petrochemical manufacturers directly burdened by retroactive RIN obligations and sudden increases in RFS compliance percentage standards."
+        },
+        {
+          "organization_name": "American Petroleum Institute (API)",
+          "email_contacts": [
+            "rfs@api.org",
+            "regulatory@api.org"
+          ],
+          "reason_for_contact": "API represents integrated petroleum companies and importers who require regulatory certainty and lead time for RVO standard adjustments."
+        },
+        {
+          "organization_name": "Small Refiners Coalition",
+          "email_contacts": [
+            "contact@smallrefiners coalition.org"
+          ],
+          "reason_for_contact": "Small refiners are uniquely impacted by SRE decision timing, RIN price volatility, and statutory disproportionate economic hardship constraints."
+        },
+        {
+          "organization_name": "Energy Marketers of America (EMA)",
+          "email_contacts": [
+            "info@energymarketers.org"
+          ],
+          "reason_for_contact": "EMA represents independent wholesale and retail fuel distributors concerned about downstream fuel price surges (diesel/gasoline) caused by elevated RIN costs."
+        }
+      ]
+    }
+  },
+  {
+    "id": "MSHA-2025-0089-0016",
+    "agency": "MSHA",
+    "title": "Powered Air Purifying Respirators in Underground Mines",
+    "link": "https://www.regulations.gov/document/MSHA-2025-0089-0016",
+    "posted_date": "2026-10-16 04:00:00+00:00",
+    "comment_end_date": "2026-12-09T04:59:59Z",
+    "processed_at": "2026-10-18T15:40:34.450292",
+    "ai_data": {
+      "summary_of_main_idea": "The Mine Safety and Health Administration (MSHA) is reopening the public comment period and hosting a virtual public hearing on its proposed rule, 'Powered Air Purifying Respirators (PAPRs) in Underground Mines.' The proposed regulation seeks to permit the use of non-permissible PAPRs\u2014respirators that have not undergone MSHA's traditional 30 CFR Part 18 intrinsic safety evaluation\u2014in specified underground areas of gassy mines under designated operating conditions. MSHA is soliciting public testimony and additional written data regarding the safety features, maintenance protocols, and mine monitoring conditions required for using these non-permissible respirators.",
+      "challenges": "The primary legal vulnerability under the Administrative Procedure Act (APA) and the Mine Act is the potential violation of the statutory anti-degradation rule (30 U.S.C. \u00a7 811(a)(9)), which mandates that no safety or health standard shall reduce the level of protection afforded to miners. Allowing non-permissible electrical equipment\u2014specifically battery-powered PAPRs that lack 30 CFR Part 18 intrinsic safety certification\u2014into gassy underground coal or metal/nonmetal mines introduces an unmitigated ignition source capable of triggering catastrophic methane or coal dust explosions. Technically, modern high-energy density lithium-ion batteries present thermal runaway and arcing hazards under fault conditions, and relying on procedural checks or miner monitoring rather than intrinsic engineering controls conflicts with long-standing hierarchy-of-controls principles.",
+      "references": [
+        {
+          "title": "NIOSH Mining Safety and Health Research: Intrinsic Safety Standards for Battery-Powered Equipment in Underground Coal Mines",
+          "url": "https://www.cdc.gov/niosh/mining/works/coversheet2015.html"
+        },
+        {
+          "title": "Assessment of Respiratory Protective Devices in Hazardous Underground Mining Environments (National Academies Sciences, Engineering, Medicine)",
+          "url": "https://nap.nationalacademies.org/catalog/25372"
+        },
+        {
+          "title": "Evaluation of Ignition Risk and Intrinsic Safety for Electronic Respiratory Equipment in Explosive Coal Mine Atmospheres",
+          "url": "https://www.tandfonline.com/toc/uoeh20/current"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT REGARDING MSHA PROPOSED RULE:\nPowered Air Purifying Respirators (PAPRs) in Underground Mines\nDocket No. MSHA-2025-0089 | RIN 1219-AC17 | 91 FR 65697\n\nI. INTRODUCTION AND INTEREST OF COMMENTER\nThis public comment is submitted in response to the Mine Safety and Health Administration's (MSHA) reopening of the rulemaking record and notice of virtual public hearing (91 FR 65697, Oct. 16, 2026) regarding the proposed rule titled 'Powered Air Purifying Respirators (PAPRs) in Underground Mines' (90 FR 28406). While improving miner protection against respirable crystalline silica and coal mine dust is an imperative statutory goal, MSHA's proposal to allow 'non-permissible' PAPRs in gassy underground mines creates an unacceptable explosion risk, conflicting with core statutory mandates.\n\nII. LEGAL AND PROCEDURAL DEFECTS\n1. Violation of the Mine Act Statutory Anti-Degradation Clause (30 U.S.C. \u00a7 811(a)(9)):\nSection 101(a)(9) of the Federal Mine Safety and Health Act explicitly prohibits MSHA from promulgating any standard that reduces the level of protection provided to miners by existing standards. Under existing 30 CFR Part 18 rules, all electrical equipment operated in inby areas or gassy atmospheres must be evaluated and certified as intrinsically safe ('permissible'). Replacing intrinsic safety engineering controls with non-permissible PAPRs degrades miner safety by introducing potential thermal ignition sources into gassy return air courses and working faces.\n\n2. Arbitrary and Capricious Standard Under the APA (5 U.S.C. \u00a7 706(2)(A)):\nMSHA's proposed reliance on operational restrictions and administrative monitoring in lieu of Part 18 intrinsic safety testing lacks a rational connection to the empirical scientific evidence regarding battery fault modes. High-density lithium-ion cells used in commercial PAPRs can suffer catastrophic thermal runaway due to mechanical impact, internal short-circuiting, or dust accumulation, reaching temperatures well exceeding the ignition point of methane (630\u00b0C).\n\nIII. TECHNICAL AND SCIENTIFIC DEFECTS\nNon-permissible electrical equipment lacks the redundant energy-limiting circuitry, explosion-proof enclosures, and robust fault-tolerance required by IEC 60079-11 and 30 CFR Part 18. Relying on miners or automated sensors to manually deactivate non-permissible equipment during sudden methane outbursts or ventilation failures fails the fundamental safety engineering principle of intrinsic fail-safe design.\n\nIV. PROPOSED ALTERNATIVE REGULATORY TEXT\nTo reconcile respiratory protection goals with statutory mine safety mandates, MSHA should amend 30 CFR Parts 57 and 75 as follows:\n\nProposed Revision to 30 CFR \u00a7 75.320 / 30 CFR Part 18 Compliance:\n'(a) Powered Air Purifying Respirators (PAPRs) utilized in underground gassy mines or inby the last open crosscut MUST be evaluated, tested, and certified as intrinsically safe under 30 CFR Part 18 or under a streamlined, accelerated Part 18 Subpart B approval pathway specifically tailored for low-voltage battery-powered respiratory protection devices.'\n'(b) Non-permissible PAPRs shall NOT be authorized for use in any underground area where methane is likely to accumulate in concentrations exceeding 0.25%, or where permissible equipment is currently mandated by statutory provisions.'\n\nV. CONCLUSION\nMSHA must maintain strict compliance with 30 U.S.C. \u00a7 811(a)(9) by requiring all PAPRs used in gassy underground mines to meet rigorous intrinsic safety criteria under Part 18 rather than authorizing non-permissible equipment.",
+      "sponsors": [
+        {
+          "organization_name": "United Mine Workers of America (UMWA) - Safety and Health Department",
+          "email_contacts": [
+            "safety@umwa.org",
+            "legislative@umwa.org"
+          ],
+          "reason_for_contact": "As the primary labor union representing underground coal miners, UMWA has direct standing and a statutory mandate to enforce 30 U.S.C. \u00a7 811(a)(9) anti-degradation protections against potential explosion hazards."
+        },
+        {
+          "organization_name": "National Mining Association (NMA)",
+          "email_contacts": [
+            "info@nma.org",
+            "regulatory@nma.org"
+          ],
+          "reason_for_contact": "Represents underground mine operators who require regulatory certainty and clear technical standards for permissibility to avoid legal liability and catastrophic operational risks."
+        },
+        {
+          "organization_name": "American Industrial Hygiene Association (AIHA) - Mining Working Group",
+          "email_contacts": [
+            "govaffairs@aiha.org",
+            "infocenter@aiha.org"
+          ],
+          "reason_for_contact": "Leading professional association for occupational hygiene experts dedicated to ensuring respiratory protection equipment meets rigorous safety standards without creating secondary safety hazards."
+        },
+        {
+          "organization_name": "Industrial Safety Equipment Association (ISEA)",
+          "email_contacts": [
+            "isea@safetyequipment.org"
+          ],
+          "reason_for_contact": "Trade association representing safety equipment manufacturers interested in establishing standardized, achievable intrinsic safety testing standards for PAPR products."
+        }
+      ]
+    }
+  },
+  {
+    "id": "NOAA_FRDOC_0001-7708",
+    "agency": "NOAA",
+    "title": "Fishery Management Plans of St. Croix and St. Thomas and St. John: Spiny Lobster Management Measures",
+    "link": "https://www.regulations.gov/document/NOAA_FRDOC_0001-7708",
+    "posted_date": "2026-10-16 04:00:00+00:00",
+    "comment_end_date": "2026-11-17T04:59:59Z",
+    "processed_at": "2026-10-18T15:40:34.450377",
+    "ai_data": {
+      "summary_of_main_idea": "This proposed rule by the National Marine Fisheries Service (NMFS) implements Framework Action 4 under the St. Croix and St. Thomas/St. John Fishery Management Plans to update annual catch limits (ACLs) and management reference points for Caribbean spiny lobster based on the SEDAR 91 stock assessment. The rule increases the spiny lobster ACL in St. Croix from 137,254 lb to 176,760 lb while decreasing the ACL in St. Thomas and St. John from 133,207 lb to 132,964 lb. The explicit objective is to align fishery management with updated scientific assessments to prevent overfishing while achieving optimum yield pursuant to the Magnuson-Stevens Act.",
+      "challenges": "1. Violation of MSA National Standard 1 and National Standard 2: The rule establishes an arbitrary asymmetry by applying a 5 percent management uncertainty buffer in St. Croix while eliminating the uncertainty buffer entirely (ACL = ABC) for St. Thomas and St. John. Waiving safety buffers purely to mitigate economic reductions compromises the precautionary principle required to prevent overfishing under National Standard 1, particularly given known data limitations in Caribbean fisheries.\n2. Defective Regulatory Flexibility Act (RFA) Certification: NMFS certified that the rule will not have a significant economic impact on small entities despite explicitly acknowledging that operational cost and profitability data are unavailable for USVI commercial fishing businesses. Relying solely on gross revenue proxies\u2014where spiny lobster accounts for 72 percent of total revenue in St. Thomas/St. John\u2014without evaluating net profit margins violates RFA standard analytical requirements under 5 U.S.C. 605.\n3. Procedural Defect under APA Section 706: The agency defers critical scientific refinement to a post-hoc interim assessment in December 2027 while enacting binding ACL reductions immediately. Adopting catch limits based on assessments that omitted key fishery-dependent abundance indices without an Initial Regulatory Flexibility Analysis (IRFA) constitutes arbitrary and capricious agency action.",
+      "references": [
+        {
+          "title": "National Standard 1 Guidelines and Accountability Measures in U.S. Regional Fisheries Management",
+          "url": "https://www.fisheries.noaa.gov/national/laws-and-policies/national-standard-guidelines"
+        },
+        {
+          "title": "Data-Limited Stock Assessment Methods and Uncertainty Buffers in Caribbean Fisheries",
+          "url": "https://www.sciencedirect.com/science/article/pii/S016578361830112X"
+        },
+        {
+          "title": "Evaluating the Efficacy of Annual Catch Limits and Management Uncertainty Buffers in Preventing Overfishing",
+          "url": "https://academic.oup.com/icesjms/article/77/6/2115/5860123"
+        },
+        {
+          "title": "Regulatory Flexibility Act Compliance and Economic Benchmarking in Data-Poor Fisheries",
+          "url": "https://www.sba.gov/advocacy/regulatory-flexibility-act"
+        }
+      ],
+      "proposed_comment": "RE: Comments on Proposed Rule for Spiny Lobster Management Measures in St. Croix and St. Thomas/St. John; 50 CFR Part 622; Docket No. 261013-0004; RIN 0648-BO61; NOAA-NMFS-2026-2146.\n\nI. INTRODUCTION\nThese comments are submitted regarding the National Marine Fisheries Service\u2019s (NMFS) proposed rule published at 91 FR 65711 (October 16, 2026) to implement Framework Action 4 under the St. Croix and St. Thomas/St. John Fishery Management Plans (FMPs). While updating catch reference points to align with SEDAR 91 is necessary, the proposed regulations contain significant legal, scientific, and procedural deficiencies under the Magnuson-Stevens Fishery Conservation and Management Act (MSA), the Administrative Procedure Act (APA), and the Regulatory Flexibility Act (RFA).\n\nII. SPECIFIC LEGAL AND TECHNICAL DEFICIENCIES\n\n1. Inconsistent and Unjustified Application of Uncertainty Buffers (91 FR 65712)\nNMFS proposes a 5 percent management uncertainty buffer between Acceptable Biological Catch (ABC) and Annual Catch Limit (ACL) for St. Croix, but explicitly sets a 0 percent buffer (ACL = ABC) for St. Thomas and St. John. The stated justification\u2014that a 0 percent buffer was selected to 'minimize potential future economic impacts'\u2014impermisibly elevates economic preference over scientific precaution. National Standard 1 requires that management measures prevent overfishing. Removing management buffers in a fishery reliant on data-limited inputs violates National Standard 1 and National Standard 2 (Best Scientific Information Available). NMFS cannot arbitrarily apply buffers in one district while setting zero buffer in an adjacent district without scientific evidence demonstrating zero management uncertainty in St. Thomas/St. John.\n\n2. Improper Regulatory Flexibility Act Certification (91 FR 65712-65713)\nThe Senior Lead Counsel for Regulation certified under 5 U.S.C. 605(b) that this rule will not have a significant economic impact on small entities. However, NMFS explicitly concedes on page 65713 that 'cost data are unavailable' and 'it is not possible to directly assess whether this proposed rule would significantly reduce profits.' In St. Thomas and St. John, commercial fishers derive 72 percent of their total annual gross revenue from spiny lobster. Certifying 'no significant impact' while lacking cost data renders the RFA certification legally vulnerable under 5 U.S.C. 605. NMFS must complete a formal Initial Regulatory Flexibility Analysis (IRFA) examining profit margins and small business cost structures.\n\n3. Arbitrary Relying on Post-Hoc Interim Assessments (91 FR 65712)\nNMFS notes that the Southeast Fisheries Science Center (SEFSC) will provide an interim assessment by December 2027 to incorporate fishery-dependent abundance indices omitted from SEDAR 91. Promulgating reduced ACLs based on incomplete data while deferring necessary indices to 2027 violates the requirement to base decisions on the best available current data and constitutes arbitrary decision-making under APA \u00a7 706.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n\nTo resolve these defects, NMFS should adopt a uniform 5 percent uncertainty buffer across both island districts until the SEFSC 2027 interim assessment is complete, or temporarily suspend the ACL reduction for St. Thomas/St. John pending an IRFA.\n\nProposed Revision to 50 CFR 622.515(c)(1) (Page 65713):\n'Sec. 622.515 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs).\n(c) * * *\n(1) The ACL is 126,316 lb (57,296 kg), round weight [reflecting a standard 5 percent uncertainty buffer from the ABC of 132,964 lb], unless an interim assessment incorporating fishery-dependent abundance indices justifies adjusting the ABC/ACL ratio without increasing overfishing risk.'\n\nIV. CONCLUSION\nNMFS must re-evaluate the uncertainty buffer for St. Thomas and St. John and prepare a proper IRFA prior to finalizing this rule.",
+      "sponsors": [
+        {
+          "organization_name": "St. Thomas Commercial Fishermen's Association",
+          "email_contacts": [
+            "info@stthomasfishermen.org",
+            "stthomasfishermen@gmail.com"
+          ],
+          "reason_for_contact": "Represents the affected commercial fishing entities in St. Thomas and St. John whose primary revenue (72%) relies on spiny lobster harvest and who face regulatory impacts from the zero-buffer baseline."
+        },
+        {
+          "organization_name": "Ocean Conservancy - Caribbean Fisheries Program",
+          "email_contacts": [
+            "caribbean@oceanconservancy.org",
+            "oceanpolicy@oceanconservancy.org"
+          ],
+          "reason_for_contact": "Advocates for science-based fisheries management and strict adherence to National Standard 1 and precautionary uncertainty buffers under the Magnuson-Stevens Act."
+        },
+        {
+          "organization_name": "Virgin Islands Conservation Society",
+          "email_contacts": [
+            "viconservationsociety@gmail.com",
+            "advocacy@viconservation.org"
+          ],
+          "reason_for_contact": "Local USVI non-profit dedicated to sustainable marine resource management and ensuring long-term health of territorial coral reef fisheries."
+        },
+        {
+          "organization_name": "Environmental Defense Fund (EDF) Oceans Program",
+          "email_contacts": [
+            "oceans@edf.org",
+            "caribbeanpolicy@edf.org"
+          ],
+          "reason_for_contact": "Focuses on climate-resilient fisheries management and economic benchmarking for small-scale island fisheries."
+        }
+      ]
+    }
+  },
+  {
+    "id": "USCG-2026-1075-0001",
+    "agency": "USCG",
+    "title": "Safety Zone; Cumberland River, Hendersonville, TN",
+    "link": "https://www.regulations.gov/document/USCG-2026-1075-0001",
+    "posted_date": "2026-10-16 04:00:00+00:00",
+    "comment_end_date": "2026-10-24T03:59:59Z",
+    "processed_at": "2026-10-18T15:40:34.450456",
+    "ai_data": {
+      "summary_of_main_idea": "The Coast Guard proposes establishing a temporary safety zone on the navigable waters of the Cumberland River between mile markers 221.7 and 222 near Hendersonville, Tennessee. The safety zone is intended to protect spectators, transiting vessels, and personnel from potential hazards associated with overwater fireworks displays scheduled for late October 2026. Entry into this zone during enforcement periods would be prohibited unless expressly authorized by the Captain of the Port, Ohio Valley.",
+      "challenges": "1. Procedural APA Violations & Lack of Fair Notice: The NPRM provides an unexplainably compressed 7-day comment period (October 16 to October 23, 2026) without invoking good cause under 5 U.S.C. \u00a7 553(b)(B). Furthermore, the NPRM contains critical internal contradictions regarding enforcement dates and times: Section II states enforcement will occur on October 30 from 4 p.m. to 6:30 p.m. and October 29 from 6 a.m. to 9:30 a.m., whereas Section III and proposed regulatory text \u00a7 165.T899-1075(d) state enforcement will occur on October 31 from 4 p.m. to 6:30 p.m. and October 29 from 6:30 a.m. to 9 a.m. This ambiguity fails the 'logical outgrowth' and fair notice requirements of Administrative Procedure Act 5 U.S.C. \u00a7 553.\n2. Inadequate NEPA and Environmental Evaluation: The Coast Guard improperly relies on a Categorical Exclusion (L60(a)) under DHS Directive 023-01 without demonstrating consideration of heavy metal, perchlorate, or unexploded ordnance deposition from fireworks into the Cumberland River ecosystem.\n3. Insufficient Small Entity Economic Analysis: The Regulatory Flexibility Act analysis assumes minimal impact without evaluating potential supply chain delays for commercial tug and barge traffic operating along this segment of the Cumberland River.",
+      "references": [
+        {
+          "title": "Small Refiner Lead Phase-Down Task Force v. EPA, 705 F.2d 506 (D.C. Cir. 1983) (Establishing notice principles and prohibition of conflicting agency descriptions)",
+          "url": "https://casetext.com/case/small-refiner-lead-phase-down-task-force-v-environmental-protection-agency"
+        },
+        {
+          "title": "US EPA Report: Perchlorate Environmental Assessment and Impact of Pyrotechnics in Waterways",
+          "url": "https://www.epa.gov/sdwa/perchlorate-drinking-water"
+        },
+        {
+          "title": "Waterways Council, Inc. Inland Waterway Commerce & Navigational Impact Report",
+          "url": "https://www.waterwayscouncil.org/research-stats"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. USCG-2026-1075; RIN 1625-AA00 \u2013 Safety Zone; Cumberland River, Hendersonville, TN\n\nI. INTRODUCTION & PROCEDURAL DEFECTS\nWe respectfully submit these comments regarding the Coast Guard's Notice of Proposed Rulemaking (NPRM) to establish a temporary safety zone on the Cumberland River (Mile Markers 221.7 to 222). While we support maritime safety initiatives, the proposed rule in its current form suffers from fatal procedural defects under the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 553.\n\nFirst, the agency has allowed a mere 7-day comment window (October 16 to October 23, 2026) without issuing a finding of good cause or demonstrating emergency conditions under 5 U.S.C. \u00a7 553(b)(B). Seven days is insufficient for commercial river operators, local businesses, and environmental organizations to evaluate the economic and ecological consequences of the restriction.\n\nSecond, the preamble contains glaring internal contradictions regarding the exact dates and times of enforcement:\n- Section II (Background) claims enforcement will occur from 6 a.m. to 9:30 a.m. on October 29, 2026, and 4 p.m. to 6:30 p.m. on October 30, 2026.\n- Section III (Discussion) and proposed \u00a7 165.T899-1075(d) state enforcement will occur from 6:30 a.m. to 9 a.m. on October 29, 2026, and 4 p.m. to 6:30 p.m. on October 31, 2026.\nThis discrepancy deprives the public of fair notice regarding when river navigation will actually be prohibited, rendering any final rule based on this text arbitrary, capricious, and legally vulnerable.\n\nII. RECOMMENDED REVISIONS TO REGULATORY TEXT\nTo resolve these conflicts and provide adequate notice to mariners, we propose that the Coast Guard correct the regulatory text in \u00a7 165.T899-1075 and harmonize the preamble. Specifically, paragraph (d) should be amended as follows:\n\nPROPOSED AMENDED TEXT:\n\"\u00a7 165.T899-1075 Safety Zone; Cumberland River, Hendersonville, TN.\n...\n(d) Enforcement period. This section will be enforced on October 29, 2026, from 6:30 a.m. to 9:00 a.m., and on October 31, 2026, from 4:00 p.m. to 6:30 p.m. Notice of exact enforcement windows will be broadcast via Broadcast Notice to Mariners on VHF-FM Channel 16 at least 48 hours prior to enforcement.\"\n\nIII. CONCLUSION\nThe Coast Guard should issue a technical correction correcting the enforcement dates in the Federal Register and extend the comment period by an additional 14 days to satisfy statutory APA requirements.",
+      "sponsors": [
+        {
+          "organization_name": "American Waterways Operators (AWO)",
+          "email_contacts": [
+            "law-and-regulations@americanwaterways.com",
+            "info@americanwaterways.com"
+          ],
+          "reason_for_contact": "Represents the U.S. tugboat, towboat, and barge industry; highly affected by unexpected river closures and administrative scheduling errors on commercial navigation routes."
+        },
+        {
+          "organization_name": "Cumberland River Compact",
+          "email_contacts": [
+            "info@cumberlandrivercompact.org",
+            "advocacy@cumberlandrivercompact.org"
+          ],
+          "reason_for_contact": "Local non-profit dedicated to protecting the water quality and aquatic habitat of the Cumberland River basin from chemical fallout associated with fireworks."
+        },
+        {
+          "organization_name": "Passenger Vessel Association (PVA)",
+          "email_contacts": [
+            "pva@passengervessel.com",
+            "regulatory@passengervessel.com"
+          ],
+          "reason_for_contact": "National trade association for passenger vessel operators whose excursion and dinner craft may experience operational disruptions near Hendersonville, TN."
+        }
+      ]
+    }
+  },
+  {
     "id": "FDIC-2026-1981-0001",
     "agency": "FDIC",
     "title": "Extensions of Credit to Insiders",
