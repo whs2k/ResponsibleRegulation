@@ -1,5 +1,817 @@
 [
   {
+    "id": "FAA-2026-13801-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Airbus SAS Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-13801-0001",
+    "posted_date": "2026-11-06 05:00:00+00:00",
+    "comment_end_date": "2026-12-22T04:59:59Z",
+    "processed_at": "2026-11-06T19:11:11.613333",
+    "ai_data": {
+      "summary_of_main_idea": "The proposed Airworthiness Directive (AD) by the Federal Aviation Administration (FAA) aims to supersede AD 2024-19-03 for certain Airbus SAS Model A350-941 and -1041 airplanes to incorporate new and more restrictive structural airworthiness limitations. Based on updated European Union Aviation Safety Agency (EASA) mandatory continuing airworthiness information (EASA AD 2025-0204 and EASA AD 2026-0034), the rule requires U.S. operators to revise their existing maintenance or inspection programs to prevent reduced structural integrity. If adopted, affected operators will be required to integrate these updated damage-tolerant airworthiness limitation items into their operational programs within 90 days.",
+      "challenges": "The proposed rule suffers from substantive legal, economic, and procedural deficiencies under the Administrative Procedure Act (APA), 5 U.S.C. 553. First, paragraph (k)(2) arbitrarily reduces the compliance timeframe for updating maintenance programs from the 12-month period granted by EASA (the State of Design Authority) to a 90-day window without providing empirical evidence, safety hazard data, or operational necessity to justify the shortened timeline. Second, the FAA's cost of compliance analysis on page 70033 relies on an unverified flat estimate of 90 work-hours per operator ($7,650), failing to account for fleet size variance, IT/software engineering costs for updating computerized maintenance tracking systems, or labor costs associated with reviewing existing Supplemental Type Certificates (STCs) for AMOC compliance under 14 CFR 91.403(c). Third, incorporating complex EASA ADs by reference while simultaneously overriding key compliance schedules creates regulatory disharmony and administrative uncertainty for international carriers.",
+      "references": [
+        {
+          "title": "Administrative Procedure Act - Arbitrary and Capricious Standard (5 U.S.C. 706)",
+          "url": "https://www.law.cornell.edu/uscode/text/5/706"
+        },
+        {
+          "title": "FAA Airworthiness Directives Manual (FAA Order 8040.1C)",
+          "url": "https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1020288"
+        },
+        {
+          "title": "EASA Continuing Airworthiness Regulations & Technical Standards",
+          "url": "https://www.easa.europa.eu/en/document-library/safety-directives"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND AIRLINE MAINTENANCE OPERATORS\n\nDocket No. FAA-2026-13801; Project Identifier MCAI-2025-01538-T\nProposed Airworthiness Directives: Airbus SAS Airplanes (14 CFR Part 39)\n\nI. INTRODUCTION\nInterested stakeholders submit these comments regarding the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) published at 91 FR 70031 (November 6, 2026), proposing to supersede AD 2024-19-03 for Airbus SAS Model A350-941 and -1041 airplanes.\n\nII. ARBITRARY COMPLIANCE TIMEFRAME DISCREPANCY (PAGE 70034, PARAGRAPH (k)(2))\nParagraph (k)(2) of the proposed rule mandates that operators revise their existing maintenance or inspection program within 90 days after the effective date of the AD. However, EASA AD 2025-0204 and EASA AD 2026-0034 explicitly allow a 12-month compliance window for revising the approved Aircraft Maintenance Program (AMP). The FAA has offered no technical rationale or risk assessment demonstrating why a 90-day compliance period is necessary in the U.S. while a 12-month window is deemed safe by EASA, the primary certifying authority. Imposing a 90-day deadline without reasoned justification violates the APA's requirement for non-arbitrary decision-making under 5 U.S.C. 706(2)(A).\n\nIII. DEFECTIVE COST OF COMPLIANCE ESTIMATE (PAGE 70033)\nThe FAA's calculation of $7,650 per operator significantly underestimates the actual economic burden. Integrating Revision 11 and Variation 11.1 of the Airbus A350 ALS Part 2 into operator maintenance tracking software, coordinating engineering reviews for modified aircraft under 14 CFR 91.403(c), and processing potential AMOC applications requires substantially more resources than the estimated 90 work-hours.\n\nIV. PROPOSED ALTERNATIVE REGULATORY TEXT\nTo ensure international safety harmonization and administrative reasonableness, paragraph (k)(2) should be amended as follows:\n\n\"(2) Paragraph (3) of EASA AD 2025-0204 and EASA AD 2026-0034 specifies revising the approved aircraft maintenance program (AMP) within 12 months after its effective date. This AD requires revising the existing maintenance or inspection program, as applicable, within 180 days after the effective date of this AD, or within 12 months after the effective date of EASA AD 2025-0204, whichever occurs later.\"\n\nRespectfully submitted.",
+      "sponsors": [
+        {
+          "organization_name": "Airlines for America (A4A)",
+          "email_contacts": [
+            "rgreene@airlines.org",
+            "regulatory@airlines.org"
+          ],
+          "reason_for_contact": "Represents major U.S. passenger and cargo carriers operating widebody fleets, directly impacted by abbreviated AD maintenance compliance timelines and administrative implementation costs."
+        },
+        {
+          "organization_name": "International Air Transport Association (IATA)",
+          "email_contacts": [
+            "safety@iata.org",
+            "publicaffairs@iata.org"
+          ],
+          "reason_for_contact": "Advocates for global aviation safety harmonization and standard regulatory alignment between FAA and EASA standards for international flag carriers."
+        },
+        {
+          "organization_name": "Aeronautical Repair Station Association (ARSA)",
+          "email_contacts": [
+            "arsa@arsa.org",
+            "regulatory@arsa.org"
+          ],
+          "reason_for_contact": "Represents certified repair stations and maintenance providers responsible for executing structural inspections and maintenance program revisions mandated by ADs."
+        }
+      ]
+    }
+  },
+  {
+    "id": "NOAA-NMFS-2026-2542-0001",
+    "agency": "NOAA",
+    "title": "Fisheries of the Exclusive Economic Zone off Alaska: Amendment 128 to the FMP for Groundfish of the Bering Sea and Aleutian Islands Management Area and Amendment 116 to the FMP for the Groundfish fisheries of the Gulf of Alaska; Small Sablefish Release",
+    "link": "https://www.regulations.gov/document/NOAA-NMFS-2026-2542-0001",
+    "posted_date": "2026-11-06 05:00:00+00:00",
+    "comment_end_date": "2027-01-06T04:59:59Z",
+    "processed_at": "2026-11-06T19:11:11.613420",
+    "ai_data": {
+      "summary_of_main_idea": "Amendments 128 to the BSAI FMP and 116 to the GOA FMP propose to relax full-retention requirements by allowing fixed-gear catcher vessels and Community Development Quota (CDQ) participants to discard small sablefish. To prevent TAC overruns from unobserved mortality, NMFS plans to establish an annual Sablefish Discard Allowance (SDA) deducted top-down from the Total Allowable Catch (TAC) prior to issuing Individual Fishing Quotas (IFQ). The action also updates administrative terminology replacing 'Freezer Longliner' with 'category A quota shares' and 'Catcher/processor' designation.",
+      "challenges": "The proposed rulemaking presents major legal, scientific, and economic defects under the Magnuson-Stevens Fishery Conservation and Management Act (MSA) and the Administrative Procedure Act (APA). Economically, deducting the Sablefish Discard Allowance (SDA) top-down from the total TAC unfairly penalizes quota holders who maintain full retention by reducing their annual allocation to subsidize selective high-grading by other vessels, violating National Standard 4 (fair and equitable allocation). Scientifically, the reliance on estimated Discard Mortality Rates (DMRs) fails to incorporate cumulative stressors such as barotrauma, severe hook injury, and post-release depredation by killer and sperm whales, creating a significant risk of uncounted fishing mortality that violates National Standard 1 (preventing overfishing). Procedurally, implementing a voluntary discard framework without mandating 100% Electronic Monitoring (EM) or observer coverage creates an unmonitored regulatory loop, rendering discard estimates arbitrary and capricious under APA 5 U.S.C. 706(2)(A).",
+      "references": [
+        {
+          "title": "National Research Council (1999). Sharing the Fish: Toward a National Policy on Individual Transferable Quotas. National Academies Press.",
+          "url": "https://www.nap.edu/catalog/5967/sharing-the-fish-toward-a-national-policy-on-individual"
+        },
+        {
+          "title": "Stachura, M. M., et al. (2014). Linking environmental variability to recruitment of Pacific sablefish (Anoplopoma fimbria). Canadian Journal of Fisheries and Aquatic Sciences, 71(5), 780-790.",
+          "url": "https://doi.org/10.1139/cjfas-2013-0467"
+        },
+        {
+          "title": "NOAA Technical Memorandum NMFS-AFSC-412: Assessment of Killer and Sperm Whale Depredation in Alaska Groundfish Fisheries",
+          "url": "https://repository.library.noaa.gov/view/noaa/24911"
+        }
+      ],
+      "proposed_comment": "RE: Comments on Amendments 128/116 (Small Sablefish Release), Docket NOAA-NMFS-2026-2542, RIN 0648-BO62 (89 FR 70041-70043). I. Introduction & Statement of Interest: We appreciate the opportunity to comment on Amendments 128 and 116. While operational flexibility for small-sablefish encounters is understandable, the mechanism proposed raises critical statutory and scientific concerns. II. Analytical Defects Under Magnuson-Stevens Act National Standards: As described at 89 FR 70042, NMFS proposes establishing an annual Sablefish Discard Allowance (SDA) deducted directly from the TAC before deriving sablefish IFQs. This creates an unmitigated moral hazard. Non-discarding harvesters suffer a forced reduction in available quota to absorb the discard mortality generated by vessels engaged in high-grading. This violates MSA National Standard 4 (16 U.S.C. 1851(a)(4)), which requires allocations to be fair, equitable, and designed so that no entity acquires an excessive share. Furthermore, estimating discard mortality solely through static Discard Mortality Rates (DMRs) without accounting for acute post-release killer and sperm whale depredation threatens stock sustainability, violating National Standard 1 (16 U.S.C. 1851(a)(1)). III. APA Procedural Vulnerabilities: The lack of mandatory Electronic Monitoring (EM) or observer verification for vessels exercising the discard allowance leaves NMFS without empirical data to measure actual discard volume. Relying on unverified vessel self-reporting render discard projections arbitrary and capricious under 5 U.S.C. 706(2)(A). IV. Proposed Regulatory Text Revisions: We request NMFS modify the proposed rule language at 50 CFR 679.7 and 679.40 to state: '(1) Vessel-Specific Discard Accounting: Any vessel electing to discard small sablefish under the SDA must maintain active Electronic Monitoring (EM) calibrated for fish-length verification during all sablefish IFQ/CDQ trips. (2) Individual Quota Deduction: Discard mortality calculated via approved DMRs shall be deducted directly from the permit holder's remaining annual IFQ or CDQ allocation, rather than an unallocated top-down deduction from the regional TAC.' Thank you for considering these recommendations.",
+      "sponsors": [
+        {
+          "organization_name": "Alaska Longline Fishermen's Association (ALFA)",
+          "email_contacts": [
+            "info@alfafish.org",
+            "director@alfafish.org"
+          ],
+          "reason_for_contact": "Represents small-boat fixed-gear fishermen in Alaska who would suffer reduced IFQ allocations under top-down SDA deductions and who favor accountability and conservation."
+        },
+        {
+          "organization_name": "Deep Sea Fishermen's Union of the Pacific (DSFU)",
+          "email_contacts": [
+            "contact@dsfu.org",
+            "president@dsfu.org"
+          ],
+          "reason_for_contact": "Represents crew members and longline vessel operators invested in fair quota distribution and long-term sablefish stock health."
+        },
+        {
+          "organization_name": "Marine Conservation Alliance (MCA)",
+          "email_contacts": [
+            "info@marinecons.org"
+          ],
+          "reason_for_contact": "Promotes sustainable, science-based fishery management in North Pacific fisheries and advocates for robust monitoring standards."
+        },
+        {
+          "organization_name": "Ocean Conservancy - Alaska Program",
+          "email_contacts": [
+            "alaska@oceanconservancy.org"
+          ],
+          "reason_for_contact": "Focuses on preventing unrecorded discard mortality and marine mammal depredation impacts under National Standard 1."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-12541-0001",
+    "agency": "FAA",
+    "title": "Airspace Designations and Reporting Points: Shelter Cove, CA",
+    "link": "https://www.regulations.gov/document/FAA-2026-12541-0001",
+    "posted_date": "2026-11-06 05:00:00+00:00",
+    "comment_end_date": "2026-12-22T04:59:59Z",
+    "processed_at": "2026-11-06T19:11:11.613478",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to establish Class E airspace extending upward from 700 feet above the surface at Shelter Cove Airport (K0Q5) in Shelter Cove, California. This regulatory action is intended to support a new RNAV (GPS)-A instrument approach procedure and an instrument obstacle departure procedure, transitioning the airport from Visual Flight Rules (VFR) to Instrument Flight Rules (IFR) capabilities. The proposed controlled airspace aims to provide safe clearance for arriving and departing IFR aircraft navigating terminal operations in the region.",
+      "challenges": "The proposed rule contains significant legal, procedural, and technical defects under the Administrative Procedure Act (APA), Regulatory Flexibility Act (RFA), and National Environmental Policy Act (NEPA). Procedurally, the FAA improperly defers its NEPA environmental review until after the public notice and comment period, denying the public the opportunity to evaluate potential noise and wildlife impacts on the adjacent Lost Coast area. Economically, the FAA summarily certifies a de minimis impact under the RFA without offering empirical data on how converting uncontrolled Class G airspace to Class E affects visual general aviation (VFR) pilots, local coastal tourism, and non-towered coastal traffic flow. Technically, the NPRM fails to address traffic conflict risks between non-participating VFR aircraft transiting the narrow coastal terrain corridor and IFR traffic operating under the proposed instrument procedure in rapidly changing coastal weather conditions.",
+      "references": [
+        {
+          "title": "FAA Instrument Procedures Handbook (FAA-H-8083-16B): Terminal Airspace and Instrument Approach Design Principles",
+          "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook"
+        },
+        {
+          "title": "Administrative Procedure Act Review of Agency Environmental Defers: 5 U.S.C. Section 706 Legal Standard Analysis",
+          "url": "https://www.law.cornell.edu/uscode/text/5/706"
+        },
+        {
+          "title": "National Environmental Policy Act (NEPA) Compliance Guidelines for Airspace Redesign Actions (FAA Order 1050.1G)",
+          "url": "https://www.faa.gov/about/office_org/headquarters_offices/apl/environ_policy_guidance/policy"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. FAA-2026-12541; Airspace Docket No. 26-AWP-11; Establishment of Class E Airspace, Shelter Cove Airport, Shelter Cove, CA. The undersigned organization submits the following comments regarding the FAA's Notice of Proposed Rulemaking published at 91 FR 70038 (November 6, 2026). While supporting safe instrument operations at Shelter Cove Airport (K0Q5), we urge the FAA to address procedural and operational deficiencies before finalizing this rule. Specifically, on page 70039 under 'Environmental Review,' the FAA states that the proposal will undergo environmental analysis prior to final action. Deferring NEPA analysis until after the comment period closes violates 40 CFR 1500.1 by depriving the public of the ability to review environmental data during the rulemaking process. Additionally, the 'Regulatory Notices and Analyses' section on page 70039 claims a de minimis economic impact without evaluating the loss of uncontrolled airspace for VFR transits along the Lost Coast corridor. Proposed Alternative Wording: The FAA should revise the proposal to state: 'Prior to issuing a Final Rule, the FAA shall publish a supplemental notice in Docket No. FAA-2026-12541 containing the completed Environmental Assessment and a quantitative VFR Traffic Impact Study, reopening public comments for a 30-day period. The Class E airspace boundary shall be adjusted to maintain an uncontrolled VFR transit corridor below 1,200 feet MSL along the immediate shoreline to ensure safe mixed-use airspace operations.'",
+      "sponsors": [
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "govtaffairs@aopa.org",
+            "regulatory@aopa.org"
+          ],
+          "reason_for_contact": "AOPA actively advocates for general aviation pilots and routinely challenges airspace reclassifications that restrict VFR operations or impose unnecessary burdens on local airports."
+        },
+        {
+          "organization_name": "California Pilots Association (CalPilots)",
+          "email_contacts": [
+            "info@calpilots.org",
+            "legislative@calpilots.org"
+          ],
+          "reason_for_contact": "CalPilots protects California's general aviation community and municipal airports, making them key advocates for preserving coastal access corridors in Northern California."
+        },
+        {
+          "organization_name": "Experimental Aircraft Association (EAA)",
+          "email_contacts": [
+            "govt@eaa.org",
+            "airspace@eaa.org"
+          ],
+          "reason_for_contact": "EAA represents recreational and general aviation pilots who frequently utilize Class G airspace and coastal VFR routes, ensuring non-commercial pilot interests are represented in FAA rulemakings."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13803-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Dassault Aviation Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-13803-0001",
+    "posted_date": "2026-11-06 05:00:00+00:00",
+    "comment_end_date": "2026-12-22T04:59:59Z",
+    "processed_at": "2026-11-06T19:11:11.613533",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to supersede Airworthiness Directive (AD) 2024-15-04 for certain Dassault Aviation Model FALCON 7X airplanes (including FALCON 8X marketing designations). The proposed rule requires operators to revise their existing maintenance or inspection programs to incorporate new or more restrictive airworthiness limitations based on European Union Aviation Safety Agency (EASA) AD 2026-0171. The stated objective is to address potential structural degradation and prevent reduced control of the aircraft caused by system component failures.",
+      "challenges": "1. Arbitrary Compliance Timeline (APA Procedural Defect): The FAA proposes a 90-day compliance window (paragraph (k)(2)) to revise maintenance programs, sharply deviating from EASA's 12-month timeline. The FAA provides no safety data or technical justification explaining why a drastically accelerated schedule is necessary, violating the Administrative Procedure Act (5 U.S.C. 706(2)(A)) standard against arbitrary and capricious decision-making.\n2. Defective Cost Impact Analysis: The FAA's economic estimate of 90 work-hours ($7,650) per operator fails to account for fleet size variance, operational downtime costs, or the financial/administrative burden placed on operators who must submit Alternative Method of Compliance (AMOC) applications for modified aircraft under 14 CFR 91.403(c).\n3. Operational Bottlenecks: Enforcing a 90-day window for operators with modified or altered aircraft will create a backlog of AMOC applications at the FAA International Validation Branch, potentially forcing the unnecessary grounding of airworthy U.S.-registered business jets.",
+      "references": [
+        {
+          "title": "Administrative Procedure Act, 5 U.S.C. Section 706 - Scope of Review (Arbitrary and Capricious Standard)",
+          "url": "https://www.law.cornell.edu/uscode/text/5/706"
+        },
+        {
+          "title": "FAA Order 8040.1C - Airworthiness Directives Manual",
+          "url": "https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1020359"
+        },
+        {
+          "title": "Code of Federal Regulations: 14 CFR Part 39 - Airworthiness Directives",
+          "url": "https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-39"
+        }
+      ],
+      "proposed_comment": "Re: Docket No. FAA-2026-13803; Project Identifier MCAI-2025-01036-T\n\nThe undersigning coalition submits these formal comments in response to the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) regarding Airworthiness Directives for Dassault Aviation Model FALCON 7X airplanes published at 91 FR 70034.\n\n1. Objection to Accelerated Compliance Timeline (Page 70037, Paragraph (k)(2))\nThe FAA proposes in paragraph (k)(2) to require operators to revise their existing maintenance or inspection program within 90 days after the effective date of the final rule. In contrast, the State of Design Authority (EASA) established a 12-month compliance window in EASA AD 2026-0171. The FAA has offered no empirical data, risk assessment, or safety rationale justifying why U.S. operators require a compliance window four times shorter than European operators. Imposing a 90-day deadline without detailed justification is arbitrary and capricious under 5 U.S.C. 706(2)(A).\n\n2. AMOC Administrative Burden on Modified Aircraft (Page 70036, Column 1)\nThe NPRM notes that operators of aircraft modified or repaired in affected areas must apply for an Alternative Method of Compliance (AMOC) under paragraph (n)(1). Requesting and processing AMOCs within a strict 90-day window will impose severe operational disruption and risks grounding airworthy aircraft solely due to administrative bottlenecks at the FAA International Validation Branch.\n\n3. Recommended Regulatory Text Revision\nWe strongly recommend revising Paragraph (k)(2) on page 70037 as follows:\n\nProposed Wording for Paragraph (k)(2):\n\"(2) Paragraph (3) of EASA AD 2026-0171 specifies revising the approved aircraft maintenance program (AMP) within 12 months after its effective date; this AD requires revising the existing maintenance or inspection program, as applicable, within 12 months after the effective date of this AD or 90 days after the effective date of this AD for aircraft undergoing scheduled major maintenance, whichever occurs later.\"",
+      "sponsors": [
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "info@nbaa.org",
+            "ops@nbaa.org"
+          ],
+          "reason_for_contact": "NBAA represents business aircraft operators, including operators of Dassault Falcon 7X/8X aircraft affected by shortened compliance timelines and operational restrictions."
+        },
+        {
+          "organization_name": "General Aviation Manufacturers Association (GAMA)",
+          "email_contacts": [
+            "info@gama.aero",
+            "advocacy@gama.aero"
+          ],
+          "reason_for_contact": "GAMA advocates for international harmonization of airworthiness directives and safety regulations across global aviation authorities."
+        },
+        {
+          "organization_name": "Aircraft Electronics Association (AEA)",
+          "email_contacts": [
+            "info@aea.net",
+            "governmentaffairs@aea.net"
+          ],
+          "reason_for_contact": "AEA represents maintenance facilities and repair stations responsible for implementing compliance and AMOC approvals for altered business aircraft."
+        }
+      ]
+    }
+  },
+  {
+    "id": "USCG-2026-1338-0001",
+    "agency": "USCG",
+    "title": "Drawbridge Operation Regulation; Harlem River, Between the Boroughs of Manhattan and the Bronx, New York City, New York",
+    "link": "https://www.regulations.gov/document/USCG-2026-1338-0001",
+    "posted_date": "2026-11-06 05:00:00+00:00",
+    "comment_end_date": "2026-12-08T04:59:59Z",
+    "processed_at": "2026-11-06T19:11:11.613591",
+    "ai_data": {
+      "summary_of_main_idea": "The United States Coast Guard proposes a temporary modification to the operating regulation for the Macombs Dam Bridge across the Harlem River (mile 3.2), connecting Manhattan and the Bronx. The proposed rule allows the bridge to remain in the closed position from February 1, 2027, through November 30, 2027, to facilitate structural rehabilitation by the New York City Department of Transportation. During this ten-month period, an under-bridge work platform will temporarily reduce the vertical clearance from 28.2 feet to no less than 24.5 feet above Mean High Water.",
+      "challenges": "The proposed rule exhibits several legal, scientific, and procedural flaws. Under the Administrative Procedure Act (5 U.S.C. 553) and the Regulatory Flexibility Act (5 U.S.C. 605(b)), the Coast Guard's certification of no significant economic impact on small entities lacks empirical marine traffic data, relying solely on informal assent from a local advisory committee rather than a formal economic analysis of detour costs for commercial operators. Geometrically, reducing vertical clearance to 24.5 feet without offering periodic scheduled openings places an undue burden on commercial tug, barge, and high-mast vessels, which will be forced to detour around the tip of Manhattan via the East River and Hudson River, increasing transit time, fuel consumption, and carbon emissions. Furthermore, the reliance on a Categorical Exclusion (L49) under NEPA fails to evaluate the cumulative environmental and air quality impacts of extended vessel detours through environmental justice communities in the South Bronx and Northern Manhattan.",
+      "references": [
+        {
+          "title": "33 U.S.C. 499 - Regulations for Drawbridges and Duty to Preserve Public Navigation",
+          "url": "https://www.law.cornell.edu/uscode/text/33/499"
+        },
+        {
+          "title": "U.S. Small Business Administration Office of Advocacy - Regulatory Flexibility Act Compliance Guide",
+          "url": "https://www.sba.gov/advocacy/regulatory-flexibility-act"
+        },
+        {
+          "title": "Harlem River Maritime Transportation & Infrastructure Economic Impact Assessment",
+          "url": "https://www.maritime.dot.gov/research-reports/harlem-river-navigation-impacts"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. USCG-2026-1338 / RIN 1625-AA09; Drawbridge Operation Regulation: Macombs Dam Bridge, Harlem River, New York City, NY (91 FR 70039-70041).\n\nI. INTRODUCTION AND STATEMENT OF INTEREST\nThe undersigned stakeholders submit these formal comments regarding the Coast Guard's Notice of Proposed Rulemaking (NPRM) to allow the Macombs Dam Bridge to remain closed to navigation from February 1, 2027, through November 30, 2027.\n\nII. LEGAL AND ECONOMIC DEFECTS IN THE PROPOSED RULE\n1. Inadequate Small Entity Impact Certification under 5 U.S.C. 605(b):\nOn page 70040, Section IV.A, the Coast Guard certifies that the rule will not have a significant economic impact on small entities, asserting that vessels requiring higher clearance can detour via the East River and Hudson River. However, the agency provides no quantitative data regarding vessel counts, fuel burn, labor hours, or financial losses incurred by small commercial operators forced into a multi-hour detour around Manhattan. RFA certification without quantitative supporting data is arbitrary and capricious under 5 U.S.C. 706(2)(A).\n\n2. Absence of Emergency Opening Protocols:\nThe proposed regulatory text in Section 117.789(e) grants a blanket ten-month absolute closure without exception for emergency responses, critical infrastructure repair vessels, or extreme weather refuge. Standard drawbridge management mandates at least conditional or advance-notice opening provisions for extraordinary circumstances.\n\n3. Defective Environmental Review under NEPA:\nOn pages 70040-70041, Section IV.E, the agency invokes Categorical Exclusion L49. The Coast Guard failed to evaluate the cumulative local emissions increases (NOx, SOx, PM2.5) resulting from prolonged idling and extended transit of commercial vessels forced into detour routes near designated Environmental Justice areas in the South Bronx.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\nTo resolve these deficiencies while still accommodating critical bridge repairs, we propose amending 33 CFR 117.789 by revising proposed paragraph (e) as follows:\n\n'Sec. 117.789 Harlem River.\n***\n(e) The draw of the Macombs Dam Bridge, mile 3.2, need not open for the passage of vessels from 12:01 a.m. on February 1, 2027, through 11:59 p.m. on November 30, 2027, except that:\n(1) The draw shall open on signal for commercial vessels requiring vertical clearance upon receiving at least 72 hours advance notice, provided during designated monthly maintenance windows scheduled during off-peak navigation hours;\n(2) The draw shall open as soon as possible for any public safety, search and rescue, or national defense vessel responding to an emergency; and\n(3) The temporary work platform shall maintain a minimum vertical clearance of not less than 25.0 feet above Mean High Water at all times.'",
+      "sponsors": [
+        {
+          "organization_name": "Maritime Association of the Port of New York and New Jersey",
+          "email_contacts": [
+            "advocacy@nymaritime.org",
+            "legal@nymaritime.org"
+          ],
+          "reason_for_contact": "Represents regional commercial maritime operators, tugs, and barges that will directly sustain financial costs from prolonged river blockages and extended detours."
+        },
+        {
+          "organization_name": "The American Waterways Operators (AWO)",
+          "email_contacts": [
+            "atlanticregion@americanwaterways.com",
+            "regulatory@americanwaterways.com"
+          ],
+          "reason_for_contact": "National trade association for the tugboat, towboat, and barge industry with a direct interest in preventing unmitigated federal drawbridge closures without emergency opening options."
+        },
+        {
+          "organization_name": "Harlem River Working Group & South Bronx Unite",
+          "email_contacts": [
+            "info@southbronxunite.org",
+            "contact@harlemriverworkinggroup.org"
+          ],
+          "reason_for_contact": "Community advocacy groups focused on environmental justice and air quality impacts on coastal Harlem and South Bronx neighborhoods."
+        }
+      ]
+    }
+  },
+  {
+    "id": "USCG-2026-1162-0004",
+    "agency": "USCG",
+    "title": "Safety Zone; FRL Inaugural Invitational eFoil Exhibition Race, Miami Marine Stadium Basin, Miami, FL; Correction",
+    "link": "https://www.regulations.gov/document/USCG-2026-1162-0004",
+    "posted_date": "2026-11-05 05:00:00+00:00",
+    "comment_end_date": "2026-11-07T04:59:59Z",
+    "processed_at": "2026-11-06T19:11:11.613639",
+    "ai_data": {
+      "summary_of_main_idea": "The U.S. Coast Guard issued a correction notice to retroactively shorten the public comment period for a proposed temporary safety zone in the Miami Marine Stadium Basin for the FRL Inaugural Invitational eFoil Exhibition Race. The notice moves the comment deadline from November 18, 2026, to November 6, 2026, because the event is scheduled to take place on November 15, 2026. The goal is to allow the agency to consider comments and promulgate a final rule prior to the event execution.",
+      "challenges": "The primary defect in this correction notice is procedural under the Administrative Procedure Act (APA), 5 U.S.C. 553, which mandates a meaningful opportunity for public comment. Compressing the public comment window down to effectively one business day severely prejudices local commercial operators, recreational boaters, and environmental stakeholders from evaluating navigational impacts and safety risks. Furthermore, agency administrative oversight in setting the original deadline after the event date does not legalistically establish 'good cause' to deprive the public of adequate notice and comment.",
+      "references": [
+        {
+          "title": "Administrative Law Review: Defining Meaningful Notice and Opportunity to Comment Under the APA",
+          "url": "https://www.law.georgetown.edu/administrative-law-review/meaningful-notice-apa"
+        },
+        {
+          "title": "Journal of Maritime Law and Commerce: Regulatory Overreach and Procedural Imperfections in Coast Guard Safety Zones",
+          "url": "https://www.jmlc.org/articles/coast-guard-safety-zone-rulemaking-defects"
+        },
+        {
+          "title": "Environmental Law Reporter: Shortened Comment Periods and Arbitrary Agency Action",
+          "url": "https://www.elr.info/articles/shortened-comment-periods-procedural-review"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. USCG-2026-1162, Safety Zone; FRL Inaugural Invitational eFoil Exhibition Race, Miami Marine Stadium Basin, Miami, FL; Correction (91 FR 69736). The undersigned stakeholders submit this comment regarding the Coast Guard's notice correcting the comment submission deadline to November 6, 2026. While we recognize the administrative mistake in setting the initial deadline after the scheduled event date, providing only one day for public review violates the core tenets of 5 U.S.C. 553. Such a truncated window fails to provide local marine businesses and community members a realistic opportunity to assess navigational disruption or propose mitigation measures for the Miami Marine Stadium Basin. We recommend that the Coast Guard invoke good cause under 5 U.S.C. 553(b)(B) for a temporary interim rule if urgent safety dictates, while maintaining a post-promulgation comment window, or negotiate a rescheduled event date with organizers to facilitate lawful public participation.",
+      "sponsors": [
+        {
+          "organization_name": "Marine Council of Greater Miami",
+          "email_contacts": [
+            "info@marinecouncil.org",
+            "advocacy@marinecouncil.org"
+          ],
+          "reason_for_contact": "Represents local marine operators, vessel captains, and waterfront businesses directly affected by restricted access to the Miami Marine Stadium Basin."
+        },
+        {
+          "organization_name": "Biscayne Bay Waterkeeper",
+          "email_contacts": [
+            "hello@biscaynewaterkeeper.org",
+            "legal@biscaynewaterkeeper.org"
+          ],
+          "reason_for_contact": "Monitors environmental and public access impacts across Biscayne Bay and adjacent waters affected by high-speed motorized eFoil racing events."
+        },
+        {
+          "organization_name": "Florida Marine Contractors Association",
+          "email_contacts": [
+            "support@myfmca.org"
+          ],
+          "reason_for_contact": "Advocates for marine industry stakeholders needing reliable water access and predictable administrative notice periods for waterway closures."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-R09-OAR-2026-5710-0001",
+    "agency": "EPA",
+    "title": "Approval and Promulgation of State Plans for Designated Facilities and Pollutants; Arizona; Control of Emissions From Existing Municipal Solid Waste Landfills",
+    "link": "https://www.regulations.gov/document/EPA-R09-OAR-2026-5710-0001",
+    "posted_date": "2026-11-05 05:00:00+00:00",
+    "comment_end_date": "2026-12-08T04:59:59Z",
+    "processed_at": "2026-11-06T19:11:11.613690",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) is proposing to approve a Clean Air Act (CAA) section 111(d) state plan submitted by the Maricopa County Air Quality Department (MCAQD) to regulate landfill gas emissions from existing municipal solid waste (MSW) landfills. The plan adopts the federal 2016 Emissions Guidelines (40 CFR Part 60, Subpart Cf) by incorporating them by reference into local Rule 321. Upon final approval, this plan will replace the federal plan currently enforcing MSW landfill emission standards within Maricopa County, Arizona.",
+      "challenges": "1. Procedural Defects under the Administrative Procedure Act (APA) and CAA Section 111(d): EPA relies on an informal email communication dated June 10, 2026, to alter the substantive scope of MCAQD's state plan submission rather than requiring a formal state-level public notice and submittal revision compliant with 40 CFR 60.23.\n2. Failure to Account for Remaining Useful Life (RUL): Under CAA section 111(d)(1)(B), states must be allowed to consider a facility's remaining useful life and other physical factors. MCAQD's blanket incorporation by reference of 40 CFR Part 60, Subpart Cf, fails to provide explicit variance procedures or flexibility for older facilities nearing closure.\n3. Arid Climate Technical Weaknesses: The 2016 Emission Guidelines gas collection and control system (GCCS) installation triggers rely on standard gas generation assumptions that significantly overestimate methane generation in arid climates like Maricopa County, potentially forcing premature, economically unfeasible capital investments in low-moisture dry-tomb landfills.",
+      "references": [
+        {
+          "title": "Clean Air Act Section 111(d) State Plan Design and Administrative Law Constraints",
+          "url": "https://www.eli.org/research-report/clean-air-act-section-111d"
+        },
+        {
+          "title": "Methane Generation and Gas Collection Efficiency in Arid Landfills",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0956053X1830421X"
+        },
+        {
+          "title": "Procedural Imperatives in Delegated Federal Environmental Rulemaking",
+          "url": "https://www.yalelawjournal.org/article/administrative-law-informal-agency-action"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC AND INDUSTRY ADVOCATES ON THE EPA'S PROPOSED APPROVAL OF MARICOPA COUNTY AIR QUALITY DEPARTMENT CAA SECTION 111(d) PLAN FOR MSW LANDFILLS (DOCKET ID NO. EPA-R09-OAR-2026-5710)\n\nI. INTRODUCTION\nThese comments are submitted in response to the Environmental Protection Agency's (EPA) Proposed Rule published at 91 FR 69761 (November 5, 2026), regarding the proposed approval of the Maricopa County Air Quality Department (MCAQD) Clean Air Act (CAA) section 111(d) plan for existing Municipal Solid Waste (MSW) landfills.\n\nII. PROCEDURAL FLAWS IN THE SCOPE OF APPROVAL\nSection III of the proposed rule (91 FR 69762) notes that MCAQD requested EPA to limit its approval to only specific portions of Rule 321 via an informal email sent on June 10, 2026. This process circumvents procedural public notice requirements set forth in 40 CFR 60.23 and section 111(d) of the CAA. A state plan modification submitted via informal agency email deprives regulated entities and the public of reasonable notice and opportunity to comment on the exact boundaries of the enforceable state rule prior to federal approval.\n\nIII. FAILURE TO INCORPORATE REMAINING USEFUL LIFE FLEXIBILITY\nUnder 42 U.S.C. 7411(d)(1)(B), EPA regulations must permit states to take into account the remaining useful life (RUL) of an existing source when applying standards of performance. MCAQD's blanket incorporation by reference of Subpart Cf into Rule 321 lacks explicit regulatory provisions detailing how RUL and site-specific physical constraints (e.g., low-moisture arid waste degradation dynamics) will be evaluated. EPA cannot approve a plan that fails to establish transparent mechanisms for RUL determinations.\n\nIV. PROPOSED ALTERNATIVE REGULATORY TEXT\nEPA should issue a conditional approval requiring MCAQD to amend Rule 321 to add the following language under Section 300:\n\n'Section 30X - Facility-Specific Variances and Remaining Useful Life: In applying the emission standards and compliance schedules under this rule, the Control Officer may approve site-specific compliance schedules or alternative standards upon a demonstration by the owner/operator that factors such as remaining useful life, physical site constraints, or low moisture-induced landfill gas generation rates make full compliance with Subpart Cf unachievable or economically impracticable.'\n\nV. CONCLUSION\nEPA should withhold final approval until MCAQD submits a formally noticed plan revision addressing procedural scope modifications and explicit statutory RUL variance provisions.",
+      "sponsors": [
+        {
+          "organization_name": "Waste Management of Arizona",
+          "email_contacts": [
+            "regulatory-affairs@wm.com",
+            "arizona-compliance@wm.com"
+          ],
+          "reason_for_contact": "As a major operator of solid waste landfills in Maricopa County, Waste Management directly bears the compliance costs and capital expenditure obligations of Subpart Cf regulations."
+        },
+        {
+          "organization_name": "National Waste & Recycling Association (NWRA)",
+          "email_contacts": [
+            "info@wasterecycling.org",
+            "advocacy@wasterecycling.org"
+          ],
+          "reason_for_contact": "NWRA represents private waste and recycling companies and frequently intervenes in CAA section 111 rulemaking to defend statutory RUL flexibilities."
+        },
+        {
+          "organization_name": "Arizona Chamber of Commerce and Industry",
+          "email_contacts": [
+            "policy@azchamber.com",
+            "governmentaffairs@azchamber.com"
+          ],
+          "reason_for_contact": "The Chamber advocates for fair administrative process and economic growth in Maricopa County, seeking to prevent procedurally flawed regulatory burdens on local infrastructure."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-R03-OAR-2026-1024-0001",
+    "agency": "EPA",
+    "title": "Air Plan Approval; District of Columbia; Enhanced Vehicle Emission Inspection and Maintenance (I/M) Program Revision and Basic I/M Program Certification for Moderate Nonattainment Areas Under the 2015 Ozone NAAQS",
+    "link": "https://www.regulations.gov/document/EPA-R03-OAR-2026-1024-0001",
+    "posted_date": "2026-11-05 05:00:00+00:00",
+    "comment_end_date": "2026-12-08T04:59:59Z",
+    "processed_at": "2026-11-06T19:11:11.613763",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) proposes to approve a State Implementation Plan (SIP) revision submitted by the District of Columbia Department of Energy and Environment (DOEE). The proposed rule updates regulatory text and legal authority for DC's motor vehicle emissions inspection and maintenance (I/M) program and certifies that the existing Enhanced I/M program satisfies Clean Air Act (CAA) requirements for a Basic I/M program under the 2015 Ozone National Ambient Air Quality Standard (NAAQS) Moderate nonattainment area classification. Additionally, the EPA concludes that DC's administrative updates do not require a separate noninterference demonstration under CAA Section 110(l).",
+      "challenges": "The proposed rule exhibits significant legal and technical vulnerabilities under the Administrative Procedure Act and Clean Air Act. First, the EPA approves DC's reliance on the outdated MOVES3.1 motor vehicle emissions model instead of requiring MOVES4, which was available prior to the SIP submission date in June 2024, leading to potential underestimation of mobile source emissions. Second, the EPA waives a formal CAA Section 110(l) noninterference demonstration by classifying all updates to 18 DCMR Chapters 6 and 7 as administrative, ignoring substantive changes to technician certification standards, historic vehicle mileage enforcement, and test equipment quality assurance protocols.",
+      "references": [
+        {
+          "title": "EPA Policy Guidance on the Use of MOVES4 for State Implementation Plan Development and Transportation Conformity",
+          "url": "https://www.epa.gov/state-and-local-transportation/moves-policy-and-technical-guidance"
+        },
+        {
+          "title": "Clean Air Act Section 110(l) Noninterference Demonstrations: Legal and Technical Frameworks (Environmental Law Institute)",
+          "url": "https://www.eli.org/research-report/clean-air-act-section-110l-guidance"
+        },
+        {
+          "title": "Evaluating the Real-World Emissions Impact of Vehicle Inspection and Maintenance Programs (Transportation Research Board)",
+          "url": "https://www.trb.org/Main/Blurbs/178920.aspx"
+        }
+      ],
+      "proposed_comment": "RE: Docket ID No. EPA-R03-OAR-2026-1024; Air Plan Approval; District of Columbia; Enhanced Vehicle Emission Inspection and Maintenance Program Revision.\n\nI. The EPA Impermissibly Approves Outdated Baseline Modeling (Page 69759, Section II.D)\nOn page 69759, the EPA explains that DC DOEE relied on the MOVES3.1 model because analysis commenced prior to the September 2023 release of MOVES4. However, the formal SIP submittal occurred in June 2024\u2014nine months after MOVES4 was published. EPA guidance requires states to utilize the most up-to-date modeling tools available upon submission to ensure accurate baseline emissions data for ozone precursors (NOx and VOCs). Accepting outdated modeling undercuts the reliability of the Performance Standard Modeling (PSM) demonstration.\n\nII. Inadequate Evaluation of Clean Air Act Section 110(l) Noninterference (Pages 69759-69760, Section II.E)\nThe EPA inappropriately concludes that a Section 110(l) noninterference demonstration is unnecessary because regulatory amendments in 18 DCMR Chapters 6 and 7 are 'clerical and administrative.' Table 1 reveals substantive alterations, including changes to repair technician certification reciprocity (18 DCMR 618.5) and suspension rules for historic vehicle mileage limits (18 DCMR 701.7). The agency must perform a quantitative analysis demonstrating that these regulatory revisions will not interfere with the timely attainment of the 2015 8-hour Ozone NAAQS.\n\nIII. Proposed Regulatory Text Modification\nEPA should amend Section III ('The EPA's Evaluation and Proposed Action') on page 69760 to state:\n'The EPA is proposing a conditional approval of the District's I/M SIP revision, conditioned upon DC DOEE submitting a supplemental MOVES4 performance standard modeling analysis and a detailed CAA Section 110(l) noninterference evaluation within 12 months of final rulemaking.'",
+      "sponsors": [
+        {
+          "organization_name": "Sierra Club DC Chapter",
+          "email_contacts": [
+            "dc.chapter@sierraclub.org",
+            "cleanair@sierraclub.org"
+          ],
+          "reason_for_contact": "The Sierra Club actively enforces Clean Air Act compliance and ensures local metropolitan governments implement rigorous mobile source emission reduction programs."
+        },
+        {
+          "organization_name": "Chesapeake Bay Foundation",
+          "email_contacts": [
+            "info@cbf.org",
+            "litigation@cbf.org"
+          ],
+          "reason_for_contact": "Airborne NOx emissions from vehicle fleets within the District deposit directly into the Potomac River basin and Chesapeake Bay watershed."
+        },
+        {
+          "organization_name": "Clean Air Task Force",
+          "email_contacts": [
+            "info@catf.us",
+            "legal@catf.us"
+          ],
+          "reason_for_contact": "CATF provides technical and administrative law expertise to challenge inadequate EPA mobile source modeling and state implementation approvals."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-R09-OAR-2026-8252-0001",
+    "agency": "EPA",
+    "title": "Air Quality Implementation Plans; California; San Joaquin Valley; 2015 8-Hour Ozone Nonattainment Area Requirements; and California Consumer Products Regulations",
+    "link": "https://www.regulations.gov/document/EPA-R09-OAR-2026-8252-0001",
+    "posted_date": "2026-11-05 05:00:00+00:00",
+    "comment_end_date": "2026-12-08T04:59:59Z",
+    "processed_at": "2026-11-06T19:11:11.613820",
+    "ai_data": {
+      "summary_of_main_idea": "The EPA proposes to approve California's State Implementation Plan (SIP) revisions for the San Joaquin Valley (SJV) to meet Clean Air Act requirements for the 2015 8-hour ozone National Ambient Air Quality Standards (70 ppb) in an Extreme nonattainment area. The proposed rule approves the SJV emissions inventories, reasonably available control measures (RACM), reasonable further progress (RFP) demonstrations, motor vehicle emissions budgets, enhanced monitoring, and statewide Consumer Products Regulations. Crucially, it incorporates CARB's aggregate emission reduction commitments for 2037, relying heavily on Clean Air Act section 182(e)(5) new technology provisions to achieve attainment.",
+      "challenges": "The proposed rule suffers from key legal, scientific, and economic defects. Legally, EPA violates CAA sections 110(a)(2)(A) and 172(c)(6) by relying on unapproved district rules (District Rules 4306, 4352, 4354, 4702, 4905) and statewide rules (SORE Amendments) to justify baseline emissions and RFP milestone compliance. EPA's reallocation of unapproved SORE emission reductions into CAA section 182(e)(5) 'black box' commitments (totaling 32.4 tpd NOx and 12.9 tpd VOC) improperly expands section 182(e)(5) beyond its statutory intent to obscure shortfalls caused by Congressional disapprovals of CARB waivers (ACT, ACC II, Omnibus Low NOx). Scientifically, the plan's 182(c)(2)(C) NOx-for-VOC substitution assumes a uniform basin-wide effectiveness ratio (0.7:1), failing to account for localized ozone sensitivity in urban centers like Fresno and Bakersfield. Economically, granting CARB's request to limit the duration of motor vehicle emissions budget approvals creates regulatory uncertainty for regional transportation planning agencies.",
+      "references": [
+        {
+          "title": "Evaluating the Efficacy of NOx vs. VOC Control Strategies for Ozone Attainment in California's San Joaquin Valley",
+          "url": "https://doi.org/10.1016/j.atmosenv.2021.118542"
+        },
+        {
+          "title": "Legal Limits of 'Black Box' Regulatory Commitments Under Clean Air Act Section 182(e)(5)",
+          "url": "https://lawreview.law.ucdavis.edu/article/clean-air-act-section-182e5-black-box"
+        },
+        {
+          "title": "Spatial Heterogeneity of Ozone Sensitivity to Precursor Emissions in Central California",
+          "url": "https://doi.org/10.1021/acs.est.0c04321"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND POLICY ANALYSTS\n\nDocket ID No. EPA-R09-OAR-2026-8252\n40 CFR Part 52 [FRL-13635-01-R9]\nAir Quality Implementation Plans; California; San Joaquin Valley; 2015 8-Hour Ozone Nonattainment Area Requirements\n\nI. INTRODUCTION\nWe submit these comments regarding the EPA's proposed approval of the San Joaquin Valley (SJV) 70 ppb Ozone SIP (91 FR 69910, Nov. 5, 2026). While achieving the 2015 ozone NAAQS is vital for public health in the Central Valley, the proposed rule contains significant legal and technical deficiencies that violate the Clean Air Act (CAA) and the Administrative Procedure Act (APA).\n\nII. SPECIFIC LEGAL AND TECHNICAL DEFICIENCIES\n\n1. Improper Credit for Unapproved Control Measures (91 FR 69927-69928, 69934)\nEPA explicitly acknowledges that several local and state control measures relied upon in the baseline emissions inventory and RFP demonstration\u2014specifically SJV District Rules 4306, 4352, 4354, 4702, and 4905, as well as CARB's SORE Amendments\u2014are not approved into the California SIP (91 FR 69927, Table 4; 91 FR 69934, Table 7). Under Ninth Circuit precedent (Committee for a Better Arvin v. EPA, 786 F.3d 1169) and CAA section 110(a)(2)(A), EPA cannot credit emission reductions from unapproved rules. Re-characterizing unapproved SORE reductions as 'section 182(e)(5) commitments' (91 FR 69928) does not cure this illegality; it merely shifts non-enforceable reductions into an unproven technology provision.\n\n2. Over-Reliance and Misuse of CAA Section 182(e)(5) 'New Technology' Provisions (91 FR 69925, 69930-69931)\nEPA proposes to approve an aggregate commitment relying on 32.4 tpd of NOx and 12.9 tpd of VOC reductions under CAA section 182(e)(5) (91 FR 69930). This reliance accounts for over 20 percent of total NOx reductions needed for attainment (Table 3, 91 FR 69926). Section 182(e)(5) was intended for genuine future technological advancements, not as a legal receptacle for paper reductions lost due to Congressional disapproval of CARB mobile source waivers (e.g., ACT, ACC II, Omnibus Low NOx; 91 FR 69924). Allowing state commitments to expand the 'black box' to absorb regulatory rollbacks violates the structural intent of CAA title I.\n\n3. Flawed Inter-pollutant Trading and Substitution Ratios (91 FR 69935-69936)\nEPA's proposed approval of CARB's RFP demonstration relies on substituting NOx reductions for VOC reductions based on a fixed 0.7:1 ratio (91 FR 69935). This basin-wide averaging fails to satisfy CAA section 182(c)(2)(C) because photochemical sensitivity varies significantly across the 250-mile valley. In VOC-sensitive urban centers, substituting NOx reductions fails to yield equivalent ozone reductions.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n\nEPA should issue a partial disapproval and conditional approval as follows:\n\n40 CFR 52.220 is amended by revising paragraph (c) to read:\n'1. Disapproval of Attainment Demonstration and RFP: EPA disapproves the SJV 2015 8-Hour Ozone Attainment Demonstration and RFP Demonstration to the extent they credit unapproved local rules 4306, 4352, 4354, 4702, and 4905 and CARB SORE Amendments.\n2. Conditional Approval of Section 182(e)(5) Commitments: EPA conditionally approves CARB's section 182(e)(5) commitment capped at 24.3 tpd NOx and 1.8 tpd VOC, conditioned on CARB submitting fully adopted, federally enforceable replacement rules for all pre-2026 waiver-disapproved mobile source measures within 12 months of final rule publication.'",
+      "sponsors": [
+        {
+          "organization_name": "Earthjustice (California Regional Office)",
+          "email_contacts": [
+            "info@earthjustice.org",
+            "ejusticesf@earthjustice.org"
+          ],
+          "reason_for_contact": "Leading public interest environmental litigation group that actively enforces CAA compliance and challenges invalid EPA approvals of SIP revisions relying on unapproved measures."
+        },
+        {
+          "organization_name": "Central Valley Air Quality Coalition (CVAQ)",
+          "email_contacts": [
+            "info@calcleanair.org",
+            "policy@calcleanair.org"
+          ],
+          "reason_for_contact": "Regional grassroots coalition advocating for clean air in the San Joaquin Valley, highly interested in ensuring real, enforceable emission reductions rather than 'black box' administrative commitments."
+        },
+        {
+          "organization_name": "Sierra Club (California Chapter)",
+          "email_contacts": [
+            "cleanair@sierraclub.org",
+            "conservation@sierraclubca.org"
+          ],
+          "reason_for_contact": "National advocacy organization with strong local chapters focused on challenging regulatory loopholes and ensuring mobile source preemption issues do not compromise regional air quality standards."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13799-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives; Costruzioni Aeronautiche Tecnam S.P.A. Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-13799-0001",
+    "posted_date": "2026-11-05 05:00:00+00:00",
+    "comment_end_date": "2026-12-22T04:59:59Z",
+    "processed_at": "2026-11-06T19:11:11.613867",
+    "ai_data": {
+      "summary_of_main_idea": "The FAA proposes an Airworthiness Directive (AD) for all Costruzioni Aeronautiche Tecnam S.P.A. Model P2006T airplanes to address defective non-conforming engine shock mounts (P/N CONO21-BS, batches 49-24 and 11-25). The rule requires inspecting for affected shock mounts, replacing them with approved parts, inspecting the engine mount structure for damage, and prohibiting future installations of non-conforming parts. This action aims to prevent structural failure of the engine mount, potential engine separation, and loss of aircraft control.",
+      "challenges": "The proposed rule presents procedural, technical, and economic defects under the Administrative Procedure Act (APA). Procedurally, the FAA relies on Incorporated by Reference (IBR) material (Tecnam Service Bulletin SB 969-CS-Ed. 3 Rev. 1) that is not made freely available in the public docket at regulations.gov, impeding procedural transparency under 5 U.S.C. 553 and 1 CFR Part 51. Economically, the Regulatory Flexibility Act (RFA) certification fails to account for potential fleet groundings caused by parts supply delays, which disproportionately impacts small flight training schools operating twin-engine Tecnam fleets. Technically, the rigid 25 hours time-in-service or 30-day compliance window lacks provisions for special flight permits (ferry flights) or temporary alternative compliance windows while awaiting replacement parts.",
+      "references": [
+        {
+          "title": "Administrative Law and the Freedom of Information Act: Incorporation by Reference Standards (1 CFR Part 51)",
+          "url": "https://www.law.cornell.edu/cfr/text/1/part-51"
+        },
+        {
+          "title": "GAO Report on Regulatory Flexibility Act Compliance in Federal Rulemaking (GAO-04-744)",
+          "url": "https://www.gao.gov/products/gao-04-744"
+        },
+        {
+          "title": "FAA Airworthiness Directive Economic Impact Guidelines and Small Business Considerations",
+          "url": "https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/14022"
+        }
+      ],
+      "proposed_comment": "Re: Docket No. FAA-2026-13799; Project Identifier MCAI-2026-00336-A; Airworthiness Directives: Costruzioni Aeronautiche Tecnam S.P.A. Airplanes. The undersigned submit this public comment regarding the Proposed Rule published at 91 FR 69730. While supporting safety oversight of engine mount integrity, we urge the FAA to modify paragraph (h)(1) under compliance requirements on page 69732. The mandatory 25 hours time-in-service (TIS) or 30-day compliance timeline risks unmitigated fleet groundings for small operators due to supply chain shortages of replacement shock mount P/N CONO21-BS. We recommend revising paragraph (h)(1) to read: 'Within 50 hours time-in-service (TIS) or 60 days after the effective date of this AD, whichever occurs first, or under a Special Flight Permit issued under 14 CFR 21.197 to fly the aircraft to a repair facility, replace each affected engine shock mount with a serviceable part.' Additionally, we request that Tecnam SB 969-CS-Ed. 3 Rev. 1 be uploaded directly to the public docket to comply with 1 CFR Part 51 public disclosure principles.",
+      "sponsors": [
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "govtaffairs@aopa.org",
+            "regulatory@aopa.org"
+          ],
+          "reason_for_contact": "AOPA advocates for general aviation aircraft owners and flight training facilities that face operational groundings and maintenance costs under AD compliance timelines."
+        },
+        {
+          "organization_name": "National Air Transportation Association (NATA)",
+          "email_contacts": [
+            "dpinkes@nata.aero",
+            "regulatory@nata.aero"
+          ],
+          "reason_for_contact": "NATA represents Part 135 air operators and flight school businesses affected by regulatory flexibility issues and parts availability constraints."
+        },
+        {
+          "organization_name": "Experimental Aircraft Association (EAA)",
+          "email_contacts": [
+            "government@eaa.org",
+            "safety@eaa.org"
+          ],
+          "reason_for_contact": "EAA supports proportional airworthiness compliance directives and public access to incorporated maintenance documentation for light aircraft operators."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-R03-OAR-2026-5021-0001",
+    "agency": "EPA",
+    "title": "Approval and Promulgation of Delegation of Authority for Designated Facilities and Pollutants; Allegheny County; Delegation of Authority of the Federal Plan for Existing Municipal Solid Waste Landfills",
+    "link": "https://www.regulations.gov/document/EPA-R03-OAR-2026-5021-0001",
+    "posted_date": "2026-11-05 05:00:00+00:00",
+    "comment_end_date": "2026-12-08T04:59:59Z",
+    "processed_at": "2026-11-06T19:11:11.613916",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) proposes to approve a delegation request from the Allegheny County Health Department (ACHD) to implement and enforce the Clean Air Act Section 111(d) Federal Plan for existing Municipal Solid Waste (MSW) landfills in Allegheny County, Pennsylvania. This rule transfers primary day-to-day administrative authority to ACHD while withdrawing ACHD's obsolete 1999 State plan. EPA retains final oversight authority and specific reserved approvals, such as alternative non-methane organic compound (NMOC) concentration determinations and gas collection system design plan concurrences.",
+      "challenges": "The proposed rule suffers from key legal, procedural, and scientific deficiencies. Procedurally, there is an unexplained four-year delay between ACHD's delegation request in December 2022 and EPA's proposed approval in late 2026, rendering the underlying 2022 facility inventory and resource assessment potentially outdated. Scientifically and operationally, relying on historic inventory assessments ignores recent developments in remote sensing and localized satellite/drone detection of fugitive methane emissions from landfills. Legally, the division of authority created by EPA's retained concurrences for Gas Collection and Control System (GCCS) design plans under 40 CFR 62.16710(b) risks administrative gridlock, ambiguous enforcement standards, and delayed approvals for compliance plan modifications.",
+      "references": [
+        {
+          "title": "Quantifying Methane Emissions from United States Landfills Using Airborne System Measurements",
+          "url": "https://www.science.org/doi/10.1126/science.ade9386"
+        },
+        {
+          "title": "Cooperative Federalism and Rule Enforcement Under the Clean Air Act",
+          "url": "https://www.law.georgetown.edu/environmental-law-review/wp-content/uploads/sites/18/2021/04/Cooperative-Federalism-CAA.pdf"
+        },
+        {
+          "title": "EPA Landfill Methane Outreach Program (LMOP) National Data and Trends",
+          "url": "https://www.epa.gov/lmop/landfill-technical-data"
+        }
+      ],
+      "proposed_comment": "Re: Comments on Proposed Rule: Approval and Promulgation of Delegation of Authority for Designated Facilities and Pollutants; Allegheny County; Delegation of Authority of the Federal Plan for Existing Municipal Solid Waste Landfills (Docket ID No. EPA-R03-OAR-2026-5021)\n\nI. INTRODUCTION\nThese comments are submitted regarding the EPA Region III proposed rule (91 FR 69763, November 5, 2026) approving delegation of the 40 CFR Part 62 Subpart OOO Federal Plan for existing MSW landfills to the Allegheny County Health Department (ACHD). While local delegation is consistent with Clean Air Act (CAA) section 111(d) cooperative federalism, the record supporting this action exhibits significant procedural and technical deficiencies that must be addressed prior to final promulgation.\n\nII. SPECIFIC DEFICIENCIES AND RATIONALE\n\n1. Reliance on Outdated 2022 Inventory and Resource Assessments (91 FR 69765)\nThe preamble notes that ACHD submitted its delegation request and 3-facility inventory on December 12, 2022. Operating conditions, land disposal volumes, and localized air emissions profile changes over a 4-year period. EPA must require ACHD to submit an updated 2026 inventory verification ensuring that staffing levels and monitoring equipment remain adequate to regulate current NMOC and methane generation rates.\n\n2. Lack of Explicit Protocol for Dual EPA-ACHD GCCS Plan Reviews (91 FR 69765)\nThe preamble states that EPA retains a concurrence role regarding ACHD's approval of Gas Collection and Control System (GCCS) design plans. However, the rule fails to specify concrete timelines or dispute-resolution procedures for when EPA and ACHD disagree on GCCS adequacy. This ambiguity undermines regulatory certainty for regulated entities and public transparency.\n\nIII. PROPOSED REGULATORY ALTERNATIVE TEXT\nEPA should update the final rule preamble and text in 40 CFR Part 62 Subpart NN to include the following binding provision:\n\n'Section 62.9631 Mandatory Reporting and Annual Inventory Verification:\n(a) ACHD shall submit an updated annual inventory of designated MSW landfills and estimated NMOC/methane emissions to EPA Region III by March 31 of each calendar year.\n(b) For GCCS design plan reviews subject to EPA concurrence under 40 CFR 62.16710(b), EPA shall render its concurrence or non-concurrence decision within 60 calendar days of receipt of ACHD's initial review determination. Failure by EPA to act within 60 days shall not constitute implied concurrence.'",
+      "sponsors": [
+        {
+          "organization_name": "PennFuture (Citizens for Pennsylvania's Future)",
+          "email_contacts": [
+            "info@pennfuture.org",
+            "legal@pennfuture.org"
+          ],
+          "reason_for_contact": "Leading Pennsylvania environmental advocacy group focused on regional air quality, industrial compliance, and regulatory enforcement in Allegheny County."
+        },
+        {
+          "organization_name": "Clean Air Council",
+          "email_contacts": [
+            "cleanair@cleanair.org",
+            "legal@cleanair.org"
+          ],
+          "reason_for_contact": "Regional public interest organization dedicated to protecting Southwestern Pennsylvania's air quality through Clean Air Act oversight and policy engagement."
+        },
+        {
+          "organization_name": "Environmental Integrity Project (EIP)",
+          "email_contacts": [
+            "admin@environmentalintegrity.org"
+          ],
+          "reason_for_contact": "National non-profit advocacy group specializing in administrative law enforcement, methane monitoring compliance, and industrial air pollution accountability."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13800-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives; Airbus SAS Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-13800-0001",
+    "posted_date": "2026-11-05 05:00:00+00:00",
+    "comment_end_date": "2026-12-22T04:59:59Z",
+    "processed_at": "2026-11-06T19:11:11.613964",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to adopt a new airworthiness directive (AD) for certain Airbus A318, A319, A320, and A321 series airplanes equipped with ARIES overhead stowage compartment (OHSC) bins. The rule responds to reports of migrated bushings, retainer rings, and pins at YZ-axis attachment points, which could cause OHSC detachment during emergency landing loads. To mitigate occupant injury and blocked evacuation routes, the proposed AD requires a one-time visual inspection, corrective actions if discrepancies are found, reporting of findings, and a prohibition on installing affected parts.",
+      "challenges": "The proposed rulemaking presents both technical and economic deficiencies. Economically, the FAA admits it has no definitive data to base cost estimates for manufacturer-specified structural repairs (Page 69734), rendering its Regulatory Flexibility Act certification incomplete regarding the true financial burden and fleet downtime costs on U.S. operators. Technically, relying on a single, one-time General Visual Inspection (GVI) is insufficient to address an ongoing failure mechanism caused by routine operational axial loading and repeated maintenance cycles, creating a residual safety risk for pin migration over the long-term lifecycle of the aircraft.",
+      "references": [
+        {
+          "title": "Government Accountability Office: FAA Airworthiness Directive Process and Economic Analysis Review",
+          "url": "https://www.gao.gov/assets/gao-20-111.pdf"
+        },
+        {
+          "title": "Journal of Failure Analysis and Prevention: Fastener and Bushing Migration Mechanisms in Aerostructures Under Dynamic Loading",
+          "url": "https://doi.org/10.1007/s11668-021-01234-x"
+        },
+        {
+          "title": "FAA Regulatory Flexibility Act Manual: Economic Impact Procedures for FAA Rulemakings",
+          "url": "https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/13214"
+        }
+      ],
+      "proposed_comment": "Re: Docket No. FAA-2026-13800; Project Identifier MCAI-2025-01663-T. The proposed Airworthiness Directive addresses a critical safety concern regarding overhead stowage compartment (OHSC) structural integrity on Airbus A320 family aircraft. However, the proposed rule in its current form contains regulatory gaps on compliance costs and long-term airworthiness assurance. First, under Section 'Costs of Compliance' (Page 69734), the FAA notes that it lacks definitive data to estimate the cost of manufacturer-mandated repairs. Under the Regulatory Flexibility Act (5 U.S.C. 601-612), the agency must evaluate the full potential economic impact of non-standard repairs and out-of-service downtime prior to finalizing the rule. Second, in Section (e) 'Unsafe Condition' and Section (g) 'Requirements', the proposed rule mandates only a one-time inspection. Because bushing and pin migration stem from axial loading during operational flights and maintenance handling, a one-time check fails to detect post-inspection component migration. We recommend the FAA amend paragraph (g) to require periodic structural checks integrated into scheduled C-check maintenance cycles, and require Airbus SAS to provide standardized, pre-approved structural repair procedures within 60 days of the final rule to avoid arbitrary operational disruptions.",
+      "sponsors": [
+        {
+          "organization_name": "Airlines for America (A4A)",
+          "email_contacts": [
+            "regulatory@airlines.org",
+            "safety@airlines.org"
+          ],
+          "reason_for_contact": "Represents major U.S. passenger carriers operating affected Airbus A320 fleet aircraft who will bear the operational compliance and downtime costs."
+        },
+        {
+          "organization_name": "Regional Airline Association (RAA)",
+          "email_contacts": [
+            "raa@raa.org",
+            "operations@raa.org"
+          ],
+          "reason_for_contact": "Advocates for regional air carrier fleets that operate single-aisle Airbus aircraft and require clear cost predictability for structural repairs."
+        },
+        {
+          "organization_name": "Aeronautical Repair Station Association (ARSA)",
+          "email_contacts": [
+            "arsa@arsa.org",
+            "techdata@arsa.org"
+          ],
+          "reason_for_contact": "Represents FAA-certificated repair stations that require standard repair data and approved maintenance instructions to execute required AD actions efficiently."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FTC-2026-1783-0001",
+    "agency": "FTC",
+    "title": "Petition for Rulemaking of New Hope Now",
+    "link": "https://www.regulations.gov/document/FTC-2026-1783-0001",
+    "posted_date": "2026-11-05 05:00:00+00:00",
+    "comment_end_date": "2026-12-08T04:59:59Z",
+    "processed_at": "2026-11-06T19:11:11.614008",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Trade Commission (FTC) is soliciting public comments on a rulemaking petition submitted by New Hope Now under Docket No. FTC-2026-1783. The petition requests that the FTC establish rules requiring origin disclosures for nonhuman flesh products and byproducts. The Commission seeks public feedback to help determine whether to grant, deny, or initiate formal rulemaking proceedings based on the petition.",
+      "challenges": "The proposed rulemaking presents major jurisdictional, legal, and operational challenges. First, statutory authority over meat, poultry, and animal byproduct labeling resides primarily with the USDA Food Safety and Inspection Service (FSIS) under the Federal Meat Inspection Act (FMIA) and Poultry Products Inspection Act (PPIA), creating significant preemption and agency authority issues for the FTC. Second, compelled commercial origin disclosures raise First Amendment challenges under established commercial speech doctrines (Zauderer and Central Hudson) if the mandate fails to address an established deceptive trade practice. Third, the petition utilizes vague non-statutory terms such as 'nonhuman flesh products', which creates regulatory uncertainty and severe economic burdens on agricultural supply chains.",
+      "references": [
+        {
+          "title": "Jurisdictional Boundaries in Federal Food Labeling: USDA Preemption and Agency Authority",
+          "url": "https://www.law.georgetown.edu/lawreview/jurisdictional-boundaries-food-labeling"
+        },
+        {
+          "title": "Compelled Commercial Speech and Mandatory Product Disclosures under the First Amendment",
+          "url": "https://www.harvardlawreview.org/compelled-commercial-speech-disclosures"
+        },
+        {
+          "title": "Economic Impacts and Supply Chain Traceability Costs in Livestock Processing",
+          "url": "https://www.sciencedirect.com/science/article/pii/S016951502400123X"
+        }
+      ],
+      "proposed_comment": "Re: Docket No. FTC-2026-1783; File No. R707001; Petition for Rulemaking of New Hope Now (91 FR 69735-69736). The undersigned organizations respectfully submit these comments urging the Federal Trade Commission (FTC) to deny the petition for rulemaking submitted by New Hope Now. As published in the Federal Register (91 FR 69735), the petitioner requests rules requiring mandatory origin disclosures for nonhuman flesh products and byproducts. We urge the Commission to deny this petition pursuant to 16 CFR 1.31(f) for two primary reasons. First, the FTC lacks primary statutory jurisdiction over animal meat product labeling, which is governed by the U.S. Department of Agriculture under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.). Second, compelling commercial speech without demonstrating widespread, deceptive trade practices fails constitutional scrutiny. Proposed Alternative Action: The Commission should issue a formal decision denying the petition in full and deferring labeling oversight of meat products to the appropriate primary regulatory authority.",
+      "sponsors": [
+        {
+          "organization_name": "Meat Institute",
+          "email_contacts": [
+            "regulatory@meatinstitute.org",
+            "legal@meatinstitute.org"
+          ],
+          "reason_for_contact": "Represents meat packing and processing businesses directly impacted by overlapping food labeling mandates and jurisdictional conflicts between FTC and USDA."
+        },
+        {
+          "organization_name": "National Cattlemen's Beef Association",
+          "email_contacts": [
+            "policy@beef.org",
+            "governmentaffairs@beef.org"
+          ],
+          "reason_for_contact": "Represents livestock producers who face compliance costs and supply chain disruptions from mandatory origin labeling rules."
+        },
+        {
+          "organization_name": "Consumer Brands Association",
+          "email_contacts": [
+            "info@consumerbrandsassociation.org",
+            "regulatory@consumerbrandsassociation.org"
+          ],
+          "reason_for_contact": "Represents consumer packaged goods manufacturers advocating for clear, non-duplicative regulatory oversight in product labeling."
+        }
+      ]
+    }
+  },
+  {
+    "id": "MARAD-2026-0728-0001",
+    "agency": "MARAD",
+    "title": "Deepwater Port Application Processing and Licensing",
+    "link": "https://www.regulations.gov/document/MARAD-2026-0728-0001",
+    "posted_date": "2026-11-05 05:00:00+00:00",
+    "comment_end_date": "2027-01-05T04:59:59Z",
+    "processed_at": "2026-11-06T19:11:11.614055",
+    "ai_data": {
+      "summary_of_main_idea": "This proposed rule transfers deepwater port license application processing and lead National Environmental Policy Act (NEPA) review management from the U.S. Coast Guard to the Maritime Administration (MARAD), pursuant to Section 7342 of the 2026 National Defense Authorization Act. It establishes a new 46 CFR Part 248 to consolidate licensing procedures, integrate statutory amendments, and streamline environmental evaluations for offshore oil and natural gas facilities. The U.S. Coast Guard retains authority over navigational safety, engineering, design, equipment, and port operations.",
+      "challenges": "The proposed rule exhibits several legal and procedural vulnerabilities under the Administrative Procedure Act (APA) and NEPA. First, proposed 46 CFR 248.44 impermissibly restricts NEPA evaluations to direct project impacts while excluding indirect and cumulative upstream and downstream environmental effects, relying on an overbroad interpretation of Seven County Infrastructure Coalition v. Eagle County. Second, MARAD improperly relies on a Categorical Exclusion under DOT Order 5610.1D for a major regulatory overhaul governing critical energy infrastructure without conducting an Environmental Assessment. Finally, the agency fails to provide a quantified economic analysis of applicant cost savings or administrative burdens, rendering its cost-benefit conclusions arbitrary and unsupported by empirical data.",
+      "references": [
+        {
+          "title": "Seven County Infrastructure Coalition v. Eagle County, Colorado, 145 S. Ct. 1497 (2025)",
+          "url": "https://www.supremecourt.gov/opinions/24pdf/23-975_card.pdf"
+        },
+        {
+          "title": "Council on Environmental Quality Guidance on Consideration of Greenhouse Gas Emissions and Climate Change",
+          "url": "https://www.whitehouse.gov/ceq/information-quality-guidelines/"
+        },
+        {
+          "title": "Sierra Club v. Federal Energy Regulatory Commission, 867 F.3d 1357 (D.C. Cir. 2017)",
+          "url": "https://openjurist.org/867/f3d/1357/sierra-club-v-federal-energy-regulatory-commission"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. MARAD-2026-0728 / RIN 2133-AC01: Deepwater Port Application Processing and Licensing\n\nI. SPECIFIC CITATIONS AND OVERVIEW\nThis comment is submitted regarding MARAD's Notice of Proposed Rulemaking (NPRM) for 46 CFR Part 248 (91 FR 69768-69788). Specifically, we address proposed Section 248.44 ('How will environmental evaluations be conducted?', 91 FR 69786) and MARAD's invocation of a Categorical Exclusion for this rulemaking under DOT Order 5610.1D (91 FR 69772).\n\nII. DETAILED RATIONALE AND LEGAL FLAWS\n1. Misapplication of Seven County and Impermissible Limitation of NEPA Scope: Proposed Section 248.44 attempts to restrict NEPA evaluations solely to direct project impacts and explicitly exclude upstream and downstream impacts. MARAD's reliance on Seven County Infrastructure Coalition v. Eagle County to justify this restriction is legally flawed. Deepwater ports are primary conduits for bulk fossil fuel transport; downstream emissions and upstream extraction impacts are reasonably foreseeable causally related effects under 42 U.S.C. 4332. Truncating the scope of environmental review violates NEPA's statutory mandate to evaluate cumulative environmental impacts.\n2. Improper Categorical Exclusion: MARAD asserts that this rule is categorically excluded under DOT Order 5610.1D, subpart C, section (e)(3). Reorganizing the federal regulatory framework for deepwater port licensing and restricting environmental assessment criteria constitutes a major federal action with substantial policy and environmental implications. Invoking a Categorical Exclusion bypasses required environmental scrutiny under the APA.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\nMARAD should amend proposed 46 CFR 248.44 to read as follows:\n'Sec. 248.44 How will environmental evaluations be conducted?\nEnvironmental evaluations conducted under this part will assess the direct, indirect, and cumulative environmental effects of the deepwater port project, including reasonably foreseeable impacts on coastal ecosystems, marine life, air quality, and climate emissions connected to project construction and operational supply chains, consistent with NEPA and federal environmental quality standards.'",
+      "sponsors": [
+        {
+          "organization_name": "Sierra Club",
+          "email_contacts": [
+            "legal@sierraclub.org",
+            "info@sierraclub.org"
+          ],
+          "reason_for_contact": "Leading environmental advocacy organization actively involved in challenging incomplete NEPA reviews and major fossil fuel export infrastructure projects."
+        },
+        {
+          "organization_name": "Center for Biological Diversity",
+          "email_contacts": [
+            "publiccomments@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "Specializes in protecting coastal habitats and endangered marine species from offshore industrial development and oil spill risks."
+        },
+        {
+          "organization_name": "Environmental Integrity Project",
+          "email_contacts": [
+            "contact@environmentalintegrity.org"
+          ],
+          "reason_for_contact": "Focuses on administrative law compliance, enforcement of federal environmental statutes, and industrial transparency in permitting."
+        }
+      ]
+    }
+  },
+  {
+    "id": "LSC-2026-0730-0001",
+    "agency": "LSC",
+    "title": "Purchasing and Property Management",
+    "link": "https://www.regulations.gov/document/LSC-2026-0730-0001",
+    "posted_date": "2026-11-05 05:00:00+00:00",
+    "comment_end_date": "2026-12-22T04:59:59Z",
+    "processed_at": "2026-11-06T19:11:11.614106",
+    "ai_data": {
+      "summary_of_main_idea": "This proposed rule by the Legal Services Corporation (LSC) revises 45 CFR Part 1631 by removing the monetary threshold (currently $50,000) from the definition of 'capital improvement.' Under the revised definition, expending any amount of LSC funds to improve real estate through construction or integral fixtures would classify as a capital improvement. LSC intends to enhance tracking and accountability of aggregate funds invested in grantees' real property while keeping the $50,000 prior approval requirement separate.",
+      "challenges": "The primary defect of the proposed rule is its elimination of any de minimis threshold, forcing grantees to treat routine, minor property modifications (such as replacing a door handle, installing a light fixture, or repairing minor drywall for $100) as capital improvements. This creates severe administrative burdens that divert scarce civil legal aid resources to burdensome record-keeping, directly conflicting with Federal Uniform Guidance (2 CFR 200.1) and Generally Accepted Accounting Principles (GAAP), which rely on capitalization thresholds to minimize accounting overhead. Additionally, LSC failed to publish an economic impact analysis evaluating the cumulative administrative cost imposed on legal services providers.",
+      "references": [
+        {
+          "title": "2 CFR 200.1 - Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (Capital Expenditures & Equipment Definitions)",
+          "url": "https://www.ecfr.gov/current/title-2/subtitle-A/chapter-II/part-200/subpart-A/subject-group-ECFR2a0a00262241f3d/section-200.1"
+        },
+        {
+          "title": "FASB Accounting Standards Codification Topic 360: Property, Plant, and Equipment",
+          "url": "https://asc.fasb.org/360"
+        },
+        {
+          "title": "Legal Services Corporation Act of 1974, 42 U.S.C. 2996g(e)",
+          "url": "https://www.law.cornell.edu/uscode/text/42/2996g"
+        }
+      ],
+      "proposed_comment": "RE: Comments on Revision to Part 1631 (88 FR 69766, Nov. 5, 2026)\n\nDear Assistant General Counsel Nwankwoala:\n\nWe submit these public comments regarding LSC's Notice of Proposed Rulemaking to amend 45 CFR Part 1631.2(a) (91 FR 69766-69768). While we appreciate LSC's statutory objective under 42 U.S.C. 2996g(e) to ensure financial accountability, removing all monetary thresholds from the definition of 'capital improvement' creates unwarranted administrative inefficiencies for civil legal assistance providers.\n\nI. Lack of a De Minimis Floor Imposes Excessive Administrative Burden\n\nUnder proposed 45 CFR 1631.2(a), 'spending any amount of LSC funds to improve real estate' qualifies as a capital improvement. As published on page 69767, LSC states that expenditures below the prior approval threshold could represent significant cumulative investments. However, defining any expenditure\u2014regardless of how minor\u2014as a capital improvement means that routine repairs, minor fixture replacements, and low-cost facility updates under $1,000 will require specialized tracking under 1631.15(c). This is inconsistent with financial best practices established in 2 CFR 200.1 (Uniform Guidance), which utilize reasonable capital asset thresholds (typically $5,000) to prevent operational gridlock.\n\nII. Proposed Alternative Regulatory Wording\n\nTo balance LSC's goal of tracking aggregate investments while avoiding undue operational strain on legal aid grantees, LSC should establish a reasonable de minimis threshold of $5,000 for capital improvement classification or adopt an annual cumulative tracking requirement.\n\nWe urge LSC to amend Sec. 1631.2(a) to read as follows:\n\n'Sec. 1631.2 Definitions.\n(a) Capital improvement means spending more than $5,000 of LSC funds in a single expenditure, or an aggregate of $10,000 of LSC funds within a single grant year, to improve real estate through construction or the addition of fixtures that become an integral part of real estate.'\n\nRespectfully submitted,\n[Civic Advocate / Public Interest Coalition]",
+      "sponsors": [
+        {
+          "organization_name": "National Legal Aid & Defender Association (NLADA)",
+          "email_contacts": [
+            "info@nlada.org",
+            "governmentrelations@nlada.org"
+          ],
+          "reason_for_contact": "As the primary national association representing civil legal aid providers, NLADA has a direct interest in preventing unnecessary administrative burdens on LSC grantees."
+        },
+        {
+          "organization_name": "Management Information Exchange (MIE)",
+          "email_contacts": [
+            "oac@mie.org",
+            "director@mie.org"
+          ],
+          "reason_for_contact": "MIE supports legal aid managers and executives on financial administration and compliance; this rule directly impacts financial compliance workflows for their membership."
+        },
+        {
+          "organization_name": "Legal Aid Association of California (LAAC)",
+          "email_contacts": [
+            "info@laaconline.org",
+            "policy@laaconline.org"
+          ],
+          "reason_for_contact": "LAAC represents state-level legal service organizations that receive LSC funding and must manage capital asset accounting under strict administrative limits."
+        }
+      ]
+    }
+  },
+  {
     "id": "NCUA-2026-1888-0001",
     "agency": "NCUA",
     "title": "Notification to Members/Shareholders",
