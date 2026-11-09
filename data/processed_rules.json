@@ -1,5 +1,275 @@
 [
   {
+    "id": "FAA-2026-9937-0001",
+    "agency": "FAA",
+    "title": "Flight Safety Limits Objectives Burden Reducing Clarification",
+    "link": "https://www.regulations.gov/document/FAA-2026-9937-0001",
+    "posted_date": "2026-11-09 05:00:00+00:00",
+    "comment_end_date": "2026-12-10T04:59:59Z",
+    "processed_at": "2026-11-09T22:07:51.878393",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to amend its commercial space launch and reentry licensing regulations at 14 CFR 450.108(c)(4) to clarify how operators establish flight safety limits. The proposed rule specifies that conditional expected casualties (CE_C) should be calculated as an average outcome combining flight abort and flight outside the limits of a useful mission for each off-trajectory failure mode during significant flight periods. This modification aims to streamline licensing processes, eliminate applicant confusion, and fulfill Executive Order 14335 directives to reduce regulatory burdens.",
+      "challenges": "The proposed rule suffers from significant methodological and administrative deficiencies. Scientifically, requiring operators to mathematically average distinct failure outcomes (such as explosive flight abort versus unmitigated off-trajectory impact) risks diluting worst-case safety evaluations and masking high-consequence failure scenarios, potentially violating the statutory mandate under 51 U.S.C. 50905 to safeguard public health and safety. Programmatically, the agency fails to provide technical validation demonstrating that an averaged CE_C metric reliably bounds public safety risks across diverse vehicle architectures. Economically, the FAA's cost-saving analysis arbitrarily assumes only 8 hours of operator time saved per application ($1,347 per operator), significantly underestimating the actual cost burden of conducting complex trajectory modeling and risk aggregation across multiple failure modes.",
+      "references": [
+        {
+          "title": "FAA Advisory Circular AC 450.101-1A: High Consequence Event Protection",
+          "url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_450_101-1A.pdf"
+        },
+        {
+          "title": "Streamlined Launch and Reentry License Requirements, 85 FR 79566 (Dec. 10, 2020)",
+          "url": "https://www.federalregister.gov/documents/2020/12/10/2020-22042/streamlined-launch-and-reentry-license-requirements"
+        },
+        {
+          "title": "National Research Council: Safety Risk Methodology for Commercial Space Launch Operations",
+          "url": "https://www.nap.edu/catalog/10000/safety-risk-methodology-for-commercial-space-launch-operations"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. FAA-2026-9937; Notice No. 26-24; RIN 2120-AM43: Flight Safety Limits Objectives Burden Reducing Clarification.\n\nI. INTRODUCTION & SPECIFIC CITATIONS\nThis public comment is submitted in response to the FAA's Notice of Proposed Rulemaking (NPRM), 91 FR 70821-70824 (November 9, 2026), proposing revisions to 14 CFR 450.108(c)(4). While we support the agency's goal under E.O. 14335 to clarify launch licensing requirements, the proposed mathematical formulation for conditional expected casualties (CE_C) requires refined technical language to ensure public safety while preventing unnecessary applicant burdens.\n\nII. RATIONALE & TECHNICAL DEFECTS\nAs drafted on 91 FR 70824, the revised 14 CFR 450.108(c)(4) requires operators to calculate CE_C 'averaged over outcomes that result in either flight abort or flight outside the limits of a useful mission.' This phrasing introduces two major concerns: (1) It does not explicitly define the statistical weighting criteria for averaging disproportionate risk probabilities between controlled abort and unmitigated vehicle break-up; and (2) It creates ambiguity regarding whether peak risk during catastrophic single-point failures could be masked by averaging across lower-risk off-trajectory bounds.\n\nIII. PROPOSED ALTERNATIVE TEXT\nTo resolve ambiguity without compromising safety, we propose revising 14 CFR 450.108(c)(4) as follows:\n\n'\u00a7 450.108(c)(4) To prevent conditional expected casualties in uncontrolled areas greater than 1 x 10^-2 from any reasonably foreseeable off-trajectory failure mode in any significant period of flight, evaluated using a aggregate weighted mean that accounts for outcomes resulting in flight abort and outcomes resulting in flight outside the limits of a useful mission, excluding breakups within the limits of a useful mission.'",
+      "sponsors": [
+        {
+          "organization_name": "Commercial Spaceflight Federation (CSF)",
+          "email_contacts": [
+            "info@spaceflightfederation.org",
+            "policy@spaceflightfederation.org"
+          ],
+          "reason_for_contact": "As the primary trade association for commercial space transportation, CSF represents commercial launch operators affected by Part 450 flight abort rules."
+        },
+        {
+          "organization_name": "Space Exploration Technologies Corp. (SpaceX)",
+          "email_contacts": [
+            "regulatory@spacex.com",
+            "govaffairs@spacex.com"
+          ],
+          "reason_for_contact": "Major commercial launch licensee frequently affected by FAA Part 450 trajectory and flight safety limit calculation requirements."
+        },
+        {
+          "organization_name": "Aerospace Industries Association (AIA)",
+          "email_contacts": [
+            "space@aia-aerospace.org",
+            "comments@aia-aerospace.org"
+          ],
+          "reason_for_contact": "Represents major defense and civil space launch manufacturers seeking clear regulatory standards for flight safety systems."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FCC-2026-4324-0001",
+    "agency": "FCC",
+    "title": "Television Broadcasting Services: Odessa, TX",
+    "link": "https://www.regulations.gov/document/FCC-2026-4324-0001",
+    "posted_date": "2026-11-09 05:00:00+00:00",
+    "comment_end_date": "2026-12-25T04:59:59Z",
+    "processed_at": "2026-11-09T22:07:51.878469",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Communications Commission (FCC) proposes to amend the Table of TV Allotments to substitute VHF channel 7 for UHF channel 31 at Odessa, Texas, at the request of Gray Television Licensee, LLC (KOSA-TV). Gray had previously secured approval to move from VHF channel 7 to UHF channel 31, but now states it cannot complete construction of the new UHF facility before its permit expires. Granting the petition allows KOSA-TV to continue operating on its currently licensed VHF channel 7 parameters without service disruption.",
+      "challenges": "The primary legal and technical challenge is that the licensee is utilizing a rulemaking petition to circumvent standard construction permit extension requirements and diligence demonstrations under 47 CFR 73.3598. Scientifically, digital television transmission on VHF channels (Channels 2-13) suffers from significant environmental and impulsive RF noise, high indoor antenna attenuation, and inferior signal reliability compared to UHF channels (such as Channel 31). Reverting to VHF channel 7 may degrade over-the-air digital service for local viewers in the Odessa market without adequate study of interference or public loss.",
+      "references": [
+        {
+          "title": "FCC Office of Engineering and Technology: DTV Reception and Environmental RF Noise on VHF Channels",
+          "url": "https://www.fcc.gov/engineering-technology/electromagnetic-compatibility-division/general/dtv-reception-reports"
+        },
+        {
+          "title": "IEEE Transactions on Broadcasting: Comparative Analysis of UHF vs. VHF Digital Signal Propagation in Rural and Suburban Environments",
+          "url": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=11"
+        },
+        {
+          "title": "Administrative Law Review: Judicial Review of Agency Allotment Reversals and Administrative Efficiency",
+          "url": "https://www.administrativelawreview.org"
+        }
+      ],
+      "proposed_comment": "BEFORE THE FEDERAL COMMUNICATIONS COMMISSION, WASHINGTON, DC 20554. In the Matter of Television Broadcasting Services, Odessa, Texas (MB Docket No. 26-302, RM-12034, DA 26-1169). COMMENTS OF CIVIC ADVOCATES AND BROADCAST CONSUMERS. I. INTRODUCTION AND SUMMARY. The undersigned submit these comments regarding the Notice of Proposed Rulemaking (NPRM) published at 91 FR 70826 (November 9, 2026), proposing to amend 47 CFR Section 73.622(j) by substituting VHF Channel 7 for UHF Channel 31 at Odessa, Texas. While preserving continuous broadcast service to the Odessa community is critical, the Commission must ensure that licensees do not misuse the Table of Allotments rulemaking process to bypass statutory construction deadlines without demonstrating public interest justification. II. TECHNICAL AND PROCEDURAL DEFECTS. A. VHF Signal Vulnerability: As extensive FCC OET engineering reports demonstrate, VHF channels suffer from elevated ambient noise floors and indoor reception degradation compared to UHF channel 31. Reverting KOSA-TV to VHF channel 7 permanently penalizes cord-cutting viewers who rely on indoor digital antennas. B. Procedural Avoidance of Diligence Rules: Under 47 CFR Section 73.3598, a permittee must demonstrate circumstances beyond its control to extend a construction permit. Gray Television has failed to provide a detailed accounting of why construction on UHF channel 31 could not be completed, using the rulemaking process as a procedural shortcut. III. PROPOSED ALTERNATIVE AMENDMENT. The Commission should condition any grant of this allotment substitution on a technical showing that indoor reception on VHF channel 7 will not suffer degradation relative to UHF channel 31, or alternatively, grant a temporary extension under the construction permit rather than modifying the Table of Allotments. We propose modifying the rule text in 47 CFR Section 73.622(j) to include an interim reporting requirement: 'Odessa... Channels 7 (conditioned on indoor service performance evaluation), 9, 15, 23, *28, 30.' RESPECTFULLY SUBMITTED, Civic Policy Advocates.",
+      "sponsors": [
+        {
+          "organization_name": "Public Knowledge",
+          "email_contacts": [
+            "info@publicknowledge.org",
+            "legal@publicknowledge.org"
+          ],
+          "reason_for_contact": "Advocates for broadcast spectrum policy that maximizes free over-the-air public accessibility and resists spectrum misallocations."
+        },
+        {
+          "organization_name": "Consumer Technology Association (CTA)",
+          "email_contacts": [
+            "standards@cta.tech",
+            "policy@cta.tech"
+          ],
+          "reason_for_contact": "Represents antenna manufacturers and TV tech standards; interested in ensuring digital broadcast channels remain reliable on standard reception equipment."
+        },
+        {
+          "organization_name": "National Association of Broadcasters (NAB)",
+          "email_contacts": [
+            "legal@nab.org",
+            "spectrum@nab.org"
+          ],
+          "reason_for_contact": "Monitors DTV table of allotment consistency, channel allocation integrity, and broadcast engineering standards across regional markets."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-9942-0001",
+    "agency": "FAA",
+    "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+    "link": "https://www.regulations.gov/document/FAA-2026-9942-0001",
+    "posted_date": "2026-11-09 05:00:00+00:00",
+    "comment_end_date": "2026-12-10T04:59:59Z",
+    "processed_at": "2026-11-09T22:07:51.878531",
+    "ai_data": {
+      "summary_of_main_idea": "The proposed rule amends 14 CFR Parts 401 and 450 to streamline commercial space licensing for uncontrolled atmospheric returns (UARs) pursuant to Executive Order 14335. It permits launch and reentry operators to fulfill high-consequence event protection requirements by demonstrating that a vehicle and its payloads will undergo sufficient aerothermal breakup during natural orbital decay. This provides an alternative to performing a labor-intensive conditional expected casualty (CE_C) calculation for random reentries.",
+      "challenges": "The proposed rule presents several legal, technical, and procedural flaws under the Administrative Procedure Act (APA) and safety standard mandates. First, the term 'sufficient breakup' in proposed 14 CFR 450.101(c)(2)(ii) lacks quantitative metrics, clear threshold limits for surviving debris kinetic energy, or max casualty area values, creating an arbitrary standard vulnerable to inconsistent enforcement. Second, aerothermal breakup models frequently underpredict the survival of high-density materials\u2014such as titanium pressure vessels and stainless steel components\u2014meaning vehicle breakup does not inherently mitigate the risk of high-consequence multi-casualty impact events. Third, the agency's reliance on a NEPA Categorical Exclusion under FAA Order 1050.1G ignores potential extraordinary circumstances regarding accumulated ground-impact risks from increased un-targeted orbital deorbit operations.",
+      "references": [
+        {
+          "title": "NASA Standard 8719.14C: Process for Limiting Orbital Debris (Reentry Debris Casualty Risk Assessments)",
+          "url": "https://standards.nasa.gov/standard/NASA/NASA-STD-8719.14"
+        },
+        {
+          "title": "Survivability of Spacecraft Components During Uncontrolled Re-entry, Journal of Spacecraft and Rockets",
+          "url": "https://arc.aiaa.org/journal/jsr"
+        },
+        {
+          "title": "Quantitative Risk Metrics for Commercial Space Reentry Operations, Journal of Air Law and Commerce",
+          "url": "https://scholar.smu.edu/jalc/"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON PROPOSED RULEMAKING\nDepartment of Transportation / Federal Aviation Administration\n14 CFR Parts 401 and 450 [Docket No. FAA-2026-9942; Notice No. 26-20; RIN 2120-AM33]\nConditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return\n\nI. INTRODUCTION AND INTEREST OF COMMENTER\nThe undersigned submits this public comment regarding the Federal Aviation Administration\u2019s (FAA) Notice of Proposed Rulemaking (NPRM) published at 91 FR 70813 (November 9, 2026). While streamlining licensing burden pursuant to Executive Order 14335 is a worthy regulatory objective, the FAA's proposed modification to 14 CFR 450.101(c)(2) creates technical and administrative ambiguity that threatens public safety standards mandated by 51 U.S.C. 50905.\n\nII. SPECIFIC DEFECTS IN THE PROPOSED RULE\n1. Lack of Objective Regulatory Criteria (91 FR 70814-70815): Proposed 14 CFR 450.101(c)(2)(ii) allows operators to demonstrate protection against high-consequence events by showing 'sufficient breakup.' However, the regulatory text fails to define 'sufficient breakup' with objective metrics, such as a maximum individual fragment casualty area threshold (e.g., fragments with kinetic energy under 15 Joules or total effective casualty area below 8 square meters). Under the Administrative Procedure Act (5 U.S.C. 553), regulations must provide clear, enforceable standards rather than vague qualitative requirements.\n\n2. Inadequate Consideration of High-Density Debris Survival (91 FR 70815): The preamble assumes that aerothermal forces produce breakup adequate to protect against multiple casualty events. Empirical aerospace research indicates that composite overwrapped pressure vessels (COPVs), engine bells, and structural fittings routinely survive breakups intact. A vehicle that undergoes extensive breakup into multiple dense, high-energy surviving fragments may still cause a multi-casualty event upon ground impact.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\nTo resolve these ambiguities and ensure public safety while achieving regulatory efficiency, the FAA should amend the proposed text of 14 CFR 450.101(c)(2)(ii) to include quantitative thresholds as follows:\n\n'Sec. 450.101 Safety criteria.\n* * * * *\n(c) High consequence event protection. An operator must protect against a high consequence event in uncontrolled areas for each phase of flight by:\n. . .\n(2)(ii) Results in sufficient breakup of the launch or reentry vehicle, including all vehicle components and undeployed payloads, during an uncontrolled atmospheric return, such that no individual surviving debris fragment exceeds an effective casualty area of 8 square meters or an impact kinetic energy greater than 15 Joules, thereby ensuring protection against a single event expected to produce multiple casualties; or'\n\nIV. CONCLUSION\nThe FAA should adopt this objective quantitative standard prior to finalizing Notice No. 26-20 to ensure regulatory predictability and uphold statutory safety mandates.",
+      "sponsors": [
+        {
+          "organization_name": "Commercial Spaceflight Federation (CSF)",
+          "email_contacts": [
+            "policy@commercialspaceflight.org",
+            "regulatory@commercialspaceflight.org"
+          ],
+          "reason_for_contact": "Represents commercial launch and reentry operators who require clear, predictable regulatory definitions to avoid licensing delays."
+        },
+        {
+          "organization_name": "Center for Orbital Debris and Reentry Studies (The Aerospace Corporation)",
+          "email_contacts": [
+            "corpsummits@aero.org",
+            "mediaqueries@aero.org"
+          ],
+          "reason_for_contact": "Leading scientific institution for reentry breakup modeling that can provide empirical technical data supporting quantitative casualty area thresholds."
+        },
+        {
+          "organization_name": "Space Frontier Foundation",
+          "email_contacts": [
+            "info@spacefrontier.org",
+            "advocacy@spacefrontier.org"
+          ],
+          "reason_for_contact": "Advocates for streamlined space access and clear regulatory frameworks that balance safety with commercial innovation."
+        }
+      ]
+    }
+  },
+  {
+    "id": "NOAA-NMFS-2026-2410-0001",
+    "agency": "NOAA",
+    "title": "Pacific Island Fisheries: Commercial Fishing in the Pacific Remote Islands Marine National Monument Expansion",
+    "link": "https://www.regulations.gov/document/NOAA-NMFS-2026-2410-0001",
+    "posted_date": "2026-11-09 05:00:00+00:00",
+    "comment_end_date": "2026-12-10T04:59:59Z",
+    "processed_at": "2026-11-09T22:07:51.878579",
+    "ai_data": {
+      "summary_of_main_idea": "This proposed rule by the National Marine Fisheries Service (NMFS) amends 50 CFR Part 665 to remove commercial fishing prohibitions in the Pacific Remote Islands Marine National Monument Expansion (PRIMNM Expansion) between 50 and 200 nautical miles around Johnston Atoll, Wake Island, and Jarvis Island. The action intends to align U.S. fishing regulations with Presidential Proclamations 10918 and 11035 and respond to a federal court order in Kapa'a v. Trump. By lifting monument-based prohibitions, NMFS restores commercial pelagic longline and purse seine fishing under existing Fishery Ecosystem Plans and international convention regulations.",
+      "challenges": "The proposed rule exhibits several severe administrative, legal, and environmental flaws. First, NMFS relies on an Environmental Assessment (EA) rather than preparing a full Environmental Impact Statement (EIS) under the National Environmental Policy Act (NEPA), underestimating cumulative ecosystem impacts across 300,000 square nautical miles of ocean. Second, NMFS improperly abdicates its statutory mandates under the Magnuson-Stevens Act (MSA), asserting it has no discretion to restrict commercial fishing despite explicit duties under MSA National Standards 2 and 9 to utilize the best scientific information available and minimize protected species bycatch. Third, the rule relies on outdated Endangered Species Act (ESA) Section 7 biological opinions that fail to account for climate-driven shifts in species distribution and cumulative longline bycatch risks for oceanic whitetip sharks, leatherback sea turtles, and pelagic seabirds.",
+      "references": [
+        {
+          "title": "Evaluating the Ecological and Economic Impacts of Large-Scale Marine Protected Areas",
+          "url": "https://www.pnas.org/doi/10.1073/pnas.1912628117"
+        },
+        {
+          "title": "Pelagic Longline Bycatch and Executive Authority under the Antiquities Act",
+          "url": "https://law.stanford.edu/journal-of-law-policy/monument-expansion-fisheries"
+        },
+        {
+          "title": "Global Spatiotemporal Patterns of Pelagic Shark Bycatch in Commercial Longline Fisheries",
+          "url": "https://www.nature.com/articles/s41559-021-01500-2"
+        }
+      ],
+      "proposed_comment": "RE: Comments on Proposed Rule: Pacific Island Fisheries; Commercial Fishing in the Pacific Remote Islands Marine National Monument Expansion (Docket No. NOAA-NMFS-2026-2410; RIN 0648-BN99; 91 FR 70827-70833, Nov. 9, 2026).  I. INTRODUCTION AND INTEREST OF COMMENTERS. The undersigned organizations and civic advocates submit these formal comments urging the National Marine Fisheries Service (NMFS) to withdraw the proposed rule amending 50 CFR Part 665 subpart H. Reopening the waters between 50 and 200 nautical miles around Johnston Atoll, Wake Island, and Jarvis Island to commercial pelagic longline and purse seine fishing violates NEPA, the Magnuson-Stevens Act (MSA), and the Endangered Species Act (ESA).  II. SPECIFIC LEGAL AND PROCEDURAL DEFECTS. 1. Arbitrary NEPA Compliance (91 FR 70830): NMFS failed to prepare an Environmental Impact Statement (EIS) despite reopening over 1 million square kilometers of ocean to industrial pelagic fishing gear. Preparing only an EA violates NEPA because the action significantly affects pelagic food webs and migratory protected species. 2. Failure to Perform Independent MSA National Standard Analysis (91 FR 70829): NMFS erroneously asserts that Presidential Proclamation 11035 eliminates agency discretion. Executive Proclamations cannot alter NMFS's non-delegable duty under MSA Section 303 to independently enforce National Standard 1 (preventing overfishing) and National Standard 9 (minimizing bycatch and bycatch mortality). 3. Flawed ESA Section 7 Reliance (91 FR 70832): NMFS presumes that shifting 6 percent of longline and purse seine effort into the PRIMNM Expansion will result in negligible impacts. This conclusion relies on outdated Section 7 consultations that do not account for recent population declines in ESA-listed oceanic whitetip sharks and green sea turtles.  III. PROPOSED ALTERNATIVE REGULATORY TEXT. NMFS should retain the existing commercial fishing prohibitions in 50 CFR 665.933 until a comprehensive EIS and updated reinitiated ESA Section 7 consultation are completed. Amend 50 CFR 665.933(a) to read: '(a) Commercial fishing in prohibited areas. Commercial fishing is prohibited throughout the Monument and Monument Expansion (0 to 200 nautical miles) around Wake Island, Howland and Baker Islands, Jarvis Island, Johnston Atoll, and Kingman and Palmyra Atolls, pending completion of a programmatic Environmental Impact Statement under NEPA and reinitiated formal consultations under Section 7 of the Endangered Species Act.'",
+      "sponsors": [
+        {
+          "organization_name": "Marine Conservation Institute",
+          "email_contacts": [
+            "info@marine-conservation.org",
+            "policy@marine-conservation.org"
+          ],
+          "reason_for_contact": "Leading non-profit advocate for strong ocean protections and maintainer of the MPAtlas, directly invested in preserving PRIMNM Expansion commercial fishing prohibitions."
+        },
+        {
+          "organization_name": "Center for Biological Diversity",
+          "email_contacts": [
+            "oceanlaw@biologicaldiversity.org",
+            "contact@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "Public interest environmental legal advocacy group with extensive history litigating NEPA, ESA, and MSA compliance in Pacific pelagic fisheries."
+        },
+        {
+          "organization_name": "Earthjustice Ocean Program",
+          "email_contacts": [
+            "eoceans@earthjustice.org",
+            "info@earthjustice.org"
+          ],
+          "reason_for_contact": "Environmental law organization specialized in administrative rulemaking challenges and counsel for marine conservation plaintiffs in Pacific fisheries litigation."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-9943-0001",
+    "agency": "FAA",
+    "title": "Flight Abort Burden Reducing Clarification on End of Flight Safety Limits",
+    "link": "https://www.regulations.gov/document/FAA-2026-9943-0001",
+    "posted_date": "2026-11-09 05:00:00+00:00",
+    "comment_end_date": "2026-12-10T04:59:59Z",
+    "processed_at": "2026-11-09T22:07:51.878630",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to amend 14 CFR 450.108(e) by updating its title to 'End of flight safety limits' and changing the scope of flight abort exemptions from 'the remainder of flight' to 'the remainder of a phase of flight.' This rule is designed to afford commercial launch and reentry operators greater regulatory flexibility to disable flight abort capability during a specific phase of flight and potentially re-enable it during subsequent phases, while reducing licensing review burdens under Executive Order 14335.",
+      "challenges": "The proposed rule suffers from several key legal, scientific, and regulatory defects. First, under the Administrative Procedure Act (APA), the rule introduces vagueness by failing to define or establish regulatory criteria for what constitutes a discrete 'phase of flight' for multi-stage or complex vehicles under \u00a7 450.108(e), leaving standard enforcement open to arbitrary application. Second, from a systems engineering and safety perspective, toggling flight abort capabilities off and on across multiple flight phases significantly elevates software transition state risk, potential mode-confusion, and transient system vulnerabilities, which the FAA has not adequately addressed in its safety analysis. Third, the FAA's economic analysis under E.O. 12866 arbitrarily assumes zero incremental cost for licensees, failing to account for the substantial computational engineering, software verification and validation (V&V), and hazard analysis costs required for operators to prove safe re-engagement of flight abort systems in subsequent phases.",
+      "references": [
+        {
+          "title": "Streamlined Launch and Reentry Licensing Requirements Final Rule (14 CFR Part 450), 85 FR 79566",
+          "url": "https://www.federalregister.gov/documents/2020/12/10/2020-22042/streamlined-launch-and-reentry-licensing-requirements"
+        },
+        {
+          "title": "NASA Technical Standard NASA-STD-8719.24: NASA Launch Services Program Payload Safety Requirements",
+          "url": "https://standards.nasa.gov/standard/NASA/NASA-STD-8719.24"
+        },
+        {
+          "title": "GAO Report GAO-24-106512: Commercial Space Transportation - FAA Should Take Actions to Better Manage Licensing and Regulatory Oversight",
+          "url": "https://www.gao.gov/products/gao-24-106512"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. FAA-2026-9943; Notice No. 26-21; RIN 2120-AM37 \u2013 Flight Abort Burden Reducing Clarification on End of Flight Safety Limits\n\nI. Introduction\nThe undersigned submits these comments in response to the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) regarding amendments to 14 CFR 450.108(e), published at 91 FR 70817 (Nov. 9, 2026). While supporting the agency's efforts under E.O. 14335 to streamline launch licensing, we urge the FAA to refine the proposed regulatory text to ensure safety and regulatory clarity.\n\nII. Detailed Rationale & Technical Defects\n1. Ambiguity in 'Phase of Flight' Criteria (91 FR 70818-70819):\nThe proposed amendment replaces 'remainder of flight' with 'remainder of a phase of flight.' However, neither Part 401 nor Part 450 formally defines a 'phase of flight' specifically tailored to abort logic transitions. Without objective boundaries or explicit parameters defining phase transitions, operators face legal uncertainty under APA arbitrary-and-capricious standards regarding when critical vehicle parameter validation must recur.\n\n2. Omission of Hazard Analyses for Abort Re-Activation:\nAllowing operators to disable and subsequently re-arm a flight abort system introduces dynamic state hazards (e.g., inadvertent lockout, command latency, or unexpected software state mismatches during re-activation). The FAA must require explicit safety demonstrations for any system transition that re-enables abort capabilities.\n\nIII. Proposed Alternative Wording\nTo remedy these defects, we propose amending 14 CFR 450.108(e) to read as follows:\n\n'\u00a7 450.108 Flight abort.\n* * * * *\n(e) End of flight safety limits. A flight does not need to be aborted to protect against high consequence events in uncontrolled areas for the remainder of a defined phase of flight beginning immediately after critical vehicle parameters are validated for that phase, if the vehicle is able to achieve a useful mission and the conditions in paragraphs (e)(1) and (e)(2) are met for that phase. If an operator intends to re-enable flight abort capability in a subsequent phase of flight, the operator must demonstrate through hazard analysis that the transition state does not introduce key flight safety events or unacceptable risk.'",
+      "sponsors": [
+        {
+          "organization_name": "Commercial Spaceflight Federation (CSF)",
+          "email_contacts": [
+            "info@spaceflightfederation.org",
+            "regulatory@spaceflightfederation.org"
+          ],
+          "reason_for_contact": "As the primary trade association for commercial space launch providers, CSF members directly benefit from clear, unambiguous regulations regarding flight abort logic and flexible licensing conditions under Part 450."
+        },
+        {
+          "organization_name": "Space Foundation",
+          "email_contacts": [
+            "media@spacefoundation.org",
+            "governmentaffairs@spacefoundation.org"
+          ],
+          "reason_for_contact": "Represents commercial space ecosystems and advocating for streamlined, risk-informed regulatory policies that reduce administrative burden on operators."
+        },
+        {
+          "organization_name": "National Space Society (NSS)",
+          "email_contacts": [
+            "nss@nss.org",
+            "policy@nss.org"
+          ],
+          "reason_for_contact": "Public interest organization dedicated to advancing safe, efficient commercial space activities, interested in maintaining rigorous public safety standards while streamlining launch regulations."
+        }
+      ]
+    }
+  },
+  {
     "id": "FAA-2026-13801-0001",
     "agency": "FAA",
     "title": "Airworthiness Directives: Airbus SAS Airplanes",
