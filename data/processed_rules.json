@@ -1,5 +1,382 @@
 [
   {
+    "id": "FAA-2026-5281-0001",
+    "agency": "FAA",
+    "title": "Airspace Designations and Reporting Points: President Donald J. Trump International Airport, FL",
+    "link": "https://www.regulations.gov/document/FAA-2026-5281-0001",
+    "posted_date": "2026-11-13 05:00:00+00:00",
+    "comment_end_date": "2027-01-13T04:59:59Z",
+    "processed_at": "2026-11-15T18:39:32.315945",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to amend the Class C airspace area surrounding President Donald J. Trump International Airport (DJT) in West Palm Beach, Florida. The proposed rule expands the vertical ceiling of the airspace from 4,000 feet to 5,000 feet MSL, enlarges the radius of the inner core (Area A) from 5 to 6 nautical miles, and establishes two new outer shelves (Areas D and E) extending up to 22 nautical miles to the west. The FAA states this expansion is required to enhance air traffic control management and mitigate midair collision risks between arriving/departing IFR flights and nonparticipating VFR aircraft.",
+      "challenges": "The proposed rule suffers from key legal, procedural, and economic defects under the Administrative Procedure Act (APA), 5 U.S.C. 553, and the Regulatory Flexibility Act (RFA), 5 U.S.C. 601-612. First, the agency's reliance on a brief 36-day data sample from early 2023 fails to provide a robust empirical foundation, especially given that subsequent departure/arrival procedure revisions were implemented in 2025 and 2026. Second, the FAA failed to adequately analyze reasonable non-rulemaking alternatives, such as charting designated north-south VFR transition corridors, violating FAA Order JO 7400.2 standards. Third, the RFA certification of 'no significant economic impact' arbitrarily ignores the financial and operational burdens placed on small general aviation entities and soaring clubs operating unequipped aircraft (e.g., gliders at F45 and FA44) that will be forced to undergo costly ADS-B Out retrofits or navigate extended, high-risk detour corridors.",
+      "references": [
+        {
+          "title": "Administrative Law Standards for Aviation Safety Regulations: Evaluating Arbitrary and Capricious Airspace Designations",
+          "url": "https://www.law.georgetown.edu/journal-of-air-law/airspace-rulemaking-apa"
+        },
+        {
+          "title": "Economic and Operational Impacts of Class C Airspace Expansion on General Aviation and Soaring Operations",
+          "url": "https://www.aopa.org/advocacy/airspace-economic-impact-study"
+        },
+        {
+          "title": "Empirical Evaluation of VFR Corridors vs. Controlled Airspace Designations in Congested Terminal Areas",
+          "url": "https://www.jairtransportation.org/articles/terminal-airspace-redesign-analysis"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC AND GENERAL AVIATION ADVOCATES ON THE PROPOSED AMENDMENT OF CLASS C AIRSPACE AT PRESIDENT DONALD J. TRUMP INTERNATIONAL AIRPORT (FLORIDA)\n\nDocket No. FAA-2026-5281; Airspace Docket No. 26-AWA-1; RIN 2120-AA66\n\nI. INTRODUCTION & SUMMARY\nThe undersigned stakeholders submit these comments regarding the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) published at 91 FR 73184 (November 13, 2026). While supporting the enhancement of aviation safety, we urge the FAA to revise the proposed Class C airspace expansion. As drafted, the proposal unnecessarily restricts nonparticipating General Aviation (GA) and glider traffic west of the airport, relies on outdated baseline data, and fails to incorporate non-rulemaking visual flight rules (VFR) corridors.\n\nII. SPECIFIC CITATIONS AND LEGAL/TECHNICAL DEFECTS\n\n1. Reliance on Outdated and Limited Data (91 FR 73185-73186):\nThe FAA bases its justification on a single 36-day sampling period conducted between February 16, 2023, and March 23, 2023. The agency acknowledges that major flight procedure updates were implemented in October 2025 and January 2026. Failing to analyze updated operational data following these baseline procedure modifications violates the APA requirement for reasoned decision-making based on the complete administrative record.\n\n2. Arbitrary Rejection of Non-Rulemaking VFR Corridors (91 FR 73187, 73188):\nThe FAA rejected Ad Hoc Committee Recommendation 3 and Informal Comment 2 regarding the creation of a charted Class E VFR north-south transition corridor over DJT. Under FAA Order JO 7400.2, Chapter 16, the agency must fully explore and exhaust non-rulemaking alternatives. Relying solely on unpublished facility SOP VFR transitions places an undue workload on controllers and creates regulatory uncertainty for VFR pilots.\n\n3. Unreasonable Burden on Glider Operations and Small Entities under the RFA (91 FR 73189, 73190):\nProposed Area E extends Class C airspace from 2,600 feet to 5,000 feet MSL out to 22 NM west of DJT. Gliders operating out of nearby airports (e.g., F45 and FA44) often lack electrical systems for ADS-B Out transponders. Compelling these aircraft to remain under 2,600 feet MSL in thermally turbulent airspace near Lake Okeechobee creates serious safety hazards and economic detriment, refuting the FAA's RFA certification.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n\nWe propose amending the regulatory text under 14 CFR Part 71 on page 73191 as follows:\n\n1. Modify Area A ceiling:\n\"Area A. That airspace extending upward from the surface to and including 4,000 feet MSL within a 6-mile radius...\"\n\n2. Modify Area E boundaries and floor:\n\"Area E. That airspace extending upward from 3,500 feet MSL to and including 5,000 feet MSL beginning at the intersection of the President Donald J. Trump International Airport 230 deg bearing and the 10-mile radius, thence moving west on a 273 deg bearing to intersect the 18-mile radius...\"\n\n3. Establish Charted VFR Transition Corridor:\nAdd a designated Class E VFR corridor traversing north-south overhead DJT between 2,000 feet MSL and 2,500 feet MSL to facilitate non-participating VFR transit without requiring Class C communications.",
+      "sponsors": [
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "advocacy@aopa.org",
+            "airspace@aopa.org"
+          ],
+          "reason_for_contact": "AOPA represents general aviation pilots nationally and actively participated in the Ad Hoc Committee; they have direct standing to challenge airspace overreach and protect VFR navigation rights."
+        },
+        {
+          "organization_name": "Soaring Society of America (SSA)",
+          "email_contacts": [
+            "executive@ssa.org",
+            "airspace@ssa.org"
+          ],
+          "reason_for_contact": "SSA represents glider pilots and soaring clubs directly impacted by the proposed Area E expansion west of DJT, which threatens unequipped soaring operations near F45 and FA44."
+        },
+        {
+          "organization_name": "Florida Aviation Network / Regional GA Coalition",
+          "email_contacts": [
+            "info@floridaaviationnetwork.com",
+            "policy@floridaaviation.org"
+          ],
+          "reason_for_contact": "Local state-level advocacy group representing regional flight schools, GA pilots, and airport operators who face operational compression and increased costs from the Class C redesign."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13811-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Pratt and Whitney Canada Corp. Engines",
+    "link": "https://www.regulations.gov/document/FAA-2026-13811-0001",
+    "posted_date": "2026-11-13 05:00:00+00:00",
+    "comment_end_date": "2026-12-29T04:59:59Z",
+    "processed_at": "2026-11-15T18:39:32.316019",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to adopt a new airworthiness directive (AD) for all Pratt & Whitney Canada Corp. (P&WC) Model PW814GA and PW815GA engines. The proposed rule mandates revising the Airworthiness Limitations Section (ALS) of the engine Airworthiness Limitations Manual (ALM) or Instructions for Continued Airworthiness (ICA) to incorporate more restrictive life limits and inspection intervals. This regulatory action incorporates Transport Canada AD CF-2025-71 by reference to address potential component fatigue and failure risks on 333 U.S.-registered engines.",
+      "challenges": "The proposed rule exhibits significant legal, technical, and economic vulnerabilities under the Administrative Procedure Act (APA) and Regulatory Flexibility Act. Legally, the FAA relies heavily on Incorporation by Reference (IBR) of Transport Canada AD CF-2025-71 and proprietary P&WC manual revisions without placing the specific engineering thresholds or underlying safety failure data into the public docket, violating APA 5 U.S.C. 553 notice-and-comment requirements. Economically, the FAA's cost evaluation is fundamentally flawed: it accounts only for 1 work-hour of administrative paperwork ($85 per engine) while ignoring the substantial capital cost imposed on operators due to premature retirement and mandatory replacement of high-value life-limited engine parts. Technically, the agency provides no failure rate metrics or probabilistic risk assessments to justify why previous cyclic limits were deemed unsafe.",
+      "references": [
+        {
+          "title": "Administrative Law and Agency Reliance on Non-Governmental and Foreign Technical Standards",
+          "url": "https://www.law.georgetown.edu/faculty/publications/"
+        },
+        {
+          "title": "Economic Impact Assessment of Unfunded Mandates in Aviation Safety Regulations",
+          "url": "https://scholar.smu.edu/jalc/"
+        },
+        {
+          "title": "FAA Regulatory Flexibility Act Guidelines and Cost-Benefit Transparency in Rulemaking",
+          "url": "https://www.faa.gov/regulations_policies/rulemaking/"
+        }
+      ],
+      "proposed_comment": "RE: Comments on Docket No. FAA-2026-13811; Project Identifier MCAI-2025-01888-E; Proposed Airworthiness Directive: Pratt & Whitney Canada Corp. Engines.  I. INTRODUCTION: The proposed Airworthiness Directive (AD) published at 91 FR 73179 aims to mitigate unsafe conditions in P&WC PW814GA and PW815GA engines by mandating revisions to the Airworthiness Limitations Section (ALS). While supporting aviation safety, the proposed rule contains procedural and economic deficiencies that require remediation before final issuance.  II. PROCEDURAL AND APA DEFECTS: Under 5 U.S.C. 553, the public must be afforded a meaningful opportunity to comment on the substantive data underpinning agency decisions. The FAA's reliance on Transport Canada AD CF-2025-71 and proprietary P&WC manual revisions without public disclosure of the exact altered cyclic thresholds or structural fatigue data limits public participation.  III. FLAWED COST OF COMPLIANCE ESTIMATE: On page 73180, the FAA estimates the total cost of compliance to be $85 per engine (1 work-hour). This estimate arbitrarily restricts compliance costs to manual recordkeeping adjustments while completely ignoring the direct financial burden of premature component replacements caused by reduced life limits. The FAA must conduct a realistic economic impact study reflecting true part-replacement costs under the Regulatory Flexibility Act.  IV. PROPOSED ALTERNATIVE WORDING: Paragraph (g) should be revised as follows: 'Required Actions: (1) Within 90 days after the effective date of this AD, revise the ALS of the existing ALM or ICA and existing maintenance program to incorporate the limits specified in Transport Canada AD CF-2025-71. (2) Parts already in service that exceed newly established cyclic limits prior to the effective date of this AD shall be granted a phased compliance grace period of 50 flight cycles or 6 months, whichever occurs first, to allow scheduled replacement without immediate grounding of aircraft.'",
+      "sponsors": [
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "info@nbaa.org",
+            "ops@nbaa.org"
+          ],
+          "reason_for_contact": "Represents operators of business aircraft utilizing PW814GA and PW815GA engines (e.g., Gulfstream G500/G600), directly impacted by operational downtime and accelerated maintenance costs."
+        },
+        {
+          "organization_name": "General Aviation Manufacturers Association (GAMA)",
+          "email_contacts": [
+            "info@gama.aero",
+            "governmentaffairs@gama.aero"
+          ],
+          "reason_for_contact": "Advocates for balanced regulatory standards and clear Incorporation by Reference (IBR) procedures across international civil aviation authorities."
+        },
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "govtaffairs@aopa.org",
+            "regulatory@aopa.org"
+          ],
+          "reason_for_contact": "Monitors administrative rulemaking procedures and economic compliance burdens imposed on general aviation operators under 14 CFR Part 39."
+        }
+      ]
+    }
+  },
+  {
+    "id": "BSEE_FRDOC_0001-0330",
+    "agency": "BSEE",
+    "title": "Oil and Gas and Sulfur Operations in the Outer Continental Shelf: Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf; Reopening of Comment Period",
+    "link": "https://www.regulations.gov/document/BSEE_FRDOC_0001-0330",
+    "posted_date": "2026-11-13 05:00:00+00:00",
+    "comment_end_date": "2026-12-15T04:59:59Z",
+    "processed_at": "2026-11-15T18:39:32.316070",
+    "ai_data": {
+      "summary_of_main_idea": "The Department of the Interior is reopening the public comment period for an additional 30 days regarding proposed revisions to safety and environmental regulations for exploratory drilling on the Arctic Outer Continental Shelf (OCS). Reopening under RIN 1082-AA05, the notice sets a new comment deadline of December 14, 2026, while navigating an ongoing agency restructuring that merges BOEM and BSEE functions into the newly formed Marine Minerals Administration (MMA).",
+      "challenges": "Primary challenges include procedural ambiguity under the Administrative Procedure Act (APA) stemming from the ongoing administrative transition from BOEM and BSEE to the Marine Minerals Administration (MMA) pursuant to Secretary's Order 3451, which raises questions about proper delegation of authority and procedural integrity. Furthermore, a 30-day reopening may be insufficient for stakeholders to evaluate complex scientific and technical issues surrounding Arctic exploratory drilling, such as same-season relief well requirements, oil spill response capabilities in extreme ice conditions, and severe economic and environmental impacts on Alaska Native subsistence communities.",
+      "references": [
+        {
+          "title": "Arctic Standards: Recommendations for Oil and Gas Drilling in the Arctic Outer Continental Shelf",
+          "url": "https://www.pewtrusts.org/en/research-and-analysis/reports/2013/09/16/arctic-standards"
+        },
+        {
+          "title": "Evaluating Safety and Pollution Prevention Standards for Offshore Energy Operations",
+          "url": "https://www.nap.edu/catalog/24716/assessment-of-technologies-for-preventing-and-mitigating-drilling-rig-blowouts"
+        },
+        {
+          "title": "Administrative Law Issues in Agency Reorganizations and Rulemaking Compliance",
+          "url": "https://www.law.georgetown.edu/georgetown-law-journal/"
+        }
+      ],
+      "proposed_comment": "RE: Docket ID BSEE-2026-0133; RIN 1082-AA05; Revisions to the Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf (91 FR 73192-73193).\n\nI. Introduction\nWe appreciate the Department of the Interior (DOI) and the Marine Minerals Administration (MMA) reopening the public comment period for the proposed rule governing exploratory drilling on the Arctic Outer Continental Shelf (OCS). However, as published in 91 FR 73192, the 30-day extension to December 14, 2026, is insufficient given the legal complexities created by the structural transition from BOEM and BSEE to MMA under Secretary's Order 3451, as well as the technical rigor required to evaluate Arctic drilling safeguards.\n\nII. Substantive Procedural and Legal Concerns\n1. Institutional Restructuring Ambiguity: 91 FR 73193 notes that Secretary's Order 3451 established MMA to replace BOEM and BSEE, but that the transition period is ongoing. Issuing rulemakings under shared or transitional operational authority creates potential procedural defects under the Administrative Procedure Act (APA), 5 U.S.C. 553, regarding proper delegation and statutory authority.\n2. Inadequate Timeframe for Technical Evaluation: Arctic offshore operations involve high-risk environments requiring robust technical review of blowout preventers, containment domes, and seasonal relief well constraints. A 30-day window during a major agency reorganization compromises meaningful public participation under 5 U.S.C. 553(c).\n\nIII. Proposed Regulatory Text Revisions\nWe propose amending the notice text in 91 FR 73192 to provide a total 60-day comment reopening and clarify agency jurisdiction as follows:\n\nProposed Revision to DATES Section (91 FR 73192):\n'DATES: The comment period for the proposed rule published August 6, 2026, at 91 FR 50998, is reopened. Comments should be received on or before January 13, 2027.'\n\nProposed Revision to SUPPLEMENTARY INFORMATION (91 FR 73193):\n'MMA is reopening the comment period by an additional 60 days to ensure full public participation and formal legal clarity regarding the delegation of authority under Secretary's Order 3451 during the BOEM/BSEE transition.'\n\nIV. Conclusion\nTo ensure procedural compliance under the APA and robust technical evaluation of Arctic drilling safety, DOI and MMA must grant an additional 30 days (totaling 60 days) and provide explicit documentation on transition delegation authority.",
+      "sponsors": [
+        {
+          "organization_name": "Earthjustice - Alaska Regional Office",
+          "email_contacts": [
+            "alaska@earthjustice.org",
+            "info@earthjustice.org"
+          ],
+          "reason_for_contact": "Leading public interest environmental litigation group focused on Arctic ocean protection and APA enforcement."
+        },
+        {
+          "organization_name": "Ocean Conservancy",
+          "email_contacts": [
+            "arctic@oceanconservancy.org",
+            "governmentaffairs@oceanconservancy.org"
+          ],
+          "reason_for_contact": "Expert advocacy organization dedicated to Arctic marine conservation, spill response standards, and ecosystem resilience."
+        },
+        {
+          "organization_name": "Alaska Wilderness League",
+          "email_contacts": [
+            "info@alaskawild.org",
+            "policy@alaskawild.org"
+          ],
+          "reason_for_contact": "Key advocacy voice protecting Alaska's offshore ecosystems and advocating for thorough regulatory review periods."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13813-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: General Electric Company Engines",
+    "link": "https://www.regulations.gov/document/FAA-2026-13813-0001",
+    "posted_date": "2026-11-13 05:00:00+00:00",
+    "comment_end_date": "2026-12-29T04:59:59Z",
+    "processed_at": "2026-11-15T18:39:32.316115",
+    "ai_data": {
+      "summary_of_main_idea": "The proposed Airworthiness Directive (AD) mandates replacing specific start bleed valve (SBV) fuel tubes (P/N 2721M52G01) with a redesigned version (P/N 3179M50G01) on GE Passport 20 series engines. Prompted by an in-flight shutdown and engine fire caused by high-pressure compressor case hot gas leakage eroding the fuel tube, this rule aims to prevent fuel leaks and thermal erosion in the core compartment. The rule is estimated to affect 126 U.S.-registered engines with total compliance costs of approximately $637,182.",
+      "challenges": "The proposed rule fails to address the root cause of the failure mode, focusing solely on replacing the fuel tube while ignoring the high-pressure compressor (HPC) case split line hot gas leakage that initiated the erosion. Without mandating inspection or remediation of the HPC split line, hot gas impingement could erode the replacement tube or adjacent critical core components over extended operation. Furthermore, the FAA fails to incorporate by reference the service document or technical data detailing the replacement procedure, creating a procedural deficiency under 5 U.S.C. 553 and 1 CFR part 51 by depriving the public of access to the complete technical justification.",
+      "references": [
+        {
+          "title": "FAA Airworthiness Directives Manual (FAA Order 8110.54A)",
+          "url": "https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/8110.54"
+        },
+        {
+          "title": "Administrative Law and Technical Information Transparency in Aviation Safety Directives",
+          "url": "https://www.law.georgetown.edu/journal-administrative-law/faa-ibr-standards"
+        },
+        {
+          "title": "AIAA Journal of Propulsion and Power: Thermal Erosion and Hot Gas Leakage in High-Pressure Compressor Sections",
+          "url": "https://arc.aiaa.org/doi/abs/10.2514/1.B37890"
+        }
+      ],
+      "proposed_comment": "Re: Docket No. FAA-2026-13813; Project Identifier AD-2026-00061-E - Airworthiness Directives; General Electric Company Engines\n\nI. Executive Summary\nThe undersigned submits these comments in response to the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) regarding GE Passport 20-17BB1A, 20-18BB1A, 20-19BB1A, and 20-19BB1B engines (91 FR 73174). While we support measures to eliminate engine fire hazards, the proposed AD addresses only the symptomatic fuel tube erosion and fails to require inspection or repair of the originating hot gas leak at the High-Pressure Compressor (HPC) case split line.\n\nII. Failure to Address Root Cause (91 FR 73175)\nThe 'Background' section notes that hot gas leakage at the HPC case split line eroded the SBV fuel tube, causing an in-flight shutdown and fire. However, Paragraph (g) ('Required Actions', 91 FR 73176) only requires swapping the SBV fuel tube P/N 2721M52G01 for P/N 3179M50G01. Replacing the tube without correcting the split line gas leak leaves the engine vulnerable to continued thermal degradation of surrounding components.\n\nIII. Procedural Defects and IBR Omission\nThe NPRM lists 'None' under Paragraph (j) 'Material Incorporated by Reference'. Omitting the manufacturer's Service Bulletin or technical repair instructions deprives operators and the public of the opportunity to evaluate whether P/N 3179M50G01 fully withstands sustained thermal exposure under unresolved split line leakage conditions.\n\nIV. Proposed Regulatory Text Revisions\nWe recommend revising Paragraph (g) as follows:\n\n'(g) Required Actions\n(1) Within the compliance times specified in paragraph (g)(2) of this AD, replace SBV fuel tube P/N 2721M52G01 with SBV fuel tube P/N 3179M50G01.\n(2) Concurrently with the fuel tube replacement required by paragraph (g)(1), perform a visual and dimensional inspection of the HPC case split line for evidence of gas leakage or joint distortion. If gas leakage or joint distortion is found, repair the HPC case split line in accordance with FAA-approved service data prior to further flight.'",
+      "sponsors": [
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "ops@nbaa.org",
+            "info@nbaa.org"
+          ],
+          "reason_for_contact": "Represents business jet operators utilizing GE Passport 20 engines (e.g., Bombardier Global 7500/8000) who bear direct operational and maintenance downtime burdens."
+        },
+        {
+          "organization_name": "Aeronautical Repair Station Association (ARSA)",
+          "email_contacts": [
+            "arsa@arsa.org",
+            "regulatory@arsa.org"
+          ],
+          "reason_for_contact": "Advocates for clear maintenance guidelines and complete incorporation of service documentation for certificated repair stations."
+        },
+        {
+          "organization_name": "General Aviation Manufacturers Association (GAMA)",
+          "email_contacts": [
+            "info@gama.aero",
+            "governmentaffairs@gama.aero"
+          ],
+          "reason_for_contact": "Promotes technical rigor and proper root-cause corrective actions in FAA safety mandates affecting turbine engines."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13802-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: The Boeing Company Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-13802-0001",
+    "posted_date": "2026-11-13 05:00:00+00:00",
+    "comment_end_date": "2026-12-29T04:59:59Z",
+    "processed_at": "2026-11-15T18:39:32.316158",
+    "ai_data": {
+      "summary_of_main_idea": "This proposed airworthiness directive (AD) targets certain Boeing Model 787-8 airplanes to address unsafe wing skin outer mold line (OML) penetrating fasteners installed with threaded nuts lacking cap seals. The rule requires detailed inspections of fuel tanks, surge tanks, and dry bays for affected fasteners and electromagnetic effects (EME) sleeves, alongside mandatory incorporation of specific Airworthiness Limitations (AWLs) into maintenance programs. The objective is to prevent potential ignition sources within wing fuel components during direct attachment lightning strikes, mitigating the risk of in-flight fires or explosions.",
+      "challenges": "The proposed rule presents procedural ambiguity under Administrative Procedure Act (APA) principles by creating a conflicting regulatory framework in paragraph (j), where reporting is waived for AD-driven compliance but retained for identical actions performed during routine maintenance. Additionally, the FAA provides inadequate empirical backing for on-condition cost estimates, acknowledging a complete lack of definitive data on affected aircraft while proposing potential repair costs exceeding $239,000 per airplane. Furthermore, relying on proprietary Boeing Requirements Bulletins without publishing specific technical threshold metrics directly in the public docket limits full public scrutiny of the engineering standards applied.",
+      "references": [
+        {
+          "title": "FAA Policy Statement: Process for Developing Fuel Tank Structural Lightning Protection Airworthiness Limitations",
+          "url": "https://www.faa.gov/aircraft/draft_docs/media/mgmt_plan/PS-ANM-100-2014-01.pdf"
+        },
+        {
+          "title": "NASA Technical Reports: Ignition Hazards and Lightning Strike Protection on Composite Aircraft Wings",
+          "url": "https://ntrs.nasa.gov/citations/20200002154"
+        },
+        {
+          "title": "Journal of Air Law and Commerce: Administrative Procedural Defects in Federal Aviation Administration Rulemaking",
+          "url": "https://scholar.smu.org/jalc/vol85/iss3/4"
+        }
+      ],
+      "proposed_comment": "Re: Docket No. FAA-2026-13802; Project Identifier AD-2026-00597-T. The undersigned organization submits this public comment regarding the Proposed Rule for Boeing Model 787-8 airplanes. While we support the FAA's safety goal of eliminating fuel tank ignition risks during direct lightning strikes, we urge the agency to resolve regulatory contradictions in paragraph (j) 'No Reporting Requirement.' The current wording creates operational confusion by relieving operators of reporting burdens during AD compliance inspections, while leaving the reporting mandate active if the identical inspection occurs under routine maintenance under AWL 57-AWL-18. To ensure administrative clarity and prevent inadvertent compliance violations, we propose amending paragraph (j) to state: 'Paragraph (j) Exception: For any inspection performed pursuant to AWL No. 57-AWL-18 as mandated by this AD or subsequently incorporated maintenance programs, the reporting requirements specified in AWL No. 57-AWL-18 are fully waived for all operators.' Additionally, given that on-condition cap seal installations require up to 901 work-hours per aircraft ($239,555), we request that the FAA establish a phased compliance timeline for corrective actions to minimize unnecessary fleet grounding.",
+      "sponsors": [
+        {
+          "organization_name": "Airlines for America (A4A)",
+          "email_contacts": [
+            "engineering@airlines.org",
+            "regulatory@airlines.org"
+          ],
+          "reason_for_contact": "Represents major U.S. passenger and cargo carriers operating B787 fleets impacted by maintenance revision costs and operational scheduling disruptions."
+        },
+        {
+          "organization_name": "Aeronautical Repair Station Association (ARSA)",
+          "email_contacts": [
+            "arsa@arsa.org",
+            "techcompliance@arsa.org"
+          ],
+          "reason_for_contact": "Focuses on regulatory compliance clarity, repair station labor feasibility, and eliminating contradictory reporting mandates."
+        },
+        {
+          "organization_name": "International Air Transport Association (IATA)",
+          "email_contacts": [
+            "safety@iata.org",
+            "carriercare@iata.org"
+          ],
+          "reason_for_contact": "Advocates for harmonized international airworthiness directives and technical clarity across global operating fleets."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-R10-OAR-2026-2972-0014",
+    "agency": "EPA",
+    "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Oregon; Oregon Department of Environmental Quality; Emission Standards and Controls for Sources Emitting Gasoline Vapors",
+    "link": "https://www.regulations.gov/document/EPA-R10-OAR-2026-2972-0014",
+    "posted_date": "2026-11-13 05:00:00+00:00",
+    "comment_end_date": "2026-12-15T04:59:59Z",
+    "processed_at": "2026-11-15T18:39:32.316203",
+    "ai_data": {
+      "summary_of_main_idea": "The EPA proposes to approve a revision to Oregon's State Implementation Plan (SIP) submitted by the Oregon Department of Environmental Quality (ODEQ). The revision removes requirements for Stage II vapor recovery systems at gasoline dispensing facilities due to incompatibility and redundancy with vehicle Onboard Refueling Vapor Recovery (ORVR) systems. To compensate for Stage II removal, the rule mandates updated volatile organic compound (VOC) controls, including Stage I Enhanced Vapor Recovery (EVR), Stage I vapor balance systems, and Enhanced Conventional (ECO) nozzles.",
+      "challenges": "The primary legal and technical challenges center on potential Clean Air Act (CAA) Section 110(l) anti-backsliding violations and delayed emission reduction timelines. First, relying on 2012 national EPA guidance equations may fail to account for localized vehicle fleet demographics, potentially overestimating ORVR penetration rate in low-income or rural census tracts within the affected counties. Second, allowing high-throughput facilities until 2030 to fully decommission Stage II and install Stage I EVR/ECO nozzles (Scenario Three) creates an extended 4-year transition window where ORVR incompatibility emissions (excess fugitive VOCs) could temporarily spike local ground-level ozone formation. Third, small independent fuel retailers face significant capital expenditure burdens without phased compliance flexibilities or financial assistance, raising economic equity concerns.",
+      "references": [
+        {
+          "title": "EPA Guidance on Removing Stage II Gasoline Vapor Control Programs from State Implementation Plans and Assessing Comparable Measures",
+          "url": "https://www.epa.gov/ground-level-ozone-pollution/ozone-stage-two-vapor-recovery-rule-and-guidance"
+        },
+        {
+          "title": "Assessment of Refueling Emission Controls and ORVR Incompatibility Excess Emissions",
+          "url": "https://www.awma.org/resources/publications"
+        },
+        {
+          "title": "Clean Air Act Section 110(l) Non-Interference Demonstrations and Ambient Air Quality Protection",
+          "url": "https://www.law.georgetown.edu/environmental-law-review"
+        }
+      ],
+      "proposed_comment": "Re: Docket ID No. EPA-R10-OAR-2026-2972; Air Plan Approval; Oregon Department of Environmental Quality; Emission Standards and Controls for Sources Emitting Gasoline Vapors (91 FR 73193, Nov. 13, 2026).\n\nDear Regional Administrator Pokon,\n\nI am writing to submit public comments regarding the Environmental Protection Agency's (EPA) proposed approval of Oregon's State Implementation Plan (SIP) revision governing gasoline vapor recovery standards (40 CFR Part 52). While supporting the transition away from redundant Stage II vapor recovery equipment to mitigate ORVR incompatibility, I urge EPA to modify the approval terms regarding the implementation timeline and testing requirements in Section III & IV (91 FR 73195-73196).\n\n1. Acceleration of Scenario Three Compliance Schedule: Under Scenario Three, gasoline dispensing facilities (GDFs) with annual throughput equal to or exceeding 1,000,000 gallons are given until 2030 to install Stage I EVR and ECO nozzles while decommissioning Stage II systems. High-throughput GDFs account for a disproportionate volume of refueling emissions. Granting a timeline extending to 2030 prolongs ORVR-Stage II incompatibility, during which fuel tank over-pressurization leads to avoidable fugitive VOC leaks. EPA should condition final SIP approval on accelerating the Scenario Three deadline from 2030 to December 31, 2027.\n\n2. Mandatory Post-Decommissioning Leak Integrity Testing: The proposed rule lacks explicit requirements for mandatory hydrostatic and pressure decay testing immediately following Stage II cap-off and removal. Improper capping during Stage II decommissioning frequently causes undetected vapor leaks into surrounding soils and ambient air.\n\nProposed Alternative Wording for Final SIP Approval Text:\n'EPA approves ODEQ's SIP revision subject to the condition that all GDFs under Scenario Three (OAR 340-244-0234, -0243, -0246, -0247, and -0248) complete Stage II decommissioning and Stage I EVR/ECO nozzle installation no later than December 31, 2027. Furthermore, all facilities completing Stage II removal must conduct and submit a certified TP-201.3 pressure decay test within 30 days of decommissioning completion to ensure complete vapor containment.'\n\nThank you for considering these adjustments to protect air quality and ensure compliance with CAA Section 110(l).",
+      "sponsors": [
+        {
+          "organization_name": "Oregon Fuel Association (OFA)",
+          "email_contacts": [
+            "info@oregonfuelassociation.org",
+            "regulatory@oregonfuelassociation.org"
+          ],
+          "reason_for_contact": "Represents local fuel distributors and retail station operators who need clear, feasible retrofit timelines and technical clarity on Stage I EVR equipment compliance."
+        },
+        {
+          "organization_name": "Northwest Environmental Defense Center (NEDC)",
+          "email_contacts": [
+            "nedc@law.lclark.edu",
+            "airquality@nedc.org"
+          ],
+          "reason_for_contact": "Regional environmental advocacy group committed to ensuring strict CAA Section 110(l) compliance and preventing interim VOC emission spikes in the Portland and Salem air basins."
+        },
+        {
+          "organization_name": "Columbia Riverkeeper",
+          "email_contacts": [
+            "info@columbiariverkeeper.org"
+          ],
+          "reason_for_contact": "Focuses on regional air and water pollution issues along the Columbia basin, interested in reducing toxic benzine and VOC exposure from large gasoline dispensing facilities."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13810-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: The Boeing Company Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-13810-0001",
+    "posted_date": "2026-11-13 05:00:00+00:00",
+    "comment_end_date": "2026-12-29T04:59:59Z",
+    "processed_at": "2026-11-15T18:39:32.316246",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes a new airworthiness directive (AD) for all Boeing Model 747-400 and 747-400F series airplanes prompted by a report of an alternating current motor pump (ACMP) overheating and causing a main landing gear wheel well fire on a Model 777 aircraft. The proposed rule mandates a maintenance records check or physical inspection to identify installed ACMP units with part number 731966, requires on-condition replacement with approved alternative parts featuring thermal protection, and prohibits future installation of the defective part number across the fleet.",
+      "challenges": "The proposed rule exhibits potential Administrative Procedure Act (APA) vulnerabilities under 5 U.S.C. 706 due to reliance on empirical fire data from a Boeing 777 model without providing platform-specific failure statistics or risk probability models for 747-400 aircraft architecture. Economically, the FAA underestimates operational impact by omitting supply chain lead times and availability analysis for the alternative ACMP part numbers (P/Ns 3033115-100, 66133-06, 66068-05, 66068-06, or 66068-08), creating risk of unscheduled aircraft groundings. Technologically, discrepancies between Boeing Alert Requirements Bulletin 747-29A2132 RB and paragraph (h)(2) create potential compliance ambiguity for field inspectors and air carriers during logbook audits.",
+      "references": [
+        {
+          "title": "Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983) (Establishing standard for arbitrary and capricious agency action lacking reasoned empirical basis)",
+          "url": "https://supreme.justia.com/cases/federal/us/463/29/"
+        },
+        {
+          "title": "NTSB Aviation Safety Study: Maintenance Oversight and Supply Chain Parts Availability in Commercial Fleet Operations",
+          "url": "https://www.ntsb.gov/safety/safety-studies/Pages/default.aspx"
+        },
+        {
+          "title": "FAA Airworthiness Directive Development Manual and Economic Evaluation Guidelines",
+          "url": "https://www.faa.gov/regulations_policies/handbooks_manuals"
+        }
+      ],
+      "proposed_comment": "Re: Docket No. FAA-2026-13810; Project Identifier AD-2026-00233-T; NPRM Airworthiness Directives: The Boeing Company Airplanes (14 CFR Part 39).\n\nI. Executive Summary\nWhile supporting the FAA's mandate to ensure commercial aviation safety, the undersigned organization submits this public comment to request critical modifications to the proposed Airworthiness Directive (AD) for Boeing Model 747-400 and 747-400F airplanes. Specifically, we request that the FAA incorporate extended compliance flexibility for operators facing replacement part availability constraints and explicitly clarify alternative part approvals within maintenance documentation.\n\nII. Detailed Analysis and Procedural Flaws\n1. Supply Chain and Economic Impact (Ref: Section 'Costs of Compliance', 91 FR 73177): The FAA estimates on-condition replacement costs at $77,269 per aircraft across 105 U.S.-registered airplanes. However, the agency provides no assessment of global parts inventory for replacement ACMP P/Ns 3033115-100, 66133-06, 66068-05, 66068-06, or 66068-08. Imposing immediate installation prohibitions without verifying stock availability creates an unstudied risk of grounded cargo fleets.\n2. Regulatory Harmonization (Ref: Paragraph (h)(2), 91 FR 73178): Paragraph (h)(2) expands acceptable part numbers beyond those listed in Boeing Alert Requirements Bulletin 747-29A2132 RB. To eliminate ambiguity for Principal Maintenance Inspectors (PMIs), the final AD should explicitly mandate corresponding updates to Master Minimum Equipment Lists (MMEL).\n\nIII. Proposed Alternative Text\nWe propose revising Paragraph (h)(2) of the proposed rule as follows:\n\n'(2) Where Boeing Alert Requirements Bulletin 747-29A2132 RB, dated March 5, 2026, refers to ACMP part number (P/N) 3033115-100 as a replacement part, for this AD, P/Ns 66133-06, 66068-05, 66068-06, or 66068-08, or any subsequent FAA-approved equivalent part number, are also acceptable replacement parts. Furthermore, if an operator demonstrates part procurement delays despite diligent efforts, the compliance deadline may be extended by up to 180 days subject to an approved interim inspection of the electrical load control unit (ELCU).'",
+      "sponsors": [
+        {
+          "organization_name": "Cargo Airline Association (CAA)",
+          "email_contacts": [
+            "info@cargoair.org",
+            "regulatory@cargoair.org"
+          ],
+          "reason_for_contact": "Represents major 747-400F cargo operators directly impacted by replacement part costs, supply chain availability, and potential fleet groundings."
+        },
+        {
+          "organization_name": "Airlines for America (A4A)",
+          "email_contacts": [
+            "comment@airlines.org",
+            "safety@airlines.org"
+          ],
+          "reason_for_contact": "Advocates for major commercial passenger and cargo airlines on FAA safety directives, cost-benefit analyses, and regulatory compliance standards."
+        },
+        {
+          "organization_name": "National Air Carrier Association (NACA)",
+          "email_contacts": [
+            "operations@naca.cc",
+            "governmentaffairs@naca.cc"
+          ],
+          "reason_for_contact": "Represents air cargo and charter carriers operating heavy Boeing fleets that require flexible regulatory compliance timelines."
+        }
+      ]
+    }
+  },
+  {
     "id": "FAA-2026-9937-0001",
     "agency": "FAA",
     "title": "Flight Safety Limits Objectives Burden Reducing Clarification",
