@@ -1,5 +1,396 @@
 [
   {
+    "id": "NHTSA_FRDOC_0001-3052",
+    "agency": "NHTSA",
+    "title": "Federal Motor Vehicle Safety Standard: Modernization of FMVSS No. 108 to Accommodate Automated Driving Systems-Equipped Vehicles",
+    "link": "https://www.regulations.gov/document/NHTSA_FRDOC_0001-3052",
+    "posted_date": "2026-11-16 05:00:00+00:00",
+    "comment_end_date": "2026-12-11T04:59:59Z",
+    "processed_at": "2026-11-16T21:48:50.386126",
+    "ai_data": {
+      "summary_of_main_idea": "The provided document is a 404 'Page Not Found' error from the GovInfo federal publishing system rather than a substantive notice of proposed rulemaking. Because the underlying regulatory text is missing, the document fails to inform the public of any specific administrative action, agency proposal, or regulatory requirement. Consequently, stakeholders are unable to evaluate the substantive merits or policy impacts of the intended regulation.",
+      "challenges": "The primary legal flaw presented by an unresolvable regulatory URL is a threshold violation of the Administrative Procedure Act (APA), 5 U.S.C. 553(b), which mandates adequate notice of proposed rulemaking. Under APA 5 U.S.C. 553(c), agencies must provide the public a meaningful opportunity to comment, which is impossible if the proposed text, technical studies, or data are inaccessible. Proceeding with rulemaking under broken or dead digital links creates severe procedural defects and subjects any resulting final rule to being set aside under 5 U.S.C. 706(2)(D) for failure to observe procedure required by law.",
+      "references": [
+        {
+          "title": "5 U.S.C. Section 553 - Administrative Procedure Act: Rulemaking",
+          "url": "https://www.law.cornell.edu/uscode/text/5/553"
+        },
+        {
+          "title": "Chocolate Manufacturers Ass'n v. Block, 755 F.2d 1098 (4th Cir. 1985) - Notice and Comment Requirements",
+          "url": "https://law.justia.com/cases/federal/appellate-courts/F2d/755/1098/382025/"
+        },
+        {
+          "title": "ACUS Recommendation 2011-5: Incorporating Material by Reference and Digital Availability",
+          "url": "https://www.acus.gov/recommendation/incorporating-material-reference"
+        }
+      ],
+      "proposed_comment": "RE: Procedural Deficiency and Request for Re-Publication Due to Inaccessible Rulemaking Materials\\n\\nTo Whom It May Concern:\\n\\nUpon attempting to access and review the Notice of Proposed Rulemaking (NPRM) via the official Federal Register repository (GovInfo), stakeholders were directed to an error page ('Page Not Found | GovInfo'). Under 5 U.S.C. Section 553(b)-(c) of the Administrative Procedure Act (APA), an agency is required to provide public notice of the legal authority, substance, and subjects of a proposed rule, alongside a meaningful opportunity to participate.\\n\\nBecause the regulatory text and supporting documents are currently unavailable, interested parties are legally precluded from conducting a substantive analysis or formulating feedback. Proceeding with a public comment window while the docket is inaccessible violates fundamental administrative due process principles.\\n\\nWe formally request that the agency: (1) correct the technical hyperlink and confirm the public availability of all associated dockets and supporting documents; and (2) restart or extend the public comment period for a minimum of 60 days following full publication to ensure full statutory compliance with the APA.\\n\\nProposed Alternative Action: Re-issue the notice in the Federal Register with verified digital links to all rulemaking materials.",
+      "sponsors": [
+        {
+          "organization_name": "Public Citizen",
+          "email_contacts": [
+            "action@citizen.org"
+          ],
+          "reason_for_contact": "Focuses on regulatory oversight, government transparency, and enforcing APA procedural compliance for public interest advocacy."
+        },
+        {
+          "organization_name": "Project On Government Oversight (POGO)",
+          "email_contacts": [
+            "info@pogo.org"
+          ],
+          "reason_for_contact": "Monitors government open-data initiatives, public digital infrastructure, and agency accountability during federal rulemaking."
+        },
+        {
+          "organization_name": "Administrative Conference of the United States (ACUS)",
+          "email_contacts": [
+            "info@acus.gov"
+          ],
+          "reason_for_contact": "Develops best practices for administrative procedure, electronic rulemaking, and ensuring public access to regulatory dockets."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA_FRDOC_0001-28628",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
+    "link": "https://www.regulations.gov/document/FAA_FRDOC_0001-28628",
+    "posted_date": "2026-11-16 05:00:00+00:00",
+    "comment_end_date": "2027-01-01T04:59:59Z",
+    "processed_at": "2026-11-16T21:48:50.386180",
+    "ai_data": {
+      "summary_of_main_idea": "The provided regulatory document URL points to an error page ('Page Not Found') on GovInfo rather than an accessible Notice of Proposed Rulemaking (NPRM). Consequently, the proposed regulation fails to communicate its intended administrative actions, scope, or substantive policies to the public. To fulfill administrative standards, the agency must re-publish the full text of the rulemaking document with an active link and extend the public comment period.",
+      "challenges": "The primary defect is a fundamental violation of procedural due process and Section 553 of the Administrative Procedure Act (5 U.S.C. 553), which mandates that agencies provide public notice containing either the terms or substance of a proposed rule. Publishing an inaccessible or broken link deprives stakeholders of notice and a meaningful opportunity to comment, rendering any subsequent final rule arbitrary, capricious, and procedurally invalid.",
+      "references": [
+        {
+          "title": "Administrative Procedure Act, 5 U.S.C. Section 553 (Rulemaking Notice Requirements)",
+          "url": "https://www.law.cornell.edu/uscode/text/5/553"
+        },
+        {
+          "title": "DaimlerChrysler Corp. v. Consumer Product Safety Commission, 361 F.3d 648 (D.C. Cir. 2004)",
+          "url": "https://casetext.com/case/daimlerchrysler-corp-v-consumer-product-safety-commission"
+        }
+      ],
+      "proposed_comment": "COMMENT ON DOCKET PROCEDURAL DEFECT: INACCESSIBLE PROPOSED RULEMAKING TEXT. The undersigned submit this public comment to notify the agency of a critical procedural defect regarding the Notice of Proposed Rulemaking (NPRM). The official docket link directs users to a GovInfo 404 'Page Not Found' error page, making the regulatory text inaccessible. Under 5 U.S.C. 553(b), federal agencies are legally required to publish adequate notice of proposed rulemaking containing the terms or substance of the proposed rule. The inability to inspect the rule deprives the public of a meaningful opportunity to participate under 5 U.S.C. 553(c). PROPOSED ACTION: The agency must immediately publish the complete regulatory text, correct the GovInfo link, and restart the public comment period for a minimum of 60 days following full publication.",
+      "sponsors": [
+        {
+          "organization_name": "Administrative Conference of the United States",
+          "email_contacts": [
+            "info@acus.gov"
+          ],
+          "reason_for_contact": "Focuses on improving administrative procedures, public participation, and regulatory transparency across federal agencies."
+        },
+        {
+          "organization_name": "Center for Effective Government",
+          "email_contacts": [
+            "info@openthegovernment.org"
+          ],
+          "reason_for_contact": "Advocates for government transparency, public access to regulatory information, and open rulemaking processes."
+        },
+        {
+          "organization_name": "American Bar Association Section of Administrative Law and Regulatory Practice",
+          "email_contacts": [
+            "adminlaw@americanbar.org"
+          ],
+          "reason_for_contact": "Monitors agency compliance with the Administrative Procedure Act and advocates for procedural fairness in administrative actions."
+        }
+      ]
+    }
+  },
+  {
+    "id": "NPS-2026-0265-0001",
+    "agency": "NPS",
+    "title": "Castle Mountains National Monument and Craters of the Moon National Monument; Hunting",
+    "link": "https://www.regulations.gov/document/NPS-2026-0265-0001",
+    "posted_date": "2026-11-16 05:00:00+00:00",
+    "comment_end_date": "2026-12-17T04:59:59Z",
+    "processed_at": "2026-11-16T21:48:50.386216",
+    "ai_data": {
+      "summary_of_main_idea": "The submitted document represents an HTTP 404 'Page Not Found' error page from the U.S. Government Publishing Office (GovInfo) rather than a substantive Notice of Proposed Rulemaking (NPRM). As a result, the underlying proposed regulatory text and administrative agency intent cannot be reviewed or analyzed.",
+      "challenges": "The primary issue is a foundational failure of administrative notice under Section 553 of the Administrative Procedure Act (APA), 5 U.S.C. 553. Failing to provide stakeholders with accessible text of a proposed rule denies the public a 'meaningful opportunity to comment,' violating fundamental procedural due process requirements and rendering any subsequent final rule susceptible to procedural set-aside under APA Section 706(2)(D).",
+      "references": [
+        {
+          "title": "5 U.S.C. Section 553 - Rulemaking Notice and Comment Requirements",
+          "url": "https://www.law.cornell.edu/uscode/text/5/553"
+        },
+        {
+          "title": "Administrative Conference of the United States (ACUS) Recommendation 2018-7: Public Availability of Inoperative Agency Guidance Documents",
+          "url": "https://www.acus.gov/recommendation/public-availability-inoperative-agency-guidance-documents"
+        }
+      ],
+      "proposed_comment": "RE: Procedural Defect and Request for Extension of Comment Period due to Missing Document Text\\n\\nTo Whom It May Concern:\\n\\nThis comment is submitted regarding the regulatory action intended for publication at the subject URL. Upon attempting to review the Notice of Proposed Rulemaking (NPRM), stakeholders encountered an HTTP 404 'Page Not Found' error on the GovInfo system.\\n\\nUnder the Administrative Procedure Act (APA), 5 U.S.C. Section 553(b), agencies are required to give proper notice of proposed rulemaking to ensure public participation. The inability of interested parties to view the regulatory proposal denies the public a meaningful opportunity to comment as required by law.\\n\\nWe respectfully request that the agency:\\n1. Restore or correctly publish the full text of the Notice of Proposed Rulemaking on GovInfo and Regulations.gov.\\n2. Reset and extend the public comment period by at least 60 days from the date the complete document is made accessible to the public.",
+      "sponsors": [
+        {
+          "organization_name": "Project On Government Oversight (POGO)",
+          "email_contacts": [
+            "info@pogo.org"
+          ],
+          "reason_for_contact": "POGO advocates for federal transparency, public access to official records, and rigorous administrative compliance."
+        },
+        {
+          "organization_name": "Center for Effective Government / Open The Government",
+          "email_contacts": [
+            "info@openthegov.org"
+          ],
+          "reason_for_contact": "Focuses on defending public access to government publications and ensuring agencies adhere to constitutional and administrative process standards."
+        },
+        {
+          "organization_name": "American Bar Association Section of Administrative Law and Regulatory Practice",
+          "email_contacts": [
+            "adminlaw@americanbar.org"
+          ],
+          "reason_for_contact": "Promotes the fair administration of administrative legal processes and APA procedural due process compliance."
+        }
+      ]
+    }
+  },
+  {
+    "id": "NOAA-NMFS-2026-0397-0001",
+    "agency": "NOAA",
+    "title": "Fisheries of the Exclusive Economic Zone off Alaska: Pelagic Trawl Gear Definition",
+    "link": "https://www.regulations.gov/document/NOAA-NMFS-2026-0397-0001",
+    "posted_date": "2026-11-16 05:00:00+00:00",
+    "comment_end_date": "2026-12-17T04:59:59Z",
+    "processed_at": "2026-11-16T21:48:50.386246",
+    "ai_data": {
+      "summary_of_main_idea": "The provided document is a GovInfo 404 error page indicating that the requested regulatory document could not be found. Consequently, no proposed administrative rule, standard, or regulatory text is available for analysis in this file.",
+      "challenges": "The primary legal flaw is the complete failure of notice under Section 553 of the Administrative Procedure Act (5 U.S.C. Section 553(b)). When an agency fails to provide accessible regulatory text or underlying technical data, the public is deprived of a meaningful opportunity to comment, violating administrative procedural requirements and rendering any eventual rule arbitrary, capricious, or invalid under 5 U.S.C. Section 706(2)(D).",
+      "references": [
+        {
+          "title": "5 U.S.C. Section 553 - Rule making (Administrative Procedure Act)",
+          "url": "https://www.law.cornell.edu/uscode/text/5/553"
+        },
+        {
+          "title": "Administrative Conference of the United States Recommendation 2011-1: Tech-Enabled Public Engagement in Rulemaking",
+          "url": "https://www.acus.gov/recommendation/tech-enabled-public-engagement-rulemaking"
+        }
+      ],
+      "proposed_comment": "RE: Notice of Inaccessible Rulemaking Document and Request for Comment Period Extension. Dear Agency / Government Publishing Office: A review of the public docket for this regulatory action links to a 404 Error ('Page Not Found') on GovInfo.gov. Under the Administrative Procedure Act, 5 U.S.C. Section 553(b), administrative agencies must provide adequate public notice containing either the terms or substance of the proposed rule. Because the text is inaccessible, interested parties are unable to review the underlying scientific data, regulatory text, or cost-benefit analysis. We respectfully request that the agency correct the URL, publish the complete proposed rule text, and re-open or extend the public comment period for at least 60 days following the date of proper publication.",
+      "sponsors": [
+        {
+          "organization_name": "Center for Effective Government",
+          "email_contacts": [
+            "info@foreffectivegov.org"
+          ],
+          "reason_for_contact": "Promotes federal government transparency, robust public participation, and regulatory accountability."
+        },
+        {
+          "organization_name": "Electronic Frontier Foundation",
+          "email_contacts": [
+            "info@eff.org"
+          ],
+          "reason_for_contact": "Advocates for public access to government records, digital transparency, and open public repositories."
+        },
+        {
+          "organization_name": "Open The Government",
+          "email_contacts": [
+            "info@openthegovernment.org"
+          ],
+          "reason_for_contact": "Monitors federal compliance with public access mandates and open government standards."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA_FRDOC_0001-28625",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Airbus Helicopters",
+    "link": "https://www.regulations.gov/document/FAA_FRDOC_0001-28625",
+    "posted_date": "2026-11-16 05:00:00+00:00",
+    "comment_end_date": "2027-01-01T04:59:59Z",
+    "processed_at": "2026-11-16T21:48:50.386279",
+    "ai_data": {
+      "summary_of_main_idea": "The provided document represents a missing page error (HTTP 404) on the official GovInfo portal, which prevents public access to the underlying proposed federal regulation. Without functional access to the regulatory text or rulemaking docket, stakeholders cannot evaluate or comment on the agency's intended regulatory objectives. This document failure highlights a fundamental breakdown in administrative notice and public disclosure.",
+      "challenges": "The primary legal defect is a violation of the Administrative Procedure Act (APA), 5 U.S.C. Section 553, which mandates adequate public notice and a meaningful opportunity to comment on proposed rulemaking. Inaccessibility of the official regulatory text deprives regulated entities and civic advocates of procedural due process. Furthermore, it creates economic and compliance uncertainty by obscuring the substantive standards that the agency intends to implement.",
+      "references": [
+        {
+          "title": "5 U.S.C. Section 553 - Rulemaking Provisions of the Administrative Procedure Act",
+          "url": "https://www.law.cornell.edu/uscode/text/5/553"
+        },
+        {
+          "title": "United States v. Nova Scotia Duck Products Corp., 568 F.2d 240 (2d Cir. 1977) (Establishing requirements for adequate notice and document disclosure in rulemaking)",
+          "url": "https://casetext.com/case/united-states-v-nova-scotia-duck-products-corp"
+        },
+        {
+          "title": "ACUS Recommendation 2011-1: Legal Position of Agency Websites and Rulemaking Dockets",
+          "url": "https://www.acus.gov/recommendation/legal-position-agency-websites"
+        }
+      ],
+      "proposed_comment": "Re: Procedural Defect and Inadequate Notice Due to Inaccessible Rulemaking Document (GovInfo 404 Error)\\n\\nI am submitting this formal comment to highlight a critical procedural defect regarding the notice and comment process for this rulemaking. Upon attempting to review the proposed rule text on the official federal repository (GovInfo.gov), the platform returns a 'Page Not Found' (404) error message.\\n\\nUnder the Administrative Procedure Act (APA), 5 U.S.C. 553(b)-(c), federal administrative agencies are required to provide the public with clear notice of proposed rulemaking and a meaningful opportunity to participate through informed comment. Depriving stakeholders of functional access to the proposed rule, supporting technical data, or regulatory text violates fundamental APA notice standards and administrative due process.\\n\\nProposed Action and Alternative Wording:\\nWe respectfully request that the agency: (1) re-publish the full regulatory text on GovInfo and Regulations.gov; (2) issue a corrected Notice of Proposed Rulemaking in the Federal Register; and (3) formally extend the public comment period for a minimum of 30 days starting from the date full public access is verified.",
+      "sponsors": [
+        {
+          "organization_name": "Project On Government Oversight (POGO)",
+          "email_contacts": [
+            "info@pogo.org",
+            "policy@pogo.org"
+          ],
+          "reason_for_contact": "POGO actively advocates for open government, agency transparency, and strict procedural compliance in federal rulemaking."
+        },
+        {
+          "organization_name": "Administrative Conference of the United States (ACUS)",
+          "email_contacts": [
+            "info@acus.gov"
+          ],
+          "reason_for_contact": "ACUS develops recommendations to improve administrative procedures and legal transparency across federal agencies."
+        },
+        {
+          "organization_name": "American Bar Association Section of Administrative Law and Regulatory Practice",
+          "email_contacts": [
+            "adminlaw@americanbar.org"
+          ],
+          "reason_for_contact": "This ABA section focuses on upholding statutory compliance under the APA and ensuring effective public participation in agency regulations."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA_FRDOC_0001-28626",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Dassault Aviation Airplanes",
+    "link": "https://www.regulations.gov/document/FAA_FRDOC_0001-28626",
+    "posted_date": "2026-11-16 05:00:00+00:00",
+    "comment_end_date": "2027-01-01T04:59:59Z",
+    "processed_at": "2026-11-16T21:48:50.386313",
+    "ai_data": {
+      "summary_of_main_idea": "The provided document represents an HTTP 404 error page from GovInfo indicating that the requested regulatory document could not be found or retrieved. Under federal administrative law, notice of proposed rulemaking must be publicly accessible to allow interested parties to participate in the regulatory process effectively.",
+      "challenges": "The primary procedural defect highlighted by this document is the complete unavailability of the proposed rule, violating notice and comment requirements under Section 553 of the Administrative Procedure Act (APA) and the E-Government Act of 2002. Without access to the regulatory text, economic impact analyses, and underlying scientific data, stakeholders are denied a meaningful opportunity to comment, rendering any resulting rulemaking vulnerable to legal challenge for procedural invalidity.",
+      "references": [
+        {
+          "title": "Administrative Procedure Act, 5 U.S.C. Section 553 - Rulemaking Notice Requirements",
+          "url": "https://www.law.cornell.edu/uscode/text/5/553"
+        },
+        {
+          "title": "E-Government Act of 2002, Public Law 107-347",
+          "url": "https://www.congress.gov/107/plaws/publ347/PLAW-107publ347.pdf"
+        }
+      ],
+      "proposed_comment": "RE: Notice of Inaccessible Rulemaking Document and Formal Request for Extension of Comment Period. To Whom It May Concern: I am submitting this public comment regarding the attempted review of the proposed regulatory document on GovInfo. The specified URL leads to a 'Page Not Found' error, preventing public access to the proposed rule, supporting technical studies, and regulatory impact analyses. Under 5 U.S.C. Section 553(b), agencies are required to publish adequate notice and grant the public a meaningful opportunity to comment. Because the regulatory materials are currently inaccessible, the public's statutory rights under the APA are impaired. We request that the agency immediately resolve the technical error on GovInfo, restore public access to all rulemaking materials, and re-open or extend the public comment period for at least 30 days following full restoration.",
+      "sponsors": [
+        {
+          "organization_name": "Administrative Conference of the United States",
+          "email_contacts": [
+            "info@acus.gov"
+          ],
+          "reason_for_contact": "Focuses on federal administrative procedures, rulemaking efficiency, and regulatory transparency."
+        },
+        {
+          "organization_name": "Center for Effective Government",
+          "email_contacts": [
+            "info@effectivegov.org"
+          ],
+          "reason_for_contact": "Advocates for public access to government decision-making and federal regulatory materials."
+        },
+        {
+          "organization_name": "Open The Government Coalition",
+          "email_contacts": [
+            "info@openthegovernment.org"
+          ],
+          "reason_for_contact": "Works to ensure government transparency, open data, and accessible public records."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-R10-OAR-2026-8551-0014",
+    "agency": "EPA",
+    "title": "Air Quality State Implementation Plans; Approvals and Promulgations: \n                        Alaska; Fairbanks PM2.5\n                         Boundary Redesignation and Clean Data Determination,",
+    "link": "https://www.regulations.gov/document/EPA-R10-OAR-2026-8551-0014",
+    "posted_date": "2026-11-16 05:00:00+00:00",
+    "comment_end_date": "2026-12-17T04:59:59Z",
+    "processed_at": "2026-11-16T21:48:50.386342",
+    "ai_data": {
+      "summary_of_main_idea": "The provided document is a 404 'Page Not Found' error page from the U.S. Government Publishing Office (GovInfo) website rather than a substantive notice of proposed rulemaking (NPRM). Consequently, no proposed regulatory language, agency rationale, or statutory framework was made available for substantive evaluation. Public stakeholders are unable to discern the regulatory intent, baseline data, or proposed regulatory impact from this broken URL link.",
+      "challenges": "The primary challenge presented is a threshold Administrative Procedure Act (APA) procedural defect under 5 U.S.C. 553(b), which mandates adequate public notice containing either the terms or substance of a proposed rule. Publishing an broken link or inaccessible standard deprives interested parties of a meaningful opportunity to comment as required by 5 U.S.C. 553(c). If an agency attempts to issue a final rule based on an unaccessible proposal, the rulemaking would be vulnerable to being invalidated under 5 U.S.C. 706(2)(D) for failure to observe procedures required by law.",
+      "references": [
+        {
+          "title": "Administrative Procedure Act - Informal Rulemaking Notice Requirements (5 U.S.C. 553)",
+          "url": "https://www.law.cornell.edu/uscode/text/5/553"
+        },
+        {
+          "title": "ACUS Recommendation 2011-5: Incorporating Material by Reference into Regulations",
+          "url": "https://www.acus.gov/recommendation/incorporating-material-reference"
+        }
+      ],
+      "proposed_comment": "COMMENT ON DOCKET: INACCESSIBLE REGULATORY MATERIAL\\n\\nSection I. Procedural Deficiency under 5 U.S.C. Section 553\\nThe submitted documentation yields a 404 'Page Not Found' error on GovInfo.gov. The Administrative Procedure Act requires agencies to publish clear, accessible notice of proposed rulemaking in the Federal Register. Without access to the rule's text, technical baseline, or regulatory impact analysis, the public cannot provide informed feedback.\\n\\nSection II. Request for Action and Remedy\\nThe agency must reissue the Notice of Proposed Rulemaking with a functioning hyperlink and direct citations to all supporting technical documents. Furthermore, the agency must re-open and extend the public comment period for a minimum of 60 days following the date of complete public availability to cure this procedural error.",
+      "sponsors": [
+        {
+          "organization_name": "Administrative Conference of the United States (ACUS)",
+          "email_contacts": [
+            "info@acus.gov"
+          ],
+          "reason_for_contact": "ACUS actively studies administrative rulemaking transparency and public accessibility issues within federal agencies."
+        },
+        {
+          "organization_name": "Public Citizen Regulatory Studies Project",
+          "email_contacts": [
+            "action@citizen.org"
+          ],
+          "reason_for_contact": "Public Citizen frequently challenges agency procedural defects and defends public access rights under the Administrative Procedure Act."
+        },
+        {
+          "organization_name": "Center for Effective Government",
+          "email_contacts": [
+            "info@effectivegov.org"
+          ],
+          "reason_for_contact": "Advocates for public transparency, effective governance, and robust public participation in executive agency rulemaking."
+        }
+      ]
+    }
+  },
+  {
+    "id": "VA-2026-VBA-0397-0001",
+    "agency": "VA",
+    "title": "Dole State and Tribal Outreach Grant Program (2900-AS68)",
+    "link": "https://www.regulations.gov/document/VA-2026-VBA-0397-0001",
+    "posted_date": "2026-11-16 05:00:00+00:00",
+    "comment_end_date": "2026-12-17T04:59:59Z",
+    "processed_at": "2026-11-16T21:48:50.386383",
+    "ai_data": {
+      "summary_of_main_idea": "The provided document is an official U.S. Government Publishing Office (GovInfo) 404 error page indicating that the requested regulatory record or Notice of Proposed Rulemaking (NPRM) is missing or inaccessible. Rather than presenting substantive regulatory content, this webpage demonstrates a failure of federal digital dissemination infrastructure. Maintaining public access to active regulatory dockets is required under federal open-government mandates.",
+      "challenges": "The unavailability of official regulatory documents creates severe procedural defects under the Administrative Procedure Act (APA), 5 U.S.C. section 553, which requires agencies to provide adequate notice and a meaningful opportunity for public comment. When public dockets or reference documents return 404 errors, stakeholders are deprived of fair notice, rendering any resulting rule vulnerable to procedural challenges for being arbitrary, capricious, and contrary to law. Additionally, inaccessible digital dockets violate the E-Government Act of 2002 (44 U.S.C. section 3501 note) and Freedom of Information Act electronic reading room requirements.",
+      "references": [
+        {
+          "title": "Small Refiner Lead Phase-Down Task Force v. EPA, 705 F.2d 506 (D.C. Cir. 1983) (holding that agency notice must disclose sufficient factual and legal basis to afford interested parties a fair opportunity to comment)",
+          "url": "https://law.justia.com/cases/federal/appellate-courts/F2/705/506/327318/"
+        },
+        {
+          "title": "Public Law 107-347: E-Government Act of 2002, 44 U.S.C. Section 3501 Note",
+          "url": "https://www.congress.gov/107/plaws/publ347/PLAW-107publ347.pdf"
+        },
+        {
+          "title": "Administrative Conference of the United States (ACUS) Recommendation 2018-7: Public Availability of Information in Agency Rulemaking Dockets",
+          "url": "https://www.acus.gov/recommendation/public-availability-information-agency-rulemaking-dockets"
+        }
+      ],
+      "proposed_comment": "RE: Procedural Inadequacy and Notice Defect Due to Inaccessible Rulemaking Documents (GovInfo 404 Error)\n\nI. Introduction\nThis public comment is submitted to address a fundamental procedural defect in the current rulemaking proceeding: the unavailability of critical supporting regulatory documentation via the official Government Publishing Office (GovInfo) repository. Attempting to access the document yields a '404 Page Not Found' error.\n\nII. Legal Rationale: Violation of Administrative Procedure Act (5 U.S.C. \u00a7 553)\nUnder 5 U.S.C. \u00a7 553(b), an agency must publish notice of proposed rulemaking that includes either the terms or substance of the proposed rule or a description of the subjects and issues involved. The courts have repeatedly held that meaningful notice requires public access to the empirical data, legal analyses, and background documents upon which the agency relies. Inaccessible links prevent members of the public, affected small entities, and legal researchers from reviewing the basis of the rule.\n\nIII. Proposed Regulatory Text / Remedial Action\nWe request that the agency take the following immediate corrective actions:\n1. Re-publish the complete regulatory documentation on GovInfo and Regulations.gov with verified, persistent URLs.\n2. Formally extend the public comment period by a minimum of 30 days from the date full public access is restored to ensure all stakeholders receive the legally required notice and opportunity to participate.",
+      "sponsors": [
+        {
+          "organization_name": "Project On Government Oversight (POGO)",
+          "email_contacts": [
+            "info@pogo.org",
+            "policy@pogo.org"
+          ],
+          "reason_for_contact": "POGO actively advocates for federal administrative transparency, open government standards, and proper adherence to public notice requirements."
+        },
+        {
+          "organization_name": "Public Citizen Regulatory Studies Program",
+          "email_contacts": [
+            "action@citizen.org",
+            "member@citizen.org"
+          ],
+          "reason_for_contact": "Public Citizen frequently challenges administrative procedural errors and petitions agencies for proper access to public dockets under the APA."
+        },
+        {
+          "organization_name": "Demand Progress Education Fund",
+          "email_contacts": [
+            "info@demandprogress.org"
+          ],
+          "reason_for_contact": "Demand Progress focuses on digital transparency, public access to government data, and civil participation in democratic processes."
+        }
+      ]
+    }
+  },
+  {
     "id": "FAA-2026-5281-0001",
     "agency": "FAA",
     "title": "Airspace Designations and Reporting Points: President Donald J. Trump International Airport, FL",
