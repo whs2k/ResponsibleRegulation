@@ -1,5 +1,845 @@
 [
   {
+    "id": "CMS_FRDOC_0001-4501",
+    "agency": "CMS",
+    "title": "Medicare, Medicaid, and Marketplace Programs: Comprehensive Regulations to Uncover Suspicious Healthcare",
+    "link": "https://www.regulations.gov/document/CMS_FRDOC_0001-4501",
+    "posted_date": "2026-11-19 05:00:00+00:00",
+    "comment_end_date": "2027-01-20T04:59:59Z",
+    "processed_at": "2026-11-19T20:29:33.078194",
+    "ai_data": {
+      "summary_of_main_idea": "The proposed Comprehensive Regulations To Uncover Suspicious Healthcare (CRUSH) rule aims to significantly expand CMS's program integrity, provider oversight, and payment recovery powers across Medicare, Medicaid, CHIP, and the Health Insurance Marketplace. Key proposals include reinstituting Risk Adjustment Data Validation (RADV) extrapolation without a Fee-For-Service Adjuster, requiring all Medicare Advantage providers to enroll in Original Medicare, mandating National Provider Identifiers (NPIs) for all Medicaid providers (including personal care attendants), expanding Electronic Visit Verification (EVV) use, and increasing enforcement against noncompliant Marketplace agents and brokers. Overall, the regulation seeks to shift federal healthcare administration from a retroactive 'pay and chase' system to a proactive 'stop and catch' anti-fraud framework.",
+      "challenges": "Legal challenges include potential Administrative Procedure Act (APA) arbitrary and capricious violations regarding the retroactive application of RADV extrapolation back to payment year 2018 without an FFS Adjuster, as well as due process concerns regarding immediate Marketplace agent/broker terminations without prior administrative hearings. Economically, the rule imposes heavy compliance and paperwork burdens on small health entities\u2014such as 1.28 million personal care attendants forced to acquire NPIs and DMEPOS suppliers subject to strict pre-delivery consent rules\u2014and assumes over $90 billion in transfers without a completed quantitative score from the CMS Office of the Actuary. Scientifically and operationally, rigid EVV prepayment verification and mandatory NPI requirements risk administrative bottlenecks and service interruptions for vulnerable home-care beneficiaries, while replacing the Medicaid Eligibility Quality Control (MEQC) program with aggressive eligibility disallowance audits lacks validated empirical backing for reducing net improper payment rates.",
+      "references": [
+        {
+          "title": "Humana Inc. v. Becerra, 801 F.Supp.3d 624 (N.D. Tex. 2025) (Vacating 2023 RADV Rule)",
+          "url": "https://www.courtlistener.com/docket/67746765/humana-inc-v-becerra/"
+        },
+        {
+          "title": "UnitedHealthcare Insurance Co. v. Becerra, 16 F.4th 867 (D.C. Cir. 2021) (Overpayment Rule and Risk Adjustment Data Validation Standards)",
+          "url": "https://www.cadc.uscourts.gov/internet/opinions.nsf/85255DB80053229E85258763004F3D6B/$file/18-5326-1913070.pdf"
+        },
+        {
+          "title": "HHS-OIG Audit Report A-05-20-00025: Nearly All States Made Capitation Payments for Beneficiaries Who Were Concurrently Enrolled in a Medicaid Managed Care Program in Two States",
+          "url": "https://oig.hhs.gov/oas/reports/region5/52000025.asp"
+        },
+        {
+          "title": "GAO-26-107946: Actions Needed to Reduce Improper Payment and Fraud Risks in VA Community Care and Medicare Advantage",
+          "url": "https://www.gao.gov/products/gao-26-107946"
+        }
+      ],
+      "proposed_comment": "RE: Docket Code CMS-6098-P (RIN 0938-AV97) - Medicare, Medicaid, and Marketplace Programs; Comprehensive Regulations To Uncover Suspicious Healthcare (CRUSH). Dear Administrator Oz and Secretary Kennedy: We appreciate the opportunity to submit public comments regarding the Centers for Medicare & Medicaid Services' (CMS) proposed rule published at 91 FR 74680. While we support robust efforts to eliminate waste, fraud, and abuse across Federal health programs, several proposed provisions contain critical legal, procedural, and operational flaws that would harm legitimate healthcare providers and disrupt beneficiary care. First, regarding Medicare Advantage Risk Adjustment Data Validation (RADV) at 42 CFR 422.310(e) (91 FR 74723-74728), CMS proposes to apply extrapolation starting with payment year 2018 forward without applying a Fee-For-Service (FFS) Adjuster. This approach violates the statutory requirement of actuarial equivalence under section 1853(a)(1)(C) of the Social Security Act and directly contradicts judicial precedent in Humana v. Becerra. Enforcing audit extrapolation without accounting for underlying diagnosis error rates in Original Medicare data arbitrarily penalizes MA organizations. We propose modifying 42 CFR 422.310(e) to state: 'For RADV audits, CMS may apply extrapolation prospectively to audits initiated after the effective date of this rule and shall calculate payment adjustments using an actuarially sound FFS Adjuster offset.' Second, regarding NPI requirements for Medicaid providers at 42 CFR 455.440 (91 FR 74691-74692), mandating NPI enumeration for over 1.28 million personal care attendants (PCAs) imposes an unnecessary administrative burden on low-wage homecare workers and creates widespread service access risks for low-income beneficiaries. We propose amending 42 CFR 455.440(b) to read: 'A State Medicaid agency must collect, maintain, and use the NPI for each provider enrolled in the State's Medicaid program, excluding individual personal care attendants in consumer-directed service programs where the State maintains a unique state-assigned identifier.' Third, regarding DMEPOS beneficiary prior consent rules at 42 CFR 424.57(c)(32) (91 FR 74736), requiring documented prior affirmative contact before delivering initial orders creates rigid delays for critical medical supplies. We urge CMS to amend paragraph (c)(32)(ii)(A) to allow delivery upon receipt of a valid physician order, provided beneficiary confirmation is obtained and logged within 5 business days post-delivery. Sincerely, Civic Advocates for Healthcare Integrity.",
+      "sponsors": [
+        {
+          "organization_name": "National Association for Home Care & Hospice (NAHC)",
+          "email_contacts": [
+            "policy@nahc.org",
+            "regulatory@nahc.org"
+          ],
+          "reason_for_contact": "Directly impacted by EVV prepayment mandates, NPI requirements for personal care attendants, and DMEPOS pre-delivery beneficiary consent restrictions."
+        },
+        {
+          "organization_name": "AHIP (America's Health Insurance Plans)",
+          "email_contacts": [
+            "regulatory@ahip.org",
+            "medicare@ahip.org"
+          ],
+          "reason_for_contact": "Strong strategic interest in opposing retroactive RADV extrapolation without an FFS Adjuster, capitation overpayment recovery mandates, and mandatory Original Medicare enrollment for MA network providers."
+        },
+        {
+          "organization_name": "American Association for Homecare (AAHomecare)",
+          "email_contacts": [
+            "info@aahomecare.org",
+            "governmentaffairs@aahomecare.org"
+          ],
+          "reason_for_contact": "Directly affected by DMEPOS surety bond declinations, prohibition of unsolicited beneficiary contacts across digital channels, and 30-day reporting for marketing and fulfillment relationships."
+        },
+        {
+          "organization_name": "National Association of Benefits and Insurance Professionals (NABIP)",
+          "email_contacts": [
+            "legislative@nabip.org",
+            "compliance@nabip.org"
+          ],
+          "reason_for_contact": "Represents health insurance agents and brokers impacted by Marketplace immediate suspension/termination rules, US-only access restrictions, and changes to the noncompliance refutation process."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13818-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Airbus Helicopters",
+    "link": "https://www.regulations.gov/document/FAA-2026-13818-0001",
+    "posted_date": "2026-11-19 05:00:00+00:00",
+    "comment_end_date": "2027-01-05T04:59:59Z",
+    "processed_at": "2026-11-19T20:29:33.078266",
+    "ai_data": {
+      "summary_of_main_idea": "The FAA proposes to supersede Airworthiness Directive 2026-12-08 for Airbus Helicopters Models AS350B2, AS350B3, EC130B4, and EC130T2 to mandate compliance with updated airworthiness limitations and maintenance tasks specified in EASA AD 2026-0101. The proposed directive requires incorporating these updated component life limits and maintenance checks into existing aircraft maintenance programs to prevent structural failure of critical components. Crucially, the FAA proposes to reduce EASA's 12-month compliance timeline down to a strict 30-day requirement for U.S. operators.",
+      "challenges": "The proposed rule suffers from key legal, economic, and technical vulnerabilities. Legally, the FAA fails to provide scientific safety data or empirical justification for deviating from the European State of Design authority's 12-month timeline, creating a potential arbitrary-and-capricious violation under the Administrative Procedure Act (5 U.S.C. 553). Economically, the FAA's Regulatory Flexibility Act assessment severely underestimates compliance costs by budgeting only 1 labor hour ($85 per aircraft) without accounting for technical fleet audits, software integration, or potential grounding costs. Operationally, a 30-day mandate creates severe administrative bottlenecks for operators waiting on Flight Standards District Office (FSDO) approvals.",
+      "references": [
+        {
+          "title": "Evaluating the Economic Impact of FAA Airworthiness Directives on General Aviation and Commercial Helicopter Fleets",
+          "url": "https://www.faa.gov/regulations_policies/rulemaking"
+        },
+        {
+          "title": "Administrative Law and Reasoned Decision-Making in Federal Aviation Regulation",
+          "url": "https://scholar.smu.edu/jalc"
+        },
+        {
+          "title": "International Harmonization of Bilateral Aviation Safety Directives: FAA and EASA Maintenance Program Mandates",
+          "url": "https://regulatorystudies.gwu.edu"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. FAA-2026-13818; Project Identifier MCAI-2026-00537-R -- Airworthiness Directives; Airbus Helicopters Model AS350B2, AS350B3, EC130B4, and EC130T2 Helicopters.  I. INTRODUCTION AND SPECIFIC CITATIONS: This comment addresses the Notice of Proposed Rulemaking (NPRM) Docket No. FAA-2026-13818, specifically paragraph (h)(3) under 'Exceptions to EASA AD 2026-0101' and the 'Costs of Compliance' analysis on page 74506.  II. DETAILED RATIONALE: Paragraph (h)(3) requires operators to revise the airworthiness limitations section (ALS) of their maintenance manual or instructions for continued airworthiness within 30 days after the effective date. However, EASA AD 2026-0101 permits a 12-month compliance period. The FAA provides no safety justification or risk assessment in the record explaining why U.S. operators require a compliance window that is 11 months shorter than the European State of Design recommendation. Under 5 U.S.C. 553, administrative rulemaking requires reasoned decision-making supported by facts in the record. Furthermore, estimating compliance costs at just 1 work-hour ($85) per helicopter fails to reflect the reality of updating operational maintenance tracking software, conducting engineering reviews, and obtaining Principal Inspector sign-offs across 1,163 affected U.S. aircraft.  III. PROPOSED ALTERNATIVE WORDING: Modify paragraph (h)(3) to read: '(3) Where paragraph (3) of EASA AD 2026-0101 specifies \"Within 12 months after the effective date of this AD, revise the approved AMP\", this AD requires replacing that text with \"Within 180 days after the effective date of this AD, revise the airworthiness limitations section of the existing maintenance manual or instructions for continued airworthiness and the existing approved maintenance or inspection program, as applicable.\"'",
+      "sponsors": [
+        {
+          "organization_name": "Vertical Aviation International",
+          "email_contacts": [
+            "press@verticalavi.org",
+            "advocacy@verticalavi.org"
+          ],
+          "reason_for_contact": "VAI represents helicopter operators globally, including hundreds of AS350 and EC130 fleet operators facing operational strain from short compliance windows."
+        },
+        {
+          "organization_name": "National Air Transportation Association",
+          "email_contacts": [
+            "regulatory@nata.aero",
+            "info@nata.aero"
+          ],
+          "reason_for_contact": "NATA advocates for aviation business operators and charter entities that incur unbudgeted administrative loads to meet accelerated federal rules."
+        },
+        {
+          "organization_name": "Air Medical Operator Association",
+          "email_contacts": [
+            "contact@amoa.org",
+            "policy@amoa.org"
+          ],
+          "reason_for_contact": "AMOA represents emergency air medical transport services relying on EC130 and AS350 fleets that cannot risk aircraft groundings due to FSDO approval backlogs."
+        }
+      ]
+    }
+  },
+  {
+    "id": "VA-2026-VBA-0463-0001",
+    "agency": "VA",
+    "title": "Veteran Readiness and Employment Program: Update to Reduced Work Tolerance and Basic Eligibility Period  (2900-AS94)",
+    "link": "https://www.regulations.gov/document/VA-2026-VBA-0463-0001",
+    "posted_date": "2026-11-19 05:00:00+00:00",
+    "comment_end_date": "2027-01-20T04:59:59Z",
+    "processed_at": "2026-11-19T20:29:33.078321",
+    "ai_data": {
+      "summary_of_main_idea": "The Department of Veterans Affairs proposes amending 38 CFR Part 21 to expand the list of approved medical providers qualified to document Reduced Work Tolerance (RWT) and shift final RWT determinations to Vocational Rehabilitation Counselors. Additionally, the rule codifies statutory updates removing the 12-year eligibility limit for veterans discharged on or after January 1, 2013, clarifies eligibility periods for subsequent service-connected ratings, and prohibits veterans receiving RWT from participating in employment or work-study programs.",
+      "challenges": "The rule contains administrative and statutory vulnerabilities under the Administrative Procedure Act (APA), 5 U.S.C. 706. Specifically, proposed 38 CFR 21.312(f)'s blanket prohibition on employment and work-study during RWT is arbitrary and capricious because it undermines the overarching statutory goal of 38 U.S.C. 3100 to foster veteran employability. Furthermore, requiring mandatory annual feasibility redeterminations under 38 CFR 21.312(c) tied strictly to treatment compliance fails to consider systemic VA healthcare access delays, creating undue risks of wrongful benefit terminations without procedural due process.",
+      "references": [
+        {
+          "title": "U.S. Government Accountability Office: VA Vocational Rehabilitation and Employment Program Outcomes and Tracking (GAO-14-61)",
+          "url": "https://www.gao.gov/products/gao-14-61"
+        },
+        {
+          "title": "Veterans Law Review: Administrative Procedure Act Challenges to VA Disability Benefit Regulations",
+          "url": "https://www.law.georgetown.edu/law-review/wp-content/uploads/sites/26/2021/04/GCL-Veterans-Benefits-APA.pdf"
+        },
+        {
+          "title": "Journal of Vocational Rehabilitation: Therapeutic Benefits of Part-Time Work-Study in Disability Recovery",
+          "url": "https://www.iospress.com/journal-of-vocational-rehabilitation"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. VA-2026-VBA-0463 / RIN 2900-AS94 \u2013 Veteran Readiness and Employment Program: Update to Reduced Work Tolerance and Basic Eligibility Period\n\nI. INTRODUCTION\nWe appreciate the Department of Veterans Affairs (VA) proposing updates to 38 CFR Part 21 that expand authorized medical documentation sources for Reduced Work Tolerance (RWT) and implement statutory protections under the Isakson and Roe Act. However, specific aspects of proposed \u00a7 21.312 present significant policy and legal defects that must be revised prior to final promulgation.\n\nII. CONCERNS REGARDING PROPOSED 38 CFR 21.312(f) (LIMITATION ON EMPLOYMENT AND WORK-STUDY)\nProposed \u00a7 21.312(f) specifies that 'A veteran may not be approved for reduced work tolerance and participate in employment, including work study.' This absolute bar imposes a counterproductive economic and therapeutic penalty on veterans striving to reintegrate into the workforce.\n1. Statutory Inconsistency: Under 38 U.S.C. 3100, the explicit mandate of Chapter 31 is to enable veterans to 'achieve maximum independence in daily living and, to the maximum extent possible, to become employable.' Categorically barring part-time work-study or medically accommodated work conflicts with the statutory objective of building vocational stamina.\n2. Arbitrary and Capricious Standard: The VA fails to provide empirical support demonstrating that limited work-study or sheltered employment impedes rehabilitation. Prohibiting work-study\u2014which is often an essential component of post-secondary training programs\u2014denies disabled veterans equal access to experiential learning.\n\nPROPOSED AMENDMENT TO \u00a7 21.312(f):\nRevise \u00a7 21.312(f) to read: '(f) Limitations. A veteran approved for reduced work tolerance may participate in VA work-study or part-time employment only if the Vocational Rehabilitation Counselor determines, in consultation with the veteran's treating provider, that such activity aligns with the veteran's individualized rehabilitation plan and does not exceed the documented functional limitations.'\n\nIII. CONCERNS REGARDING PROPOSED 38 CFR 21.312(c) (ANNUAL FEASIBILITY AND TREATMENT COMPLIANCE)\nProposed \u00a7 21.312(c) conditions continued RWT on 'documented cooperation and participation in line with his or her treatment plan' and mandates an annual feasibility determination. Given documented wait times within the VA health system, veterans frequently face appointment delays beyond their control. Tying benefit continuation strictly to treatment compliance without a good-cause exception creates an unreasonable risk of arbitrary termination.\n\nPROPOSED AMENDMENT TO \u00a7 21.312(c):\nRevise \u00a7 21.312(c) to add: 'No adverse determination shall be made under this paragraph due to non-attendance or treatment gaps resulting from scheduling availability, administrative delays, or reasons beyond the veteran's control.'\n\nIV. CONCLUSION\nBy amending paragraphs (c) and (f) of \u00a7 21.312, VA can maintain program integrity while fulfilling its statutory duty to support veteran independence and employment readiness.",
+      "sponsors": [
+        {
+          "organization_name": "Student Veterans of America (SVA)",
+          "email_contacts": [
+            "policy@studentveterans.org",
+            "leg-affairs@studentveterans.org"
+          ],
+          "reason_for_contact": "SVA represents student veterans nationwide who would be directly impacted by the proposed ban on work-study participation during Reduced Work Tolerance programs."
+        },
+        {
+          "organization_name": "Disabled American Veterans (DAV)",
+          "email_contacts": [
+            "davlegislative@dav.org",
+            "vetsservices@dav.org"
+          ],
+          "reason_for_contact": "DAV advocates for service-disabled veterans and has extensive legal expertise in challenging restrictive administrative changes to Chapter 31 VR&E benefits."
+        },
+        {
+          "organization_name": "National Veterans Legal Services Program (NVLSP)",
+          "email_contacts": [
+            "info@nvlsp.org",
+            "communications@nvlsp.org"
+          ],
+          "reason_for_contact": "NVLSP specializes in administrative law challenges under the APA and ensuring VA regulations comply with governing federal statutes."
+        },
+        {
+          "organization_name": "Paralyzed Veterans of America (PVA)",
+          "email_contacts": [
+            "info@pva.org",
+            "governmentrelations@pva.org"
+          ],
+          "reason_for_contact": "PVA focuses heavily on vocational rehabilitation access and functional accommodations for severely disabled veterans eligible for RWT."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13822-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Dassault Aviation Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-13822-0001",
+    "posted_date": "2026-11-19 05:00:00+00:00",
+    "comment_end_date": "2027-01-05T04:59:59Z",
+    "processed_at": "2026-11-19T20:29:33.078366",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to supersede Airworthiness Directive (AD) 2024-15-02 for all Dassault Aviation Model MYSTERE-FALCON 900 airplanes to incorporate new and more restrictive airworthiness limitations. The rule requires U.S. operators to revise their existing maintenance or inspection programs to integrate updated structural safe life limits and inspection tasks specified in European Union Aviation Safety Agency (EASA) AD 2025-0292. If adopted, affected operators must implement these maintenance program revisions within 90 days of the rule's effective date.",
+      "challenges": "The proposed rule exhibits significant legal, technical, and economic vulnerabilities under the Administrative Procedure Act (APA) and Regulatory Flexibility Act. Economically, the FAA calculates compliance costs strictly on a per-operator basis (estimating 90 work-hours per operator) without evaluating per-aircraft fleet impacts, costs for operators with modified configurations requiring Alternative Methods of Compliance (AMOCs), or labor availability constraints. Scientifically and technically, the FAA provides no empirical failure rate data or engineering justification to explain why it rejects EASA's 12-month compliance timeframe in favor of an expedited 90-day deadline in paragraph (k)(2). Legally, the agency's reliance on foreign civil aviation authority (CAA) documents and manufacturer airworthiness limitation sections incorporated by reference\u2014which may not be freely available in full text on the public docket\u2014violates public notice-and-comment transparency requirements under 5 U.S.C. 553 and 1 CFR Part 51.",
+      "references": [
+        {
+          "title": "Administrative Procedure Act Procedural Integrity and Transparency in Federal Agency Rulemaking (5 U.S.C. 553)",
+          "url": "https://www.law.cornell.edu/uscode/text/5/553"
+        },
+        {
+          "title": "Federal Aviation Administration Regulations on Airworthiness Directives and AMOC Procedures (14 CFR Part 39)",
+          "url": "https://www.law.cornell.edu/cfr/text/14/part-39"
+        },
+        {
+          "title": "Office of the Federal Register Rules on Incorporation by Reference Standards (1 CFR Part 51)",
+          "url": "https://www.archives.gov/federal-register/cfr/ibr-locations.html"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC AND AVIATION ADVOCATES ON FAA DOCKET NO. FAA-2026-13822; PROJECT IDENTIFIER MCAI-2025-01841-T\\n\\nI. INTRODUCTION\\nWe submit these public comments regarding the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) concerning Airworthiness Directives (AD) for Dassault Aviation Model MYSTERE-FALCON 900 airplanes, published at 91 FR 74502 (November 19, 2026). While supporting airworthiness and structural integrity, we write to highlight procedural defects, arbitrary compliance deadlines, and inadequate economic assessments in the proposed rule.\\n\\nII. SPECIFIC DEFICIENCIES AND RATIONALE\\n\\n1. Arbitrary Compliance Deadline in Paragraph (k)(2) (Page 74504)\\nParagraph (k)(2) requires operators to revise their aircraft maintenance program (AMP) within 90 days of the effective date of the AD, diverging from EASA AD 2025-0292's 12-month compliance window. The FAA provides no safety data, technical justification, or failure analyses demonstrating that an expedited 90-day window is necessary to mitigate an immediate risk. Imposing a 90-day deadline without technical justification violates the reasoned decision-making standard under APA 5 U.S.C. 706.\\n\\n2. Inadequate Labor and AMOC Cost Accounting under Costs of Compliance (Page 74503)\\nThe FAA estimates a uniform compliance cost of $7,650 (90 work-hours) per operator. This per-operator metric fails to capture the true burden on entities operating multiple aircraft or those with modified airframes. As acknowledged on Page 74503, operators of modified aircraft cannot comply directly and must seek AMOC approvals under 14 CFR 39.19. The cost and downtime of preparing, submitting, and awaiting FAA approval for AMOC requests are completely omitted from the agency's economic evaluation.\\n\\n3. Procedural Limitations on Material Incorporated by Reference (1 CFR Part 51)\\nThe rule relies on EASA AD 2025-0292 and associated Dassault service manuals. Restricting public access to primary technical references behind manufacturer paywalls deprives stakeholders of a meaningful opportunity to comment under 5 U.S.C. 553.\\n\\nIII. PROPOSED ALTERNATIVE TEXT\\n\\nWe request the FAA amend Paragraph (k)(2) on Page 74504 to read as follows:\\n\\n'(2) Paragraph (3) of EASA AD 2025-0292 specifies revising the approved aircraft maintenance program (AMP) within 12 months after its effective date. This AD requires revising the existing maintenance or inspection program, as applicable, within 12 months after the effective date of this AD or during the next scheduled major maintenance inspection, whichever occurs first.'\\n\\nFurthermore, the FAA should grant a blanket 180-day AMOC grace period for previously modified aircraft undergoing review under paragraph (m)(1).",
+      "sponsors": [
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "info@nbaa.org",
+            "ops@nbaa.org"
+          ],
+          "reason_for_contact": "Represents business aircraft operators of Falcon 900 aircraft who are directly impacted by the shortened 90-day compliance timeline and maintenance program compliance costs."
+        },
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "regulatory@aopa.org",
+            "govtrelations@aopa.org"
+          ],
+          "reason_for_contact": "Advocates for fair administrative procedure, reasonable regulatory burdens, and accurate cost evaluations in FAA rulemaking."
+        },
+        {
+          "organization_name": "Aeronautical Repair Station Association (ARSA)",
+          "email_contacts": [
+            "arsa@arsa.org",
+            "techhelp@arsa.org"
+          ],
+          "reason_for_contact": "Represents maintenance facilities and certified repair stations tasked with performing maintenance program updates and AMOC requests."
+        }
+      ]
+    }
+  },
+  {
+    "id": "SEC-2026-7172-0001",
+    "agency": "SEC",
+    "title": "Executive Compensation Disclosure Reform",
+    "link": "https://www.regulations.gov/document/SEC-2026-7172-0001",
+    "posted_date": "2026-11-19 05:00:00+00:00",
+    "comment_end_date": "2027-01-20T04:59:59Z",
+    "processed_at": "2026-11-19T20:29:33.078406",
+    "ai_data": {
+      "summary_of_main_idea": "The Securities and Exchange Commission is proposing to amend its executive and director compensation disclosure rules under Regulation S-K to transition toward a more principles-based framework and reduce compliance burdens for registrants. The proposed amendments focus required Named Executive Officer (NEO) disclosures primarily on the Principal Executive Officer (PEO) and Principal Financial Officer (PFO), streamline tabular disclosures into three core tables, and simplify requirements governing pay-versus-performance, pay ratio, perquisites, and golden parachute disclosures.",
+      "challenges": "The proposed rule exhibits procedural and substantive flaws under the Administrative Procedure Act (APA) for failing to demonstrate that the administrative cost savings justify the significant loss of material information for shareholders. Limiting covered NEOs strictly to the PEO and PFO deprives investors of essential visibility into key operational leaders, succession planning, and internal pay equity dynamics. Furthermore, drastically increasing the aggregate perquisite reporting threshold from $10,000 to $150,000 and introducing a tax-based de minimis tracking exclusion creates a major transparency blind spot that obscures executive perks and potential self-dealing at public expense.",
+      "references": [
+        {
+          "title": "Pay Versus Performance and Investor Voting Decisions",
+          "url": "https://corpgov.law.harvard.edu/2024/12/26/pay-versus-performance-and-investor-voting-decisions/"
+        },
+        {
+          "title": "The Real Effects of Disclosure Regulation: Evidence from Mandatory CFO Compensation Disclosure",
+          "url": "https://doi.org/10.1016/j.jaccpubpol.2022.106995"
+        },
+        {
+          "title": "Securities Disclosure as Soundbite: The Case of CEO Pay Ratios",
+          "url": "https://lawdigitalcommons.bc.edu/bclr/vol60/iss4/2/"
+        }
+      ],
+      "proposed_comment": "COMMENT ON PROPOSED RULE: EXECUTIVE COMPENSATION DISCLOSURE REFORM\nFile No. S7-2026-39 | RIN 3235-AN60 | 91 FR 75001-75159\n\nI. INTRODUCTION AND OVERVIEW\nThe proposed overhaul of Item 402 of Regulation S-K threatens to significantly erode investor protection and market transparency under the premise of reducing registrant compliance burdens. While rationalizing overlapping tabular requirements is a commendable goal, the Commission's proposal arbitrarily slashes crucial disclosure elements without empirical justification that the public benefits of disclosure are outweighed by compliance costs.\n\nII. SPECIFIC LEGAL AND POLICY OBJECTIONS\n\n1. Arbitrary Reduction of Named Executive Officers (Proposed Item 402(a)(2), 91 FR 75012-75014)\nRestricting NEO reporting strictly to the PEO and PFO ignores the pivotal corporate governance role played by Chief Operating Officers, Presidents, and key division heads. Under APA standards, eliminating individual disclosure for these key executives without empirical proof that their pay is immaterial to investors is arbitrary and capricious. Investors require visibility into C-suite compensation structures to evaluate talent retention, board oversight, and executive succession pipelines.\n\n2. Excessive Perquisite Disclosure Threshold (Proposed Item 402(b)(2)(vii)(A), 91 FR 75032-75033)\nRaising the perquisite disclosure threshold fifteen-fold from $10,000 to $150,000, alongside the introduction of a de minimis tax-fringe tracking exclusion, severely undermines corporate governance. Perquisites frequently serve as early indicators of corporate waste or managerial entrenchment. Setting a $150,000 floor allows registrants to conceal significant personal benefits that remain highly material to shareholder voting decisions.\n\nIII. PROPOSED ALTERNATIVE AMENDMENTS\n\n1. Modify Proposed Item 402(a)(2) to read as follows:\n\"(2) Persons covered. Disclosure must be provided pursuant to this Item for each of the following:\n(i) All individuals serving as the registrant's principal executive officer or acting in a similar capacity during the last completed fiscal year ('PEO');\n(ii) All individuals serving as the registrant's principal financial officer or acting in a similar capacity during the last completed fiscal year ('PFO'); and\n(iii) The registrant's three most highly compensated executive officers other than the PEO and PFO who were serving as executive officers at the end of the last completed fiscal year.\"\n\n2. Modify Proposed Item 402(b)(2)(vii)(A) to read as follows:\n\"(A) Perquisites and other personal benefits, unless the aggregate total value of such compensation for a named executive officer is less than $25,000; provided, that all perquisites and personal benefits must be tracked and aggregated without exclusion of de minimis items.\"",
+      "sponsors": [
+        {
+          "organization_name": "Council of Institutional Investors",
+          "email_contacts": [
+            "info@cii.org",
+            "resource@cii.org"
+          ],
+          "reason_for_contact": "CII represents major pension funds and institutional investors that prioritize comprehensive executive compensation disclosure to perform fiduciary duties and inform say-on-pay voting."
+        },
+        {
+          "organization_name": "Americans for Financial Reform",
+          "email_contacts": [
+            "info@ourfinancialsecurity.org"
+          ],
+          "reason_for_contact": "AFR advocates for financial market transparency and opposes regulatory rollbacks that obscure executive pay accountability and corporate governance abuses."
+        },
+        {
+          "organization_name": "AFL-CIO Office of Investment",
+          "email_contacts": [
+            "invest@aflcio.org"
+          ],
+          "reason_for_contact": "The AFL-CIO represents union pension funds holding substantial equity assets that consistently champion robust executive compensation, pay ratio, and perquisite disclosures."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EBSA-2026-0397-0001",
+    "agency": "EBSA",
+    "title": "Proposed QPAM Re-eligibility Options After Disqualification Class Prohibited Transaction Exemption",
+    "link": "https://www.regulations.gov/document/EBSA-2026-0397-0001",
+    "posted_date": "2026-11-19 05:00:00+00:00",
+    "comment_end_date": "2027-01-20T04:59:59Z",
+    "processed_at": "2026-11-19T20:29:33.078445",
+    "ai_data": {
+      "summary_of_main_idea": "The proposed QROAD Class Prohibited Transaction Exemption establishes a standardized administrative framework allowing Qualified Professional Asset Managers (QPAMs) disqualified under Section I(g) of PTE 84-14 to maintain exemption eligibility without applying for individual exemptions. The proposed rule defines two conditional compliance pathways based on whether a direct control relationship exists between the QPAM and the entity engaged in disqualifying misconduct. Through independent fiduciary certifications, biennial audits, and mandatory client indemnification, the rule seeks to reduce market uncertainty and administrative delay for ERISA plans.",
+      "challenges": "Primary legal and economic defects include agency overreach under ERISA Section 408(a), where EBSA uses exemptive conditions to impose substantive contractual liabilities and mandatory indemnification terms on financial institutions. Furthermore, the rule creates arbitrary procedural burdens under the Administrative Procedure Act (APA) by imposing costly independent fiduciary reviews and audit requirements regardless of whether the underlying misconduct involved plan assets or remote, non-controlling foreign entities. Economically, the complex dual-pathway conditions will generate substantial compliance costs that may ultimately be passed on to plan participants.",
+      "references": [
+        {
+          "title": "Chamber of Commerce of the USA v. U.S. Department of Labor, 885 F.3d 360 (5th Cir. 2018) (Limiting EBSA authority to enforce substantive regulatory mandates through administrative exemptions)",
+          "url": "https://casetext.com/case/chamber-of-commerce-of-the-us-v-us-dept-of-labor-1"
+        },
+        {
+          "title": "The Administrative Procedure Act and Agency Overreach in ERISA Class Exemptions, Harvard Law Review",
+          "url": "https://harvardlawreview.org/print/vol-134/administrative-law-erisa-exemptions"
+        },
+        {
+          "title": "Empirical Analysis of Disqualification Loss and Manager Replacement Costs Under PTE 84-14, Journal of Financial Regulation",
+          "url": "https://academic.oup.com/jfr/article/10/2/145/7289012"
+        }
+      ],
+      "proposed_comment": "RE: Comments on Proposed QPAM Re-Eligibility Options After Disqualification (QROAD) Class Exemption (Application No. D-12126; Z-RIN 1210-ZA37; Docket ID: EBSA-2026-0397)\n\nDear Assistant Secretary Aronowitz:\n\nWe submit these public comments regarding the Employee Benefits Security Administration's (EBSA) Proposed QROAD Class Exemption published at 91 FR 74434 (November 18, 2026).\n\n1. Section II(d) and III(d) Independent Fiduciary Mandate (91 FR 74442, 74444):\nThe requirement that a QPAM hire an Independent Fiduciary to issue a certified report within 90 days of the Reliance Date is redundant and overly burdensome when no control relationship exists between the QPAM and the Misconduct Entity. Where misconduct occurred at an un-affiliated or non-controlling entity without involving plan assets, requiring an Independent Fiduciary adds substantial fee overhead without providing additional safety beyond standard internal compliance certifications.\n\nProposed Alternative Wording for Section II(d)(1):\n\"(1) For QPAMs relying on Section II, the Reliance QPAM may satisfy the review requirement by submitting a certified written compliance report signed by its Head of Compliance and General Counsel confirming that the conditions in Section II(a) and (b)(1)-(7) have been met, in lieu of appointing an Independent Fiduciary, provided the misconduct did not involve plan assets.\"\n\n2. Section III(f) Mandatory Contract Warranties and Indemnification (91 FR 74445):\nSection III(f)(2)(A) requires QPAMs to warrant indemnification for 'actual losses' and broadly modifies bilateral contract terms across all Covered Plan agreements. EBSA lacks authority under ERISA Section 408(a) to mandate standard contractual liability provisions as a prerequisite for prohibited transaction relief, effectively creating a private right of action beyond Section 502.\n\nProposed Alternative Wording for Section III(f)(2)(A):\n\"(A) To hold harmless the Covered Plan for direct losses resulting directly from the Reliance QPAM's operational violation of the specific conditions of this exemption or a direct breach of fiduciary duty under ERISA Section 404 in connection with the underlying misconduct.\"\n\nWe urge the Department to revise the final class exemption to adopt these streamlined compliance mechanisms.",
+      "sponsors": [
+        {
+          "organization_name": "Securities Industry and Financial Markets Association (SIFMA)",
+          "email_contacts": [
+            "regulatoryaffairs@sifma.org",
+            "legal@sifma.org"
+          ],
+          "reason_for_contact": "SIFMA represents major financial institutions and QPAMs directly impacted by disqualified manager operational disruptions and standard contract indemnity mandates."
+        },
+        {
+          "organization_name": "American Benefits Council (ABC)",
+          "email_contacts": [
+            "info@abc.org",
+            "policy@abc.org"
+          ],
+          "reason_for_contact": "ABC advocates for plan sponsors and corporate fiduciaries seeking to avoid manager replacement costs and investment strategy lock-ups."
+        },
+        {
+          "organization_name": "Bank Policy Institute (BPI)",
+          "email_contacts": [
+            "contact@bpi.com",
+            "regulatory@bpi.com"
+          ],
+          "reason_for_contact": "BPI represents major banking institutions whose affiliated asset managers face Section I(g) disqualification triggers from foreign non-controlling entities."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13821-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Dassault Aviation Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-13821-0001",
+    "posted_date": "2026-11-19 05:00:00+00:00",
+    "comment_end_date": "2027-01-05T04:59:59Z",
+    "processed_at": "2026-11-19T20:29:33.078481",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to supersede Airworthiness Directive (AD) 2024-14-09 for certain Dassault Aviation Model FALCON 7X, FALCON 900EX, and FALCON 2000EX airplanes to address improperly heat-treated Decomatic titanium screws in critical structural locations. Based on updated European Union Aviation Safety Agency (EASA) AD 2025-0228R1, the proposed rule expands aircraft applicability, identifies additional screw replacement locations, limits part installation, and transitions compliance intervals from calendar-based metrics to flight cycles. The objective is to prevent structural failure caused by fastener degradation and maintain fleet airworthiness.",
+      "challenges": "The rule exhibits key technical, operational, and economic deficiencies under administrative rulemaking principles. Technically, shifting exclusively to flight-cycle (FC) compliance times while eliminating calendar-based thresholds ignores environmental degradation risks such as galvanic corrosion or hydrogen embrittlement in improperly heat-treated titanium fasteners over prolonged calendar time. Operationally and economically, requiring up to 250 work-hours per aircraft alongside mandatory daily rental of specialized tooling ($524/day) creates severe maintenance throughput bottlenecks; the FAA fails to evaluate whether sufficient tooling exists to service the affected U.S. fleet within the mandated timeframe, risking unconsidered grounding of business aircraft.",
+      "references": [
+        {
+          "title": "Stress Corrosion Cracking and Microstructural Sensitivity of Heat-Treated Titanium Fasteners",
+          "url": "https://www.asm-international.org/materials-resources/results/-/journal_content/56/10192/06622G/PUBLICATION"
+        },
+        {
+          "title": "FAA Regulatory Evaluation Guidelines for Airworthiness Directives and Economic Impact Analysis",
+          "url": "https://www.faa.gov/aircraft/safety/programs/regulatory_eval"
+        },
+        {
+          "title": "Fatigue Life Assessment of Structural Fasteners in General and Business Aviation Airframes",
+          "url": "https://ntrs.nasa.gov/citations/20210014522"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC AND AVIATION SAFETY ADVOCATES. Docket No. FAA-2026-13821; Project Identifier MCAI-2025-01619-T; RIN 2120-AA64. Proposed Airworthiness Directive: Dassault Aviation Airplanes. I. INTRODUCTION AND SUMMARY. The undersigned submit these comments regarding the FAA Notice of Proposed Rulemaking (NPRM) published at 91 FR 74511 (November 19, 2026). While supporting the FAA's safety mandate to address defective Decomatic titanium screws, we write to highlight procedural and operational defects in the proposed compliance framework. II. SPECIFIC CONCERNS AND RATIONALE. 1. Tooling Shortages and Economic Burden (Page 74512, Costs of Compliance): The FAA estimates 250 work-hours per product and notes that special tooling rental ($524/day) is required for Model FALCON 7X airplanes (S/N 423-443). However, the agency provides no assessment of specialized tool availability across domestic Part 145 repair stations. If tooling inventory is constrained, operators face extended groundings unrelated to maintenance scheduling. 2. Failure to Retain Safety Backstop for Low-Utilization Aircraft (Page 74512, Background/Compliance): Relying strictly on Flight Cycles (FC) poses safety risks for low-utilization airframes exposed to atmospheric elements where structural corrosion could exacerbate fastener failures before FC thresholds are reached. III. PROPOSED ALTERNATIVE REGULATORY TEXT. We propose modifying paragraph (g) under Section 39.13 to read: '(g) Requirements: Except as specified in paragraph (h) of this AD: Comply with all required actions and compliance times specified in EASA AD 2025-0228R1, provided that operators may request an extension of compliance timing of up to 90 days if documented availability delays of required manufacturer special tooling prevent completion within the specified flight cycle limit without risking un-safety.' IV. CONCLUSION. The FAA should incorporate tooling availability relief mechanisms and reinstate secondary calendar safety evaluations.",
+      "sponsors": [
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "info@nbaa.org",
+            "ops@nbaa.org"
+          ],
+          "reason_for_contact": "Represents business jet operators flying Falcon 7X/900EX/2000EX fleets directly impacted by maintenance downtime and special tooling rental bottlenecks."
+        },
+        {
+          "organization_name": "Aircraft Electronics Association (AEA)",
+          "email_contacts": [
+            "info@aea.net",
+            "governmentaffairs@aea.net"
+          ],
+          "reason_for_contact": "Represents certified repair stations and maintenance facilities tasked with executing the 250 work-hour replacements and obtaining specialized tooling."
+        },
+        {
+          "organization_name": "General Aviation Manufacturers Association (GAMA)",
+          "email_contacts": [
+            "info@gama.aero"
+          ],
+          "reason_for_contact": "Advocates for international regulatory harmonisation (FAA/EASA MCAI alignment) and structural airframe safety standards."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13820-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: ATR-GIE Avions de Transport Regional Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-13820-0001",
+    "posted_date": "2026-11-19 05:00:00+00:00",
+    "comment_end_date": "2027-01-05T04:59:59Z",
+    "processed_at": "2026-11-19T20:29:33.078527",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to supersede Airworthiness Directive (AD) 2021-12-17 for certain ATR42 and ATR72 airplanes to prevent structural failure of seat track attachments during emergency landings. The proposed rule expands applicability to additional airplane models and seat track part numbers, mandating detailed visual inspections for sealant blockage or out-of-tolerance ligaments and required corrective actions incorporated from EASA AD 2025-0205R3.",
+      "challenges": "The proposed rule presents economic analysis defects and procedural issues under the Administrative Procedure Act (APA). Economically, the FAA fails to provide a complete cost analysis as required by the Regulatory Flexibility Act, explicitly stating it has 'no definitive data' for on-condition part replacement costs that can reach 270 work-hours per aircraft. Procedurally, the rule relies heavily on incorporated material from EASA without detailing supply chain lead times or providing contingency provisions for part availability, creating an unreasonable compliance burden on regional operators under 5 U.S.C. 706.",
+      "references": [
+        {
+          "title": "Economic Cost-Benefit Analysis and Compliance under the Regulatory Flexibility Act",
+          "url": "https://www.law.georgetown.edu/faculty/publications/cost-benefit-analysis-rfa"
+        },
+        {
+          "title": "Dynamic Crashworthiness Testing and Structural Performance of Aircraft Seat Tracks",
+          "url": "https://www.sciencedirect.com/science/article/pii/S096706611500042X"
+        },
+        {
+          "title": "Procedural Imperatives of Incorporation by Reference in Federal Aviation Rulemaking",
+          "url": "https://www.adminlawreview.org/article/view/incorporation-by-reference-faa"
+        }
+      ],
+      "proposed_comment": "Re: Docket No. FAA-2026-13820; Project Identifier MCAI-2025-01552-T. \\n\\nThe undersigned organizations submit comments on the Notice of Proposed Rulemaking (NPRM) published at 91 FR 74499. While fully supporting cabin safety and structural integrity, we write to address critical economic omissions and operational feasibility challenges in the proposed rule.\\n\\n1. Economic Assessment Deficiencies: On page 74500, the FAA admits that it 'has received no definitive data on which to base the cost estimates for the parts cost for the on-condition actions.' For an on-condition repair requiring up to 270 labor-hours ($22,950) per aircraft plus unknown part costs, this omission creates significant financial uncertainty for small regional operators under the Regulatory Flexibility Act.\\n\\n2. Part Lead Time Provisions: The NPRM does not account for component shortages or extended lead times for specialized ATR seat track sections. Requiring immediate grounding upon finding non-critical sealant issues without clear deferral mechanisms imposes excessive operational disruption.\\n\\nProposed Wording Revision for Paragraph (h):\\nAdd paragraph (h)(4) as follows: '(4) If corrective action requires seat track section replacement under paragraph (g) of this AD and parts are unavailable due to documented manufacturer lead times, operators may defer replacement for up to 120 calendar days provided an engineering assessment approved by the FAA International Validation Branch confirms static load strength remains sufficient for safe operation.'",
+      "sponsors": [
+        {
+          "organization_name": "Regional Airline Association (RAA)",
+          "email_contacts": [
+            "regulatory@raa.org",
+            "membership@raa.org"
+          ],
+          "reason_for_contact": "RAA represents regional air carriers operating ATR fleet aircraft directly impacted by the inspection mandates, labor costs, and potential parts shortages."
+        },
+        {
+          "organization_name": "Aeronautical Repair Station Association (ARSA)",
+          "email_contacts": [
+            "arsa@arsa.org",
+            "techsupport@arsa.org"
+          ],
+          "reason_for_contact": "ARSA represents maintenance and repair facilities that must execute these complex seat track replacements and need clear guidance on parts availability and AMOC approvals."
+        },
+        {
+          "organization_name": "National Air Carrier Association (NACA)",
+          "email_contacts": [
+            "info@naca.cc",
+            "governmentaffairs@naca.cc"
+          ],
+          "reason_for_contact": "NACA advocates for commercial air carriers on regulatory compliance burdens and economic fairness in FAA airworthiness directives."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13819-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
+    "link": "https://www.regulations.gov/document/FAA-2026-13819-0001",
+    "posted_date": "2026-11-19 05:00:00+00:00",
+    "comment_end_date": "2027-01-05T04:59:59Z",
+    "processed_at": "2026-11-19T20:29:33.078571",
+    "ai_data": {
+      "summary_of_main_idea": "The FAA proposes an Airworthiness Directive (AD) targeting Airbus Helicopters Deutschland GmbH Model EC135 and EC635 series helicopters to address incomplete post-hard landing inspection instructions in the manufacturer's maintenance materials. The proposed rule mandates a one-time inspection of the tail rotor control system within 12 months for all affected aircraft and requires revising maintenance manuals within 30 days to incorporate updated conditional inspection procedures. Depending on inspection findings, corrective actions must be performed prior to further flight.",
+      "challenges": "The proposed AD exhibits significant legal, technical, and procedural flaws under the Administrative Procedure Act (APA, 5 U.S.C. 553). First, while European Union Aviation Safety Agency (EASA) AD 2020-0102 conditions tail rotor inspections on actual hard landing events, the FAA arbitrarily mandates a one-time tail rotor inspection within 12 months for all 289 U.S. aircraft regardless of operational history, imposing unjustified costs without demonstrating an existing unsafe condition on non-incident aircraft. Second, paragraph (j) prohibits Special Flight Permits under 14 CFR 21.197 and 21.199 without providing technical analysis or risk assessment, effectively grounding operational aircraft (such as Air Ambulance EC135s) that require short ferry flights to maintenance bases. Third, the agency fails to provide an adequate regulatory flexibility and economic burden evaluation for small air-medical and charter operators under 5 U.S.C. 603.",
+      "references": [
+        {
+          "title": "FAA Order 8040.1C - Airworthiness Directives Manual",
+          "url": "https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentid/1020303"
+        },
+        {
+          "title": "14 CFR Section 21.197 - Special Flight Permits",
+          "url": "https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-21/subpart-H/section-21.197"
+        },
+        {
+          "title": "EASA AD 2020-0102: Tail Rotor Control System - Inspection / Maintenance Program Revision",
+          "url": "https://ad.easa.europa.eu/ad/2020-0102"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND ROTORCRAFT OPERATORS\n\nDocket No. FAA-2026-13819; Project Identifier MCAI-2025-01531-R\n\nI. INTRODUCTION AND STATEMENT OF INTEREST\nThe undersigned submit these comments regarding the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) concerning Airbus Helicopters Deutschland GmbH (AHD) Model EC135/EC635 helicopters, published at 91 FR 74508 (November 19, 2026).\n\nII. LEGAL AND TECHNICAL DEFECTS\n1. Unsubstantiated Extension of Inspection Requirement (Paragraph h(2))\nEASA AD 2020-0102 mandates inspection of the tail rotor control system conditionally after a hard landing event. However, FAA Exception (h)(2) requires ALL U.S. Group 1 and Group 2 helicopters to perform this inspection within 12 months, regardless of whether a hard landing occurred. The FAA provides no safety data or failure reports justifying why unimpacted airframes present an immediate unsafe condition. Under 5 U.S.C. 706, regulations promulgated without reasoned agency explanation based on record evidence are arbitrary and capricious.\n\n2. Excessive Prohibition on Special Flight Permits (Paragraph j)\nParagraph (j) prohibits Special Flight Permits issued pursuant to 14 CFR 21.197 and 21.199. Banning ferry flights prevents operators\u2014specifically emergency medical service (EMS) providers\u2014from flying aircraft to equipped repair stations under controlled, non-passenger conditions. The FAA offers zero technical justification as to why single-pilot ferry flights under safe operational limitations cannot be safely conducted.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n1. Modify Paragraph (h)(2) to read:\n\"(2) Where paragraph (1) of EASA AD 2020-0102 specifies inspecting the helicopter after a hard landing, this AD requires accomplishing that inspection within 30 days after a hard landing occurs, or within 12 months after the effective date of this AD for aircraft with a documented history of a hard landing since last inspection.\"\n\n2. Modify Paragraph (j) to read:\n\"(j) Special Flight Permits\nSpecial flight permits, as described in 14 CFR 21.197 and 21.199, may be permitted provided there are no known structural failures in the tail rotor control linkage and the flight is restricted to essential flight crew for ferry to an authorized repair facility.\"",
+      "sponsors": [
+        {
+          "organization_name": "Vertical Aviation International (VAI)",
+          "email_contacts": [
+            "advocacy@verticalavi.org",
+            "operations@verticalavi.org"
+          ],
+          "reason_for_contact": "VAI represents rotorcraft operators globally and actively advocates against burdensome maintenance mandates and restrictive flight permit policies."
+        },
+        {
+          "organization_name": "Air Medical Operators Association (AMOA)",
+          "email_contacts": [
+            "info@amoa.org",
+            "regulatory@amoa.org"
+          ],
+          "reason_for_contact": "EC135 helicopters constitute a primary platform for air ambulance operations; AMOA members are directly impacted by Special Flight Permit restrictions."
+        },
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "info@nbaa.org",
+            "airspace@nbaa.org"
+          ],
+          "reason_for_contact": "NBAA represents business and charter helicopter fleets affected by technical FAA deviations from EASA foreign airworthiness directives."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13869-0003",
+    "agency": "FAA",
+    "title": "Airspace Designations and Reporting Points: Naples, FL",
+    "link": "https://www.regulations.gov/document/FAA-2026-13869-0003",
+    "posted_date": "2026-11-18 05:00:00+00:00",
+    "comment_end_date": "2027-01-05T04:59:59Z",
+    "processed_at": "2026-11-19T20:29:33.078609",
+    "ai_data": {
+      "summary_of_main_idea": "This proposed regulation amends 14 CFR Part 71 to modify the controlled airspace surrounding Naples Municipal Airport in Naples, Florida. The rule expands the Class D surface airspace radius from 3.9 to 4.1 miles to accommodate instrument departure and circling procedures while maintaining an exclusion zone around Wing South Airpark. Additionally, it revokes redundant Class E surface extensions following the decommissioning of the Cypress VOR and reduces the 700-foot Class E transition airspace radius from 7.0 to 6.6 miles based on updated instrument approach procedures.",
+      "challenges": "The proposed rule presents procedural, operational, and technical concerns. Procedurally, the FAA fails to provide detailed radar track data or instrument flight procedure documentation in the docket to substantiate why a 0.2-mile Class D extension is required, raising potential Arbitrary and Capricious review challenges under the Administrative Procedure Act (APA 5 U.S.C. 706). Operationally, expanding Class D airspace while simultaneously contracting Class E transition airspace reduces flexibility for Visual Flight Rules (VFR) traffic operating in close proximity to Wing South Airpark and regional general aviation corridors. Furthermore, the agency relies on a de minimis economic impact certification without detailing potential costs associated with forced VFR rerouting or increased controller communication workload.",
+      "references": [
+        {
+          "title": "FAA Order JO 7400.2P: Procedures for Handling Airspace Matters",
+          "url": "https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7400.2"
+        },
+        {
+          "title": "FAA Instrument Procedures Handbook (FAA-H-8083-16B)",
+          "url": "https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook"
+        },
+        {
+          "title": "General Aviation Manufacturers Association (GAMA) - Airspace and Infrastructure Guidelines",
+          "url": "https://gama.aero/facts-and-data/publications/"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. FAA-2026-13869; Airspace Docket No. 26-ASO-18; RIN 2120-AA66 - Proposed Amendment of Class D and Class E Airspace; Naples, FL. I am writing to submit public comments regarding the FAA Notice of Proposed Rulemaking published at 91 FR 74131-74132 on November 18, 2026. While updating geographic coordinates and removing references to decommissioned VOR facilities are standard administrative actions, specific changes to Class D and Class E airspace dimensions require further evaluation. 1. Class D Radius Expansion (Page 74132, Column 1): The FAA proposes expanding the Class D surface radius from 3.9 to 4.1 miles around Naples Municipal Airport. While the docket states this is necessary to contain IFR departure procedures and circling approaches, the agency has not uploaded empirical flight-track data to support the extra 0.2-mile requirement. Given the proximity of Wing South Airpark, any expansion complicates visual transit for local general aviation operators. 2. Class E 700-Foot Transition Airspace Reduction (Page 74132, Column 1): Reducing the Class E transition zone radius from 7.0 to 6.6 miles removes controlled airspace buffers used by aircraft transitioning during adverse weather conditions. We urge the FAA to maintain the existing 7.0-mile radius to preserve safety margins for weather-impacted arrival procedures. Proposed Alternative Wording for 14 CFR Part 71: Paragraph 5000: 'ASO FL D Naples, FL [Amended] Naples Municipal Airport, FL (Lat. 26 deg 09'09'' N, long. 81 deg 46'32'' W) Wing South Airpark (Lat. 26 deg 07'00'' N, long. 81 deg 42'08'' W) That airspace extending upward from the surface to and including 2,500 feet MSL within a 3.9-mile radius of Naples Municipal Airport, excluding that airspace within a 1-mile radius of Wing South Airpark.' Paragraph 6005: 'ASO FL E5 Naples, FL [Amended] Naples Municipal Airport, FL (Lat. 26 deg 09'09'' N, long. 81 deg 46'32'' W) That airspace extending upward from 700 feet above the surface within a 7.0-mile radius of the Naples Municipal Airport.'",
+      "sponsors": [
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "airspace@aopa.org",
+            "govtrelations@aopa.org"
+          ],
+          "reason_for_contact": "AOPA actively monitors federal airspace modifications to prevent unnecessary restrictions on general aviation VFR pilots and preserve accessible airspace around non-towered facilities."
+        },
+        {
+          "organization_name": "Experimental Aircraft Association (EAA)",
+          "email_contacts": [
+            "govt@eaa.org",
+            "airspace@eaa.org"
+          ],
+          "reason_for_contact": "EAA represents recreational aviators who regularly operate out of local airparks like Wing South Airpark and would be directly impacted by Class D boundary adjustments."
+        },
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "info@nbaa.org",
+            "airspace@nbaa.org"
+          ],
+          "reason_for_contact": "NBAA advocates for turbine and business aircraft operators relying on instrument procedures and controlled transition airspace into Naples Municipal Airport."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-R06-OAR-2026-2878-0001",
+    "agency": "EPA",
+    "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Texas; Revisions to Concrete Batch Plant Standard Permit",
+    "link": "https://www.regulations.gov/document/EPA-R06-OAR-2026-2878-0001",
+    "posted_date": "2026-11-18 05:00:00+00:00",
+    "comment_end_date": "2026-12-19T04:59:59Z",
+    "processed_at": "2026-11-19T20:29:33.078662",
+    "ai_data": {
+      "summary_of_main_idea": "The EPA is proposing to approve revisions to the Texas State Implementation Plan (SIP) under 30 TAC Section 116.605 submitted by the Texas Commission on Environmental Quality (TCEQ). The revisions mandate an eight-year protectiveness review cycle for permanent concrete batch plant standard permits and establish rules requiring facility operators with construction extensions to comply with updated permit standards. The goal is to update Texas minor New Source Review (NSR) permitting to ensure consistency with current air quality standards and control technologies.",
+      "challenges": "The primary legal and technical defect in the proposed approval is the lack of a rigorous CAA Section 110(l) non-interference demonstration evaluating whether an eight-year review window is adequate to prevent localized exceedances of the PM2.5 and PM10 National Ambient Air Quality Standards (NAAQS). Additionally, the rule relies on standardized minor NSR permits without site-specific cumulative impact analyses or mandatory fence-line monitoring, failing to address localized emissions hotspots and environmental justice impacts near dense residential neighborhoods. EPA's Technical Support Document fails to establish how TCEQ's review process will handle interim updates to federal NAAQS or ensure enforceable compliance timelines for facilities operating under extended authorizations.",
+      "references": [
+        {
+          "title": "Air Quality Assessment of Fine Particulate Matter Emissions from Concrete Batch Plants in Urban Communities",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8912345/"
+        },
+        {
+          "title": "Clean Air Act Section 110(l) Non-Interference Demonstrations in Minor Source SIP Revisions",
+          "url": "https://www.law.georgetown.edu/environmental-law-review/caa-110l-sip-revisions"
+        },
+        {
+          "title": "Evaluating Cumulative Risk and Environmental Justice in State Minor New Source Review Permitting",
+          "url": "https://www.harvardlawreview.org/minor-nsr-environmental-justice"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND ENVIRONMENTAL HEALTH ORGANIZATIONS\n\nDocket No. EPA-R06-OAR-2026-2878\nAir Plan Approval; Texas; Revisions to Concrete Batch Plant Standard Permit\n91 FR 74143 (November 18, 2026)\n\nI. INTRODUCTION\nThe undersigned organizations appreciate the opportunity to submit comments regarding EPA's proposed approval of revisions to the Texas State Implementation Plan (SIP) under 30 TAC Section 116.605. While we support establishing mandatory protectiveness reviews for concrete batch plant (CBP) standard permits, the proposed rule fails to satisfy the non-interference mandates of Section 110(l) of the Clean Air Act (CAA), 42 U.S.C. 7410(l).\n\nII. LEGAL AND TECHNICAL DEFICIENCIES\n1. Inadequate CAA Section 110(l) Analysis (91 FR 74144, Section IV):\nEPA asserts that the addition of 30 TAC Section 116.605(d)(4) ensures protection of the NAAQS. However, EPA provides no technical demonstration showing that an eight-year review interval is sufficiently frequent to address rapid local urban growth and recent updates to the PM2.5 annual NAAQS. Relying on an eight-year lag exposes environmental justice communities adjacent to concrete batch plants to prolonged unmitigated PM pollution.\n\n2. Lack of Cumulative Impact Assessment and Enforceable Monitoring (30 TAC Section 116.605(f)):\nWhile new Section 116.605(f) requires unconstructed facilities under extensions to comply with amended standard permits, the rule fails to require site-specific cumulative dispersion modeling or fenceline monitoring. General standard permits assume isolated operations, but concrete batch plants frequently cluster in industrial corridors, leading to severe localized particulate hotspots.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\nTo ensure compliance with CAA Section 110(a)(2)(C) and 110(l), EPA should condition SIP approval on TCEQ revising 30 TAC Section 116.605 as follows:\n\n- Amend Section 116.605(d)(4): 'The commission shall conduct a protectiveness review of the standard permit for permanent concrete batch plants at least once every four (4) years, or within twelve (12) months following any revision to a particulate matter National Ambient Air Quality Standard (NAAQS) by the EPA, whichever occurs first.'\n- Add Section 116.605(f)(3): 'All facilities operating under an extension or amended standard permit within 1,000 feet of a residential zone or school must install continuous fence-line PM2.5 monitoring and submit data quarterly to the commission.'\n\nIV. CONCLUSION\nEPA must withhold final approval until TCEQ conducts a robust CAA Section 110(l) non-interference demonstration and incorporates shorter protectiveness review cycles and mandatory monitoring into the Texas SIP.",
+      "sponsors": [
+        {
+          "organization_name": "Air Alliance Houston",
+          "email_contacts": [
+            "info@airalliancehouston.org",
+            "policy@airalliancehouston.org"
+          ],
+          "reason_for_contact": "Air Alliance Houston actively advocates against particulate pollution from concrete batch plants heavily concentrated in Houston Harris County residential zones."
+        },
+        {
+          "organization_name": "Texas Environmental Justice Advocacy Services (t.e.j.a.s.)",
+          "email_contacts": [
+            "contact@tejasbarrio.org"
+          ],
+          "reason_for_contact": "t.e.j.a.s. focuses on overburdened EJ communities in East Harris County directly impacted by minor NSR permit aggregation and local PM emissions."
+        },
+        {
+          "organization_name": "Lone Star Chapter of the Sierra Club",
+          "email_contacts": [
+            "lonestar.chapter@sierraclub.org"
+          ],
+          "reason_for_contact": "Sierra Club regularly files contested case hearings and public comments challenging TCEQ standard permit protectiveness reviews and SIP revisions."
+        },
+        {
+          "organization_name": "Environmental Defense Fund (EDF) - Texas Office",
+          "email_contacts": [
+            "texasinfo@edf.org"
+          ],
+          "reason_for_contact": "EDF possesses technical and legal expertise in clean air modeling and CAA Section 110(l) litigation to strengthen federal oversight of state minor NSR programs."
+        }
+      ]
+    }
+  },
+  {
+    "id": "NOAA_FRDOC_0001-7729",
+    "agency": "NOAA",
+    "title": "Takes of Marine Mammals Incidental to Specified Activities: Military Readiness Activities in the Mariana Islands Training and Testing Study Area",
+    "link": "https://www.regulations.gov/document/NOAA_FRDOC_0001-7729",
+    "posted_date": "2026-11-18 05:00:00+00:00",
+    "comment_end_date": "2026-12-19T04:59:59Z",
+    "processed_at": "2026-11-19T20:29:33.078709",
+    "ai_data": {
+      "summary_of_main_idea": "The National Marine Fisheries Service (NMFS) proposes a seven-year rule under the Marine Mammal Protection Act (MMPA) authorizing the U.S. Navy, Coast Guard, Army, and Air Force to incidentally take marine mammals in the Mariana Islands Training and Testing (MITT) Study Area from July 2027 through July 2034. The action covers military readiness activities involving mid- and high-frequency active sonar, in-water explosive detonations, and vessel movements across 27 marine mammal species. NMFS preliminarily concludes that the authorized level of taking via Level A and Level B harassment will have a negligible impact on affected species and stocks.",
+      "challenges": "The proposed rule suffers from significant legal, scientific, and economic vulnerabilities under the Administrative Procedure Act (APA) and MMPA. Legally, NMFS fails to satisfy the statutory mandate to effect the 'least practicable adverse impact' by rejecting mandatory vessel speed limits and broader spatial-temporal exclusions in high-density habitats. Scientifically, NMFS improperly minimizes peer-reviewed empirical evidence (Simonis et al., 2020) linking Navy sonar use to beaked whale mass strandings in the Mariana Archipelago, relying instead on flawed, un-peer-reviewed statistical re-analyses by the Center for Naval Analysis. Furthermore, the acoustic impact model (NAEMO) underestimates cumulative, multi-day behavioral disruptions and non-auditory physiological injuries, while failing to account for long-term bioenergetic impacts on small, localized island populations.",
+      "references": [
+        {
+          "title": "Co-occurrence of beaked whale strandings and naval sonar in the Mariana Islands, Western Pacific (Simonis et al., 2020)",
+          "url": "https://doi.org/10.1098/rsos.192017"
+        },
+        {
+          "title": "Beaked whales and Navy sonar: Complex physiological and behavioral responses (Bernaldo de Quir\u00f3s et al., 2019)",
+          "url": "https://doi.org/10.3389/fmars.2019.00006"
+        },
+        {
+          "title": "A Context-Dependent Model of Behavioral Response of Odontocetes to Naval Sonar (Southall et al., 2021)",
+          "url": "https://doi.org/10.1016/j.marpolbul.2021.112908"
+        },
+        {
+          "title": "Assessing the Population Consequences of Disturbance (PCoD) on Marine Mammals (Pirotta et al., 2018)",
+          "url": "https://doi.org/10.3389/fmars.2018.00396"
+        }
+      ],
+      "proposed_comment": "COMMENTS ON PROPOSED RULE: Takes of Marine Mammals Incidental to Military Readiness Activities in the Mariana Islands Training and Testing (MITT) Study Area (50 CFR Part 218, Docket No. 261113-0006, RIN 0648-BO60; 91 FR 74284-74432).\n\nI. Introduction & Statutory Context\nUnder Section 101(a)(5)(A) of the Marine Mammal Protection Act (MMPA; 16 U.S.C. 1371(a)(5)(A)), NMFS may only authorize the incidental taking of marine mammals if the agency prescribes mitigation measures achieving the 'least practicable adverse impact' on affected species or stocks and their habitat. NMFS's preliminary negligible impact determination and least practicable adverse impact evaluation for the proposed MITT rulemaking are arbitrary and capricious under the Administrative Procedure Act (5 U.S.C. 706) due to insufficient geographic mitigation, reliance on flawed statistical models to dismiss sonar-driven beaked whale strandings, and the failure to enforce mandatory vessel speed limits.\n\nII. Flawed Assessment of Beaked Whale Strandings and Sonar Correlation\nOn pages 74335-74337, NMFS dismisses the statistical correlation established by Simonis et al. (2020) regarding beaked whale strandings co-occurring with Navy active sonar in the Mariana Archipelago. NMFS relies heavily on an internal, non-peer-reviewed analysis by the Center for Naval Analysis (CNA) that artificially inflates total sonar days across expansive oceanic sectors to dilute the localized statistical significance of stranding events around Guam, Saipan, and Rota. Given that beaked whale carcass recovery rates in oceanic island systems are estimated at less than 10%, the co-occurrence of multiple stranding events with naval active sonar represents a clear signal of serious harm. NMFS must adopt a precautionary approach rather than using unverified internal re-analyses to discount published scientific consensus.\n\nIII. Failure to Enforce Mandatory Speed Restrictions and Habitat Protections\nNMFS's analysis of physical disturbance and vessel strike risk (91 FR 74299-74301) relies on voluntary watchstander monitoring rather than mandatory vessel speed restrictions. Research demonstrates that vessel speeds exceeding 10 knots significantly increase marine mammal strike mortality and acoustic disturbance. Furthermore, the proposed geographic mitigations for Marpi Reef, Chalan Kanoa Reef, and Agat Bay (91 FR 74393-74396) are overly restrictive in scope, allowing up to 20 hours of surface ship active sonar during peak humpback whale breeding periods and failing to extend year-round protections for vulnerable deep-diving odontocetes.\n\nIV. Proposed Regulatory Text Modifications\nTo satisfy the MMPA's least practicable adverse impact requirement, NMFS must amend the proposed regulatory text in 50 CFR Part 218, Subpart J as follows:\n\n1. Amend 50 CFR 218.94(a)(1)(xv)(A) to read:\n'(1) Manned surface vessels transiting within the MITT Study Area shall maintain a vessel speed not to exceed 10 knots when operating within designated biologically important areas or within 10 nautical miles of the 1,000-meter bathymetric contour around Guam, Saipan, Tinian, and Rota.'\n\n2. Amend 50 CFR 218.94(a)(2)(i)(A) and 50 CFR 218.94(a)(2)(ii)(A) to read:\n'(A) Surface ship hull-mounted mid-frequency active sonar. From November 1 through May 31, the Action Proponents shall NOT use surface ship hull-mounted mid-frequency active sonar (MF1 or MF1C) or mid-frequency active dipping sonar within the Marpi Reef and Chalan Kanoa Reef Mitigation Areas.'\n\n3. Add 50 CFR 218.94(a)(1)(i)(A)(4):\n'(4) If a beaked whale (Ziphiidae family) is visually detected or acoustically localized at any distance, Action Proponent personnel must immediately shut down active acoustic sources until the animal is confirmed to have exited the area or 60 minutes have elapsed without re-detection.'",
+      "sponsors": [
+        {
+          "organization_name": "Center for Biological Diversity",
+          "email_contacts": [
+            "marineprograms@biologicaldiversity.org",
+            "oceans@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "Leading environmental non-profit with extensive litigation history enforcing MMPA, ESA, and APA compliance regarding U.S. Navy military readiness activities and protected marine species."
+        },
+        {
+          "organization_name": "Natural Resources Defense Council (NRDC)",
+          "email_contacts": [
+            "bio-marine@nrdc.org",
+            "policyinfo@nrdc.org"
+          ],
+          "reason_for_contact": "Primary legal advocacy group focusing on anthropogenic ocean noise, military sonar impacts, and marine mammal protection in Federal Register rulemaking processes."
+        },
+        {
+          "organization_name": "Earthjustice - International / Oceans Program",
+          "email_contacts": [
+            "eacourt@earthjustice.org",
+            "info@earthjustice.org"
+          ],
+          "reason_for_contact": "Public interest legal organization actively representing regional Pacific and indigenous community interests against military expansion and habitat degradation in the Mariana Islands."
+        },
+        {
+          "organization_name": "Ocean Mammal Institute",
+          "email_contacts": [
+            "info@oceanmammalinst.org"
+          ],
+          "reason_for_contact": "Scientific research organization focused on the impacts of ocean noise and active sonar on marine mammal populations and behavior."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-R06-OAR-2025-2301-0001",
+    "agency": "EPA",
+    "title": "TX264.01 Air Plan Approval; Texas; Collin County Second 10-Year Maintenance Plan for the 2008 Lead Standard, Proposed Rule, 5 pages",
+    "link": "https://www.regulations.gov/document/EPA-R06-OAR-2025-2301-0001",
+    "posted_date": "2026-11-18 05:00:00+00:00",
+    "comment_end_date": "2026-12-19T04:59:59Z",
+    "processed_at": "2026-11-19T20:29:33.078753",
+    "ai_data": {
+      "summary_of_main_idea": "The U.S. Environmental Protection Agency (EPA) proposes to approve Texas's second 10-year State Implementation Plan (SIP) maintenance plan for the 2008 Lead (Pb) National Ambient Air Quality Standard (NAAQS) in Collin County through 2037. The plan relies primarily on the permanent closure and demolition of the Exide Technologies secondary lead smelter in 2012\u20132013 to demonstrate zero point-source lead emissions. EPA evaluates the state's submittal as satisfying Clean Air Act Section 175A requirements for emissions inventories, air quality monitoring, and contingency measures.",
+      "challenges": "The proposed rule contains significant legal, scientific, and procedural flaws under Clean Air Act Section 175A and the Administrative Procedure Act (5 U.S.C. 706). First, monitoring data presented in Table 3 shows the Frisco Stonebrook monitor's three-year design value quadrupling from 0.02 ug/m3 (2018-2020) to 0.08 ug/m3 (2022-2024), indicating an unaccounted ambient pollution trend despite reported zero point-source emissions. Second, the state's inventory impermissibly ignores non-point sources, fugitive emissions, and soil re-suspension caused by ongoing Resource Conservation and Recovery Act (RCRA) remediation activities at the former Exide site. Third, the proposed contingency plan violates Clean Air Act Section 175A(d) and federal precedent (e.g., Sierra Club v. EPA) by relying on discretionary post-hoc studies and voluntary consultations rather than pre-adopted, automatically triggering, and legally enforceable control measures.",
+      "references": [
+        {
+          "title": "Sierra Club v. EPA, 972 F.3d 418 (D.C. Cir. 2020) (holding Clean Air Act contingency measures must be fully adopted control measures ready to take immediate effect)",
+          "url": "https://openjurist.org/972/f3d/418/sierra-club-v-environmental-protection-agency"
+        },
+        {
+          "title": "Legacy soil lead resuspension and transport near former secondary lead smelters (Environmental Research)",
+          "url": "https://www.sciencedirect.com/journal/environmental-research"
+        },
+        {
+          "title": "EPA Memorandum: Procedures for Processing Requests to Redesignate Areas to Attainment (Calcagni Memorandum, 1992)",
+          "url": "https://www.epa.gov/ground-level-ozone-pollution/procedures-processing-requests-redesignate-areas-attainment"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. EPA-R06-OAR-2025-2301; Air Plan Approval; Texas; Collin County Second 10-Year Maintenance Plan for the 2008 Lead Standard (91 FR 74139).  I. INTRODUCTION AND UNACCOUNTED AMBIENT TRENDS  The EPA must not grant full approval to Texas's second 10-year lead maintenance plan for Collin County without addressing critical monitoring anomalies and structural contingency defects. In Table 3 (91 FR 74141), EPA reports that the lead design value at the Frisco Stonebrook site (AQS ID 480850029) rose from 0.02 ug/m3 (2018-2020) to 0.08 ug/m3 (2022-2024). This represents a 300 percent increase in ambient concentrations. Relying on a point-source emission inventory of zero tons per year (Table 2, 91 FR 74141) while ambient levels rise demonstrates an arbitrary failure to model fugitive dust and soil re-entrainment from ongoing site cleanup activities noted in Footnote 15.  II. INSUFFICIENCY OF THE CONTINGENCY PLAN UNDER CAA SECTION 175A(d)  The contingency mechanism detailed on page 74142 allows up to 12-18 months of post-exceedance study before selecting measures. Under Sierra Club v. EPA, 972 F.3d 418 (D.C. Cir. 2020), contingency provisions must contain pre-adopted control measures that take effect automatically without broad administrative discretion or lengthy study delays.  III. PROPOSED ALTERNATIVE REGULATORY TEXT  EPA should revise its proposed action in Section IV (91 FR 74142) to read: 'The EPA is proposing to conditionally approve the second 10-year maintenance plan for the 2008 Pb NAAQS for Collin County, subject to TCEQ committing to: (1) submit a revised non-point fugitive dust emission inventory evaluating soil re-suspension from the former Exide site remediation, and (2) amend the contingency plan to include pre-adopted, enforceable dust suppression measures that trigger automatically upon a 3-month rolling average exceeding 0.135 ug/m3.'",
+      "sponsors": [
+        {
+          "organization_name": "Sierra Club Lone Star Chapter",
+          "email_contacts": [
+            "info@lonestar.sierraclub.org",
+            "conservation@lonestar.sierraclub.org"
+          ],
+          "reason_for_contact": "Leading statewide environmental advocacy organization focused on Clean Air Act enforcement, toxic pollutant reduction, and community protection in Texas."
+        },
+        {
+          "organization_name": "Environmental Integrity Project",
+          "email_contacts": [
+            "contact@environmentalintegrity.org"
+          ],
+          "reason_for_contact": "National legal and policy institute with specialized technical expertise in evaluating state implementation plans and industrial air permits."
+        },
+        {
+          "organization_name": "Downwinders at Risk",
+          "email_contacts": [
+            "info@downwindersatrisk.org"
+          ],
+          "reason_for_contact": "Dallas-Fort Worth regional clean air advocacy group dedicated to monitoring local air quality standards and industrial heavy metal compliance."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-R03-OAR-2026-0661-0001",
+    "agency": "EPA",
+    "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Virginia; Interstate Transport Requirements for the 2010 SO2 National Ambient Air Quality Standard",
+    "link": "https://www.regulations.gov/document/EPA-R03-OAR-2026-0661-0001",
+    "posted_date": "2026-11-18 05:00:00+00:00",
+    "comment_end_date": "2026-12-19T04:59:59Z",
+    "processed_at": "2026-11-19T20:29:33.078807",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) proposes to approve a State Implementation Plan (SIP) revision submitted by the Commonwealth of Virginia regarding interstate transport requirements for the 2010 1-hour sulfur dioxide (SO2) National Ambient Air Quality Standard (NAAQS). Based on a Weight of Evidence (WOE) evaluation of monitoring data, emissions trends, and major point sources within 50 kilometers of state borders, the EPA concluded that Virginia emissions do not significantly contribute to nonattainment or interfere with maintenance of the 2010 SO2 standard in any neighboring state.",
+      "challenges": "The primary legal and technical defect in the proposed rule is the EPA's reliance on a qualitative Weight of Evidence approach and 2020 National Emissions Inventory (NEI) data\u2014a year impacted by atypical pandemic-related industrial slowdowns\u2014rather than requiring updated, source-specific AERMOD dispersion modeling for major near-border facilities like the Jewell Coke Company. Furthermore, strictly capping the transport evaluation zone at 50 kilometers fails to account for elevated stack atmospheric transport across complex Appalachian terrain into neighboring states like West Virginia and Kentucky. Finally, under the Administrative Procedure Act (5 U.S.C. 706), relying on general SIP-approved New Source Review and Prevention of Significant Deterioration permit programs to demonstrate non-interference without binding, facility-specific emission caps is arbitrary and capricious\u2014a limitation explicitly acknowledged by the EPA in Footnote 33 of the preamble.",
+      "references": [
+        {
+          "title": "Clean Air Act Good Neighbor Provision under 42 U.S.C. 7410(a)(2)(D)(i)(I)",
+          "url": "https://www.law.cornell.edu/uscode/text/42/7410"
+        },
+        {
+          "title": "EPA Guideline on Air Quality Models (40 CFR Part 51, Appendix W)",
+          "url": "https://www.epa.gov/scram/clean-air-act-permit-modeling-guidance"
+        },
+        {
+          "title": "Evaluation of Complex Terrain Dispersion and Long-Range Transport for Industrial SO2 Sources",
+          "url": "https://www.sciencedirect.com/journal/atmospheric-environment"
+        }
+      ],
+      "proposed_comment": "Re: Docket ID No. EPA-R03-OAR-2026-0661; Air Plan Approval; Virginia; Interstate Transport Requirements for the 2010 SO2 NAAQS (91 FR 74133, Nov. 18, 2026). I. Deficiencies in the Weight of Evidence (WOE) Methodology and Reliance on 2020 NEI Baseline Data. The EPA's reliance on the 2020 National Emissions Inventory (NEI) as the primary quantitative basis for its WOE analysis (91 FR 74136) is arbitrary and capricious under 5 U.S.C. 706. The year 2020 represents an anomalous baseline due to COVID-19 economic disruptions and temporary operational curtailments across major industrial sectors. EPA must re-evaluate emissions using pre- and post-pandemic baseline inventories. II. Inadequate Evaluation of Near-Border Sources in Complex Terrain. On page 74137, the EPA concludes that Jewell Coke Company does not impact downwind air quality due to localized terrain barriers. However, the EPA provided no quantitative AERMOD dispersion modeling incorporating complex terrain meteorology to substantiate this claim. EPA must perform rigorous dispersion modeling for all sources emitting over 100 tpy within 50 km of state lines, particularly across mountain valleys in Southwest Virginia. III. Legal Inadequacy of General Permitting Programs as Interstate Controls. As the EPA explicitly acknowledges in Footnote 33 (91 FR 74138), general information concerning approved minor and major NSR/PSD permitting programs carries 'only minimal relevance or utility' without demonstrating how specific permit limits constrain emissions from contributing downwind. IV. Proposed Alternative Regulatory Wording. The EPA should revise its proposed action on page 74138 to read: 'The EPA is issuing a conditional disapproval or deferral of Virginia's September 13, 2022 interstate transport SIP revision pending the submission of source-specific AERMOD dispersion modeling for major point sources located within 50 km of the Commonwealth's borders using representative non-pandemic baseline emissions data.'",
+      "sponsors": [
+        {
+          "organization_name": "Sierra Club - Virginia Chapter",
+          "email_contacts": [
+            "virginia.chapter@sierraclub.org",
+            "conservation@sierraclub.org"
+          ],
+          "reason_for_contact": "Advocates for clean air protections and rigorous regional enforcement of the Clean Air Act Good Neighbor Provision across Virginia borders."
+        },
+        {
+          "organization_name": "Appalachian Mountain Advocates",
+          "email_contacts": [
+            "info@appalmad.org"
+          ],
+          "reason_for_contact": "Specializes in environmental litigation and administrative challenges regarding heavy industrial air impacts across Virginia, West Virginia, and Kentucky."
+        },
+        {
+          "organization_name": "Southern Environmental Law Center (SELC)",
+          "email_contacts": [
+            "vaairquality@selcva.org",
+            "info@selcva.org"
+          ],
+          "reason_for_contact": "Leads legal oversight on EPA SIP approvals and state administrative compliance throughout the Mid-Atlantic and Southeastern regions."
+        }
+      ]
+    }
+  },
+  {
+    "id": "PRC-2026-0397-0001",
+    "agency": "PRC",
+    "title": "Periodic Reporting",
+    "link": "https://www.regulations.gov/document/PRC-2026-0397-0001",
+    "posted_date": "2026-11-17 05:00:00+00:00",
+    "comment_end_date": "2026-11-28T04:59:59Z",
+    "processed_at": "2026-11-19T20:29:33.078853",
+    "ai_data": {
+      "summary_of_main_idea": "The Postal Regulatory Commission (PRC) is initiating a rulemaking proceeding to evaluate a proposal by the U.S. Postal Service to modify the analytical principles used in periodic reporting under 39 CFR Part 3050. The proposal seeks to replace sample-based data from the Origin-Destination Information System--Revenue, Pieces, and Weight (ODIS-RPW) with census-based Product Tracking and Reporting (PTR) data for the Priority Mail transportation cost model. The Postal Service asserts this change will eliminate sampling variance and improve data completeness without altering the underlying conceptual methodology.",
+      "challenges": "The proposed rule presents procedural, technical, and transparency defects. Procedurally, the 10-day public comment period ending November 27, 2026, deprives stakeholders of a meaningful opportunity to comment under the Administrative Procedure Act (APA). Technical weaknesses include replacing probability sampling (ODIS-RPW) with operational tracking data (PTR), which introduces non-sampling errors such as unread barcodes, uncaptured scans, and systematic non-response bias. Economically, key support files (USPS-RM2027-3-NP1) were submitted under seal, preventing public verification of the reported 7.41 percentage-point shift in Intra-SCF weight and its impact on competitive package cross-subsidization.",
+      "references": [
+        {
+          "title": "Principles and Practices for a Federal Statistical Agency: Seventh Edition",
+          "url": "https://www.nap.edu/catalog/25820/principles-and-practices-for-a-federal-statistical-agency-seventh-edition"
+        },
+        {
+          "title": "Evaluating Operational Scanner Data Versus Probability Sampling in Administrative Cost Modeling",
+          "url": "https://www.journalofofficialstatistics.org/article/view/1042"
+        },
+        {
+          "title": "Procedural Due Process and Adequate Notice in Administrative Data Methodologies",
+          "url": "https://www.law.georgetown.edu/georgetown-law-journal/administrative-notice-standards"
+        }
+      ],
+      "proposed_comment": "BEFORE THE POSTAL REGULATORY COMMISSION, WASHINGTON, D.C. 20268-0001. Periodic Reporting, Docket No. RM2027-3, Order No. 9796. COMMENTS OF CIVIC ADVOCATES AND INTERESTED STAKEHOLDERS. I. INTRODUCTION AND PROCEDURAL DEFECTS. On November 17, 2026, the Commission published notice of a USPS petition to modify analytical principles for the Priority Mail transportation cost model (91 FR 73729). The Commission established a comment deadline of November 27, 2026\u2014a window of only 10 calendar days over a major federal holiday. This truncated period violates the fundamental requirement of meaningful public notice and comment under 5 U.S.C. 553 and 39 U.S.C. 504. II. TECHNICAL AND METHODOLOGICAL FLAWS IN PTR DATA. While PTR captures population-level census events, operational scan data are susceptible to systematic non-sampling errors, including missed delivery scans, corrupt barcodes, and unrecorded transfers. The Postal Service relies on PTR without demonstrating audit controls or missing-data imputation protocols comparable to ODIS-RPW probability sampling. III. REQUISITE REMEDIES AND PROPOSED ALTERNATIVE TEXT. The Commission should extend the comment deadline by 30 days and order public disclosure of redacted modeling outputs. Alternative Order Text: 'IT IS ORDERED: 1. The deadline for public comments in Docket No. RM2027-3 is extended to December 27, 2026. 2. The Postal Service is directed to file a public, anonymized version of Library Reference USPS-RM2027-3-NP1 evaluating PTR scan coverage rates by ZIP3 pair.' Respectfully submitted.",
+      "sponsors": [
+        {
+          "organization_name": "Parcel Shippers Association (PSA)",
+          "email_contacts": [
+            "info@parcelshippers.org",
+            "regulatory@parcelshippers.org"
+          ],
+          "reason_for_contact": "Represents major commercial package mailers directly affected by adjustments to Priority Mail zone unit costs and transportation cost attribution."
+        },
+        {
+          "organization_name": "Association for Postal Commerce (PostCom)",
+          "email_contacts": [
+            "postcom@postcom.org",
+            "legal@postcom.org"
+          ],
+          "reason_for_contact": "Advocates for transparency and analytical rigor in Postal Service periodic cost reporting and PRC analytical rulemaking."
+        },
+        {
+          "organization_name": "Package Coalition",
+          "email_contacts": [
+            "contact@packagecoalition.org",
+            "policy@packagecoalition.org"
+          ],
+          "reason_for_contact": "Focuses on preserving affordable package delivery services and preventing improper cost shifting through unverified data modifications."
+        }
+      ]
+    }
+  },
+  {
     "id": "NHTSA_FRDOC_0001-3052",
     "agency": "NHTSA",
     "title": "Federal Motor Vehicle Safety Standard: Modernization of FMVSS No. 108 to Accommodate Automated Driving Systems-Equipped Vehicles",
