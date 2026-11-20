@@ -1,5 +1,351 @@
 [
   {
+    "id": "FTC-2026-1849-0001",
+    "agency": "FTC",
+    "title": "Petition for Rulemaking of Alden Graham",
+    "link": "https://www.regulations.gov/document/FTC-2026-1849-0001",
+    "posted_date": "2026-11-20 05:00:00+00:00",
+    "comment_end_date": "2026-12-22T04:59:59Z",
+    "processed_at": "2026-11-20T19:46:29.273843",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Trade Commission (FTC) is soliciting public comment on a petition for rulemaking submitted by Alden Graham pursuant to Section 18 of the FTC Act. The petition requests that the Commission institute a rulemaking proceeding to prohibit the sale and distribution of uncertified and malware-infected consumer streaming media devices.",
+      "challenges": "To proceed under Section 18 Magnuson-Moss rulemaking authority (15 U.S.C. 57a), the FTC must demonstrate that the deceptive or unfair practices involving uncertified or malware-infected streaming devices are 'prevalent' across the market. Mandatory certification mandates pose major administrative burdens, risk overreaching FTC statutory authority by encroaching on FCC or CISA regulatory domains, and could harm competition by excluding lower-cost manufacturers or open-source streaming device ecosystems without a clear economic cost-benefit analysis.",
+      "references": [
+        {
+          "title": "FTC Magnuson-Moss Rulemaking Authority and the Prevalence Requirement",
+          "url": "https://www.ftc.gov/system/files/documents/reports/ftc-rulemaking-manual/mag_moss_rulemaking_overview.pdf"
+        },
+        {
+          "title": "Security and Privacy Vulnerabilities in Budget Streaming Media Devices",
+          "url": "https://www.cisa.gov/resources-tools/resources/consumer-iot-security-guidelines"
+        },
+        {
+          "title": "Administrative Law Limitations on FTC Trade Regulation Rules",
+          "url": "https://www.law.georgetown.edu/journal-of-regulation-and-policy/ftc-authority"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. FTC-2026-1849; File No. R707002 \u2014 Comments on Petition for Rulemaking of Alden Graham (91 FR 75245)\n\nI. Introduction\nWe submit these comments in response to the Federal Trade Commission's notice published at 91 FR 75245 (Nov. 20, 2026), regarding the petition for rulemaking filed by Alden Graham. While addressing supply chain cybersecurity risks and consumer hardware safety is a critical objective, the Commission should decline to initiate a Section 18 rulemaking based on the current record.\n\nII. Substantive Legal and Economic Deficiencies\n1. Lack of Evidence Regarding Prevalence: Under 15 U.S.C. 57a(a)(1)(B), the Commission may only issue trade regulation rules if it has reason to believe that unfair or deceptive acts or practices are 'prevalent.' The petitioner has not supplied sufficient empirical data demonstrating that malware-infected devices represent a market-wide systemic practice rather than isolated bad actors.\n2. Jurisdictional and Statutory Overreach: Defining mandatory certification frameworks for consumer media hardware exceeds the FTC's traditional enforcement role and overlaps with regulatory authorities designated to the Federal Communications Commission (FCC) and Cybersecurity and Infrastructure Security Agency (CISA).\n3. Economic Impact on Open-Source Ecosystems: Broad bans on 'uncertified' hardware could unintentionally criminalize open-source media centers, hobbyist streaming platforms, and low-cost consumer electronics, unfairly restricting consumer choice and stifling innovation.\n\nIII. Proposed Action\nRather than initiating a formal Section 18 rulemaking proceeding, the FTC should utilize its enforcement authority under Section 5 of the FTC Act against specific deceptive vendors on a case-by-case basis and collaborate with CISA on voluntary IoT security labeling programs.",
+      "sponsors": [
+        {
+          "organization_name": "Consumer Technology Association (CTA)",
+          "email_contacts": [
+            "policy@cta.tech",
+            "legal@cta.tech"
+          ],
+          "reason_for_contact": " CTA represents tech hardware manufacturers who would face regulatory burdens and compliance costs under a mandatory device certification rule."
+        },
+        {
+          "organization_name": "Electronic Frontier Foundation (EFF)",
+          "email_contacts": [
+            "info@eff.org",
+            "tech-policy@eff.org"
+          ],
+          "reason_for_contact": "EFF advocates for user freedom and open-source software/hardware, which could be inadvertently restricted by mandates against 'uncertified' streaming devices."
+        },
+        {
+          "organization_name": "Center for Cybersecurity Policy and Law",
+          "email_contacts": [
+            "info@cybersecuritypolicy.org"
+          ],
+          "reason_for_contact": "This organization focuses on practical cybersecurity regulations and IoT device standards that balance security with open market practices."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FWS-R2-ES-2026-1651-0001",
+    "agency": "FWS",
+    "title": "Endangered and Threatened Species: Status with Section 4(d) Rule for White Sands Pupfish and Critical Habitat Determination",
+    "link": "https://www.regulations.gov/document/FWS-R2-ES-2026-1651-0001",
+    "posted_date": "2026-11-20 05:00:00+00:00",
+    "comment_end_date": "2027-01-20T04:59:59Z",
+    "processed_at": "2026-11-20T19:46:29.273921",
+    "ai_data": {
+      "summary_of_main_idea": "The U.S. Fish and Wildlife Service proposes to list the White Sands pupfish (Cyprinodon tularosa) as a threatened species under the Endangered Species Act with a species-specific Section 4(d) rule. The rule identifies climate-driven stream drying, extreme flooding, rising temperatures, and invasive vegetation as primary drivers of habitat loss across seven Tularosa Basin locations in southern New Mexico. No critical habitat is designated because all occupied essential habitats occur on Department of War installations covered by Integrated Natural Resources Management Plans, which the Service determined provide a conservation benefit and are thus exempt under Section 4(a)(3)(B)(i).",
+      "challenges": "The proposed rule contains significant legal, scientific, and procedural deficiencies under the Administrative Procedure Act (APA) and Endangered Species Act (ESA). Scientifically, the Service arbitrarily dismissed genomic research by Black et al. (2024) demonstrating distinct species-level divergence between the Malpais Spring and Salt Creek lineages, improperly grouping two distinct taxa into a single threatened listing. Legally, the Service's blanket critical habitat exemption under ESA Section 4(a)(3)(B)(i) relies on military Integrated Natural Resources Management Plans (INRMPs) that lack enforceable commitments, funding guarantees, or adaptive strategies to mitigate severe climate-induced hydrological drying. Furthermore, the proposed Section 4(d) rule creates overly broad, non-permitted exceptions for fish handling and translocations without mandatory public reporting, mandatory oversight protocols, or clear metrics to assess long-term conservation benefit.",
+      "references": [
+        {
+          "title": "Black et al. (2024) - Rapid vertebrate speciation via isolation, bottlenecks, and drift in Tularosa Basin pupfishes",
+          "url": "https://www.regulations.gov/docket/FWS-R2-ES-2026-1651"
+        },
+        {
+          "title": "USGS Southwestern Climate Projections and Evaporative Deficit Models for Arid Aquifers",
+          "url": "https://www.usgs.gov/landsat-missions/climate-and-land-use-change"
+        },
+        {
+          "title": "Legal Analysis of Military Exemption Standards under ESA Section 4(a)(3)(B)",
+          "url": "https://www.law.georgetown.edu/environmental-law-review"
+        }
+      ],
+      "proposed_comment": "PUBLIC COMMENT ON DOCKET NO. FWS-R2-ES-2026-1651: PROPOSED THREATENED STATUS WITH SECTION 4(d) RULE FOR WHITE SANDS PUPFISH\n\nI. INTRODUCTION AND CITATIONS\nThese comments are submitted regarding the proposed rule titled 'Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for White Sands Pupfish and Critical Habitat Determination,' published at 91 FR 75257\u201375282 (November 20, 2026). Specifically, we address issues on pages 75260 (Taxonomic Assessment), 75278\u201375280 (Critical Habitat Exemption under Section 4(a)(3)(B)(i)), and 75281\u201375282 (Proposed 50 CFR 17.44(pp)).\n\nII. SCIENTIFIC DEFICIENCIES IN TAXONOMIC CLASSIFICATION\nOn page 75260, the Service acknowledges the recent peer-reviewed study by Black et al. (2024), which demonstrates genome-wide neutral differentiation and rapid speciation between the Malpais Spring and Salt Creek populations. The Service arbitrarily dismisses this finding due to a lack of documented adaptive phenotypic differences. Under Section 4(b)(1)(A) of the ESA, listing determinations must rely solely on the best available scientific data. Dismissing genomic divergence simply because it stems from genetic drift rather than natural selection violates modern taxonomic standards and ignores distinct evolutionary significant units (ESUs) that warrant independent ESA evaluations or status determinations.\n\nIII. UNJUSTIFIED CRITICAL HABITAT EXEMPTION\nOn pages 75278\u201375280, the Service waives critical habitat designation across 555.26 acres of military lands (White Sands Missile Range and Holloman Air Force Base) pursuant to ESA Section 4(a)(3)(B)(i). However, the Service fails to show that the underlying INRMPs contain binding, funded, and verifiable actions that specifically counter projected climate-driven precipitation declines of 12.4% to 24.5% by 2099 (91 FR 75266\u201375267). Absent mandatory water-level maintenance protocols and binding habitat restoration schedules, relying on voluntary INRMP frameworks to grant a total exemption violates the conservation mandates of the Act.\n\nIV. PROPOSED ALTERNATIVE REGULATORY TEXT FOR 50 CFR 17.44(pp)(3)\nTo ensure adequate accountability and public transparency for activities exempted under the Section 4(d) rule, we propose amending 50 CFR 17.44(pp)(3)(ii) as follows:\n\n'(ii) A qualified person may take White Sands Pupfish associated with translocations, research, and monitoring, provided that:\n(A) All handling, tissue sampling, and translocations adhere to standardized protocols approved annually by the Service;\n(B) Detailed annual reports documenting all instances of incidental mortality, total numbers handled, and specific geographic locations are submitted to the New Mexico Ecological Services Field Office within 30 days of calendar year end;\n(C) Translocations to establish new populations occur only after a 30-day public notice and ecological assessment period published on the Service\\'s public website.'",
+      "sponsors": [
+        {
+          "organization_name": "WildEarth Guardians",
+          "email_contacts": [
+            "info@wildearthguardians.org",
+            "wildlife@wildearthguardians.org"
+          ],
+          "reason_for_contact": "As the original petitioner for the White Sands pupfish in 2007, WildEarth Guardians has a foundational legal interest in ensuring the rule properly addresses taxonomic divergence and secures binding critical habitat protections."
+        },
+        {
+          "organization_name": "Center for Biological Diversity",
+          "email_contacts": [
+            "swheritage@biologicaldiversity.org",
+            "litigation@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "The Center frequently litigates administrative rulemaking defects, specifically improper military critical habitat exemptions and arbitrary taxonomy decisions under the ESA."
+        },
+        {
+          "organization_name": "New Mexico Environmental Law Center",
+          "email_contacts": [
+            "info@nmelc.org"
+          ],
+          "reason_for_contact": "Regional environmental law group committed to protecting New Mexico's endemic aquatic wildlife, native biodiversity, and public natural resources."
+        },
+        {
+          "organization_name": "Defenders of Wildlife",
+          "email_contacts": [
+            "defenders@defenders.org"
+          ],
+          "reason_for_contact": "Expertise in federal administrative law, ESA Section 4(d) rule construction, and habitat conservation planning across southwestern desert water systems."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FDIC-2026-2245-0001",
+    "agency": "FDIC",
+    "title": "Custodial Deposits: Implementing the 21st Century ROAD to Housing Act",
+    "link": "https://www.regulations.gov/document/FDIC-2026-2245-0001",
+    "posted_date": "2026-11-20 05:00:00+00:00",
+    "comment_end_date": "2027-01-20T04:59:59Z",
+    "processed_at": "2026-11-20T19:46:29.273969",
+    "ai_data": {
+      "summary_of_main_idea": "The FDIC proposes to amend 12 CFR Parts 303 and 337 to implement Section 901 of the 21st Century ROAD to Housing Act. The proposed rule creates a limited statutory exception excluding qualifying custodial deposits up to 20 percent of an eligible institution's total liabilities from being classified as brokered deposits for banks under $10 billion in assets. Additionally, the rule establishes interest rate caps for non-well-capitalized institutions accepting custodial deposits and introduces a new notice filing and annual certification requirement.",
+      "challenges": "1. APA & Statutory Authority Defect: The proposed rule introduces a mandatory prior notice submission and annual certification process in 12 CFR 303.243(c) as a substantive prerequisite for relying on the custodial deposit exception. Section 29(j) of the FDI Act establishes bright-line statutory criteria for eligibility without granting the FDIC discretionary authority to condition statutory exclusion on administrative notice filings or notice revocations, violating 5 U.S.C. 706 of the Administrative Procedure Act.\n2. Economic & Technical Weakness: The rigid interpretation of impermissible 'fees' in proposed 12 CFR 337.6(f)(4)(i) creates severe market ambiguity surrounding standard administrative, recordkeeping, and software licensing fees paid to third-party custodians. By conflating necessary operational cost reimbursements with placement fees, the FDIC risks artificially excluding legitimate fiduciary arrangements, frustrating Congress's intent to broaden stable liquidity access for community banks.",
+      "references": [
+        {
+          "title": "Supreme Court of the United States: Loper Bright Enterprises v. Raimondo (Scope of Agency Statutory Authority)",
+          "url": "https://www.supremecourt.gov/opinions/23pdf/22-451_7648.pdf"
+        },
+        {
+          "title": "FDIC Study on Core Deposits and Brokered Deposits (Economic Impact and Liquidity Risk Assessment)",
+          "url": "https://www.fdic.gov/analysis/advisory-committees/academic/brokered-deposits.pdf"
+        },
+        {
+          "title": "Yale Journal on Regulation: Administrative Overreach in Bank Regulatory Classifications",
+          "url": "https://www.yalejreg.com/journal/administrative-law-banking-liquidity"
+        }
+      ],
+      "proposed_comment": "Comments Submitted to the Federal Deposit Insurance Corporation\nRe: Custodial Deposits: Implementing the 21st Century ROAD to Housing Act (RIN 3064-AG38)\n\nI. INTRODUCTION & EXECUTIVE SUMMARY\nWe appreciate the opportunity to comment on the FDIC's Notice of Proposed Rulemaking implementing Section 901 of the 21st Century ROAD to Housing Act (91 FR 75234). While we support the statutory mandate to exempt qualifying custodial deposits up to 20 percent of liabilities for eligible community financial institutions, we write to express serious concerns regarding procedural overreach and overly restrictive definitions contained in the proposal.\n\nII. SPECIFIC COMMENTS AND LEGAL DEFECTS\n\n1. Administrative Overreach in Section 303.243(c) Notice Requirement (Page 75236, 75243)\nUnder proposed 12 CFR 303.243(c)(3), the FDIC mandates that 'a deposit is not a qualifying custodial deposit... unless a notice filer has submitted a written notice to the FDIC.' Congress enacted Section 29(j) of the FDI Act (12 U.S.C. 1831f(j)) to provide an affirmative statutory exemption for qualifying custodial deposits. The statute does not grant the FDIC authority to condition this statutory exemption on an administrative notice requirement or grant the agency unilateral revocation powers. Under Loper Bright Enterprises v. Raimondo, agencies must adhere strictly to statutory boundaries. Making the exception contingent upon filing a notice exceeds the statutory authority granted under Section 901.\n\n2. Narrow Interpretation of Placement Fees in Section 337.6(f)(4) (Page 75236, 75244)\nProposed Sec. 337.6(f)(4)(i) defines placement fees broadly as any fee based directly or indirectly on deposit amounts. Modern custodial relationships frequently involve technology platform, recordkeeping, and operational sub-custodial fees that scale with transaction or account volume without constituting compensation 'for the placement' of deposits. The FDIC should explicitly clarify that bona fide administrative and operational servicing fees do not disqualify deposits from the statutory exception.\n\nIII. PROPOSED REGULATORY REDLINE / ALTERNATIVE TEXT\n\nTo align the rule with statutory intent, we propose the following revisions:\n\nAmend 12 CFR 303.243(c)(3) on page 75243:\n'(3) Voluntary Notice Process for qualifying custodial deposits. An eligible institution or qualifying entity MAY submit a written notice to the FDIC containing the information required by this section to establish a public presumption of compliance. Failure to submit a notice shall not affect an eligible institution\\'s statutory entitlement to reliance on the exception under Sec. 337.6(f).'\n\nAmend 12 CFR 337.6(f)(4)(ii)(C) on page 75244:\n'(C) Fees for a purpose other than the placement, or facilitation of the placement, of deposits, including arm\\'s-length administrative, software licensing, sub-custodial, or recordkeeping fees.'",
+      "sponsors": [
+        {
+          "organization_name": "Independent Community Bankers of America (ICBA)",
+          "email_contacts": [
+            "info@icba.org",
+            "policy@icba.org"
+          ],
+          "reason_for_contact": "Represents thousands of small community banks under $10B in assets that directly benefit from expanding non-brokered deposit caps and minimizing mandatory administrative filing burdens."
+        },
+        {
+          "organization_name": "American Bankers Association (ABA)",
+          "email_contacts": [
+            "custodialdeposits@aba.com",
+            "regulatorycompliance@aba.com"
+          ],
+          "reason_for_contact": "Key banking trade group advocating for clear deposit rules, APA compliance, and practical operational fee definitions."
+        },
+        {
+          "organization_name": "Bank Policy Institute (BPI)",
+          "email_contacts": [
+            "research@bpi.com",
+            "governmentaffairs@bpi.com"
+          ],
+          "reason_for_contact": "Leading financial regulatory research organization capable of mounting legal and administrative challenges against unauthorized agency notice requirements."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FWS-R8-ES-2026-2938-0001",
+    "agency": "FWS",
+    "title": "Endangered and Threatened Species: Status for Mazama Newt",
+    "link": "https://www.regulations.gov/document/FWS-R8-ES-2026-2938-0001",
+    "posted_date": "2026-11-20 05:00:00+00:00",
+    "comment_end_date": "2027-01-20T04:59:59Z",
+    "processed_at": "2026-11-20T19:46:29.274013",
+    "ai_data": {
+      "summary_of_main_idea": "The U.S. Fish and Wildlife Service (USFWS) proposes to list the Mazama newt (Taricha granulosa mazamae), an amphibian endemic to Crater Lake National Park in Oregon, as an endangered species under the Endangered Species Act (ESA). The proposal stems from severe population declines driven primarily by invasive signal crayfish and nonnative salmonids, exacerbated by warming water temperatures. The Service also determined that critical habitat is currently 'not determinable' due to an incomplete economic impact assessment.",
+      "challenges": "1. Administrative Procedure & Statutory Misapplication regarding Critical Habitat: The Service improperly invoked 50 CFR 424.12(a)(2) to declare critical habitat 'not determinable' solely because an economic impact assessment is incomplete. Under 50 CFR 424.12(a)(2), a non-determinable finding is legally valid only if biological data or species biological needs are insufficient, not because the agency has delayed its internal economic analysis\u2014especially when 100% of the species' range lies on federal land (Crater Lake National Park) where economic impacts are minimal.\n2. Methodological and Scientific Deficiencies: As highlighted by peer reviewers, the Service failed to conduct occupancy modeling to account for predator-induced changes in detection probability. Raw survey counts (dropping from 84 in 2008 to 4 in 2025) may reflect behavioral shifts (e.g., newts hiding from crayfish) rather than absolute population collapse. Dismissing peer reviewer recommendations to analyze detection probability and future climate scenarios violates the statutory mandate to use the 'best scientific data available' under ESA Section 4(b)(1)(A).",
+      "references": [
+        {
+          "title": "Girdner et al. (2018) - Introduced signal crayfish suppress native benthic invertebrates and threaten the endemic Mazama newt in Crater Lake, Oregon",
+          "url": "https://www.nps.gov/articles/parkscience34-1_72-73_girdner_et_al.htm"
+        },
+        {
+          "title": "Ray et al. (2022) - Morphological and genetic divergence of the endemic Mazama newt (Taricha granulosa mazamae) in Crater Lake",
+          "url": "https://doi.org/10.1002/ece3.8821"
+        },
+        {
+          "title": "Deno\u00ebl et al. (2019) - Introduced predators drive behavioral shifts and paedomorph loss in alpine newt populations",
+          "url": "https://doi.org/10.1007/s10530-019-01923-5"
+        }
+      ],
+      "proposed_comment": "RE: Comments on Proposed Rule for Endangered Status for Mazama Newt; Docket No. FWS-R8-ES-2026-2938\n\nDear Director Nesvik and Field Supervisor Land,\n\nWe submit these public comments regarding the proposed rule to list the Mazama newt (Taricha granulosa mazamae) as endangered (91 FR 75245). While we strongly support listing the subspecies as endangered under the Endangered Species Act (ESA), we write to highlight significant legal and methodological deficiencies in the proposed rule that must be rectified prior to finalization.\n\nI. Unlawful Deferral of Critical Habitat Designation (91 FR 75256)\nThe Service asserts at 91 FR 75256 that critical habitat is 'not determinable' because an economic impact assessment is incomplete. This finding violates 50 CFR 424.12(a)(2). The governing regulations limit 'not determinable' findings to instances where (i) data sufficient to perform biological analysis are lacking, or (ii) biological needs of the species are not sufficiently well known. Pending economic analyses do not satisfy either regulatory criterion. Furthermore, because the entire range of the Mazama newt is restricted to the littoral zone of Crater Lake within Crater Lake National Park, designating critical habitat imposes no novel economic burdens on private landowners or non-federal entities.\n\nProposed Action: The Service must publish a concurrent proposed critical habitat designation encompassing the lake shorelines of Crater Lake prior to issuing the final listing rule.\n\nII. Inadequate Population and Occupancy Modeling (91 FR 75247-75248)\nIn response to Peer Review Comment 2 (91 FR 75247), the Service declined to perform occupancy modeling to evaluate changes in detection probability, claiming a lack of data. However, failing to adjust raw detection counts for behavioral avoidance (e.g., newts avoiding littoral survey transects due to signal crayfish density) weakens the scientific justification of the rule. Under ESA Section 4(b)(1)(A), the Service must utilize statistical methodologies capable of distinguishing between absolute population declines and changes in detectability.\n\nProposed Wording for Final Rule:\n'50 CFR Part 17 - Amend Section 17.11(h) to list Taricha granulosa mazamae as Endangered and concurrently designate Critical Habitat under 50 CFR 17.95(h) comprising all littoral and shoreline habitat within Crater Lake National Park up to an elevation of 1,883 meters.'",
+      "sponsors": [
+        {
+          "organization_name": "Center for Biological Diversity",
+          "email_contacts": [
+            "wildlife@biologicaldiversity.org",
+            "contact@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "Original petitioner and plaintiff in the settlement agreement forcing the 12-month finding; key partner to push for concurrent critical habitat designation."
+        },
+        {
+          "organization_name": "Klamath-Siskiyou Wildlands Center (KS Wild)",
+          "email_contacts": [
+            "info@kswild.org"
+          ],
+          "reason_for_contact": "Regional conservation advocate focused on public land and species protection in Southern Oregon and the Cascade range."
+        },
+        {
+          "organization_name": "Society for Northwestern Vertebrate Biology",
+          "email_contacts": [
+            "president@snvb.org"
+          ],
+          "reason_for_contact": "Professional scientific society specializing in Pacific Northwest amphibian ecology, ideal for supporting occupancy modeling critiques."
+        }
+      ]
+    }
+  },
+  {
+    "id": "CMS-2026-0826-0562",
+    "agency": "CMS",
+    "title": "Medicare, Medicaid, and Marketplace Programs: Comprehensive Regulations to Uncover Suspicious Healthcare",
+    "link": "https://www.regulations.gov/document/CMS-2026-0826-0562",
+    "posted_date": "2026-11-19 05:00:00+00:00",
+    "comment_end_date": "2027-01-20T04:59:59Z",
+    "processed_at": "2026-11-20T19:46:29.274056",
+    "ai_data": {
+      "summary_of_main_idea": "The proposed rule, titled Comprehensive Regulations To Uncover Suspicious Healthcare (CRUSH), aims to overhaul program integrity, provider enrollment, and enforcement mechanisms across Medicare, Medicaid, CHIP, and the Health Insurance Exchanges. Major initiatives include requiring all Medicare Advantage (MA) providers to enroll in Original Medicare, reinstituting MA Risk Adjustment Data Validation (RADV) extrapolation without a Fee-For-Service adjuster, replacing the Medicaid Eligibility Quality Control (MEQC) program with a federal eligibility audit and disallowance regime, expanding DMEPOS marketing prohibitions, and establishing strict oversight of Exchange agents and brokers.",
+      "challenges": "The rule exhibits critical legal, operational, and economic flaws. Legally, CMS's attempt to reissue RADV extrapolation retroactively to Payment Year 2018 without an FFS adjuster directly conflicts with recent federal judicial vacatur in Humana Inc. v. Becerra (N.D. Tex. 2025) and risks violating Administrative Procedure Act (APA) prohibitions against impermissible retroactive rulemaking. Operationally, mandating Original Medicare enrollment for over 150,000 out-of-network MA providers and requiring National Provider Identifiers (NPIs) for 1.28 million Medicaid Personal Care Attendants (PCAs) imposes immense administrative friction, threatening beneficiary access to care and emergency out-of-network coverage. Economically, replacing State-driven MEQC pilots with centralized federal disallowances above a strict 3 percent error threshold undermines the statutory Federal-State Medicaid partnership under Title XIX, shifting millions in financial uncertainty onto state budgets without addressing root-cause caseworker system limitations.",
+      "references": [
+        {
+          "title": "Humana Inc. v. Becerra, 801 F. Supp. 3d 624 (N.D. Tex. 2025) (vacating CMS 2023 RADV final rule regarding retroactive extrapolation and FFS adjuster policies)",
+          "url": "https://casetext.com/case/humana-inc-v-becerra-2"
+        },
+        {
+          "title": "UnitedHealthcare Ins. Co. v. Becerra, 16 F.4th 867 (D.C. Cir. 2021) (addressing actuarial equivalence and risk adjustment documentation standards)",
+          "url": "https://openjurist.org/16-f4th-867-unitedhealthcare-insurance-company-v-becerra"
+        },
+        {
+          "title": "U.S. Government Accountability Office, Medicare Advantage: Actions Needed to Reduce Improper Payment and Fraud Risks (GAO-26-107946)",
+          "url": "https://www.gao.gov/products/gao-26-107946"
+        }
+      ],
+      "proposed_comment": "RE: Comments on CMS-6098-P: Comprehensive Regulations To Uncover Suspicious Healthcare (CRUSH) Proposed Rule. Dear Administrator Oz and Secretary Kennedy: We appreciate the opportunity to submit public comments on the proposed rule CMS-6098-P. While we support targeted measures to combat healthcare fraud, we write to express serious concerns regarding specific provisions that impose unwarranted administrative burdens and exceed statutory authority. 1. Objections to Retroactive RADV Extrapolation and Omission of FFS Adjuster (42 CFR 422.310(e), pp. 74720-74729): CMS proposes to apply extrapolation to RADV audits retroactively beginning with Payment Year 2018 without applying a Fee-For-Service (FFS) Adjuster. This proposal directly ignores the judicial vacatur in Humana Inc. v. Becerra (N.D. Tex. 2025). Retroactive application violates basic tenets of administrative law and section 1871(e)(1)(A) of the Social Security Act, as plans settled bids based on established audit rules. Proposed Alternative Wording for 42 CFR 422.310(e): 'For RADV audits, CMS may apply extrapolation only to payment years beginning after the effective date of this final rule and shall apply an actuarially valid FFS Adjuster to account for diagnostic documentation differences between FFS Medicare and Medicare Advantage data.' 2. Concerns Regarding Mandatory Original Medicare Enrollment for MA Providers (42 CFR 422.223, pp. 74750-74755): The mandate requiring all in-network and out-of-network MA providers to enroll in Original Medicare by January 1, 2030, will severe out-of-network access, emergency coverage under Sec. 422.113, and supplemental benefits. Requiring non-contracted emergency providers to enroll in Original Medicare creates an impermissible barrier to urgent care delivery. Proposed Alternative Wording for 42 CFR 422.223(a): 'Providers that are eligible to enroll in Medicare must be enrolled in Original Medicare or satisfy plan-level credentialing to receive payment from an MA organization. This requirement shall not apply to out-of-network providers furnishing emergency or urgently needed services under Sec. 422.113, out-of-network providers furnishing care under Sec. 422.112(a)(1)(iii), or providers solely furnishing supplemental benefits under section 1852(a)(3) of the Act.' 3. Burdensome NPI Mandate for Personal Care Attendants (42 CFR 455.440, pp. 74691-74692): Requiring States to collect and use NPIs for 1.28 million PCAs creates substantial intake bottlenecks for home-based care without providing additional program integrity value over state-level registry numbers. Proposed Alternative Wording for 42 CFR 455.440(b): 'A State Medicaid agency must collect, maintain, and use the NPI for all enrolled providers eligible to obtain an NPI under 45 CFR part 162, excluding individual direct-care workers or personal care attendants where the State maintains a unique state-approved provider identifier.' We urge CMS to adopt these proposed modifications to prevent severe care disruptions and legal vulnerabilities.",
+      "sponsors": [
+        {
+          "organization_name": "AHIP (America's Health Insurance Plans)",
+          "email_contacts": [
+            "regulatory@ahip.org",
+            "advocacy@ahip.org"
+          ],
+          "reason_for_contact": "AHIP represents Medicare Advantage organizations directly impacted by the retroactive RADV extrapolation rules and the mandate requiring all MA network and out-of-network providers to enroll in Original Medicare."
+        },
+        {
+          "organization_name": "National Association of Medicaid Directors (NAMD)",
+          "email_contacts": [
+            "info@medicaiddirectors.org",
+            "policy@medicaiddirectors.org"
+          ],
+          "reason_for_contact": "NAMD represents state Medicaid leadership who face substantial administrative cost shifts from MEQC deregulation, new beneficiary eligibility audit disallowances, and quarterly payment suspension mandates."
+        },
+        {
+          "organization_name": "National Association for Home Care & Hospice (NAHC)",
+          "email_contacts": [
+            "regulatory@nahc.org",
+            "info@nahc.org"
+          ],
+          "reason_for_contact": "NAHC represents home health and personal care agencies affected by the mandate requiring NPI enumeration for 1.28 million Personal Care Attendants and enhanced EVV prepayment verification controls."
+        },
+        {
+          "organization_name": "American Medical Association (AMA)",
+          "email_contacts": [
+            "advocacy@ama-assn.org",
+            "grah@ama-assn.org"
+          ],
+          "reason_for_contact": "AMA represents physicians concerned with expanded enrollment revocation powers for ordering DMEPOS items deemed unnecessary and administrative barriers facing out-of-network physicians treating MA patients."
+        }
+      ]
+    }
+  },
+  {
+    "id": "NOAA-NMFS-2026-2014-0001",
+    "agency": "NOAA",
+    "title": "Takes of Marine Mammals Incidental to Specified Activities: Military Readiness Activities in the Mariana Islands Training and Testing Study Area",
+    "link": "https://www.regulations.gov/document/NOAA-NMFS-2026-2014-0001",
+    "posted_date": "2026-11-18 05:00:00+00:00",
+    "comment_end_date": "2026-12-19T04:59:59Z",
+    "processed_at": "2026-11-20T19:46:29.274097",
+    "ai_data": {
+      "summary_of_main_idea": "The National Marine Fisheries Service (NMFS) proposes a 7-year regulatory framework under the Marine Mammal Protection Act (MMPA) authorizing the U.S. Navy, Coast Guard, Army, and Air Force to incidentally take 27 marine mammal species during military readiness activities in the Mariana Islands Training and Testing (MITT) Study Area from July 2027 to July 2034. The specified activities encompass mid- and low-frequency active sonar deployment, in-water explosive detonations, and extensive vessel movements across the Mariana Archipelago. The rule establishes procedural mitigation zones, activity-based powerdowns/shutdowns, and geographic restrictions in biologically sensitive habitats such as Marpi Reef, Chalan Kanoa Reef, and Agat Bay.",
+      "challenges": "The proposed rule contains significant legal, scientific, and procedural vulnerabilities under the Administrative Procedure Act (APA) and the MMPA. First, NMFS fails to demonstrate compliance with the statutory 'least practicable adverse impact' standard by permitting up to 20 annual hours of surface ship hull-mounted mid-frequency active sonar within critical humpback whale breeding grounds (Marpi Reef and Chalan Kanoa Reef) rather than implementing full temporal closures during peak calving months. Second, NMFS arbitrarily dismisses peer-reviewed evidence (Simonis et al., 2020) that establishes a statistically significant correlation between Navy sonar usage and beaked whale strandings in the Mariana Islands, relying instead on non-peer-reviewed internal re-analyses by the Center for Naval Analysis. Third, the rule fails to adequately analyze cumulative impacts and synergistic stressors, including climate-driven ecosystem shifts, chronic vessel noise, and emerging lethal pathogens (such as cetacean circovirus and morbillivirus) documented in Pacific island odontocetes.",
+      "references": [
+        {
+          "title": "Co-occurrence of beaked whale strandings and naval sonar in the Mariana Islands, Western Pacific (Simonis et al., 2020)",
+          "url": "https://doi.org/10.1098/rsos.200092"
+        },
+        {
+          "title": "Evaluating the dynamic response of beaked whales to mid-frequency active sonar (Southall et al., 2019)",
+          "url": "https://doi.org/10.1088/1748-9326/ab29a6"
+        },
+        {
+          "title": "A Marine Mammal Pollution and Pathogen Risk Assessment for the Central and Western Pacific (West et al., 2024)",
+          "url": "https://doi.org/10.3390/v16020215"
+        },
+        {
+          "title": "Marine Mammal Noise Exposure Criteria: Assessing Biological Significance of Behavioral Responses (Southall et al., 2021)",
+          "url": "https://doi.org/10.3389/fmars.2021.758445"
+        }
+      ],
+      "proposed_comment": "COMMENTS ON PROPOSED RULE: Takes of Marine Mammals Incidental to Military Readiness Activities in the Mariana Islands Training and Testing (MITT) Study Area (50 CFR Part 218, Docket No. NOAA-NMFS-2026-2014, RIN 0648-BO60).  I. Failure to Effect the Least Practicable Adverse Impact in Humpback Whale Reproductive Habitat (85 FR 74393-74394; 50 CFR \u00a7 218.94(a)(2)). Under 16 U.S.C. \u00a7 1371(a)(5)(A)(i)(II), NMFS must prescribe regulations reflecting the least practicable adverse impact on affected species and their habitats. In the proposed rule (p. 74393, Table 48 and Table 49), NMFS permits up to 20 hours of surface ship hull-mounted mid-frequency active sonar (MF1/MF1C) within the Marpi Reef and Chalan Kanoa Reef Mitigation Areas from December 1 through April 30. Given that NMFS acknowledges these shallow reef areas represent essential breeding and calving grounds for the Western North Pacific stock of humpback whales (p. 74304), allowing high-intensity active sonar pings during peak reproductive windows directly violates the MMPA mandate. Proposed Regulatory Text Revision: Amend 50 CFR \u00a7 218.94(a)(2)(i)(A) and \u00a7 218.94(a)(2)(ii)(A) to read: '(A) Surface ship hull-mounted mid-frequency active sonar. From December 1 through April 30, the Action Proponents shall not conduct surface ship hull-mounted mid-frequency active sonar (MF1 and MF1C) training or testing activities within the Marpi Reef and Chalan Kanoa Reef Mitigation Areas.'  II. Arbitrary Evaluation of Beaked Whale Stranding Risks (85 FR 74335-74338). NMFS acts arbitrarily and capriciously under APA \u00a7 706(2)(A) by discounting the statistical association between Navy sonar operations and beaked whale strandings documented by Simonis et al. (2020). NMFS relies on an unaccredited internal re-analysis by the Center for Naval Analysis (CNA) that artificially inflates total sonar days across broad oceanic regions to dilute localized spatial correlations near Guam, Saipan, and Rota. Furthermore, requiring all seven diagnostic features of gas and fat embolic syndrome (p. 74336) to prove sonar causality sets an unreasonably high bar that fails to account for carcass decomposition and remote island recovery constraints. NMFS must re-evaluate beaked whale mortality risk utilizing independent expert peer review before finalizing take authorizations under 50 CFR \u00a7 218.92.",
+      "sponsors": [
+        {
+          "organization_name": "Natural Resources Defense Council (NRDC)",
+          "email_contacts": [
+            "proposals@nrdc.org",
+            "interactive@nrdc.org"
+          ],
+          "reason_for_contact": "NRDC leads national litigation and advocacy against ocean noise pollution and active sonar impacts on marine mammals under the MMPA and NEPA."
+        },
+        {
+          "organization_name": "Center for Biological Diversity (CBD)",
+          "email_contacts": [
+            "center@biologicaldiversity.org",
+            "marine@biologicaldiversity.org"
+          ],
+          "reason_for_contact": "CBD specializes in endangered species litigation and habitat protection for Western North Pacific humpback whales and deep-diving cetaceans."
+        },
+        {
+          "organization_name": "Earthjustice (Honolulu Office)",
+          "email_contacts": [
+            "eoffice@earthjustice.org",
+            "midpacific@earthjustice.org"
+          ],
+          "reason_for_contact": "Earthjustice actively represents Pacific Island communities and regional non-profits in legal challenges against military training impacts in Micronesia."
+        },
+        {
+          "organization_name": "Ocean Conservation Research (OCR)",
+          "email_contacts": [
+            "info@ocr.org"
+          ],
+          "reason_for_contact": "OCR provides specialized scientific expertise in ocean bioacoustics and technical reviews of Navy NAEMO acoustic modeling methodologies."
+        }
+      ]
+    }
+  },
+  {
     "id": "CMS_FRDOC_0001-4501",
     "agency": "CMS",
     "title": "Medicare, Medicaid, and Marketplace Programs: Comprehensive Regulations to Uncover Suspicious Healthcare",
