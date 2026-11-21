@@ -1,5 +1,64 @@
 [
   {
+    "id": "CMS-2026-3533-0004",
+    "agency": "CMS",
+    "title": "Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, Medicare Cost Plan Program, and Programs of All-Inclusive Care for the Elderly (CMS-4214-P2)",
+    "link": "https://www.regulations.gov/document/CMS-2026-3533-0004",
+    "posted_date": "2026-11-20 05:00:00+00:00",
+    "comment_end_date": "2027-01-20T04:59:59Z",
+    "processed_at": "2026-11-21T18:49:31.670207",
+    "ai_data": {
+      "summary_of_main_idea": "This proposed rule revises Medicare Advantage (Part C), Medicare Prescription Drug Benefit (Part D), PACE, and Cost Plan regulations for Contract Year 2028 to implement changes in marketing, provider terminations, drug coverage, special needs plans, and network adequacy. It establishes a standardized 'healthy food' requirement for supplemental benefits aligned with federal dietary guidelines and reorganizes agent/broker compensation oversight following recent judicial decisions. Crucially, the rule also creates the mandatory 10-year ADVaNCE MA CMMI model under Section 1115A of the Social Security Act to test a localized 'Diamond Ratings' quality framework, inferred risk adjustment, and LIS-targeted supplemental benefits across selected states.",
+      "challenges": "1. APA & Statutory Defects in Mandatory ADVaNCE MA Model: Mandating participation across entire states under Section 1115A CMMI authority exceeds statutory bounds by waiving core statutory Quality Bonus Payment (QBP) structures and forcing structural contract splitting without voluntary consent or explicit statutory authorization. 2. Due Process and Beneficiary Harm in Provider Termination Notices: Shifting provider termination notices from 30-45 days advance notice to 5 business days after the effective date (\u00a7 422.111(e)) deprives beneficiaries of meaningful advance choice, creating acute care disruptions even with a 90-day continuity of care bridge. 3. Circumvention of Judicial Vacatur on Agent Compensation: Setting an arbitrary 75th percentile box-plot outlier threshold to disapprove base broker compensation indirectly imposes price caps, circumventing the legal ruling in Americans for Beneficiary Choice v. HHS.",
+      "references": [
+        {
+          "title": "MedPAC March 2026 Report to the Congress: Medicare Payment Policy - The Medicare Advantage Program Status Report",
+          "url": "https://www.medpac.gov/wp-content/uploads/2026/03/Mar26_Ch12_MedPAC_Report_To_Congress_SEC.pdf"
+        },
+        {
+          "title": "RAND Evaluation of the Medicare Advantage Value-Based Insurance Design (VBID) Model 2020-2024",
+          "url": "https://www.cms.gov/priorities/innovation/data-and-reports/2026/vbid-report-2020-2024"
+        },
+        {
+          "title": "JAMA Waste in the US Health Care System: Estimated Costs and Potential for Savings",
+          "url": "https://jamanetwork.com/journals/jama/fullarticle/2752664"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND HEALTHCARE POLICY STAKEHOLDERS ON CMS-4214-P2: MEDICARE PROGRAM; CONTRACT YEAR 2028 POLICY AND TECHNICAL CHANGES TO MEDICARE ADVANTAGE AND PART D. I. Introduction. We appreciate the opportunity to comment on CMS-4214-P2. While we support efforts to promote healthy nutrition and streamline interoperability, we write to express significant legal and operational concerns regarding: (1) The post-effective date provider termination notification proposal under \u00a7 422.111(e); (2) The mandatory nature and statutory overreach of the ADVaNCE MA Model under Part 516; and (3) The base compensation outlier methodology under \u00a7 422.2274(b). II. Provider Termination Notifications (\u00a7 422.111(e) and \u00a7 422.112(b)(9), Pages 103-112). CMS proposes to replace advance notice requirements (30-45 days prior to provider termination) with a requirement to notify affected enrollees within 5 business days AFTER the termination effective date, paired with a 90-day continuity of care period at in-network cost sharing. Rationale: Post-hoc notice deprives enrollees of the ability to proactively elect new providers or exercise Special Enrollment Periods (SEPs) prior to experiencing care disruption. While a 90-day continuity of care period is helpful, receiving notice after a doctor-patient relationship has officially severed causes unnecessary confusion, missed appointments, and administrative burden. Proposed Alternative Wording for \u00a7 422.111(e)(2): 'The MA organization must provide written notice to affected enrollees at least 30 calendar days prior to the effective date of a provider termination for without-cause terminations, and within 5 business days after the termination effective date for for-cause terminations.' III. Mandatory ADVaNCE MA CMMI Model (Part 516, Pages 416-572). CMS proposes a mandatory 10-year model in 12 states testing 'Diamond Ratings', replacing statutory QBPs. Rationale: CMMI authority under Section 1115A does not permit the wholesale replacement of statutory QBP benchmarks across vast geographic areas on a non-voluntary basis. Forced contract splits and state-level benchmarking create severe market instability. Proposed Alternative Wording for \u00a7 516.100(a): 'Participation in the ADVaNCE MA model shall be voluntary for MA organizations operating eligible plans in selected model states.' IV. Conclusion. We urge CMS to modify these proposals in the final rule to preserve beneficiary protections and ensure statutory compliance.",
+      "sponsors": [
+        {
+          "organization_name": "America's Health Insurance Plans (AHIP)",
+          "email_contacts": [
+            "regulatory@ahip.org",
+            "policy@ahip.org"
+          ],
+          "reason_for_contact": "AHIP represents Medicare Advantage organizations directly affected by the mandatory ADVaNCE MA CMMI model, mandatory contract splitting, and broker compensation outlier caps."
+        },
+        {
+          "organization_name": "Better Medicare Alliance (BMA)",
+          "email_contacts": [
+            "info@bettermedicarealliance.org"
+          ],
+          "reason_for_contact": "BMA advocates for MA beneficiary protection, health plan stability, and quality care, aligning with concerns regarding post-hoc provider termination notices and QBP overhaul."
+        },
+        {
+          "organization_name": "National Association of Benefits and Insurance Professionals (NABIP)",
+          "email_contacts": [
+            "legislative@nabip.org"
+          ],
+          "reason_for_contact": "NABIP represents healthcare agents and brokers challenging price control mechanisms and arbitrary compensation outlier rules following the court ruling in Americans for Beneficiary Choice v. HHS."
+        },
+        {
+          "organization_name": "Medical Group Management Association (MGMA)",
+          "email_contacts": [
+            "govcomp@mgma.org"
+          ],
+          "reason_for_contact": "MGMA represents physician group practices impacted by mandatory FHIR API testing, 30-day encounter submission deadlines for Part B negotiated drugs, and abrupt provider network terminations."
+        }
+      ]
+    }
+  },
+  {
     "id": "FTC-2026-1849-0001",
     "agency": "FTC",
     "title": "Petition for Rulemaking of Alden Graham",
