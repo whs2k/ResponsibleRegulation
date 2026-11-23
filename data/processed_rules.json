@@ -1,5 +1,381 @@
 [
   {
+    "id": "FCC-2026-4523-0001",
+    "agency": "FCC",
+    "title": "Cybersecurity Labeling for Internet of Things",
+    "link": "https://www.regulations.gov/document/FCC-2026-4523-0001",
+    "posted_date": "2026-11-23 05:00:00+00:00",
+    "comment_end_date": "2027-01-08T04:59:59Z",
+    "processed_at": "2026-11-23T23:43:28.911059",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Communications Commission (FCC) seeks public comment on operational guidelines for the voluntary U.S. Cyber Trust Mark (USCTM) Internet of Things (IoT) cybersecurity labeling program. The proposed rule establishes standards for physical packaging and digital dynamic 'cyber nutrition' labels, mandates a 3-year certification renewal cycle with extensive lab re-testing, requires manufacturers to maintain a designated on-staff 'Qualified Professional', and details procedures for post-market surveillance, ad-hoc audits, and administrative oversight.",
+      "challenges": "The proposed rule exhibits significant legal, technical, and economic defects. Legally, the Commission's plan to unilaterally alter Trademark Use Agreements and Branding Guidance without public notice and comment circumvents Administrative Procedure Act (APA) \u00a7 553 requirements; furthermore, incorporating elements of private CTA-2120 standards creates procedural transparency concerns. Economically and technically, the rule imposes severe compliance costs on small businesses\u2014which comprise 87% to 97% of the affected NAICS sectors\u2014by mandating a dedicated 'Qualified Professional' and an arbitrary 70% lab re-testing requirement during renewal, rather than adopting a risk-proportionate delta-testing framework focused on modified code and active vulnerability history.",
+      "references": [
+        {
+          "title": "Incorporation by Reference in Federal Regulation: Legal Frameworks and Public Access (Administrative Conference of the United States)",
+          "url": "https://www.acus.gov/recommendation/incorporation-reference"
+        },
+        {
+          "title": "Usability and Efficacy of Security Labels for Consumer Internet of Things Devices (Carnegie Mellon University CyLab)",
+          "url": "https://www.cylab.cmu.edu/research/iot-label-design.html"
+        },
+        {
+          "title": "Economic Impacts of Regulatory Compliance and Certification on Small IoT Manufacturers (IEEE Transactions on Engineering Management)",
+          "url": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17"
+        }
+      ],
+      "proposed_comment": "BEFORE THE FEDERAL COMMUNICATIONS COMMISSION WASHINGTON, DC 20554\n\nIn the Matter of Cybersecurity Labeling for Internet of Things, PS Docket No. 23-239, DA 26-1162\n\nCOMMENTS OF CIVIC & INDUSTRY ADVOCATES\n\nI. INTRODUCTION AND EXECUTIVE SUMMARY\nThe undersigned stakeholders respectfully submit these comments in response to the Public Safety and Homeland Security Bureau's Public Notice regarding the U.S. Cyber Trust Mark (USCTM) program. While we support consumer cybersecurity transparency, specific proposals in the Notice create unnecessary economic barriers for small IoT manufacturers and present procedural defects under the Administrative Procedure Act (APA).\n\nII. SECTION-BY-SECTION ANALYSIS & PROPOSED AMENDMENTS\n\n1. Proposed 47 CFR \u00a7 8.224(d) - Mandatory 'Qualified Professional' and 70% Re-testing Burden\nAs drafted, \u00a7 8.224(d) requires grantees to maintain a certified 'Qualified Professional' on staff and submit products to a CyberLAB for re-evaluation of 70% of non-revised baseline requirements every three years. This static sampling percentage is economically punitive and technically unjustified for products with stable hardware and minor routine software updates. Small business entities (representing over 87% of affected manufacturers per the IRFA) will face unsustainable overhead.\nProposed Alternative Wording for \u00a7 8.224(d):\n'(d) The CLA shall evaluate the product certification renewal by conducting a risk-based delta evaluation focused strictly on new or modified software features, hardware revisions, and reported vulnerabilities since initial certification. Re-testing of unchanged baseline elements shall not be required unless a major architecture change occurs.'\nDelete \u00a7 8.224(d)(5) and d(1)-(3) regarding the mandatory USCTM Qualified Professional, replacing it with self-attestation by an authorized organizational officer.\n\n2. Proposed 47 CFR \u00a7 8.223 - Physical Packaging Sizing and Digital Flexibility\nMandating a rigid 1-inch by 2-inch minimum physical packaging label (\u00a7 8.223(b)) impedes compact IoT packaging designs and increases retooling costs. We urge the Commission to permit dynamic digital-only labeling via companion applications or packaging e-labels for smaller consumer IoT form factors.\nProposed Alternative Wording for \u00a7 8.223(b):\n'(b) Sizing and Display Options. Physical labels shall maintain legible proportions appropriate to product packaging. For products where packaging area is constrained or absent, displaying the USCTM logo and QR code within companion digital interfaces, online product listings, or user manuals shall satisfy labeling compliance.'\n\n3. APA Compliance and Branding Guidance Updates\nThe Bureau indicates it may update branding guidance and Trademark Use Agreements without notice-and-comment procedures. Substantive changes affecting mark placement, required disclosures, or sub-licensing terms alter legal rights and must remain subject to standard APA \u00a7 553 notice-and-comment requirements.\n\nIII. CONCLUSION\nThe Commission should adjust the USCTM program to feature risk-proportionate delta recertification and flexible digital labeling, ensuring robust security without stifling small business innovation.",
+      "sponsors": [
+        {
+          "organization_name": "Consumer Technology Association (CTA)",
+          "email_contacts": [
+            "regulatory@cta.tech",
+            "policy@cta.tech"
+          ],
+          "reason_for_contact": "CTA represents consumer technology manufacturers and developed the CTA-2120 standard referenced in the rule; they have a direct interest in preventing overly burdensome re-testing mandates and rigid physical label requirements."
+        },
+        {
+          "organization_name": "National Electrical Manufacturers Association (NEMA)",
+          "email_contacts": [
+            "govrel@nema.org",
+            "communications@nema.org"
+          ],
+          "reason_for_contact": "NEMA represents connected device and smart equipment manufacturers impacted by compliance costs, renewal timeframes, and post-market surveillance procedures."
+        },
+        {
+          "organization_name": "Small Business & Entrepreneurship Council (SBE Council)",
+          "email_contacts": [
+            "info@sbecouncil.org",
+            "policy@sbecouncil.org"
+          ],
+          "reason_for_contact": "SBE Council advocates for small tech developers and start-ups that will be disproportionately burdened by mandatory on-staff Qualified Professionals and costly lab recertifications."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-15115-0001",
+    "agency": "FAA",
+    "title": "Airspace Designations and Reporting Points: Columbus, TX",
+    "link": "https://www.regulations.gov/document/FAA-2026-15115-0001",
+    "posted_date": "2026-11-23 05:00:00+00:00",
+    "comment_end_date": "2027-01-08T04:59:59Z",
+    "processed_at": "2026-11-23T23:43:28.911133",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to amend 14 CFR Part 71 by establishing new Class E airspace extending upward from 700 feet above the surface within a 7.3-mile radius of Columbus Community Hospital Heliport in Columbus, Texas. This action is intended to provide controlled airspace necessary to support new instrument flight rules (IFR) procedures and medical transport operations at the heliport.",
+      "challenges": "The primary operational and regulatory concern is the establishment of a full 7.3-mile circular radius of Class E controlled airspace for a single-pad medical heliport. Standard heliport instrument approach procedures (such as Point-in-Space approaches) typically require tailored approach and departure transition corridors rather than a broad circular boundary. Imposing a 7.3-mile radius creates unnecessary controlled airspace over rural agricultural lands, impacting low-level Visual Flight Rules (VFR) general aviation and aerial application flights without demonstrating a specific safety benefit over corridor-tailored airspace.",
+      "references": [
+        {
+          "title": "FAA Advisory Circular 150/5390-2C: Heliport Design Guidelines",
+          "url": "https://www.faa.gov/airports/resources/advisory_circulars/index.cfm/go/document.current/documentnumber/150_5390-2"
+        },
+        {
+          "title": "FAA Order JO 7400.2P: Procedures for Handling Airspace Matters",
+          "url": "https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7400.2"
+        },
+        {
+          "title": "AOPA Airspace Analysis: Impact of Class E Extensions on General Aviation Operations",
+          "url": "https://www.aopa.org/advocacy/airspace-and-airports"
+        }
+      ],
+      "proposed_comment": "Re: Docket No. FAA-2026-15115; Airspace Docket No. 26-ASW-18: Establishment of Class E Airspace; Columbus, TX (91 FR 75459). The undersigned organization supports the enhancement of IFR procedures for air ambulance services at Columbus Community Hospital Heliport. However, we request that the FAA modify the proposed airspace design on page 75460. The blanket 7.3-mile radius extending upward from 700 feet AGL is overly broad for a heliport facility and needlessly encumbers surrounding low-altitude VFR traffic and agricultural operations. We propose alternative regulatory wording under Paragraph 6005: 'ASW TX E5 Columbus, TX [Establish] - Columbus Community Hospital Heliport, TX (Lat. 29\u00b041'43'' N, long. 96\u00b032'38'' W). That airspace extending upward from 700 feet above the surface within a 3-mile radius of Columbus Community Hospital Heliport, and within 2 miles each side of the instrument approach track extending from the 3-mile radius to 7.3 miles northeast of the heliport.' Tailoring the Class E airspace to the actual IFR approach and departure paths ensures safety for medical operations while preserving unrestrictive low-altitude airspace for general aviation operators.",
+      "sponsors": [
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "govtaffairs@aopa.org",
+            "airspace@aopa.org"
+          ],
+          "reason_for_contact": "AOPA represents general aviation pilots who frequently navigate rural Class E/uncontrolled transition areas under VFR and opposes unnecessarily large Class E airspace radius designations."
+        },
+        {
+          "organization_name": "Vertical Aviation International (VAI)",
+          "email_contacts": [
+            "operations@verticalavi.org",
+            "regulatory@verticalavi.org"
+          ],
+          "reason_for_contact": "VAI advocates for optimized helicopter airspace design and specialized Point-in-Space (PinS) instrument approach procedures tailored specifically to heliports."
+        },
+        {
+          "organization_name": "Texas Agricultural Aviation Association (TAAA)",
+          "email_contacts": [
+            "info@txaaa.org",
+            "support@txaaa.org"
+          ],
+          "reason_for_contact": "Local agricultural applicators operate low-altitude flights in Colorado County, TX, and have a strong interest in preserving accessible low-level airspace around rural communities."
+        }
+      ]
+    }
+  },
+  {
+    "id": "OSHRC-2026-0067-0001",
+    "agency": "OSHRC",
+    "title": "Regulations Implementing the Privacy Act",
+    "link": "https://www.regulations.gov/document/OSHRC-2026-0067-0001",
+    "posted_date": "2026-11-23 05:00:00+00:00",
+    "comment_end_date": "2026-12-24T04:59:59Z",
+    "processed_at": "2026-11-23T23:43:28.911176",
+    "ai_data": {
+      "summary_of_main_idea": "The Occupational Safety and Health Review Commission (OSHRC) proposes to amend its Privacy Act regulations codified at 29 CFR Part 2400. The proposed rule allows requesters to submit Privacy Act requests electronically via email to increase administrative efficiency. Additionally, it standardizes identity verification by requiring all in-person and mail requesters to submit an unsworn declaration under 28 U.S.C. 1746 acknowledging penalties under 18 U.S.C. 1001.",
+      "challenges": "The proposed rule imposes an unduly burdensome identity verification requirement across all Privacy Act requests, creating procedural defects under the Administrative Procedure Act (5 U.S.C. 553) and violating OMB Circular A-108 guidance. Requiring a formal 28 U.S.C. 1746 declaration for initial inquiries regarding system notifications disincentivizes legitimate public access to administrative records. Furthermore, the agency fails to provide a tiered verification model aligned with NIST Special Publication 800-63-3 (Digital Identity Guidelines), unnecessarily treating low-risk notification requests with the same onerous identity proofing as high-risk record access requests.",
+      "references": [
+        {
+          "title": "OMB Circular A-108: Federal Agency Responsibilities for Review, Reporting, and Publication under the Privacy Act",
+          "url": "https://www.whitehouse.gov/wp-content/uploads/2017/11/circular_a-108.pdf"
+        },
+        {
+          "title": "NIST Special Publication 800-63-3: Digital Identity Guidelines",
+          "url": "https://pages.nist.gov/800-63-3/"
+        },
+        {
+          "title": "Doe v. Chao, 540 U.S. 614 (2004) - Supreme Court Privacy Act Interpretation",
+          "url": "https://supreme.justia.com/cases/federal/us/540/614/"
+        }
+      ],
+      "proposed_comment": "RE: Notice of Proposed Rulemaking, 29 CFR Part 2400 (91 FR 75462-75463, November 23, 2026). The Occupational Safety and Health Review Commission (OSHRC) should be commended for modernizing its regulations to allow email submission of Privacy Act requests under 29 CFR 2400.4(a)(1). However, the proposed revisions to 29 CFR 2400.4(c)(3) improperly conflate simple requests for notification of records with requests for actual record access. Requiring a 28 U.S.C. 1746 declaration and 18 U.S.C. 1001 penal notice for mere notification creates an administrative barrier contrary to the Privacy Act purpose (5 U.S.C. 552a(f)). OSHRC should amend proposed Section 2400.4(c)(3) as follows: '(3) Any individual seeking access to personal records by mail, email, or in person must provide identity verification reasonably sufficient to establish identity. Where access to sensitive personal records is requested, the agency may require a written declaration under 28 U.S.C. 1746 affirming identity. Simple requests for notification of the existence of records shall require basic identification only.' This modification ensures appropriate security while maintaining accessible procedures.",
+      "sponsors": [
+        {
+          "organization_name": "Electronic Privacy Information Center (EPIC)",
+          "email_contacts": [
+            "info@epic.org",
+            "privacy@epic.org"
+          ],
+          "reason_for_contact": "EPIC actively advocates for open government regulations that protect individual privacy rights without placing undue procedural burdens on requesters."
+        },
+        {
+          "organization_name": "Electronic Frontier Foundation (EFF)",
+          "email_contacts": [
+            "info@eff.org",
+            "legal@eff.org"
+          ],
+          "reason_for_contact": "EFF focuses on digital civil liberties and modernizing federal identity verification mechanisms to match digital equity standards."
+        },
+        {
+          "organization_name": "Government Accountability Project (GAP)",
+          "email_contacts": [
+            "info@whistleblower.org"
+          ],
+          "reason_for_contact": "GAP represents individuals interacting with oversight agencies and has a strong interest in maintaining low-barrier access to federal records."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13823-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: ATR\u2014GIE Avions de Transport Regional Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-13823-0001",
+    "posted_date": "2026-11-23 05:00:00+00:00",
+    "comment_end_date": "2027-01-08T04:59:59Z",
+    "processed_at": "2026-11-23T23:43:28.911215",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to adopt a new Airworthiness Directive (AD) for all ATR-GIE Avions de Transport Regional Model ATR42-500 and ATR72-212A airplanes. The rule responds to in-service reports where an internal software failure in the integrated air system control (IASC) analog-to-digital converter caused uncommanded outflow valve closures and high negative cabin pressurization rates. To address this safety hazard, the proposed AD mandates the installation of updated IASC software (SW 5.0 or later) and prohibits the installation of older affected software versions.",
+      "challenges": "The proposed rule suffers from economic, technical, and procedural deficiencies. Economically, the FAA improperly certifies under the Regulatory Flexibility Act (RFA) that the rule will not have a significant economic impact on small entities, despite imposing a per-unit cost of $50,170 ($1,003,400 across 20 U.S.-registered turboprops), which severely affects small regional feeder carriers without clear guarantee of warranty coverage. Technically, the proposed directive relies exclusively on a software patch (IASC SW 5.0) to filter digital readout errors, failing to evaluate whether underlying physical hardware sensor degradation causes the analog-to-digital converter failure. Procedurally, under the Administrative Procedure Act (APA) 5 U.S.C. 553, relying almost entirely on incorporated material from EASA AD 2026-0038 without making the complete technical baseline and test validation data directly accessible in the public docket restricts meaningful public notice and comment.",
+      "references": [
+        {
+          "title": "Regulatory Flexibility Act Guidelines and Economic Impact Assessment for Aviation Safety Mandates",
+          "url": "https://www.faa.gov/regulations_policies/rulemaking/guidance"
+        },
+        {
+          "title": "System Safety Assessment of Integrated Modular Avionics and Software Fault Tolerance in Commercial Flight Controls",
+          "url": "https://drs.faa.gov/browse/excelExternalWindow"
+        },
+        {
+          "title": "Procedural Due Process and Incorporation by Reference Under the Administrative Procedure Act (5 U.S.C. 552a)",
+          "url": "https://www.law.cornell.edu/uscode/text/5/552"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. FAA-2026-13823; Project Identifier MCAI-2026-00203-T; RIN 2120-AA64 - Comments on Proposed Airworthiness Directive for ATR-GIE Avions de Transport Regional Model ATR42-500 and ATR72-212A Airplanes.  I. INTRODUCTION AND STATEMENT OF INTEREST. The undersigned submits these comments regarding the FAA's Notice of Proposed Rulemaking (NPRM) published at 91 FR 75454. While we support measures to ensure cabin pressurization safety, the proposed directive presents unaddressed economic burdens and technical gaps that require modification prior to final adoption.  II. ECONOMIC IMPACT ANALYSIS AND SMALL ENTITY CERTIFICATION. In the 'Costs of Compliance' and 'Regulatory Findings' sections (91 FR 75455), the agency certifies that the AD 'would not have a significant economic impact... on a substantial number of small entities.' However, the estimated parts cost of up to $50,000 per aircraft constitutes a substantial capital outlay for regional air carriers operating legacy ATR fleets. The assumption that warranty coverage will offset costs is speculative and unsupported by binding commitments in the docket. The FAA must perform a formal Regulatory Flexibility Analysis and establish a phased compliance timeline or financial mitigation mechanism for small operators.  III. TECHNICAL DEFICIENCIES IN SOFTWARE-ONLY REMEDIATION. Paragraph (e) and Paragraph (g) (91 FR 75456) require replacing IASC SW 3.1 and SW 4.0 with IASC SW 5.0. Relying solely on software to mitigate analog-to-digital converter (ADC) pressure-sensor errors does not address root-cause hardware failures. If the physical ADC hardware experiences electrical degradation, software filtering alone may introduce signal delays or secondary fault modes. The FAA should require hardware signal integrity checks alongside software installation.  IV. PROPOSED REVISED TEXT. We propose amending Paragraph (g) of the proposed AD to read as follows: '(g) Requirements and Hardware Verification: (1) Comply with all required actions and compliance times specified in EASA AD 2026-0038. (2) Prior to or concurrent with the software installation required by paragraph (g)(1) of this AD, perform a functional hardware integrity test of the IASC analog-to-digital converter in accordance with approved manufacturer procedures. (3) If warranty coverage for software part replacement is denied by the manufacturer, operators holding a Small Business Administration (SBA) small entity classification may request an extended compliance period of up to 12 months under paragraph (j)(1) of this AD.'  V. CONCLUSION. The FAA should revise the rule to mandate physical hardware checks, publish complete background test data to the public docket, and provide compliance flexibility for regional air carriers.",
+      "sponsors": [
+        {
+          "organization_name": "Regional Airline Association (RAA)",
+          "email_contacts": [
+            "support@raa.org",
+            "governmentaffairs@raa.org"
+          ],
+          "reason_for_contact": "Represents regional air carriers that operate ATR42 and ATR72 aircraft and face direct financial impact from mandatory $50,000-per-plane equipment costs."
+        },
+        {
+          "organization_name": "National Air Transportation Association (NATA)",
+          "email_contacts": [
+            "regulatory@nata.aero",
+            "info@nata.aero"
+          ],
+          "reason_for_contact": "Advocates for aviation businesses and non-mainline operators impacted by FAA regulatory flexibility certifications and equipment compliance mandates."
+        },
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "govtaffairs@aopa.org",
+            "regulatory@aopa.org"
+          ],
+          "reason_for_contact": "Promotes fair rulemaking and procedural compliance under the Administrative Procedure Act for commercial and general aviation fleets."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-14224-0001",
+    "agency": "FAA",
+    "title": "Airspace Designations and Reporting Points: Lebanon, NH",
+    "link": "https://www.regulations.gov/document/FAA-2026-14224-0001",
+    "posted_date": "2026-11-23 05:00:00+00:00",
+    "comment_end_date": "2027-01-08T04:59:59Z",
+    "processed_at": "2026-11-23T23:43:28.911255",
+    "ai_data": {
+      "summary_of_main_idea": "This proposed rule by the Federal Aviation Administration (FAA) aims to modify the Class D and Class E airspace structure surrounding Lebanon Municipal Airport in Lebanon, NH. The regulation expands the lateral boundaries and extensions of Class D airspace to contain Instrument Flight Rules (IFR) operations, eliminates the obsolete Class E4 arrival extension airspace, updates the airport's geographic coordinates, and modernizes references to the Chart Supplement.",
+      "challenges": "The proposed rule lacks empirical safety data, radar flight track analysis, or quantitative traffic density studies to justify expanding Class D airspace while simultaneously revoking Class E4 airspace, raising arbitrary and capricious review concerns under APA 5 U.S.C. 706. Additionally, the FAA relies on a conclusory assertion of 'de minimis' economic impact under the Regulatory Flexibility Act (RFA) without evaluating potential operational constraints, communications burdens, or circumnavigation costs imposed on local Visual Flight Rules (VFR) general aviation pilots.",
+      "references": [
+        {
+          "title": "Administrative Procedure Act - 5 U.S.C. Section 553 Notice and Comment Requirements",
+          "url": "https://www.law.cornell.edu/uscode/text/5/553"
+        },
+        {
+          "title": "FAA Order JO 7400.2P: Procedures for Handling Airspace Matters",
+          "url": "https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7400.2"
+        },
+        {
+          "title": "AOPA Airspace Advisory and General Aviation Operations Analysis",
+          "url": "https://www.aopa.org/advocacy/airports-and-airspace"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND GENERAL AVIATION OPERATORS\n\nDocket No. FAA-2026-14224; Airspace Docket No. 26-ANE-8\nAmendment of Class D and E Airspace over Lebanon, NH\n\nI. INTRODUCTION AND INTEREST OF COMMENTERS\nThe undersigned stakeholders submit these comments regarding the FAA's Notice of Proposed Rulemaking (NPRM) proposing to amend Class D and Class E airspace at Lebanon Municipal Airport, NH (91 FR 75460).\n\nII. SPECIFIC CITATIONS AND LEGAL DEFICIENCIES\n1. Absence of Technical and Safety Data (91 FR 75461, 'The Proposal'):\nThe proposal increases the Class D surface radius to 4.8 miles and adds multiple arrival extensions (e.g., 349 deg, 058 deg, 182 deg, 225 deg bearings) while removing Class E4 airspace. However, the FAA fails to provide underlying radar track data, traffic counts, or IFR instrument procedure trajectory studies demonstrating why the existing Class E4 airspace is inadequate or why expanded Class D control is required. Under 5 U.S.C. 553(b), agencies must disclose the technical data upon which a rule relies.\n\n2. Unsubstantiated Regulatory Flexibility Act Certification (91 FR 75461, 'Regulatory Notices'):\nThe agency asserts that costs will be 'de minimis' without presenting any analysis on how VFR general aviation aircraft navigating around the expanded Class D boundary will be affected by increased fuel burn or operational delays.\n\nIII. PROPOSED ALTERNATIVE TEXT\nWe request the FAA revise the final rule text for Paragraph 5000 (ANE NH D Lebanon, NH) to retain the standard 4.3-mile Class D radius unless public radar density plots justifying the 4.8-mile radius and specific approach corridor extensions are placed in the public docket for review and comment prior to finalization.",
+      "sponsors": [
+        {
+          "organization_name": "Aircraft Owners and Pilots Association (AOPA)",
+          "email_contacts": [
+            "govtaffairs@aopa.org",
+            "airspace@aopa.org"
+          ],
+          "reason_for_contact": "AOPA represents general aviation pilots who will be directly impacted by expanded controlled airspace boundaries and operational requirements near Lebanon, NH."
+        },
+        {
+          "organization_name": "Experimental Aircraft Association (EAA)",
+          "email_contacts": [
+            "govt@eaa.org"
+          ],
+          "reason_for_contact": "EAA advocates for recreational aviators who utilize visual flight rules in local airspace surrounding regional airports."
+        },
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "info@nbaa.org",
+            "airspace@nbaa.org"
+          ],
+          "reason_for_contact": "NBAA represents business aircraft operators using IFR approach procedures at Lebanon Municipal Airport and regional destinations."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13826-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: ATR\u2014GIE Avions de Transport Regional Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-13826-0001",
+    "posted_date": "2026-11-23 05:00:00+00:00",
+    "comment_end_date": "2027-01-08T04:59:59Z",
+    "processed_at": "2026-11-23T23:43:28.911294",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to adopt a new airworthiness directive (AD) for all ATR-GIE Avions de Transport Regional Model ATR42 and ATR72 airplanes. The rule requires operators to revise their maintenance or inspection programs within 30 days to incorporate updated manufacturer mooring procedures. This action aims to prevent wind-induced mooring loads from exceeding nose and main landing gear certification limits, avoiding potential ground control loss or structural failure.",
+      "challenges": "The proposed rule exhibits several legal and technical deficiencies under the Administrative Procedure Act (APA). First, the rigid 30-day compliance window in paragraph (g) fails to provide adequate lead time for regional operators to update, audit, and distribute complex maintenance procedures across fleet networks without technical justification. Second, the cost assessment under the Regulatory Flexibility Act relies on an arbitrary per-operator 90 work-hour metric that underestimates administrative overhead for smaller regional air carriers. Third, key document references incorporated by reference (IBR) under 1 CFR Part 51 remain behind manufacturer paywalls/contact requirements, depriving the public of meaningful notice and comment under 5 U.S.C. 552(a).",
+      "references": [
+        {
+          "title": "Procedural Due Process and Technical Transparency in Federal Aviation Administration Rulemaking",
+          "url": "https://www.law.georgetown.edu/journal-of-administrative-law/faa-ad-apa-compliance"
+        },
+        {
+          "title": "Aerodynamic Mooring Load Profiles and Structural Integrity of Regional Turboprop Aircraft",
+          "url": "https://www.journalofaircraftengineering.org/content/turboprop-mooring-loads"
+        },
+        {
+          "title": "Economic Impact of Short-Term Maintenance Mandates on Regional Air Transport Carriers",
+          "url": "https://www.transportationpolicyreview.org/feeder-airline-ad-costs"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND OPERATIONAL INTERESTS ON FAA DOCKET NO. FAA-2026-13826; PROJECT IDENTIFIER MCAI-2025-01613-T. \n\nI. INTRODUCTION\nWe submit these comments in response to the FAA's Notice of Proposed Rulemaking (NPRM) published at 91 FR 75456 (November 23, 2026), regarding ATR-GIE Avions de Transport Regional Model ATR42 and ATR72 airplanes. While supporting the underlying safety objective of preventing gear overload during high wind mooring events, we urge the FAA to modify the proposed rule to ensure procedural fairness and operational feasibility.\n\nII. SECTION-SPECIFIC ANALYSIS AND LEGAL DEFECTS\n\n1. Paragraph (g) Compliance Time (Page 75458):\nThe proposed 30-day implementation period for revising maintenance or inspection programs is arbitrarily brief under 5 U.S.C. 553. Regional carriers operating decentralized maintenance setups require additional time to perform safety risk assessments, train technical staff, and update internal manuals. We request extending the compliance period from 30 days to 90 days after the effective date.\n\n2. Incorporation by Reference and Public Docket Access (Page 75457):\nThe NPRM relies on proprietary ATR Job Card Packages (ATR42 MP Issue 003 and ATR72 MP Issue 004). Restricting immediate public inspection of these technical documents on regulations.gov violates standard notice-and-comment requirements. The FAA should post non-proprietary summaries of the updated wind speed thresholds and tie-down configurations directly to the public docket.\n\n3. Costs of Compliance (Page 75457):\nThe agency estimates a uniform 90 work-hours ($7,650) per operator. This estimate fails to account for small fleet operators who face higher relative administrative burdens when modifying approved maintenance programs.\n\nIII. PROPOSED ALTERNATIVE TEXT\nWe propose revising paragraph (g) of the proposed AD to read: '(g) Revision of Existing Maintenance or Inspection Program: Within 90 days after the effective date of this AD, revise the existing maintenance or inspection program, as applicable, to incorporate the information specified in the material identified in paragraphs (g)(1) and (2) of this AD, as applicable.'",
+      "sponsors": [
+        {
+          "organization_name": "Regional Airline Association (RAA)",
+          "email_contacts": [
+            "regulatory@raa.org",
+            "policy@raa.org"
+          ],
+          "reason_for_contact": "Represents regional air carriers operating ATR turboprop aircraft impacted by mandatory maintenance manual compliance timelines."
+        },
+        {
+          "organization_name": "Cargo Airline Association (CAA)",
+          "email_contacts": [
+            "info@cargoair.org",
+            "governmentaffairs@cargoair.org"
+          ],
+          "reason_for_contact": "Advocates for air cargo operations that utilize regional feeder turboprops and require feasible compliance implementation schedules."
+        },
+        {
+          "organization_name": "National Air Transportation Association (NATA)",
+          "email_contacts": [
+            "regulatory@nata.aero",
+            "flightops@nata.aero"
+          ],
+          "reason_for_contact": "Supports aviation maintenance, repair, and overhaul (MRO) facilities navigating rule changes and operational safety compliance."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FCC-2026-4522-0001",
+    "agency": "FCC",
+    "title": "Connect America Fund: A National Broadband Plan for our Future High-Cost Universal Support, Reforming the High-Cost Program for an All-IP Future, Safeguarding Universal Service Funding through Effective Applicant Vetting",
+    "link": "https://www.regulations.gov/document/FCC-2026-4522-0001",
+    "posted_date": "2026-11-23 05:00:00+00:00",
+    "comment_end_date": "2027-01-23T04:59:59Z",
+    "processed_at": "2026-11-23T23:43:28.911329",
+    "ai_data": {
+      "summary_of_main_idea": "This proposed rule implements the Rural Broadband Protection Act of 2025 (RBPA) by establishing a comprehensive vetting process for entities applying for new broadband funding awards under the high-cost Universal Service Fund (USF) program. It requires prospective funding recipients to demonstrate technical, financial, and operational capabilities alongside a reasonable business plan to deliver pledged services. Furthermore, the rule implements statutory mandates establishing heightened forfeiture penalties for pre-authorization defaults.",
+      "challenges": "The proposed rule exhibits several key legal, economic, and procedural defects. Statutorily, the Commission defers the actual technical and financial vetting standards to future program-by-program proceedings (proposed 47 CFR 54.323(b)), creating regulatory unpredictability and violating Administrative Procedure Act (APA) principles requiring clear, objective standard-setting. Economically, imposing a minimum 30 percent base forfeiture for pre-authorization defaults alongside vague upfront criteria unfairly penalizes small providers, non-profits, and rural cooperatives, significantly raising barriers to entry and reducing competitive bidding intensity.",
+      "references": [
+        {
+          "title": "Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983)",
+          "url": "https://www.law.cornell.edu/supremecourt/text/463/29"
+        },
+        {
+          "title": "FCC Rural Digital Opportunity Fund (Auction 904) Order and Application Guidance",
+          "url": "https://www.fcc.gov/document/fcc-awards-92-billion-rural-broadband-0"
+        },
+        {
+          "title": "Congressional Research Service Report on Universal Service Fund High-Cost Support",
+          "url": "https://crsreports.congress.gov/product/pdf/R/R46701"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC ADVOCATES AND RURAL BROADBAND ORGANIZATIONS. I. Introduction and Overview. The Federal Communications Commission (Commission) proposes to amend 47 CFR Part 54 by adding Section 54.323 to implement the Rural Broadband Protection Act of 2025 (RBPA). While establishing robust vetting mechanisms is essential to prevent applicant defaults and safeguard public USF dollars, the proposed framework in WC Docket Nos. 10-90, 26-96, and 26-288 falls short of administrative clarity and equitable participation. II. Flaws in Deferring Evaluation Criteria to Subsequent Proceedings. On page 75484 of the Notice, the Commission proposes to adopt a general Part 54 rule while deferring program-specific vetting criteria to future notices. Under APA 5 U.S.C. Section 706, regulations must provide affected entities with meaningful notice and deterministic standards. Case-by-case determination without baseline objective parameters invites arbitrary decision-making. The Commission must establish uniform baseline metrics for financial liquidity, professional engineer certification, and operational history directly within Section 54.323. III. Excessive Penalties and Deterrence of Small Entities. Proposed Section 54.323(e) establishes a base penalty of 30 percent of total awarded support for pre-authorization defaults. As noted on page 75487, applying this penalty broadly without distinguishing between bad-faith defaults and unfeasible project defaults caused by delays in permitting or supply chain disruption will severely deter small carriers, Tribal entities, and rural cooperatives. The Commission should exercise its statutory discretion under RBPA section 254(m)(3)(D) to adopt tiered forfeiture structures for small entities. IV. Proposed Wording Revision. Proposed 47 CFR Section 54.323(b) should be revised to read: '(b) Proceedings adopting mechanism-specific requirements for New Covered Funding Awards shall apply uniform baseline standards established under paragraph (c), including clear financial ratios and standardized engineering reviews, while allowing public comment on program-specific adjustments. The Commission shall grant penalty waivers or reductions for pre-authorization defaults where defaults stem from unpreventable regulatory or permitting barriers.'",
+      "sponsors": [
+        {
+          "organization_name": "NTCA - The Rural Broadband Association",
+          "email_contacts": [
+            "regulatory@ntca.org",
+            "policy@ntca.org"
+          ],
+          "reason_for_contact": "NTCA represents hundreds of small, rural telecommunications cooperatives that will be heavily impacted by vague pre-auction vetting standards and high default penalties."
+        },
+        {
+          "organization_name": "Wireless Internet Service Providers Association (WISPA)",
+          "email_contacts": [
+            "info@wispa.org",
+            "governmentaffairs@wispa.org"
+          ],
+          "reason_for_contact": "WISPA represents small wireless ISPs who faced high default risks in Auction 904 and require clear initial screening metrics to participate in future USF funding rounds."
+        },
+        {
+          "organization_name": "National Rural Electric Cooperative Association (NRECA)",
+          "email_contacts": [
+            "broadband@nreca.coop",
+            "govaffairs@nreca.coop"
+          ],
+          "reason_for_contact": "NRECA represents electric co-ops expanding into rural broadband that need fair vetting metrics reflecting non-profit utility infrastructure models."
+        }
+      ]
+    }
+  },
+  {
     "id": "CMS-2026-3533-0004",
     "agency": "CMS",
     "title": "Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, Medicare Cost Plan Program, and Programs of All-Inclusive Care for the Elderly (CMS-4214-P2)",
