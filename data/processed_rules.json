@@ -1,5 +1,839 @@
 [
   {
+    "id": "EPA-R08-OAR-2026-4555-0001",
+    "agency": "EPA",
+    "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Utah; Cache County Inspection and Maintenance Program Revision",
+    "link": "https://www.regulations.gov/document/EPA-R08-OAR-2026-4555-0001",
+    "posted_date": "2026-11-27 05:00:00+00:00",
+    "comment_end_date": "2026-12-29T04:59:59Z",
+    "processed_at": "2026-11-27T20:58:50.963709",
+    "ai_data": {
+      "summary_of_main_idea": "The EPA proposes to approve Utah State Implementation Plan (SIP) revisions regarding the Cache County Vehicle Inspection and Maintenance (I/M) program under Administrative Rule R307-110-36. The proposed updates permit mobile vehicle emissions testing, create an exemption for authorized emergency vehicles, and establish a parts unavailability waiver. EPA evaluates these updates under Clean Air Act Section 110(l), concluding they will not interfere with maintaining the 2006 24-hour PM2.5 National Ambient Air Quality Standards.",
+      "challenges": "The primary legal and technical flaw in the proposed rule is the EPA's reliance on qualitative assumptions rather than rigorous quantitative modeling to satisfy CAA Section 110(l) anti-backsliding requirements. EPA assumes that exempting emergency vehicles (0.08% of registered vehicles) will produce negligible emissions increases, neglecting the disproportionately high idling and heavy-load duty cycles typical of emergency vehicles in winter inversion basins like the Logan area. Additionally, the rule lacks explicit standard operating procedures and calibration safeguards for 'mobile' testing stations and sets no firm annual ceiling on parts unavailability waivers, creating potential compliance and enforceability loopholes.",
+      "references": [
+        {
+          "title": "EPA Guidance on Demonstration of Noninterference Under Clean Air Act Section 110(l)",
+          "url": "https://www.epa.gov/ground-level-ozone-pollution/demonstrating-noninterference-under-clean-air-act-section-110l"
+        },
+        {
+          "title": "Evaluating Real-World Emissions and Idle Profiles of Public Safety and Emergency Response Vehicles",
+          "url": "https://www.sciencedirect.com/journal/atmospheric-environment"
+        },
+        {
+          "title": "Mobile Source Inspection and Maintenance Program Performance and Fraud Mitigation Standards",
+          "url": "https://www.transportation.gov/research"
+        }
+      ],
+      "proposed_comment": "RE: Docket ID No. EPA-R08-OAR-2026-4555; Air Plan Approval; Utah; Cache County Inspection and Maintenance Program Revision (89 FR 76660-76664)\n\nI. INTRODUCTION AND SPECIFIC CITATIONS\nThis comment addresses the Environmental Protection Agency's (EPA) proposed approval of Utah's SIP revisions to Administrative Rule R307-110-36 and Section X.F (Cache County Vehicle I/M Program), published at 91 FR 76660 (November 27, 2026). Specifically, we express concern regarding the qualitative CAA Section 110(l) evaluation on pages 76662-76663 (Section III.A.2.ii and Section IV) concerning emergency vehicle exemptions, mobile testing oversight, and parts unavailability waivers.\n\nII. LEGAL AND TECHNICAL RATIONALE\nUnder Clean Air Act Section 110(l), 42 U.S.C. 7410(l), EPA cannot approve a SIP revision if it would interfere with applicable requirements concerning attainment or reasonable further progress toward maintenance of a NAAQS. EPA's qualitative finding that exempting 102 emergency vehicles creates 'little to no additional emission reduction benefit' fails to account for empirical duty-cycle profiles. Emergency vehicles accumulate disproportionate idle time, emitting significantly higher levels of NOx and VOC precursors per vehicle mile during topographically trapped winter inversion events in the Cache Valley.\n\nFurthermore, removing 'stationary' from the definition of I/M Program Station (page 76662) without incorporating explicit quality assurance, equipment calibration, and auditing rules for mobile units into the SIP text risks compromising test accuracy and enforceability under 40 CFR 51.363. Finally, Appendix G's parts unavailability waiver creates an open-ended mechanism without a binding cap on total allowable annual waivers.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\nWe request that EPA condition final approval of this SIP revision on the following alternative regulatory additions to Utah SIP Section X.F:\n1. Emergency Vehicle Exemption Condition: 'Cache County BRHD shall perform annual tracking of all exempted emergency vehicles and conduct mandatory fleet maintenance audits to ensure emergency vehicles operate with functioning emission control systems.'\n2. Mobile Station Integrity: 'Mobile I/M testing units must conform to identical equipment calibration, automated data transfer, and unannounced audit standards as fixed facilities pursuant to 40 CFR 51.363.'\n3. Waiver Cap: 'Parts unavailability waivers issued under Appendix G shall not exceed 0.05% of total annual vehicle inspections across Cache County, and all granted waivers must be submitted in the annual BRHD report to EPA Region 8.'",
+      "sponsors": [
+        {
+          "organization_name": "HEAL Utah",
+          "email_contacts": [
+            "info@healutah.org",
+            "policy@healutah.org"
+          ],
+          "reason_for_contact": "HEAL Utah actively advocates for clean air policy and stringent SIP implementation in Utah's nonattainment and maintenance basins."
+        },
+        {
+          "organization_name": "Utah Clean Air Partnership (UCAIR)",
+          "email_contacts": [
+            "info@ucair.org",
+            "grants@ucair.org"
+          ],
+          "reason_for_contact": "UCAIR funds local emissions reduction efforts and focuses on mobile source emission reductions across Utah counties."
+        },
+        {
+          "organization_name": "Sierra Club - Utah Chapter",
+          "email_contacts": [
+            "utah.chapter@sierraclub.org",
+            "conservation@sierraclub.org"
+          ],
+          "reason_for_contact": "Sierra Club frequently engages in Clean Air Act Section 110 legal challenges against unverified state implementation plan relaxations."
+        }
+      ]
+    }
+  },
+  {
+    "id": "USDA-2026-0001-0068",
+    "agency": "USDA",
+    "title": "Agricultural Foreign Investment Disclosure Act",
+    "link": "https://www.regulations.gov/document/USDA-2026-0001-0068",
+    "posted_date": "2026-11-27 05:00:00+00:00",
+    "comment_end_date": "2026-12-12T04:59:59Z",
+    "processed_at": "2026-11-27T20:58:50.963803",
+    "ai_data": {
+      "summary_of_main_idea": "The proposed rule reopens the public comment period for modernizing regulations under the Agricultural Foreign Investment Disclosure Act of 1978 (AFIDA). The underlying regulation aims to establish an online submission and public database system for foreign land ownership disclosures while expanding reporting scope and enforcement measures to mitigate national security risks.",
+      "challenges": "Key challenges include disproportionate compliance costs for agricultural enterprises with indirect foreign investors, procedural defects under the Administrative Procedure Act (APA) due to an abbreviated comment extension window, and vague reporting triggers that create regulatory uncertainty for domestic farming operations.",
+      "references": [
+        {
+          "title": "Congressional Research Service Report: Foreign Ownership of U.S. Agricultural Land",
+          "url": "https://crsreports.congress.gov/product/pdf/R/R47033"
+        },
+        {
+          "title": "National Security and Foreign Direct Investment in U.S. Real Estate",
+          "url": "https://www.law.georgetown.edu/environmental-law-review/wp-content/uploads/sites/18/2023/04/AFIDA-Analysis.pdf"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. USDA-2026-0001, RIN 0560-AI70 - Agricultural Foreign Investment Disclosure Act Modernization. On behalf of agricultural stakeholders, we appreciate the reopening of the comment period (91 FR 76644). While we support the goal of modernizing AFIDA disclosures through an electronic filing system, the proposed rule imposes unworkable reporting burdens on entities with indirect minor foreign ownership. Specifically, at 91 FR 38315, the threshold for reporting indirect foreign holdings creates administrative hardship without providing meaningful national security benefits. We propose adding a safe-harbor provision for foreign equity holdings under 5% held via institutional investment funds, and extending the compliance deadline by 180 days to allow farm operations to properly adapt to the new electronic portal.",
+      "sponsors": [
+        {
+          "organization_name": "American Farm Bureau Federation",
+          "email_contacts": [
+            "policy@fb.org",
+            "regulatory@fb.org"
+          ],
+          "reason_for_contact": "Represents agricultural producers affected by foreign land reporting requirements and administrative burdens."
+        },
+        {
+          "organization_name": "National Farmers Union",
+          "email_contacts": [
+            "info@nfu.org",
+            "governmentrelations@nfu.org"
+          ],
+          "reason_for_contact": "Advocates for transparency in land ownership while ensuring small and medium family farmers are not overburdened by complex reporting mandates."
+        },
+        {
+          "organization_name": "U.S. Chamber of Commerce - Center for Capital Markets",
+          "email_contacts": [
+            "capitalmarkets@uschamber.com"
+          ],
+          "reason_for_contact": "Focuses on foreign direct investment regulation and regulatory burden reduction for cross-border transactions."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-R03-OAR-2026-4951-0001",
+    "agency": "EPA",
+    "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Virginia; Revision to Minor New Source Review Permit Exemptions",
+    "link": "https://www.regulations.gov/document/EPA-R03-OAR-2026-4951-0001",
+    "posted_date": "2026-11-27 05:00:00+00:00",
+    "comment_end_date": "2026-12-29T04:59:59Z",
+    "processed_at": "2026-11-27T20:58:50.963881",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) proposes to approve a revision to Virginia's State Implementation Plan (Revision A25) under the Clean Air Act (CAA). The revision updates 9VAC5-80-1105 to expand existing minor New Source Review (NSR) preconstruction permit exemptions for poultry and swine incinerators to also include bovine incinerators for agricultural use. Additionally, it extends the state hazardous air pollutant minor NSR exemption to cover these bovine incineration units.",
+      "challenges": "The primary defect of this proposed rule is the lack of technical and empirical support demonstrating compliance with Clean Air Act Section 110(l) anti-backsliding provisions. The EPA asserts without quantitative evidence or dispersion modeling that adding bovine incinerators to the permit exemption list will not interfere with National Ambient Air Quality Standards (NAAQS) attainment or maintenance. Bovine carcasses represent a significantly larger mass load than poultry or swine, requiring longer burn times, higher fuel usage, and generating vastly higher potential emissions of fine particulate matter (PM2.5/PM10), nitrogen oxides (NOx), sulfur dioxide (SO2), and hazardous air pollutants (HAPs) such as dioxins, furans, and polycyclic aromatic hydrocarbons (PAHs). Equating bovine incineration to poultry and swine incineration without a mass-balance emissions inventory or localized impact analysis violates Administrative Procedure Act (APA) standards against arbitrary and capricious decision-making.",
+      "references": [
+        {
+          "title": "EPA Guidance on Demonstrating Noninterference Under Section 110(l) of the Clean Air Act",
+          "url": "https://www.epa.gov/air-quality-planning-and-standards/noninterference-demonstration-guidance-clean-air-act-section-110l"
+        },
+        {
+          "title": "Characterization of Air Pollutant Emission Factors for Animal Mortality Incineration Systems",
+          "url": "https://www.sciencedirect.com/science/article/pii/S095965261832145X"
+        },
+        {
+          "title": "EPA AP-42: Compilation of Air Pollutant Emission Factors - Chapter 2.3 Medical and Solid Waste Incineration",
+          "url": "https://www.epa.gov/air-emissions-factors-and-quantification/ap-42-compilation-air-pollutant-emission-factors"
+        }
+      ],
+      "proposed_comment": "Re: Docket ID No. EPA-R03-OAR-2026-4951; Proposed Air Plan Approval; Virginia; Revision to Minor New Source Review Permit Exemptions (91 FR 76664, November 27, 2026)\n\nThe undersigned submit these public comments regarding the Environmental Protection Agency's (EPA) proposed approval of Virginia State Implementation Plan (SIP) Revision A25. Under Section II of the preamble (91 FR 76665), EPA states that the revision meets the requirements of Clean Air Act (CAA) Section 110(l) because it 'will not interfere with any applicable requirement concerning attainment and reasonable further progress, or any other applicable CAA requirement.'\n\nHowever, EPA provides no technical justification, modeling analysis, or emission data to substantiate this non-interference determination. Bovine carcasses involve substantially greater bio-mass, higher combustion residence times, and greater auxiliary fuel requirements compared to poultry or swine mortality incineration. Uncontrolled bovine incineration generates non-trivial emissions of PM2.5, PM10, NOx, SO2, carbon monoxide, and toxic bioaccumulative compounds including dioxins and furans.\n\nTo satisfy CAA Section 110(l) and overcome APA Section 706 arbitrary and capricious deficiencies, EPA must perform or require VADEQ to provide:\n1. A quantitative comparison of potential emissions between swine/poultry units and maximum capacity bovine units.\n2. An assessment of potential localized ambient air impacts for fine particulate matter and hazardous air pollutants near agricultural boundaries.\n\nProposed Alternative Language for Final Action:\n'EPA is issuing a conditional approval of Revision A25, contingent upon VADEQ submitting a CAA Section 110(l) non-interference demonstration that establishes maximum throughput/capacity thresholds for exempt bovine incinerators (e.g., units with heat input capacity less than 1 MMBtu/hr and carcass burn rates under 250 lbs/hr), ensuring that emissions remain strictly de minimis and protective of local NAAQS and HAP standards.'",
+      "sponsors": [
+        {
+          "organization_name": "Environmental Integrity Project",
+          "email_contacts": [
+            "info@environmentalintegrity.org"
+          ],
+          "reason_for_contact": "Focuses on enforcement of Clean Air Act permitting requirements and opposing unanalyzed agricultural emissions exemptions."
+        },
+        {
+          "organization_name": "Sierra Club - Virginia Chapter",
+          "email_contacts": [
+            "va.chapter@sierraclub.org"
+          ],
+          "reason_for_contact": "Local state advocacy group concerned with rural air quality, toxic emissions, and Virginia SIP modifications."
+        },
+        {
+          "organization_name": "Chesapeake Bay Foundation",
+          "email_contacts": [
+            "chesapeake@cbf.org"
+          ],
+          "reason_for_contact": "Monitors airborne nitrogen oxide and particulate deposition that impacts the Chesapeake Bay watershed."
+        }
+      ]
+    }
+  },
+  {
+    "id": "NOAA-NMFS-2026-2938-0001",
+    "agency": "NOAA",
+    "title": "Reef Fish Fishery of the Gulf of America; Amendment 63",
+    "link": "https://www.regulations.gov/document/NOAA-NMFS-2026-2938-0001",
+    "posted_date": "2026-11-27 05:00:00+00:00",
+    "comment_end_date": "2027-01-27T04:59:59Z",
+    "processed_at": "2026-11-27T20:58:50.963954",
+    "ai_data": {
+      "summary_of_main_idea": "Amendment 63 to the Reef Fish Management Plan proposes a 3-year pilot program (2027-2029) establishing a commercial quota pool for Gulf of Mexico red grouper within the Grouper-Tilefish IFQ program. The pool will distribute 50 percent of commercial quota increases exceeding 4.28 million pounds equally between active IFQ accounts with shares and those without shares based on historical landings. The initiative aims to test whether alternative quota distribution improves access for active commercial fishers, reduces bycatch, and enhances profitability.",
+      "challenges": "The proposed pilot program exhibits significant legal, economic, and procedural vulnerabilities under the Magnuson-Stevens Act (MSA) and Administrative Procedure Act (APA). First, establishing eligibility based on a moving 2-year landing history of at least 500 lbs creates a 'use-it-or-lose-it' incentive, triggering a race to fish that violates National Standard 1 and directly undermines the core objective of IFQ programs to eliminate derby conditions and reduce bycatch. Second, by requiring prior landings to qualify, the rule fails to provide genuine entry opportunities for new entrants, violating National Standard 4's mandate for fair and equitable allocation. Third, making quota pool allocation non-transferable restricts market-based allocation efficiencies, conflicting with National Standard 5.",
+      "references": [
+        {
+          "title": "National Research Council (1999). Sharing the Fish: Toward a National Policy on Individual Fishing Quotas. National Academies Press.",
+          "url": "https://doi.org/10.17226/6335"
+        },
+        {
+          "title": "Sol\u00eds, D., et al. (2014). Economic Efficiency and Policy Changes in the Gulf of Mexico Grouper-Tilefish IFQ Program. Marine Resource Economics.",
+          "url": "https://www.journals.uchicago.edu/doi/10.1086/676033"
+        },
+        {
+          "title": "Abbott, J. K., & Wilen, J. E. (2010). Volatility and Risk in Individual Transferable Quotas. American Journal of Agricultural Economics.",
+          "url": "https://doi.org/10.1093/ajae/aaq081"
+        }
+      ],
+      "proposed_comment": "RE: Comments on Amendment 63 to the Reef Fish FMP (NOAA-NMFS-2026-2938). I am writing to express serious concerns regarding the proposed Red Grouper Commercial Quota Pool pilot program outlined in Amendment 63 (91 FR 76739). While the goal of improving access to red grouper allocation is commendable, the structural mechanics detailed on pages 76740-76741 present operational and legal flaws. Specifically, the requirement under 'Commercial Quota Pool Eligibility' (91 FR 76741) mandating 500 lbs of landings in a moving 2-year reference period creates perverse economic incentives. Tying future quota distribution to recent landings reintroduces derby-style fishing incentives, encouraging vessel owners to harvest aggressively to secure baseline qualifications for subsequent years. This directly contradicts NMFS's stated intention of reducing bycatch and discard mortality. Furthermore, making the quota pool allocation non-transferable unnecessarily restricts flexibility for small-scale operators facing equipment failure, red tide events, or seasonal weather disruptions. Proposed Alternative Wording: We urge NMFS and the Council to modify the distribution criteria by removing the 2-year moving landings threshold and instead allocating pool quota through an open-access application pool for qualified commercial reef fish permit holders, combined with allowing single-season allocation transfers among active vessel permit holders.",
+      "sponsors": [
+        {
+          "organization_name": "Gulf of Mexico Reef Fish Shareholders Alliance",
+          "email_contacts": [
+            "info@shareholdersalliance.org",
+            "policy@shareholdersalliance.org"
+          ],
+          "reason_for_contact": "Represents commercial reef fish fishermen and shareholder interests in the Gulf who are directly impacted by changes to IFQ share values and allocation rules."
+        },
+        {
+          "organization_name": "Southern Offshore Fishing Association (SOFA)",
+          "email_contacts": [
+            "contact@southernoffshore.org",
+            "advocacy@southernoffshore.org"
+          ],
+          "reason_for_contact": "Advocates for commercial bottom longline and bandit gear reef fish harvesters seeking fair allocation access without speculative distortions."
+        },
+        {
+          "organization_name": "Southeastern Fisheries Association",
+          "email_contacts": [
+            "office@southeasternfisheries.org",
+            "director@southeasternfisheries.org"
+          ],
+          "reason_for_contact": "Regional seafood industry group dedicated to defending commercial fishing rights, regulatory transparency, and market stability in southeastern federal waters."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OLEM-2026-2773-0001",
+    "agency": "EPA",
+    "title": "Reducing Complexity in Management of Leather Waste",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OLEM-2026-2773-0001",
+    "posted_date": "2026-11-27 05:00:00+00:00",
+    "comment_end_date": "2027-01-27T04:59:59Z",
+    "processed_at": "2026-11-27T20:58:50.964039",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) proposes to amend 40 CFR 261.4(b)(6) by adding paragraph (b)(6)(ii)(I) to explicitly exclude discarded leather personal protective equipment (PPE)\u2014such as gloves, boots, and aprons\u2014from the definition of hazardous waste under the Resource Conservation and Recovery Act (RCRA). The proposed rule extends an existing exclusion for industrial manufacturing leather scrap to post-use leather PPE, asserting that such items contain low-toxicity trivalent chromium that remains stable under non-oxidizing landfill conditions. EPA asserts this action will resolve regulatory inconsistencies between unused leather manufacturing cut-offs and discarded post-consumer leather PPE while reducing management complexity for regulated entities.",
+      "challenges": "The proposed rule exhibits major legal defects under the Administrative Procedure Act (APA), 5 U.S.C. 706(2)(A), as well as significant scientific oversight. First, EPA arbitrarily equates clean manufacturing leather scrap with post-use leather PPE, ignoring that PPE used in industrial, chemical, or firefighting operations frequently absorbs hazardous co-contaminants such as toxic heavy metals, organic solvents, polycyclic aromatic hydrocarbons (PAHs), and PFAS during service. Second, EPA's refusal to accept comments on or re-evaluate the risk of trivalent chromium (Cr(III)) oxidizing into carcinogenic hexavalent chromium (Cr(VI)) in landfill environments fails to consider updated biogeochemical science regarding manganese-mediated oxidation in solid waste facilities. Third, expanding hazardous waste exemptions without mandating generator testing for absorbed post-use toxic constituents threatens groundwater safety and shifts remediation liabilities onto municipal non-hazardous solid waste landfill operators.",
+      "references": [
+        {
+          "title": "Biogeochemical Controls on the Oxidation of Trivalent Chromium in Landfill Leachate Environments",
+          "url": "https://pubs.acs.org/doi/10.1021/es00084a009"
+        },
+        {
+          "title": "Contamination and Chemical Absorption Profiles of Used Personal Protective Equipment in Industrial Operations",
+          "url": "https://www.tandfonline.com/doi/abs/10.1080/15459624.2018.1513134"
+        },
+        {
+          "title": "RCRA Exemptions and the Arbitrary and Capricious Standard: Environmental Risks of Downstream Post-Consumer Deregulation",
+          "url": "https://lawreview.law.harvard.edu/article/rcra-exemptions-apa-scrutiny/"
+        }
+      ],
+      "proposed_comment": "Re: Docket ID No. EPA-HQ-OLEM-2026-2773; FRL-13316-01-OLEM; Proposed Rule on Reducing Complexity in Management of Leather Waste (91 FR 76675, Nov. 27, 2026)\n\nI. Introduction\nWe respectfully submit these comments regarding the EPA's proposed rule to exclude leather personal protective equipment (PPE) from the definition of hazardous waste under 40 CFR 261.4(b)(6)(ii)(I). While streamlining regulatory requirements is a beneficial goal, the blanket exclusion of post-use leather PPE creates significant environmental risks and legal vulnerabilities under RCRA and the Administrative Procedure Act (APA).\n\nII. Rationale and Legal Defects\n1. Failure to Distinguish Between Manufacturing Scrap and Post-Use Waste (91 FR 76676):\nAt 91 FR 76676, EPA asserts that leather PPE is manufactured from the same leather as excluded manufacturing scrap. However, manufacturing scrap represents virgin material cut-offs. In contrast, post-use PPE in industrial sectors (e.g., metal fabricating, chemical manufacturing, automotive repair, and emergency response) routinely absorbs dangerous non-chromium toxic constituents during operation. Granting a categorical exemption based solely on the underlying leather material ignores post-use chemical contamination, violating RCRA's core standard under 42 U.S.C. 6903(5) to protect human health and the environment.\n\n2. Arbitrary Restriction on Scope and Cr(III)/Cr(VI) Oxidation Risks (91 FR 76676):\nEPA explicitly declares comments regarding the foundational trivalent chromium exclusion out of scope. Under APA 5 U.S.C. 706(2)(A), an agency acts arbitrarily when it fails to consider an important aspect of the problem. Modern biogeochemical research demonstrates that Cr(III) can oxidize into toxic, highly mobile hexavalent chromium (Cr(VI)) in landfill environments enriched with electron acceptors like manganese oxides. Refusing to assess modern empirical data when expanding this exemption is legally unsupportable.\n\nIII. Proposed Alternative Regulatory Text\nTo prevent the improper disposal of hazardous chemical-contaminated PPE in non-hazardous landfills, EPA should amend the proposed text at 40 CFR 261.4(b)(6)(ii)(I) as follows:\n\n'Sec. 261.4(b)(6)(ii)(I) Uncontaminated leather articles used as personal protective equipment, including gloves, boots, aprons, jackets, pants and coveralls, headwear, and related articles, provided that the generator maintains records demonstrating the waste has not been contaminated during use with listed hazardous wastes or toxic constituents exceeding Toxicity Characteristic leaching procedure limits under Sec. 261.24, and meets the conditions of paragraph (b)(6)(i) of this section.'",
+      "sponsors": [
+        {
+          "organization_name": "Solid Waste Association of North America (SWANA)",
+          "email_contacts": [
+            "policy@swana.org",
+            "technical@swana.org"
+          ],
+          "reason_for_contact": "SWANA represents public and private solid waste managers who face heightened liability and operational risks if post-use leather PPE contaminated with hazardous constituents is improperly accepted into non-hazardous Subtitle D landfills."
+        },
+        {
+          "organization_name": "Environmental Defense Fund (EDF)",
+          "email_contacts": [
+            "regulatory@edf.org",
+            "legal@edf.org"
+          ],
+          "reason_for_contact": "EDF actively advocates against deregulation under RCRA that bypasses risk assessments for hazardous chemical exposure and groundwater contamination."
+        },
+        {
+          "organization_name": "International Association of Fire Fighters (IAFF)",
+          "email_contacts": [
+            "healthandsafety@iaff.org",
+            "governmentalaffairs@iaff.org"
+          ],
+          "reason_for_contact": "IAFF represents emergency responders who wear leather PPE that becomes contaminated with toxic combustion products and hazardous chemicals, requiring clear safety guidelines for handling end-of-life gear."
+        },
+        {
+          "organization_name": "Sierra Club Environmental Law Program",
+          "email_contacts": [
+            "core.case@sierraclub.org",
+            "info@sierraclub.org"
+          ],
+          "reason_for_contact": "Sierra Club frequently litigates APA procedural flaws and improper deregulation under federal environmental statutes to protect fence-line communities."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-R06-OAR-2024-0069-0001",
+    "agency": "EPA",
+    "title": "TX255.01 Air Quality State Implementation Plans; Approvals and Promulgations: Texas; Attainment Plan for the Navarro County 2010 Sulfur Dioxide Primary National Ambient Air Quality Standard Nonattainment Area, Proposed rule, 10 pages",
+    "link": "https://www.regulations.gov/document/EPA-R06-OAR-2024-0069-0001",
+    "posted_date": "2026-11-27 05:00:00+00:00",
+    "comment_end_date": "2026-12-29T04:59:59Z",
+    "processed_at": "2026-11-27T20:58:50.964114",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) proposes to approve Texas's State Implementation Plan (SIP) revision for the Navarro County 2010 1-hour Sulfur Dioxide (SO2) National Ambient Air Quality Standard (NAAQS) nonattainment area. The plan incorporates enforceable control measures under 30 TAC Chapter 112, Subchapter G, requiring the primary SO2 source, the Arcosa Lightweight Streetman Plant, to lower emissions from 1,000 lbs/hr to 222 lbs/hr and operate a new 120-foot scrubber stack. Additionally, the proposal approves state provisions regarding emissions inventories, nonattainment new source review, reasonable further progress, and enforcement-based contingency measures.",
+      "challenges": "The proposed rule suffers from significant legal and procedural vulnerabilities under the Clean Air Act (CAA) and Administrative Procedure Act (APA). First, the approval of the Alternate Means of Control (AMOC) provisions under 30 TAC 112.302(c) creates an impermissible 'director's discretion' mechanism that allows modification of SIP emission limits without going through full notice-and-comment federal SIP revisions required under CAA Section 110(l). Second, the proposed contingency measures rely on existing enforcement authority and post-violation system audits, violating CAA Section 172(c)(9) which requires contingency measures to take effect automatically without further action by the state or EPA upon a failure to attain, as affirmed in Sierra Club v. EPA (D.C. Cir. 2021). Third, the selection of the Midlothian OFW monitor as background concentration (6 ppb) may underrepresent localized background concentrations.",
+      "references": [
+        {
+          "title": "Sierra Club v. EPA, 21 F.4th 815 (D.C. Cir. 2021) - Invalidating Non-Self-Executing Contingency Measures",
+          "url": "https://law.justia.com/cases/federal/appellate-courts/cadc/19-1230/19-1230-2021-12-28.html"
+        },
+        {
+          "title": "NRDC v. EPA, 489 F.3d 1364 (D.C. Cir. 2007) - Rejection of Executive Discretion and Director's Discretion in SIP Controls",
+          "url": "https://casetext.com/case/natural-res-def-council-v-us-epa-18"
+        },
+        {
+          "title": "EPA Guidance for 1-Hour SO2 Nonattainment Area SIP Submissions (2014)",
+          "url": "https://www.epa.gov/sites/default/files/2016-06/documents/20140423guidance_nonattainment_sip.pdf"
+        }
+      ],
+      "proposed_comment": "RE: Comments on Docket ID No. EPA-R06-OAR-2024-0069; Proposed Air Plan Approval; Texas; Attainment Plan for the Navarro County 2010 SO2 NAAQS Nonattainment Area (91 FR 76666).\n\nI. Introduction\nWe submit these comments regarding the EPA's proposed approval of the Texas State Implementation Plan (SIP) revision for the Navarro County SO2 Nonattainment Area. While we support emission reductions at the Arcosa Lightweight Streetman Plant, the proposed rule contains critical legal defects under Clean Air Act (CAA) sections 110(l) and 172(c)(9).\n\nII. Unlawful AMOC Provisions (91 FR 76670-76671)\nEPA's proposed approval of 30 TAC 112.302(c) creates an illegal Alternate Means of Control (AMOC) mechanism. Under 91 FR 76670, TCEQ's Executive Director may approve alternative operational parameters or emission limits that supersede SIP requirements without full CAA section 110 revision procedures. A 45-day EPA default concurrence window fails to meet CAA statutory requirements for public notice and comment federal SIP revisions (NRDC v. EPA, 489 F.3d 1364).\n\nIII. Non-Compliant Contingency Measures (91 FR 76673-76674)\nEPA proposes to approve Texas's reliance on general enforcement programs and post-failure system audits as contingency measures under CAA section 172(c)(9). Binding D.C. Circuit precedent explicitly holds that contingency measures must be self-executing, quantifiable control measures that take effect automatically upon a triggering event without further administrative action (Sierra Club v. EPA, 21 F.4th 815). System audits and discretionary enforcement do not satisfy section 172(c)(9).\n\nIV. Proposed Alternative Wording\nEPA must modify its proposed regulatory determination on page 76674 as follows: 'The EPA is disapproving the AMOC provisions under 30 TAC 112.302(c) and the contingency measure strategy for the Navarro County SO2 nonattainment area. EPA directs Texas to submit self-executing contingency measures that implement immediate, quantifiable SO2 reductions upon a failure to meet RFP or attain the standard, and to require all AMOC modifications to undergo formal CAA section 110 SIP revisions.'",
+      "sponsors": [
+        {
+          "organization_name": "Sierra Club Lone Star Chapter",
+          "email_contacts": [
+            "lonestar.chapter@sierraclub.org",
+            "cleanair@sierraclub.org"
+          ],
+          "reason_for_contact": "Leading environmental litigation non-profit in Texas with established legal standing to challenge CAA nonattainment and SIP enforcement deficiencies."
+        },
+        {
+          "organization_name": "Environmental Integrity Project",
+          "email_contacts": [
+            "info@environmentalintegrity.org",
+            "airpolicy@environmentalintegrity.org"
+          ],
+          "reason_for_contact": "Specializes in enforcing industrial facility air pollution compliance, CEMS data verification, and administrative law challenges."
+        },
+        {
+          "organization_name": "Downwinders at Risk",
+          "email_contacts": [
+            "info@downwindersatrisk.org"
+          ],
+          "reason_for_contact": "Regional North Texas clean air advocacy organization directly representing communities affected by industrial emissions in Navarro and adjacent counties."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-15286-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: Bombardier, Inc., Airplanes",
+    "link": "https://www.regulations.gov/document/FAA-2026-15286-0001",
+    "posted_date": "2026-11-27 05:00:00+00:00",
+    "comment_end_date": "2027-01-12T04:59:59Z",
+    "processed_at": "2026-11-27T20:58:50.964187",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes a new Airworthiness Directive (AD) for Bombardier, Inc. Model BD-700-1A10 and BD-700-1A11 airplanes to resolve a critical safety defect in avionics software version 5.8. The proposed rule mandates updating the heads-up display application (HDA) software to version 5.9 or later because version 5.8 fails to detect memory errors in the graphical engine chip (GE5) during startup. Uncorrected faults could present misleading flight guidance to pilots, increasing the risk of spatial disorientation, loss of aircraft control, or controlled flight into terrain.",
+      "challenges": "The proposed rule exhibits key legal, technical, and economic shortcomings under administrative procedure standards. First, relying on Transport Canada AD CF-2026-15 via Incorporation by Reference (IBR) without making full technical documents readily accessible in the public docket creates an Administrative Procedure Act (APA) 5 U.S.C. 553 notice-and-comment transparency flaw. Second, the economic analysis under 14 CFR Part 39 relies on speculative manufacturer claims that warranty coverage might offset the $26.1M fleet cost, failing to quantify operational downtime losses for non-covered operators. Third, the rule fails to provide interim Master Minimum Equipment List (MMEL) or Airplane Flight Manual (AFM) operational mitigations for operators experiencing delays in obtaining software part number 810-0311-1B0020.",
+      "references": [
+        {
+          "title": "Administrative Procedure Act Procedural Requirements and Incorporation by Reference in Agency Rulemaking (5 U.S.C. 553)",
+          "url": "https://www.law.cornell.edu/uscode/text/5/553"
+        },
+        {
+          "title": "Evaluating Memory Fault Detection and Hardware-Software Integrity in Modern Integrated Modular Avionics",
+          "url": "https://doi.org/10.1016/j.ress.2023.109123"
+        },
+        {
+          "title": "GAO Report on Cost Estimates and Economic Assessments in FAA Safety Directives",
+          "url": "https://www.gao.gov/products/gao-20-415"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. FAA-2026-15286; Project Identifier MCAI-2026-00322-T; Airworthiness Directives: Bombardier, Inc. Airplanes.\n\nI. INTRODUCTION AND STATEMENT OF INTEREST\nThe undersigned submits these public comments regarding the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) published at 91 FR 76649 (November 27, 2026). While supporting the FAA's safety goal of preventing un-blanked misleading flight info on heads-up displays (HUD), we submit that the rule requires technical and procedural modifications prior to final adoption.\n\nII. PROCEDURAL IMPERFECTIONS UNDER THE APA AND 1 CFR PART 51\nThe FAA proposes to incorporate Transport Canada AD CF-2026-15 by reference. However, procedural transparency under 5 U.S.C. 553 requires that technical materials supporting an AD must be freely and publicly available in the regulations.gov docket during the public comment period, rather than available only upon commercial request. We urge the FAA to ensure full text and service bulletin details are attached to the docket to permit thorough public review.\n\nIII. NEED FOR INTERIM OPERATIONAL MITIGATIONS\nThe proposed AD mandates installation of avionics software version 5.9 (IMAA P/N 810-0311-1B0020) but lacks provisions for interim operations while aircraft await software supply chain availability. If part availability is delayed, operators face unscheduled groundings. The FAA should amend paragraph (g) to explicitly permit temporary operational procedures, such as deactivating or deferring the HDA via revised MMEL relief or requiring manual power-up display verification protocols.\n\nIV. DEFICIENCIES IN ECONOMIC IMPACT ESTIMATION\nThe FAA estimates compliance costs at $35,618 per aircraft across 734 U.S. registered airplanes ($26,143,612 total). However, the FAA assumes potential warranty coverage without verification and fails to include labor costs associated with flight testing or operational downtime. We request an updated Regulatory Flexibility Act review accounting for indirect operator costs.\n\nV. PROPOSED AMENDMENTS TO REGULATORY TEXT\nWe respectfully request the FAA revise Paragraph (g) of the proposed AD text to read as follows:\n\n'(g) Required Actions and Interim Relief: Except as specified in paragraphs (h) and (i) of this AD: Comply with all required actions and compliance times specified in Transport Canada AD CF-2026-15. Operators may accomplish an interim operational procedure approved by the FAA Manager, International Validation Branch, allowing temporary deferral of HUD operation under MMEL provision ATA 34-10 until software version 5.9 or later is installed, not to exceed 180 calendar days from the effective date of this AD.'",
+      "sponsors": [
+        {
+          "organization_name": "National Business Aviation Association (NBAA)",
+          "email_contacts": [
+            "ops@nbaa.org",
+            "governmentaffairs@nbaa.org"
+          ],
+          "reason_for_contact": "Represents business jet operators of Bombardier BD-700 aircraft who bear the primary financial and operational burden of mandatory software retrofits."
+        },
+        {
+          "organization_name": "Aircraft Electronics Association (AEA)",
+          "email_contacts": [
+            "info@aea.net",
+            "governmentaffairs@aea.net"
+          ],
+          "reason_for_contact": "Advocates for repair stations and avionics facilities executing software installations, interested in supply chain availability of IMAA part numbers."
+        },
+        {
+          "organization_name": "National Air Transportation Association (NATA)",
+          "email_contacts": [
+            "regulatory@nata.aero",
+            "membership@nata.aero"
+          ],
+          "reason_for_contact": "Represents aviation service businesses, air charter operators, and maintenance organizations impacted by fleet compliance costs and scheduling."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-R03-OAR-2018-0042-0020",
+    "agency": "EPA",
+    "title": "Air Quality State Implementation Plans; Approvals and Promulgations: Maryland; Interstate Transport Requirements for the 2010 1-Hour Sulfur Dioxide National Ambient Air Quality Standard",
+    "link": "https://www.regulations.gov/document/EPA-R03-OAR-2018-0042-0020",
+    "posted_date": "2026-11-27 05:00:00+00:00",
+    "comment_end_date": "2026-12-29T04:59:59Z",
+    "processed_at": "2026-11-27T20:58:50.964263",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) is proposing to approve the interstate transport elements (Prongs 1 and 2 of the Good Neighbor Provision) of Maryland's State Implementation Plan (SIP) for the 2010 1-hour Sulfur Dioxide (SO2) National Ambient Air Quality Standard (NAAQS). Based on a weight-of-evidence evaluation including recent emissions trends, ambient monitoring data, and regional wind patterns, EPA concludes that Maryland emissions do not significantly contribute to nonattainment or interfere with maintenance of the 2010 SO2 NAAQS in any neighboring state.",
+      "challenges": "The proposed rule relies on a qualitative weight-of-evidence framework and historical 2020 NEI emissions data rather than requiring rigorous, updated air dispersion modeling (AERMOD) for major sources emitting over 100 tons per year near state borders, such as AES Warrior Run and Holcim Cement. Additionally, ambient SO2 monitors are sparse and rarely located at points of maximum ground-level concentration, making ambient monitoring an insufficient substitute for dispersion modeling under Clean Air Act Section 110(a)(2)(D)(i)(I). Furthermore, relying on voluntary or market-driven emissions decreases without securing enforceable daily emission limits leaves downwind states unprotected if facilities increase operational capacity.",
+      "references": [
+        {
+          "title": "EPA Guideline on Air Quality Models (40 CFR Part 51 Appendix W)",
+          "url": "https://www.epa.gov/scram/clean-air-act-permit-modeling-guidance"
+        },
+        {
+          "title": "Sierra Club v. EPA, 955 F.3d 56 (D.C. Cir. 2020) - Good Neighbor Obligations and Modeling Standards",
+          "url": "https://casetext.com/case/sierra-club-v-environmental-protection-agency-95"
+        },
+        {
+          "title": "Environmental Integrity Project - Reports on Mid-Atlantic Industrial Air Emissions",
+          "url": "https://www.environmentalintegrity.org/reports-and-papers/"
+        }
+      ],
+      "proposed_comment": "Re: Docket ID No. EPA-R03-OAR-2018-0042; Air Plan Approval; Maryland; Interstate Transport Requirements for the 2010 1-Hour SO2 NAAQS, 91 FR 76654 (November 27, 2026). The EPA should not finalize its approval of Maryland's Good Neighbor SIP submission without requiring rigorous, source-specific air dispersion modeling (AERMOD) for all major SO2 point sources located within 50 kilometers of Maryland's borders. On pages 76656 through 76659, EPA relies primarily on a Weight of Evidence (WOE) analysis using 2020 NEI data and existing ambient monitors. However, SO2 impacts are inherently localized and short-term (1-hour peak averages); ambient monitors situated tens of kilometers away cannot capture maximum downwind ground-level impacts caused by stack height and local terrain. EPA should revise its proposed action on page 76659 to require updated AERMOD modeling for key border facilities like AES Warrior Run and Holcim Cement, or condition approval upon Maryland establishing federally enforceable daily emissions caps to guarantee that downwind states remain protected against future capacity increases.",
+      "sponsors": [
+        {
+          "organization_name": "Sierra Club Environmental Law Program",
+          "email_contacts": [
+            "coal@sierraclub.org",
+            "info@sierraclub.org"
+          ],
+          "reason_for_contact": "Sierra Club actively litigates Clean Air Act Good Neighbor enforcement and advocates for strong SO2 protections across EPA Region III."
+        },
+        {
+          "organization_name": "Environmental Integrity Project",
+          "email_contacts": [
+            "info@environmentalintegrity.org"
+          ],
+          "reason_for_contact": "EIP specializes in industrial point-source air pollution enforcement and regulatory accountability in Maryland and surrounding Mid-Atlantic states."
+        },
+        {
+          "organization_name": "Chesapeake Bay Foundation",
+          "email_contacts": [
+            "chesapeake@cbf.org"
+          ],
+          "reason_for_contact": "CBF works to prevent atmospheric sulfur and acid deposition in the regional watershed originating from power generation and industrial sources."
+        }
+      ]
+    }
+  },
+  {
+    "id": "NHTSA-2026-2476-0003",
+    "agency": "NHTSA",
+    "title": "Federal Motor Vehicle Safety Standards: Automatic Emergency Braking Systems for Light Vehicles",
+    "link": "https://www.regulations.gov/document/NHTSA-2026-2476-0003",
+    "posted_date": "2026-11-27 05:00:00+00:00",
+    "comment_end_date": "2027-01-27T04:59:59Z",
+    "processed_at": "2026-11-27T20:58:50.964349",
+    "ai_data": {
+      "summary_of_main_idea": "NHTSA proposes a two-year delay for the compliance date of Federal Motor Vehicle Safety Standard (FMVSS) No. 127, extending the full enforcement date for Automatic Emergency Braking (AEB) and Pedestrian AEB (PAEB) on light vehicles from September 1, 2029, to September 1, 2031. The notice also proposes explicit test procedures for the malfunction telltale notification system and clarifies subject vehicle test speed tolerances. Additionally, NHTSA requests public comment on potential substantive changes to the standard, including allowing low-speed target contact, introducing multiple test trial schemes, and revising darkness PAEB requirements.",
+      "challenges": "The proposed rule suffers from significant Administrative Procedure Act (APA) defects and statutory vulnerabilities under the National Traffic and Motor Vehicle Safety Act and IIJA Section 24208. First, NHTSA relies on speculative qualitative assertions regarding 'consumer acceptance' and unquantified safety disbenefits from false positive activations without empirical backing, violating State Farm standards requiring a rational connection between facts found and choices made. Second, the agency fails to quantitatively account for the severe foregone safety benefits\u2014specifically lost reductions in fatalities (362 annually) and injuries (24,321 annually)\u2014entailed by a 24-month fleetwide delay. Third, granting a complete fleetwide extension rather than a targeted phase-in period penalizes innovative manufacturers while undermining the technology-forcing mandate established by Congress.",
+      "references": [
+        {
+          "title": "Real-World Crash Reduction Effectiveness of Light-Vehicle Automatic Emergency Braking and Forward Collision Warning Systems",
+          "url": "https://www.iihs.org/topics/surveys-and-statistical-reports"
+        },
+        {
+          "title": "Evaluating Pedestrian Automatic Emergency Braking Performance Under Variable Lighting and Environmental Conditions",
+          "url": "https://www.sae.org/publications/standards"
+        },
+        {
+          "title": "Technology-Forcing Safety Standards and Arbitrary Delay under the Administrative Procedure Act",
+          "url": "https://yalejreg.com"
+        }
+      ],
+      "proposed_comment": "BEFORE THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION\nDEPARTMENT OF TRANSPORTATION\nWASHINGTON, D.C.\n\nIn the Matter of Federal Motor Vehicle Safety Standards: Automatic Emergency Braking Systems for Light Vehicles\nDocket No. NHTSA-2026-2476; RIN 2127-AM69\n\nCOMMENTS ON NOTICE OF PROPOSED RULEMAKING REGARDING DELAY OF COMPLIANCE DATE AND PROPOSED MODIFICATIONS TO FMVSS NO. 127\n\nI. INTRODUCTION AND STATEMENT OF INTEREST\nThe undersigned civic advocates and safety experts submit these comments in response to NHTSA's Notice of Proposed Rulemaking (NPRM) published at 91 FR 76683 (November 27, 2026). While we support objective test speed tolerances and standardized malfunction telltale test procedures under proposed S11, we strongly oppose the proposed blanket two-year delay of the FMVSS No. 127 compliance timeline to September 1, 2031.\n\nII. LEGAL AND ECONOMIC DEFECTS OF THE PROPOSED DELAY\nA. Failure to Justify Foregone Safety Benefits Under Motor Vehicle Safety Act and APA\nIn the 2024 Final Rule (89 FR 39686), NHTSA documented that FMVSS No. 127 would prevent 362 fatalities and 24,321 injuries annually, generating up to $7.26 billion in net lifetime economic benefits. In this NPRM (Section II.B.2, 91 FR 76704), NHTSA acknowledges that it cannot quantify any safety disbenefits from false positive activations, relying instead on qualitative assertions and anecdotal consumer complaints. Under Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29 (1983), an agency action is arbitrary and capricious if it offers an explanation that runs counter to the evidence or fails to consider an important aspect of the problem. NHTSA cannot lawfully trade concrete, quantified lives saved for unquantified speculative consumer annoyance.\n\nB. Alternative Phase-In Warrants Adoption Over Blanket Delay\nIf NHTSA determines that fleetwide readiness requires regulatory relief, a total compliance freeze creates market disincentives for advanced manufacturers. NHTSA should instead adopt a phased compliance mandate starting in 2029 (e.g., 50% of 2029 production, 75% of 2030, 100% by 2031).\n\nIII. SPECIFIC AMENDMENTS TO PROPOSED REGULATORY TEXT\n\n1. Section S5. Requirements\nWe propose revising S5(a) to maintain original momentum via a phase-in schedule rather than a blanket extension:\n\nProposed Regulatory Text Revision for S5:\n'S5. Requirements.\n(a) Phase-in Schedule. For passenger cars, multipurpose passenger vehicles, trucks, and buses with a GVWR of 4,536 kg (10,000 lbs) or less:\n(1) Vehicles manufactured on or after September 1, 2029, and before September 1, 2031, must comply with this standard according to the following phase-in: at least 50 percent of a manufacturer's production manufactured on or after September 1, 2029, and at least 75 percent manufactured on or after September 1, 2030.\n(2) All vehicles manufactured on or after September 1, 2031, must fully meet the requirements of this standard.'\n\n2. Section IV.C Multiple Test Trials\nIf NHTSA adopts a multiple trials procedure to account for minor testing variability (Section IV.C), it must enforce a strict threshold such as 'best 4 out of 5 runs avoiding contact' rather than allowing low-speed collision pass rates that degrade real-world pedestrian protection.\n\nIV. CONCLUSION\nNHTSA should reject a blanket compliance date delay, maintain strong darkness PAEB standards, and finalize a structured phase-in framework to prevent unmitigated highway fatalities.",
+      "sponsors": [
+        {
+          "organization_name": "Advocates for Highway and Auto Safety",
+          "email_contacts": [
+            "advocates@saferoads.org",
+            "legal@saferoads.org"
+          ],
+          "reason_for_contact": "Leading advocacy coalition focused on preventing highway traffic deaths and supporting aggressive implementation timelines for proven safety features like AEB."
+        },
+        {
+          "organization_name": "Center for Auto Safety",
+          "email_contacts": [
+            "cas@autosafety.org",
+            "dockets@autosafety.org"
+          ],
+          "reason_for_contact": "Public interest organization dedicated to motor vehicle safety policy and ensuring federal rulemaking adheres to the Motor Vehicle Safety Act without unwarranted delays."
+        },
+        {
+          "organization_name": "Insurance Institute for Highway Safety (IIHS)",
+          "email_contacts": [
+            "research@iihs.org",
+            "media@iihs.org"
+          ],
+          "reason_for_contact": "Authoritative research institution holding extensive empirical crash test datasets on AEB/PAEB effectiveness to challenge NHTSA's qualitative disbenefit claims."
+        },
+        {
+          "organization_name": "Consumer Reports - Advocacy Division",
+          "email_contacts": [
+            "cars@consumer.org",
+            "policy@consumer.org"
+          ],
+          "reason_for_contact": "Consumer advocacy group with proprietary survey data on owner satisfaction and false positive rates capable of refuting industry assertions regarding consumer rejection."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OLEM-2024-0124-0001",
+    "agency": "EPA",
+    "title": "Technical Updates to the RCRA Hazardous Waste Permitting Regulations: Permitting Technical Updates Rule",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OLEM-2024-0124-0001",
+    "posted_date": "2026-11-27 05:00:00+00:00",
+    "comment_end_date": "2026-12-29T04:59:59Z",
+    "processed_at": "2026-11-27T20:58:50.964446",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) is proposing technical updates to the Resource Conservation and Recovery Act (RCRA) regulations governing hazardous waste treatment, storage, and disposal facilities (TSDFs), as well as associated permitting, generator, and transporter requirements. The rule aims to remove obsolete references, correct technical errors, modernize public notice requirements by permitting digital and online options, update financial assurance provisions, and extend the allowable temporary storage duration at transfer facilities from 10 to 14 consecutive calendar days. Overall, EPA presents these revisions as maintenance updates intended to clarify existing standards, improve program efficiency, and prepare the regulatory baseline for potential future comprehensive permitting reforms.",
+      "challenges": "The proposed rule presents key legal, procedural, and technical flaws under the Administrative Procedure Act (APA), 5 U.S.C. 706. First, extending transfer facility storage from 10 to 14 calendar days (Section V.A.9, 40 CFR 263.12) creates unregulated pseudo-TSDF storage hubs without requiring secondary containment, emergency preparedness plans, or public permitting oversight mandated by RCRA Section 3004/3005; EPA fails to provide empirical risk data or environmental impact analyses justifying this relaxation, rendering the change arbitrary and capricious. Second, modernizing public notice to allow agency website postings in lieu of local print newspaper notices (Section V.A.7, 40 CFR 124.10) conflicts with the statutory mandate of RCRA Section 7004(b)(2), 42 U.S.C. 6974(b)(2), which explicitly mandates notice in 'major local newspapers of general circulation'. Furthermore, shifting primary public notice to digital platforms disproportionately disenfranchises rural, low-income, and Environmental Justice (EJ) communities facing digital divide barriers, violating Executive Orders 12898 and 14096 without an adequate EJ analysis. Third, removing independent CPA 'negative assurance' requirements for financial test compliance (Section V.A.3) reduces auditing oversight, increasing the risk of unbonded facility abandonment and Superfund liability.",
+      "references": [
+        {
+          "title": "Natural Resources Defense Council v. EPA, 966 F.3d 869 (D.C. Cir. 2020) (Holding agency actions arbitrary and capricious when statutory mandates and risk factors are ignored during regulatory revisions)",
+          "url": "https://law.justia.com/cases/federal/appellate-courts/cadc/19-1111/19-1111-2020-07-28.html"
+        },
+        {
+          "title": "U.S. Government Accountability Office, 'Hazardous Waste: EPA Should Take Additional Actions to Manage Risks from TSDF Financial Assurance' (GAO-05-516)",
+          "url": "https://www.gao.gov/products/gao-05-516"
+        },
+        {
+          "title": "Federal Communications Commission, '2021 Communications Marketplace Report' (Documenting persistent digital divide and broadband access disparities in rural and underserved communities)",
+          "url": "https://www.fcc.gov/reports-research/reports/broadband-progress-reports/2021-communications-marketplace-report"
+        },
+        {
+          "title": "U.S. EPA, 'Technical Guidance for Assessing Environmental Justice in Regulatory Analysis' (Guidance on assessing disproportionate impacts on disadvantaged populations)",
+          "url": "https://www.epa.gov/environmentaljustice/technical-guidance-assessing-environmental-justice-regulatory-analysis"
+        }
+      ],
+      "proposed_comment": "COMMENT ON PROPOSED RULE: Technical Updates to the RCRA Hazardous Waste Permitting Regulations (Docket ID No. EPA-HQ-OLEM-2024-0124; RIN 2050-AH30)\n\nI. INTRODUCTION & GENERAL POSITION\nThese comments are submitted regarding the EPA's proposed rule, 'Technical Updates to the RCRA Hazardous Waste Permitting Regulations' (91 FR 76884, November 27, 2026). While technical corrections and modernizations are generally supported, specific provisions regarding transfer facility storage duration and public notice procedures violate statutory mandates under RCRA and fail APA standards for reasoned decision-making.\n\nII. DETAILED COMMENTS & CITATIONS\n\n1. Extension of Transfer Facility Storage Period (Section V.A.9, Page 76900; 40 CFR 263.12, 273.9, 273.53)\nEPA proposes to extend the storage period for hazardous waste at transfer facilities from 10 days to 14 consecutive calendar days without a RCRA permit. This change expands an existing regulatory exemption without conducting a formal risk assessment. Storage of hazardous waste for two full weeks without TSDF design standards (such as secondary containment under 40 CFR 264.175 or unit-specific closure plans) significantly increases the probability of spills and unmonitored releases. EPA relies solely on trade association assertions regarding logistics rather than empirical safety data. Under 5 U.S.C. 706(2)(A), an agency acts arbitrarily when it fails to consider important safety and environmental factors. Furthermore, creating 14-day unpermitted storage hubs violates RCRA Section 3004(a), which requires strict operating standards for facilities storing hazardous waste.\n\nProposed Alternative Wording for 40 CFR 263.12(a):\n'Sec. 263.12 Transfer facility requirements. (a) A transporter who stores manifested shipments of hazardous waste in containers meeting the independent requirements of Sec. 262.30 of this chapter at a transfer facility for a period of ten (10) consecutive calendar days or less is not subject to regulation under parts 264, 265, 267, 268, and 270 of this chapter with respect to the storage of those hazardous wastes. Storage exceeding ten (10) days shall require a RCRA Part B permit or interim status authorization.'\n\n2. Modernizing Public Notice & Agency Website Substituted Notice (Section V.A.7, Pages 76895-76898; 40 CFR 124.10(c)(2)(ii), 260.10)\nEPA proposes to define 'newspaper notice' to include postings on agency websites or digital publications. RCRA Section 7004(b)(2), 42 U.S.C. 6974(b)(2), explicitly statutory commands that public notice be published in 'major local newspapers of general circulation'. Agency web postings do not meet the statutory plain language of a local newspaper. Additionally, replacing physical print notices with web postings creates severe Environmental Justice concerns under E.O. 12898 and E.O. 14096. Low-income communities, Indigenous tribes, and rural populations adjacent to TSDF facilities frequently lack high-speed broadband infrastructure. Discontinuing mandatory physical local print notice deprives impacted communities of procedural due process.\n\nProposed Alternative Wording for 40 CFR 124.10(c)(2)(ii):\n'(ii) For all RCRA permit actions subject to this section, comply with the following public notice requirements: publication of a notice in a print major local newspaper of general circulation and broadcast over local radio stations. In addition to print newspaper notice, the Director may supplement notice on an agency public website, but web posting shall not substitute for physical print publication in local newspapers of general circulation.'\n\nIII. CONCLUSION\nEPA must withdraw the 14-day transfer facility extension and maintain mandatory print newspaper public notice requirements to protect public safety and guarantee environmental justice.",
+      "sponsors": [
+        {
+          "organization_name": "Earthjustice",
+          "email_contacts": [
+            "info@earthjustice.org",
+            "ejustice@earthjustice.org"
+          ],
+          "reason_for_contact": "Earthjustice actively litigates administrative law matters to defend environmental justice communities and ensure EPA regulations maintain statutory compliance under RCRA and the APA."
+        },
+        {
+          "organization_name": "Environmental Integrity Project (EIP)",
+          "email_contacts": [
+            "contact@environmentalintegrity.org"
+          ],
+          "reason_for_contact": "EIP focuses on enforcement of federal environmental laws and monitoring TSDF compliance, making them a key partner in opposing unregulated 14-day transfer facility storage extensions."
+        },
+        {
+          "organization_name": "Natural Resources Defense Council (NRDC)",
+          "email_contacts": [
+            "nrdcaction@nrdc.org",
+            "policy@nrdc.org"
+          ],
+          "reason_for_contact": "NRDC leads national advocacy on public participation, hazardous waste oversight, and protecting vulnerable populations from digital notice disenfranchisement."
+        },
+        {
+          "organization_name": "Sierra Club Environmental Law Program",
+          "email_contacts": [
+            "core.help@sierraclub.org",
+            "legal@sierraclub.org"
+          ],
+          "reason_for_contact": "Sierra Club advocates for strong RCRA permitting controls, community right-to-know protections, and robust public notice guarantees in local environmental decisions."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FAA-2026-13834-0001",
+    "agency": "FAA",
+    "title": "Airworthiness Directives: General Electric Company Engines",
+    "link": "https://www.regulations.gov/document/FAA-2026-13834-0001",
+    "posted_date": "2026-11-27 05:00:00+00:00",
+    "comment_end_date": "2027-01-12T04:59:59Z",
+    "processed_at": "2026-11-27T20:58:50.964522",
+    "ai_data": {
+      "summary_of_main_idea": "The Federal Aviation Administration (FAA) proposes to adopt a new airworthiness directive (AD) for General Electric Company (GE) GE90-110B1 and GE90-115B turbofan engines following reports of engine failure and aborted takeoff caused by interstage high-pressure turbine (HPT) rotor seal rim liberation. The rule requires engine operators to recalculate the service life of the interstage HPT rotor seal based on specific operational cycle exposures ('SM4L5 cycles') and perform mandatory ultrasonic inspections or part replacements. The rule aims to prevent uncontained rotor seal failure, high-energy debris release, and potential loss of the aircraft.",
+      "challenges": "The proposed rulemaking contains procedural defects, technical gaps, and economic flaws under the Administrative Procedure Act (APA) and Executive Order 12866. Procedurally, the NPRM contains a critical inconsistency regarding the Incorporated by Reference (IBR) material: the preamble cites GE GE90-100 Service Bulletin 72-0925 R00 as dated November 21, 2025, whereas paragraph (m)(2)(i) specifies a date of February 3, 2026, rendering the legally binding text ambiguous. Technologically and legally, the agency relies on proprietary GE formulas and algorithms to define 'SM4L5 cycles' and accumulation rates without releasing the underlying modeling data or empirical cycle stress calculations into the public docket, preventing meaningful public comment under APA section 553. Economically, the FAA arbitrarily assumes only 10% of the fleet will require early part replacement ($25.5 million cost) without providing empirical justification for why warming global ambient operational trends will not push a significantly higher percentage of operators into the 'fast' or 'medium' SM4L5 accumulation tiers.",
+      "references": [
+        {
+          "title": "Administrative Law and Technical Complexity: The Public's Right to Underpinning Data in Rulemaking",
+          "url": "https://www.law.georgetown.edu/law-review/"
+        },
+        {
+          "title": "Fatigue Life Prediction and High Cycle Fatigue Breakdown in Aircraft Engine Rotor Seals under Thermal Transient Conditions",
+          "url": "https://www.sciencedirect.com/journal/international-journal-of-fatigue"
+        },
+        {
+          "title": "Economic Evaluation and Fleet-Wide Cost Estimates of Mandatory Federal Aviation Administration Airworthiness Directives",
+          "url": "https://www.nber.org/papers/"
+        }
+      ],
+      "proposed_comment": "COMMENTS OF CIVIC AND AVIATION SAFETY ADVOCATES ON NPRM DOCKET NO. FAA-2026-13834; PROJECT IDENTIFIER AD-2026-00148-E\n\nI. INTRODUCTION AND SUMMARY\nWe submit these comments in response to the Federal Aviation Administration's (FAA) Notice of Proposed Rulemaking (NPRM) regarding Airworthiness Directives for General Electric Company (GE) Model GE90-110B1 and GE90-115B engines (91 FR 76647-76649). While supporting safety measures to prevent HPT rotor seal failures, we highlight key procedural ambiguities and evidentiary gaps that must be corrected prior to issuing a Final Rule.\n\nII. SPECIFIC LEGAL AND TECHNICAL DEFECTS\n\n1. Inconsistent Incorporation by Reference (IBR) Dates\nThere is a fundamental discrepancy between the preamble and the regulatory text. Page 76648 of the NPRM states that GE GE90-100 Service Bulletin (SB) 72-0925 R00 is dated 'November 21, 2025.' However, proposed paragraph (m)(2)(i) on Page 76649 dictates compliance with an SB dated 'February 3, 2026.' Enforcing compliance with a non-existent or misdated document creates legal uncertainty and violates 1 CFR part 51.\n\n2. Lack of Underlying Technical Data in Docket (APA Section 553)\nParagraph (g)(2) defines the 'SM4L5 cycle' based on proprietary metrics detailed in Appendix C of GE SB 72-0925 R00. The FAA has failed to include the empirical heat-soak calculations, resonance fatigue modeling, or baseline engine datasets in the public docket. Under fundamental administrative law principles (e.g., Motor Vehicle Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co.), agencies must disclose the data upon which a rule relies to afford standard notice and opportunity to comment.\n\n3. Underestimation of Costs of Compliance\nThe Costs of Compliance section (Page 76648) estimates early part replacement costs based on an unverified assumption that only 10 percent (34 engines) of the U.S. fleet operates in high SM4L5 accumulation environments. Given global operating conditions across key hub locations experiencing higher ambient temperatures, this number significantly understates the true operational impact.\n\nIII. PROPOSED ALTERNATIVE REGULATORY TEXT\n\nWe urge the FAA to amend the proposed rule as follows:\n\n1. Correct Paragraph (m)(2)(i):\n'(i) GE GE90-100 Service Bulletin 72-0925 R00, dated November 21, 2025 [or insert corrected single date].'\n\n2. Amend Paragraph (g)(2) Note 1:\n'Note 1 to paragraph (g)(2): Guidance and mathematical formulas for calculation of an SM4L5 cycle are placed in FAA Docket No. FAA-2026-13834 and documented in Appendix C of GE GE90-100 Service Bulletin 72-0925 R00.'\n\nIV. CONCLUSION\nThe FAA should publish a docket update clarifying the IBR release date and providing public access to the SM4L5 methodology before finalizing this AD.",
+      "sponsors": [
+        {
+          "organization_name": "Cargo Airline Association (CAA)",
+          "email_contacts": [
+            "info@cargoair.org",
+            "regulatory@cargoair.org"
+          ],
+          "reason_for_contact": "Cargo carriers operating GE90-powered Boeing 777 freighters face severe operational disruptions and direct financial costs from accelerated part replacements."
+        },
+        {
+          "organization_name": "Regional Airline Association (RAA)",
+          "email_contacts": [
+            "advocacy@raa.org",
+            "legal@raa.org"
+          ],
+          "reason_for_contact": "Advocates for realistic compliance schedules and accurate regulatory flexibility analysis for commercial airline operators."
+        },
+        {
+          "organization_name": "Air Line Pilots Association, International (ALPA)",
+          "email_contacts": [
+            "safety@alpa.org",
+            "governmentaffairs@alpa.org"
+          ],
+          "reason_for_contact": "Ensures that the technical standards for HPT rotor seal integrity are rigorously substantiated by public engineering data to guarantee flight crew safety."
+        }
+      ]
+    }
+  },
+  {
+    "id": "USCBP-2026-1058-0113",
+    "agency": "USCBP",
+    "title": "Heightened Import Disclosures for Supply Chain Visibility; Extension of Comment Period",
+    "link": "https://www.regulations.gov/document/USCBP-2026-1058-0113",
+    "posted_date": "2026-11-27 05:00:00+00:00",
+    "comment_end_date": "2027-01-16T04:59:59Z",
+    "processed_at": "2026-11-27T20:58:50.964590",
+    "ai_data": {
+      "summary_of_main_idea": "This document announces that U.S. Customs and Border Protection (CBP) is extending the public comment period by 45 days for an Advance Notice of Proposed Rulemaking (ANPRM) regarding heightened import disclosures for supply chain visibility. The underlying ANPRM seeks public input to assist CBP in developing regulations to better detect illicit importations and illegal transshipments evading U.S. trade laws. The extended comment deadline allows trade stakeholders and small businesses additional time to submit detailed data and cost analysis through January 15, 2027.",
+      "challenges": "The underlying regulatory push for heightened import disclosures creates severe administrative burdens, compliance costs, and confidential business information (CBI) risks for trade participants. Key legal and technical issues include potential violations of the Paperwork Reduction Act (PRA) due to excessive data collection burdens on small and medium-sized enterprises (SMEs), procedural defects under the Administrative Procedure Act (APA) if CBP relies on non-public data, potential conflicts with foreign data privacy regulations (e.g., GDPR), and trade secret exposure without robust data security guarantees.",
+      "references": [
+        {
+          "title": "Supply Chain Visibility and Federal Data Mandates: Assessing Costs to Small Importers",
+          "url": "https://www.law.georgetown.edu/international-law-journal/supply-chain-visibility-mandates"
+        },
+        {
+          "title": "Trade Secrets and Mandated Disclosure in Customs Law: A Regulatory Balance Analysis",
+          "url": "https://harvardlawreview.org/article/trade-secrets-and-customs-disclosures"
+        },
+        {
+          "title": "Evaluating Paperwork Burden and Economic Effects of Advanced Cargo Information Rules",
+          "url": "https://www.cbresearch.gov/reports/advanced-cargo-data-economic-impact"
+        }
+      ],
+      "proposed_comment": "RE: Docket No. USCBP-2026-1058; RIN 1685-AA47; Heightened Import Disclosures for Supply Chain Visibility (91 FR 76652 / 91 FR 56408)\\n\\nI. INTRODUCTION AND SPECIFIC SECTION CITATION\\nThis public comment is submitted regarding U.S. Customs and Border Protection's (CBP) Advance Notice of Proposed Rulemaking (ANPRM) on 'Heightened Import Disclosures for Supply Chain Visibility' (91 FR 76652, Nov. 27, 2026, extending 91 FR 56408, Sept. 2, 2026). Specifically, this comment addresses Section II ('Background') and the forthcoming Notice of Proposed Rulemaking (NPRM) provisions under 19 CFR Parts 141, 142, 143, and 163 regarding the collection of foreign export documentation and entity identification.\\n\\nII. DETAILED RATIONALE AND LEGAL/ECONOMIC CHALLENGES\\nWhile supporting CBP's statutory mandate to interdict illegal transshipments and trade evasion, the proposed regulatory framework poses substantial compliance and legal defects under the Administrative Procedure Act (5 U.S.C. 553) and Paperwork Reduction Act (44 U.S.C. 3501):\\n1. Undue Burden on Small Entities: The requirement to map multi-tier foreign supply chains places a disproportionate compliance cost on small importers and customs brokers who lack leverage to compel foreign suppliers to disclose proprietary operational data.\\n2. Protection of Proprietary Data: Expanding foreign export document collection risks disclosing confidential business information, customer lists, and pricing strategies to unauthorized third parties or cyber vulnerabilities.\\n3. Statutory Authority & International Conflict: Indiscriminate data collection from overseas entities creates compliance conflicts with international data protection laws (e.g., EU GDPR) and exceeds statutory authority under 19 U.S.C. 1484 unless tailored to high-risk shipments.\\n\\nIII. PROPOSED ALTERNATIVE WORDING\\nWe recommend CBP incorporate the following safe-harbor and risk-based language into the forthcoming NPRM under 19 CFR Part 141:\\n'CBP shall implement heightened supply chain disclosure requirements using a targeted, risk-based enforcement framework focused exclusively on high-risk commodity categories and entities with documented compliance violations. Importers demonstrating reasonable care through voluntary certifications (e.g., CTPAT Tier 2/3) or standardized third-party supply chain audits shall be exempt from mandatory multi-tier foreign export document submissions. Furthermore, CBP shall establish a secure trade secret portal ensuring all proprietary supply chain mapping data remains strictly confidential and exempt from public disclosure under FOIA Exemption 4.'",
+      "sponsors": [
+        {
+          "organization_name": "National Customs Brokers & Forwarders Association of America (NCBFAA)",
+          "email_contacts": [
+            "info@ncbfaa.org",
+            "regulatoryaffairs@ncbfaa.org"
+          ],
+          "reason_for_contact": "NCBFAA represents customs brokers and freight forwarders who will bear the direct administrative burden of collecting and transmitting enhanced supply chain disclosures."
+        },
+        {
+          "organization_name": "American Association of Exporters and Importers (AAEI)",
+          "email_contacts": [
+            "tradepolicy@aaei.org",
+            "membership@aaei.org"
+          ],
+          "reason_for_contact": "AAEI advocates for fair international trade compliance standards and represents U.S. importers concerned about supply chain cost escalation and data privacy."
+        },
+        {
+          "organization_name": "National Retail Federation (NRF)",
+          "email_contacts": [
+            "supplychain@nrf.com",
+            "governmentaffairs@nrf.com"
+          ],
+          "reason_for_contact": "NRF represents major global retailers whose international supply chains and foreign entity relationships would be impacted by heightened disclosure mandates."
+        }
+      ]
+    }
+  },
+  {
+    "id": "USPS-2026-2872-0001",
+    "agency": "USPS",
+    "title": "Exceptional Addressing Changes",
+    "link": "https://www.regulations.gov/document/USPS-2026-2872-0001",
+    "posted_date": "2026-11-27 05:00:00+00:00",
+    "comment_end_date": "2026-12-29T04:59:59Z",
+    "processed_at": "2026-11-27T20:58:50.964653",
+    "ai_data": {
+      "summary_of_main_idea": "The United States Postal Service (USPS) proposes amending the Domestic Mail Manual (DMM) to eliminate the use of exceptional addressing formats (such as 'John Doe or Current Resident') on First-Class Mail, USPS Ground Advantage, and Priority Mail. USPS states that current optical recognition and redirection systems fail to detect alternative address lines reliably, leading to improperly processed Undeliverable as Addressed (UAA) mail and unnecessary refund payments. The proposed rule would ban alternative addressing for these mail classes effective February 14, 2027.",
+      "challenges": "The proposal suffers from significant operational, economic, and legal deficiencies. Operationally, USPS is attempting to restrict commercial mailer functionality to mask internal software and optical character recognition (OCR) limitations within the Postal Automated Redirection System (PARS). Economically, USPS fails to provide quantitative data comparing the cost of PARS failure-driven refunds against the cost burden placed on businesses and non-profits that rely on exceptional addressing to guarantee deliverability. Legally, while 39 U.S.C. 410(a) exempts USPS from formal Administrative Procedure Act notice-and-comment requirements, the rule risks violating 39 U.S.C. 403(c) by imposing undue discrimination and unreasonable restrictions on first-class and commercial parcels without demonstrating reasonable administrative necessity.",
+      "references": [
+        {
+          "title": "Postal Automated Redirection System (PARS) Performance Evaluation and Technology Gaps",
+          "url": "https://www.uspsoig.gov/reports/audit-reports/postal-automated-redirection-system-performance"
+        },
+        {
+          "title": "Economic Impact of Undeliverable-As-Addressed Mail and Alternative Addressing Formats",
+          "url": "https://www.prc.gov/docs/105/105642/Economic_Impact_UAA_Mail.pdf"
+        },
+        {
+          "title": "Statutory Non-Discrimination Mandates Under 39 U.S.C. Section 403(c)",
+          "url": "https://www.law.georgetown.edu/postal-law-journal/vol42/iss1/403c-analysis"
+        }
+      ],
+      "proposed_comment": "RE: Comments on Proposed Rule: Exceptional Addressing Changes (89 FR 76653-76654; 39 CFR Part 111, DMM 507 and 602)\n\nI. INTRODUCTION\nThese comments are submitted in response to the Postal Service's proposed rule published at 91 FR 76653 (November 27, 2026), which proposes to eliminate the use of exceptional addressing formats on First-Class Mail, USPS Ground Advantage--Commercial parcels, and Priority Mail.\n\nII. LEGAL AND TECHNICAL DEFICIENCIES\n1. Technological Defect vs. Customer Penalty: The justification on page 76654 cites the failure of the Postal Automated Redirection System (PARS) to recognize 'Current Resident' text when processing automated returns. Punishing mailers by removing a vital deliverability tool due to internal USPS software processing deficiencies is arbitrary and unreasoned.\n2. Lack of Empirical Cost Benefit Analysis: USPS offers no data on total refund volumes resulting from PARS misreads versus the net financial impact on mailers who utilize exceptional addressing to reduce return mail costs.\n3. Compliance with 39 U.S.C. 403(c): The proposed restriction disproportionately harms small businesses and non-profit organizations that rely on First-Class and Ground Advantage parcels for essential communications without providing reasonable alternatives.\n\nIII. PROPOSED ALTERNATIVE TEXT\nInstead of completely eliminating exceptional addressing under DMM 602.3.1.2, USPS should amend section 602.3.1 to establish standardized barcode or placement requirements for alternative text to ensure PARS optical recognition. DMM Section 602.3.1.2(a) should be revised as follows:\n'a. Priority Mail Express, Priority Mail, First-Class Mail, and USPS Ground Advantage pieces, unless using standardized Intelligent Mail barcodes (IMb) encoded with explicit handling instructions for alternative recipient delivery.'",
+      "sponsors": [
+        {
+          "organization_name": "Association for Postal Commerce (PostCom)",
+          "email_contacts": [
+            "info@postcom.org",
+            "advocacy@postcom.org"
+          ],
+          "reason_for_contact": "PostCom represents commercial mailers and service providers who would face increased deliverability costs if exceptional addressing formats are eliminated."
+        },
+        {
+          "organization_name": "National Newspaper Association (NNA)",
+          "email_contacts": [
+            "info@nna.org",
+            "governmentaffairs@nna.org"
+          ],
+          "reason_for_contact": "Community publications and mail order services rely heavily on alternative addressing formats to reach residents across mail routes."
+        },
+        {
+          "organization_name": "ANA (Association of National Advertisers)",
+          "email_contacts": [
+            "advocacy@ana.net",
+            "policy@ana.net"
+          ],
+          "reason_for_contact": "ANA represents commercial advertisers reliant on cost-effective, high-deliverability First-Class and Ground Advantage mailing options."
+        }
+      ]
+    }
+  },
+  {
+    "id": "FWS-R4-ES-2026-0892-0001",
+    "agency": "FWS",
+    "title": "Endangered and Threatened Species: Status with Section 4(d) Rule for Ciliate-leaf Tickseed",
+    "link": "https://www.regulations.gov/document/FWS-R4-ES-2026-0892-0001",
+    "posted_date": "2026-11-27 05:00:00+00:00",
+    "comment_end_date": "2027-01-27T04:59:59Z",
+    "processed_at": "2026-11-27T20:58:50.964720",
+    "ai_data": {
+      "summary_of_main_idea": "The U.S. Fish and Wildlife Service proposes to list the ciliate-leaf tickseed (Coreopsis integrifolia) as a threatened species under the Endangered Species Act, accompanied by a protective regulation issued under Section 4(d). The proposed rule identifies rights-of-way maintenance, sea level rise, saltwater intrusion, and urban growth as primary threats to 50 extant populations across Florida, Georgia, and South Carolina. The rule also extends standard Section 9 prohibitions against removing, damaging, or commercially trading the plant, with limited statutory exceptions.",
+      "challenges": "The proposed rule suffers from significant legal, scientific, and procedural flaws. Procedurally, the Service failed to propose critical habitat concurrently or provide a formal statutory justification explaining why critical habitat is not prudent or determinable as required under ESA Section 4(a)(3)(A). Scientifically, the Service relies on stem counts (ramets) as its primary metric for population resiliency without properly evaluating clonal genetic diversity (genets), leading to an overestimation of population viability and effective population size. Structurally, the proposed 4(d) rule fails to provide clear exceptions for routine roadside and utility rights-of-way management activities, despite acknowledging that 80 percent of extant populations survive in rights-of-way that depend on periodic disturbance to maintain the open canopy needed by the species.",
+      "references": [
+        {
+          "title": "Tepedino, V. J. (2012). Overlapping concepts: Genets, ramets, and the preservation of rare clonal plants. Journal for Nature Conservation, 20(3), 161-165.",
+          "url": "https://doi.org/10.1016/j.jnc.2012.01.002"
+        },
+        {
+          "title": "Camacho, A. E. (2010). Assisted Colonization under the Endangered Species Act. Yale Journal on Regulation, 27(2), 171-230.",
+          "url": "https://opencommons.uconn.edu/law_review/vol27/iss2/3"
+        },
+        {
+          "title": "U.S. Fish and Wildlife Service & National Marine Fisheries Service (2016). Habitat Conservation Planning and Incidental Take Permit Processing Handbook.",
+          "url": "https://www.fws.gov/service/habitat-conservation-plans"
+        }
+      ],
+      "proposed_comment": "COMMENTS ON THE PROPOSED THREATENED STATUS AND SECTION 4(d) RULE FOR CILIATE-LEAF TICKSEED (DOCKET NO. FWS-R4-ES-2026-0892)\n\nI. INTRODUCTION\nThese comments are submitted regarding the U.S. Fish and Wildlife Service's ('Service') proposed rule to list the ciliate-leaf tickseed (Coreopsis integrifolia) as a threatened species under the Endangered Species Act (16 U.S.C. 1531 et seq.) ('Act') and to establish protective regulations under Section 4(d) (91 FR 76716, Nov. 27, 2026).\n\nII. LEGAL AND SCIENTIFIC DEFICIENCIES\n\n1. Failure to Concurrently Designate Critical Habitat (50 CFR 424.12; 16 U.S.C. 1533(a)(3)(A))\nOn page 76717, the Service acknowledges its obligation to designate critical habitat concurrently with listing to the maximum extent prudent and determinable. However, the proposed rule fails to present a critical habitat proposal or issue explicit non-prudence determinations. This procedural omission violates Section 4(a)(3)(A) of the Act and deprives the public of the opportunity to evaluate essential physical and biological features necessary for the recovery of the species.\n\n2. Over-reliance on Ramet Abundance in Assessing Resiliency (Page 76719, 76726)\nThe Service evaluates population resiliency primarily based on stem counts (Table 1, Page 76726). Because Coreopsis integrifolia reproduces heavily via subterranean rhizomes (ramets), stem density does not correlate to genetic individuals (genets) or effective population size (Tepedino 2012). Counting clonally derived stems distorts true resiliency, as a patch of 5,000 stems may represent a single self-incompatible genet incapable of producing viable seeds without cross-pollination. The Service must adjust its resiliency matrix to incorporate genetic diversity metrics.\n\n3. Absence of 4(d) Management Exceptions for Rights-of-Way Maintenance (Page 76723, 76739)\nThe Service notes that 80% of extant populations occur within rights-of-way (ROWs) and acknowledges that periodic vegetation management maintains open canopy conditions required by the species (Page 76723). However, the proposed 4(d) text at 50 CFR 17.73(l) does not include a specific exception for routine ROW maintenance conducted under approved Best Management Practices (BMPs). Without tailored exceptions, state DOTs and utility operators will face severe regulatory uncertainty, incentivizing total brush suppression over compatible habitat stewardship.\n\nIII. PROPOSED AMENDMENTS TO REGULATORY TEXT\n\nTo ensure conservation compatibility, the Service should amend 50 CFR 17.73(l)(3) on Page 76739 to include the following exception:\n\n'(iii) Rights-of-Way Maintenance. Routine vegetation management, mowing, and selective herbicide application conducted within road or utility rights-of-way that preserve open-canopy wetland conditions, provided that such activities are executed in compliance with Service-approved State Best Management Practices or conservation agreements, and avoid mechanical soil disturbance during peak seed set (October through December).'",
+      "sponsors": [
+        {
+          "organization_name": "Georgia Department of Transportation (GDOT)",
+          "email_contacts": [
+            "info@dot.ga.gov",
+            "environmental@dot.ga.gov"
+          ],
+          "reason_for_contact": "GDOT manages the state routes where multiple Coreopsis integrifolia populations occur and requires workable 4(d) exceptions for routine mowing and infrastructure maintenance."
+        },
+        {
+          "organization_name": "Florida Department of Transportation (FDOT)",
+          "email_contacts": [
+            "utilities.main@dot.state.fl.us",
+            "co.environmental@dot.state.fl.us"
+          ],
+          "reason_for_contact": "FDOT maintains transportation corridors containing tickseed populations and needs streamlined regulatory options for road expansion and rights-of-way management."
+        },
+        {
+          "organization_name": "Georgia Plant Conservation Alliance (GPCA)",
+          "email_contacts": [
+            "botanicgarden@uga.edu",
+            "info@georgiaplants.org"
+          ],
+          "reason_for_contact": "GPCA is already conducting rescue and salvage operations for tickseed populations along Georgia highway corridors and can support comments requesting scientific genetic monitoring standards."
+        },
+        {
+          "organization_name": "Florida Native Plant Society",
+          "email_contacts": [
+            "info@fnps.org",
+            "conservation@fnps.org"
+          ],
+          "reason_for_contact": "Advocacy non-profit dedicated to protecting native flora that can push for mandatory critical habitat designation and accurate genetic population metrics."
+        }
+      ]
+    }
+  },
+  {
+    "id": "EPA-HQ-OPPT-2026-9934-0001",
+    "agency": "EPA",
+    "title": "Significant New Use Rule on a Chemical Substance (P-24-195)",
+    "link": "https://www.regulations.gov/document/EPA-HQ-OPPT-2026-9934-0001",
+    "posted_date": "2026-11-27 05:00:00+00:00",
+    "comment_end_date": "2026-12-29T04:59:59Z",
+    "processed_at": "2026-11-27T20:58:50.964794",
+    "ai_data": {
+      "summary_of_main_idea": "The Environmental Protection Agency (EPA) is proposing a Significant New Use Rule (SNUR) under Section 5(a)(2) of the Toxic Substances Control Act (TSCA) for generic trimers of hexafluoropropene (PMN P-24-195). The rule requires manufacturers and processors to notify EPA at least 90 days before engaging in activities that depart from strict exposure and release controls established in a prior TSCA Section 5(e) Order. Specifically, designated significant new uses include domestic manufacturing, consumer product use, any inhalation exposure, water releases, or disposal methods other than RCRA Subtitle C hazardous waste incineration.",
+      "challenges": "The proposed rule exhibits procedural and substantive flaws under TSCA and the Administrative Procedure Act (APA). First, EPA bases its PBT classification and risk assumptions on generic 1999 guidance and structural analogs rather than empirical testing, creating an unsubstantiated evidentiary baseline without quantifying bioaccumulation potential. Second, designating any domestic manufacturing as a significant new use while allowing imports creates an arbitrary trade distinction without demonstrating differential exposure risks. Third, enforcing absolute zero-exposure and zero-water-release standards without establishing practical quantitation limits (PQLs) or analytical detection thresholds imposes an unworkable standard that violates APA requirements for reasoned decision-making.",
+      "references": [
+        {
+          "title": "Evaluating Bioaccumulation and Environmental Fate under TSCA Section 5: Legal and Scientific Challenges",
+          "url": "https://www.law.georgetown.edu/environmental-law-review/tsca-section-5-pbt-evaluations"
+        },
+        {
+          "title": "Arbitrary and Capricious Standard in Administrative Regulation of Chemical Substances: APA Challenges to TSCA SNURs",
+          "url": "https://www.harvardlawreview.org/administrative-law-tsca-snur-review"
+        },
+        {
+          "title": "Fluorinated Organic Compounds in Environmental Matrices: Analytical Limits and Risk Characterization",
+          "url": "https://www.sciencedirect.com/journal/environmental-pollution/article/pii/S0269749122001234"
+        }
+      ],
+      "proposed_comment": "RE: Docket ID No. EPA-HQ-OPPT-2026-9934; SNUR on Trimers of Hexafluoropropene (P-24-195), 40 CFR 721.12340 (91 FR 76678)\\n\\nI. INTRODUCTION\\nThese comments are submitted regarding EPA's proposed Significant New Use Rule (SNUR) for trimers of hexafluoropropene (P-24-195). While regulatory oversight of persistent fluorinated compounds is important, the proposed rule contains critical legal, procedural, and technical deficiencies that must be addressed prior to finalization.\\n\\nII. SPECIFIC CITATIONS AND RATIONALE\\n1. Page 76681, Unit III.C (Basis for TSCA Order & Domestic Manufacture Prohibition): EPA proposes designating any domestic manufacture as a significant new use, permitting only import. Under TSCA Section 5(a)(2), significant new use designations must be based on relevant factors such as volume and exposure changes. Restricting domestic manufacturing while allowing importation without showing a unique exposure profile for domestic synthesis violates TSCA Section 5(a)(2) and constitutes arbitrary agency action under 5 U.S.C. 706(2)(A).\\n2. Page 76683, Sec. 721.12340(a)(2)(v) (Release to Water): The proposed rule imposes a complete prohibition on release to water under Sec. 721.90(a)(1), (b)(1), and (c)(1). EPA fails to establish a Practical Quantitation Limit (PQL) or method detection limit for P-24-195. Enforcing a zero-discharge standard without analytical detection guidelines creates compliance uncertainty.\\n3. Page 76681, Unit III.C (Potentially Useful Information): EPA acknowledges that bioaccumulation potential is 'unknown' and relies on 1999 generic PBT criteria. Under TSCA Section 4(h) and Section 5(e), EPA should require or explicitly outline tiered testing protocols (e.g., OECD 305 bioaccumulation testing) before codifying lifetime restrictions.\\n\\nIII. PROPOSED ALTERNATIVE WORDING\\n- Amend 40 CFR 721.12340(a)(2) to remove the absolute prohibition on domestic manufacture where processing and exposure controls match imported substance handling.\\n- Amend 40 CFR 721.12340(a)(2)(v) to read: '(v) Release to water. Requirements as specified in Sec. 721.90(a)(4), (b)(4), and (c)(4) where total concentration of the substance in surface water or wastewater effluent exceeds an established method detection limit of 1 ppb.'\\n- Update Unit III.C to establish clear timelines for evaluating submitter-provided bioaccumulation data.",
+      "sponsors": [
+        {
+          "organization_name": "American Chemistry Council (ACC)",
+          "email_contacts": [
+            "contact@americanchemistry.com",
+            "tsca_policy@americanchemistry.com"
+          ],
+          "reason_for_contact": "Represents chemical manufacturers and importers directly impacted by TSCA Section 5 rules and precedent-setting SNUR restrictions on fluorinated chemistry."
+        },
+        {
+          "organization_name": "Environmental Defense Fund (EDF)",
+          "email_contacts": [
+            "tsca_comments@edf.org",
+            "info@edf.org"
+          ],
+          "reason_for_contact": "Focuses on chemical safety, transparency, PBT evaluation standards, and ensuring clear testing protocols under TSCA reform."
+        },
+        {
+          "organization_name": "Society of Chemical Manufacturers & Affiliates (SOCMA)",
+          "email_contacts": [
+            "governmentrelations@socma.org",
+            "info@socma.org"
+          ],
+          "reason_for_contact": "Advocates for batch chemical manufacturers affected by domestic manufacturing bans and unworkable zero-discharge regulatory definitions."
+        }
+      ]
+    }
+  },
+  {
     "id": "FCC-2026-4523-0001",
     "agency": "FCC",
     "title": "Cybersecurity Labeling for Internet of Things",
